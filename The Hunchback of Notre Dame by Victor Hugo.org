@@ -76,6 +76,7 @@
     -  [[Chapter 3 THE MARRIAGE OF PHOEBUS][Chapter 3 THE MARRIAGE OF PHOEBUS]]
     -  [[Chapter 4 THE MARRIAGE OF QUASIMODO][Chapter 4 THE MARRIAGE OF QUASIMODO]]
       -  [[NOTE ADDED TO THE DEFINITIVE EDITION][NOTE ADDED TO THE DEFINITIVE EDITION]]
+
 * Victor Hugo
   *Published:* 1831
   *Categorie(s):* Fiction, Historical, Romance
@@ -101,17 +102,9 @@
   Strictly for personal use, do not use this file for commercial purposes.
 
 *** PREFACE
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
-
     A few years ago, while visiting or, rather, rummaging about Notre-Dame,
     the author of this book found, in an obscure nook of one of the towers,
     the following word, engraved by hand upon the wall:---
-
-    #+BEGIN_QUOTE
-    /ANArKH/.
-    #+END_QUOTE
 
     These Greek capitals, black with age, and quite deeply graven in the
     stone, with I know not what signs peculiar to Gothic caligraphy
@@ -211,7 +204,7 @@
    incessantly, dashed against the angles of the houses which projected
    here and there, like so many promontories, into the irregular basin of
    the place. In the centre of the lofty
-   Gothic[[file:footnotes.xml#footnote_1][[1]]] façade of the palace, the
+   Gothic façade of the palace, the
    grand staircase, incessantly ascended and descended by a double current,
    which, after parting on the intermediate landing-place, flowed in broad
    waves along its lateral slopes,--- the grand staircase, I say, trickled
@@ -488,7 +481,7 @@
    four electors, the four booksellers.”
 
    “Well,” began Jean Frollo once more,” we must play the devil with
-   them."[[file:footnotes.xml#footnote_2][[2]]]
+   them."
 
    “Musnier, we'll burn your books.”
 
@@ -584,7 +577,7 @@
    with your back turned to the university, and trotting towards the town?”
 
    “He is on his way, no doubt, to seek a lodging in the Rue
-   Thibautodé?"[[file:footnotes.xml#footnote_3][[3]]] cried Jehan du M.
+   Thibautodé?" cried Jehan du M.
    Moulin.
 
    The entire band repeated this quip in a voice of thunder, clapping their
@@ -652,7 +645,7 @@
    “She is in the Rue de Glatigny.”
 
    “She is making the bed of the king of the debauchees.” She is paying her
-   four deniers[[file:footnotes.xml#footnote_4][[4]]] /quatuor denarios/.”
+   four deniers /quatuor denarios/.”
 
    “/Aut unum bombum/.”
 
@@ -1485,7 +1478,7 @@
    “No, cross of God?” he exclaimed, in his voice of thunder, “Jacques
    Coppenole, hosier. Do you hear, usher? Nothing more, nothing less. Cross
    of God! hosier; that's fine enough. Monsieur the Archduke has more than
-   once sought his /gant[[file:footnotes.xml#footnote_5][[5]]]/ in my
+   once sought his /gant/ in my
    hose.”
 
    Laughter and applause burst forth. A jest is always understood in Paris,
@@ -1961,7 +1954,7 @@
    of applause, mingled with a prodigious acclamation, cut their
    conversation short. The Pope of the Fools had been elected.
 
-   “Noel! Noel! Noel!"[[file:footnotes.xml#footnote_6][[6]]] shouted the
+   “Noel! Noel! Noel!" shouted the
    people on all sides. That was, in fact, a marvellous grimace which was
    beaming at that moment through the aperture in the rose window. After
    all the pentagonal, hexagonal, and whimsical faces, which had succeeded
@@ -2269,15 +2262,14 @@
    president of the parliament, in honor of the solemnity of the day.
    Gringoire bore this new disaster heroically; he picked himself up, and
    reached the water's edge. After leaving behind him the civic
-   Tournelle[[file:footnotes.xml#footnote_7][[7]]]and the criminal tower,
-   and skirted the great walls of the king's garden, on that unpaved strand
-   where the mud reached to his ankles, he reached the western point of the
-   city, and considered for some time the islet of the Passeur-aux-Vaches,
-   which has disappeared beneath the bronze horse of the Pont Neuf. The
-   islet appeared to him in the shadow like a black mass, beyond the narrow
-   strip of whitish water which separated him from it. One could divine by
-   the ray of a tiny light the sort of hut in the form of a beehive where
-   the ferryman of cows took refuge at night.
+   Tournelle and the criminal tower, and skirted the great walls of the
+   king's garden, on that unpaved strand  where the mud reached to his ankles,
+   he reached the western point of the city, and considered for some time
+   the islet of the Passeur-aux-Vaches, which has disappeared beneath the
+   bronze horse of the Pont Neuf. The islet appeared to him in the shadow
+   like a black mass, beyond the narrow strip of whitish water which separated
+   him from it. One could divine by    the ray of a tiny light the sort of hut
+   in the form of a beehive where the ferryman of cows took refuge at night.
 
    “Happy ferryman!” thought Gringoire; “you do not dream of glory, and you
    do not make marriage songs! What matters it to you, if kings and
@@ -2556,7 +2548,7 @@
    collecting in her tambourine the gifts of the multitude.
 
    Big blanks, little blanks,
-   targes[[file:footnotes.xml#footnote_8][[8]]] and eagle liards showered
+   targes and eagle liards showered
    into it.
 
    All at once, she passed in front of Gringoire. Gringoire put his hand so
@@ -2631,7 +2623,7 @@
    /Un cofre de gran riqueza
      Hallaron dentro un pilar,
    Dentro del, nuevas banderas
-    Con figuras de espantar/.[[file:footnotes.xml#footnote_9][[9]]]
+    Con figuras de espantar/.
    #+END_QUOTE
 
    And an instant afterwards, at the accents which she imparted to this
@@ -3155,7 +3147,7 @@
    At the moment when he passed close to this species of spider with a
    human countenance, it raised towards him a lamentable voice: “/La buona
    mancia, signor! la buona
-   mancia/!"[[file:footnotes.xml#footnote_10][[10]]]
+   mancia/!"
 
    “Deuce take you,” said Gringoire, “and me with you, if I know what you
    mean!”
@@ -3172,7 +3164,7 @@
    This living tripod saluted him as he passed, but stopping his hat on a
    level with Gringoire's chin, like a shaving dish, while he shouted in
    the latter's ears: “/Senor cabellero, para comprar un pedaso de
-   pan/!"[[file:footnotes.xml#footnote_11][[11]]]
+   pan/!"
 
    “It appears,” said Gringoire, “that this one can also talk; but 'tis a
    rude language, and he is more fortunate than I if he understands it.”
@@ -3556,14 +3548,14 @@
    “Of the knife, precisely,” responded Gringoire.
 
    “You recognize yourself as a member of the free
-   bourgeoisie?"[[file:footnotes.xml#footnote_12][[12]]] added the King of
+   bourgeoisie?"added the King of
    Thunes.
 
    “Of the free bourgeoisie.”
 
    “Subject of the Kingdom of Argot?”
 
-   “Of the Kingdom of Argot[[file:footnotes.xml#footnote_13][[13]]].”
+   “Of the Kingdom of Argot.”
 
    “A vagabond?”
 
@@ -3627,7 +3619,7 @@
    onion the more into the soup, and 'tis good for nothing except to go to
    Paradise with; now, Paradise and the thieves' band are two different
    things. In order to be received among the
-   thieves,[[file:footnotes.xml#footnote_14][[14]]] you must prove that you
+   thieves, you must prove that you
    are good for something, and for that purpose, you must search the
    manikin.”
 
@@ -3968,7 +3960,7 @@
    and raised herself again, with a little poniard in her hand, before
    Gringoire had even had time to see whence the poniard came; proud and
    angry, with swelling lips and inflated nostrils, her cheeks as red as an
-   api apple,[[file:footnotes.xml#footnote_15][[15]]] and her eyes darting
+   api apple, and her eyes darting
    lightnings. At the same time, the white goat placed itself in front of
    her, and presented to Gringoire a hostile front, bristling with two
    pretty horns, gilded and very sharp. All this took place in the
@@ -4167,7 +4159,7 @@
 
    #+BEGIN_QUOTE
     /Quando las pintadas aves,
-    Mudas están, y la tierra/--- [[file:footnotes.xml#footnote_16][[16]]]
+    Mudas están, y la tierra/--- 
    #+END_QUOTE
 
    She broke off abruptly, and began to caress Djali.
@@ -4224,7 +4216,7 @@
    Je passe l'eau sans nacelle,
    Je passe l'eau sans bateau,
    Ma mère est oiselle,
-   /Mon père est oiseau/.[[file:footnotes.xml#footnote_17][[17]]]/
+   /Mon père est oiseau/./
    #+END_QUOTE
 
    “Good,” said Gringoire. “At what age did you come to France?”
@@ -4356,7 +4348,7 @@
 
    On the face of this aged queen of our cathedrals, by the side of a
    wrinkle, one always finds a scar. /Tempus edax, homo
-   edacior[[file:footnotes.xml#footnote_18][[18]]]/; which I should be glad
+   edacior_/; which I should be glad
    to translate thus: time is blind, man is stupid.
 
    If we had leisure to examine with the reader, one by one, the diverse
@@ -4505,7 +4497,7 @@
    de Paris to the famous temple of Diana at Ephesus, /so much lauded by
    the ancient pagans/, which Erostatus /has/ immortalized, found the
    Gallic temple “more excellent in length, breadth, height, and
-   structure."[[file:footnotes.xml#footnote_19][[19]]]
+   structure."
 
    Notre-Dame is not, moreover, what can be called a complete, definite,
    classified monument. It is no longer a Romanesque church; nor is it a
@@ -4602,7 +4594,7 @@
    Europe, that younger sister of the great masonries of the Orient, it
    appears to the eyes as an immense formation divided into three
    well-defined zones, which are superposed, the one upon the other: the
-   Romanesque zone[[file:footnotes.xml#footnote_20][[20]]], the Gothic
+   Romanesque zone, the Gothic
    zone, the zone of the Renaissance, which we would gladly call the
    Greco-Roman zone. The Roman layer, which is the most ancient and
    deepest, is occupied by the round arch, which reappears, supported by
@@ -4623,7 +4615,7 @@
    chapter-house of Bocherville, where the Roman layer extends half way up.
    There is the cathedral of Rouen, which would be entirely Gothic if it
    did not bathe the tip of its central spire in the zone of the
-   Renaissance.[[file:footnotes.xml#footnote_21][[21]]]
+   Renaissance.
 
    #+BEGIN_QUOTE
    /Facies non omnibus una,
@@ -4743,7 +4735,7 @@
 
    #+BEGIN_QUOTE
      /Le mur murant Paris rend Paris
-   murmurant/.[[file:footnotes.xml#footnote_22][[22]]]
+   murmurant/.
    #+END_QUOTE
 
    In the fifteenth century, Paris was still divided into three wholly
@@ -5384,7 +5376,7 @@
    but can any one say what Paris has replaced it?
 
    There is the Paris of Catherine de Medicis at the
-   Tuileries;[[file:footnotes.xml#footnote_23][[23]]]--- the Paris of Henri
+   Tuileries;--- the Paris of Henri
    II., at the Hôtel de Ville, two edifices still in fine taste;--- the
    Paris of Henri IV., at the Place Royale: façades of brick with stone
    corners, and slated roofs, tri-colored houses;--- the Paris of Louis
@@ -5399,7 +5391,7 @@
    School of Medicine: a poor Greek and Roman taste, which resembles the
    Coliseum or the Parthenon as the constitution of the year III.,
    resembles the laws of Minos,--- it is called in architecture, “the
-   Messidor"[[file:footnotes.xml#footnote_24][[24]]]taste;--- the Paris of
+   Messidor" taste;--- the Paris of
    Napoleon in the Place Vendome: this one is sublime, a column of bronze
    made of cannons;--- the Paris of the Restoration, at the Bourse: a very
    white colonnade supporting a very smooth frieze; the whole is square and
@@ -6221,7 +6213,7 @@
    Montlhéry, and Châteaufort, and one hundred and seventy-four country
    curacies. He was an imposing and sombre personage, before whom the choir
    boys in alb and in jacket trembled, as well as the
-   machicots[[file:footnotes.xml#footnote_25][[25]]], and the brothers of
+   machicots, and the brothers of
    Saint-Augustine and the matutinal clerks of Notre-Dame, when he passed
    slowly beneath the lofty arches of the choir, majestic, thoughtful, with
    arms folded and his head so bent upon his breast that all one saw of his
@@ -6361,7 +6353,7 @@
    not even the bishop, entered without his leave, it was said. This tiny
    cell had formerly been made almost at the summit of the tower, among the
    ravens' nests, by Bishop Hugo de
-   Besançon[[file:footnotes.xml#footnote_26][[26]]] who had wrought sorcery
+   Besançon who had wrought sorcery
    there in his day. What that cell contained, no one knew; but from the
    strand of the Terrain, at night, there was often seen to appear,
    disappear, and reappear at brief and regular intervals, at a little
@@ -7473,7 +7465,7 @@
    and Saint Andry en la Marche, counsellor and chamberlain to the king,
    and guard of the provostship of Paris. It was already nearly seventeen
    years since he had received from the king, on November 7, 1465, the
-   comet year,[[file:footnotes.xml#footnote_27][[27]]] that fine charge of
+   comet year, that fine charge of
    the provostship of Paris, which was reputed rather a seigneury than an
    office. /Dignitas/, says Joannes Loemnoeus, /quoe cum non exigua
    potestate politiam concernente, atque proerogativis multis et juribus
@@ -7538,7 +7530,7 @@
    poor wretch to pass the night in “that little cell of the Rue de
    Escorcherie, which the provosts and aldermen of Paris used to make their
    prison; the same being eleven feet long, seven feet and four inches
-   wide, and eleven feet high?"[[file:footnotes.xml#footnote_28][[28]]]
+   wide, and eleven feet high?"
 
    And not only had Messire Robert d'Estouteville his special court as
    provost and vicomte of Paris; but in addition he had a share, both for
@@ -8147,9 +8139,9 @@
    twelve double quarts of hippocras, white, claret, and red; twenty-four
    boxes of double Lyons marchpane, gilded; as many torches, worth two
    livres a piece; and six
-   demi-queues[[file:footnotes.xml#footnote_29][[29]]] of Beaune wine,
+   demi-queues of Beaune wine,
    white and claret, the best that could be found. I have it from my
-   husband, who is a cinquantenier[[file:footnotes.xml#footnote_30][[30]]],
+   husband, who is a cinquantenier,
    at the Parloir-aux Bourgeois, and who was this morning comparing the
    Flemish ambassadors with those of Prester John and the Emperor of
    Trebizond, who came from Mesopotamia to Paris, under the last king, and
@@ -8263,8 +8255,7 @@
    coronation, with a song? One winter (it was in that same year of '61),
    when the two women had neither fagots nor firewood, it was very cold,
    which gave la Chantefleurie such a fine color that the men called her
-   Paquette![[file:footnotes.xml#footnote_31][[31]]] and many called her
-   Pàquerette![[file:footnotes.xml#footnote_32][[32]]]and she was
+   Paquette! and many called her Pàquerette! and she was
    ruined.--- Eustache, just let me see you bite that cake if you dare!---
    We immediately perceived that she was ruined, one Sunday when she came
    to church with a gold cross about her neck. At fourteen years of age! do
@@ -9114,7 +9105,7 @@
 
    #+BEGIN_QUOTE
    “/Une hart Pour lé pendard! Un fagot Pour lé
-   magot/!"[[file:footnotes.xml#footnote_33][[33]]]
+   magot/!"
    #+END_QUOTE
 
    A thousand other insults rained down upon him, and hoots and
@@ -10225,8 +10216,7 @@
    marriage very patiently. It meant a shelter and bread at least. Every
    morning, he set out from the lair of the thieves, generally with the
    gypsy; he helped her make her collections of
-   targes[[file:footnotes.xml#footnote_34][[34]]] and little
-   blanks[[file:footnotes.xml#footnote_35][[35]]] in the squares; each
+   targes and little blanks in the squares; each
    evening he returned to the same roof with her, allowed her to bolt
    herself into her little chamber, and slept the sleep of the just. A very
    sweet existence, taking it all in all, he said, and well adapted to
@@ -10449,8 +10439,7 @@
    incessantly turning, tickled his olfactory apparatus, and he bestowed a
    loving glance toward the Cyclopean roast, which one day drew from the
    Franciscan friar, Calatagirone, this pathetic exclamation: /Veramente,
-   queste rotisserie sono cosa
-   stupenda/![[file:footnotes.xml#footnote_36][[36]]] But Jehan had not the
+   queste rotisserie sono cosa stupenda/! But Jehan had not the
    wherewithal to buy a breakfast, and he plunged, with a profound sigh,
    under the gateway of the Petit-Châtelet, that enormous double trefoil of
    massive towers which guarded the entrance to the City.
@@ -10861,7 +10850,7 @@
    “What are names of your two friends?”
 
    “Pierre l'Assommeur and Baptiste
-   Croque-Oison[[file:footnotes.xml#footnote_37][[37]]].”
+   Croque-Oison.”
 
    “Hum,” said the archdeacon; “those are names as fit for a good work as a
    catapult for the chief altar.”
@@ -11365,7 +11354,7 @@
    post, with the air of a Roman saving his country.
 
    “True God!” muttered Phoebus, “targes, big-blanks, little blanks,
-   mailles,[[file:footnotes.xml#footnote_38][[38]]] every two worth one of
+   mailles, every two worth one of
    Tournay, farthings of Paris, real eagle liards! 'Tis dazzling!”
 
    Jehan remained dignified and immovable. Several liards had rolled into
@@ -11390,7 +11379,7 @@
    “Where shall we go?” said Phoebus; “‘To Eve's Apple.'”
 
    “No, captain, to ‘Ancient Science.' An old woman sawing a basket
-   handle[[file:footnotes.xml#footnote_39][[39]]]; 'tis a rebus, and I like
+   handle; 'tis a rebus, and I like
    that.”.
 
    “A plague on rebuses, Jehan! the wine is better at 'Eve's Apple'; and
@@ -11399,9 +11388,9 @@
 
    “Well! here goes for Eve and her apple,” said the student, and taking
    Phoebus's arm. “By the way, my dear captain, you just mentioned the Rue
-   Coupe-Gueule[[file:footnotes.xml#footnote_40][[40]]] That is a very bad
+   Coupe-Gueule That is a very bad
    form of speech; people are no longer so barbarous. They say,
-   Coupe-Gorge[[file:footnotes.xml#footnote_41][[41]]].”
+   Coupe-Gorge.”
 
    The two friends set out towards “Eve's Apple.” It is unnecessary to
    mention that they had first gathered up the money, and that the
@@ -11469,7 +11458,7 @@
 
    /Les enfants des Petits-Carreaux
    Se font pendre cornme des
-   veaux[[file:footnotes.xml#footnote_42][[42]]]/.
+   veaux/.
 
 ** Chapter 7 THE MYSTERIOUS MONK
 
@@ -11576,7 +11565,7 @@
    “/Quand les rats mangeront les cas, Le roi sera seigneur d'Arras;
    Quand la mer, qui est grande et lé(e Sera a la Saint-Jean gèle(e, On
    verrà, par-dessus la glace, Sortir ceux d'Arras de leur
-   place[[file:footnotes.xml#footnote_43][[43]]]/.”
+   place/.”
    #+END_QUOTE
 
    “Well, scholar of Antichrist, may you be strangled with the entrails of
@@ -11998,7 +11987,7 @@
    archers parade before your windows. They are all mounted, and set at
    defiance those of Captain Mignon. There are/voulgiers,
    cranequiniers/ and
-   hand /couleveiniers[[file:footnotes.xml#footnote_44][[44]]]/. I will
+   hand /couleveiniers/. I will
    take you to the great sights of the Parisians at the storehouse of
    Rully. Eighty thousand armed men, thirty thousand white harnesses, short
    coats or coats of mail; the sixty-seven banners of the trades; the
@@ -12876,7 +12865,7 @@
    Nostroe-Dominoe, ecclesioe cathedralis; tertio, sententiani in virtute
    cujus ista styrga cum sua capella, seu in trivio vulgariter dicto/ la
    Grève, /seu in insula exeunte in fluvio Secanoe, juxta pointam juardini
-   regalis, executatoe sint/!"[[file:footnotes.xml#footnote_45][[45]]]
+   regalis, executatoe sint/!"
 
    He put on his cap again and seated himself.
 
@@ -14123,7 +14112,7 @@
 
    “/Qui verbum meum audit, et credit ei qui misit me, habet vitam oeternam
    et in judicium non venit; sed transit a morte im
-   vitam[[file:footnotes.xml#footnote_46][[46]]]/.”
+   vitam/.”
 
    This chant, which a few old men buried in the gloom sang from afar over
    that beautiful creature, full of youth and life, caressed by the warm
@@ -14162,7 +14151,7 @@
    “/De ventre inferi clamavi, et exaudisti vocem meam/.
 
    “/Et projecisti me in profundum in corde mans, et flumem circumdedit
-   me[[file:footnotes.xml#footnote_47][[47]]]/.”
+   me/.”
 
    At the moment when he made his appearance in the full daylight beneath
    the lofty arched portal, enveloped in an ample cope of silver barred
@@ -14210,7 +14199,7 @@
    “Well, die then!” he hissed between his teeth. “No one shall have you.”
    Then, raising his hand over the gypsy, he exclaimed in a funereal
    voice:--- “/I nunc, anima anceps, et sit tibi Deus
-   misenicors/!"[[file:footnotes.xml#footnote_48][[48]]]
+   misenicors/!"
 
    This was the dread formula with which it was the custom to conclude
    these gloomy ceremonies. It was the signal agreed upon between the
@@ -14218,7 +14207,7 @@
 
    The crowd knelt.
 
-   “/Kyrie eleison/,"[[file:footnotes.xml#footnote_49][[49]]] said the
+   “/Kyrie eleison/," said the
    priests, who had remained beneath the arch of the portal.
 
    “/Kyrie eleison/,” repeated the throng in that murmur which runs over
@@ -14234,7 +14223,7 @@
    this verse of despair,---
 
    “/Omnes gurgites tui et fluctus tui super me
-   transierunt."[[file:footnotes.xml#footnote_50][[50]]]/
+   transierunt."/
 
    At the same time, the intermittent clash of the iron butts of the
    beadles' halberds, gradually dying away among the columns of the nave,
@@ -14648,7 +14637,7 @@
    #+BEGIN_QUOTE
    “/Grève, grouille, Grève, aboie! Pour voir la fille de joie, Prendre
    au gibet chassieux, Les fenêtres sont des yeux. Grève, grouille,
-   Grève, aboie!"[[file:footnotes.xml#footnote_51][[51]]]/
+   Grève, aboie!"/
    #+END_QUOTE
 
    Thereupon the young man laughed and caressed the wench. The crone was la
@@ -15518,7 +15507,7 @@
    /Le corbeau ne vole que lé jour,
    Le hibou ne vole que la nuit,
    Le cygne vole la nuit et lé
-   jour/.[[file:footnotes.xml#footnote_52][[52]]]
+   jour/.
 
    One morning, on awaking, she saw on her window two vases filled with
    flowers. One was a very beautiful and very brilliant but cracked vase of
@@ -16393,7 +16382,7 @@
    The cellar then, was the dram-shop. The descent to it was through a low
    door and by a staircase as steep as a classic Alexandrine. Over the
    door, by way of a sign there hung a marvellous daub, representing new
-   sons and dead chickens,[[file:footnotes.xml#footnote_53][[53]]] with
+   sons and dead chickens, with
    this, pun below: /Aux sonneurs pour les trépassés/,--- The wringers for
    the dead.
 
@@ -16442,7 +16431,7 @@
    of arms, which stood wide open in front of him and from whence poured
    out in profusion, axes, swords, bassinets, coats of mail, broadswords,
    lance-heads, arrows, and
-   viretons,[[file:footnotes.xml#footnote_54][[54]]] like apples and grapes
+   viretons, like apples and grapes
    from a horn of plenty. Every one took something from the cask, one a
    morion, another a long, straight sword, another a dagger with a cross---
    shaped hilt. The very children were arming themselves, and there were
@@ -16463,7 +16452,7 @@
 
    Add twenty secondary groups, the waiters, male and female, running with
    jugs on their heads, gamblers squatting over taws,
-   merelles,[[file:footnotes.xml#footnote_55][[55]]] dice, vachettes, the
+   merelles, dice, vachettes, the
    ardent game of tringlet, quarrels in one corner, kisses in another, and
    the reader will have some idea of this whole picture, over which
    flickered the light of a great, flaming fire, which made a thousand huge
@@ -16485,7 +16474,7 @@
    A wench was humming,---
 
    “/Bonsoir mon père et ma mere,
-   Les derniers couvrent lé feu/."[[file:footnotes.xml#footnote_56][[56]]]
+   Les derniers couvrent lé feu/."
 
    Two card players were disputing,---
 
@@ -16601,7 +16590,7 @@
    eggshells. I swear to you, comrades.
 
    “/Que je ne beuvrai de piment,
-   Devant un an, si je cy ment/.[[file:footnotes.xml#footnote_57][[57]]]
+   Devant un an, si je cy ment/.
 
    “'Tis moonlight, my charmer; see yonder through the window how the wind
    is tearing the clouds to tatters! Even thus will I do to your gorget.---
@@ -16613,7 +16602,7 @@
 
    #+BEGIN_QUOTE
    “/Et je n'ai moi, Par la sang-Dieu! Ni foi, ni loi, Ni feu, ni lieu,
-   Ni roi, Ni Dieu."[[file:footnotes.xml#footnote_58][[58]]]/
+   Ni roi, Ni Dieu."
    #+END_QUOTE
 
    In the meantime, Clopin Trouillefou had finished the distribution of
@@ -16679,7 +16668,7 @@
    tones. They could be heard buzzing, and a gleam of all sorts of weapons
    was visible in the darkness. Clopin mounted a large stone.
 
-   “To your ranks, Argot!"[[file:footnotes.xml#footnote_59][[59]]] he
+   “To your ranks, Argot!" he
    cried. “Fall into line, Egypt! Form ranks, Galilee!”
 
    A movement began in the darkness. The immense multitude appeared to form
@@ -16845,7 +16834,7 @@
    the iron chains were stretched only in a state of siege; the prohibition
    to wear daggers wrought no other changes than from the name of the Rue
    Coupe-Gueule to the name of the
-   Rue-Coupe-Gorge[[file:footnotes.xml#footnote_60][[60]]] which is an
+   Rue-Coupe-Gorge which is an
    evident progress. The old scaffolding of feudal jurisdictions remained
    standing; an immense aggregation of bailiwicks and seignories crossing
    each other all over the city, interfering with each other, entangled in
@@ -17182,7 +17171,7 @@
    aspect. The restless light of the flame made them move to the eye. There
    were griffins which had the air of laughing, gargoyles which one fancied
    one heard yelping, salamanders which puffed at the fire,
-   tarasques[[file:footnotes.xml#footnote_61][[61]]] which sneezed in the
+   tarasques which sneezed in the
    smoke. And among the monsters thus roused from their sleep of stone by
    this flame, by this noise, there was one who walked about, and who was
    seen, from time to time, to pass across the glowing face of the pile,
@@ -17412,7 +17401,7 @@
    called the blind man.”
 
    The shot sped. The feathered
-   vireton[[file:footnotes.xml#footnote_62][[62]]] whizzed and entered the
+   vireton whizzed and entered the
    hunchback's left arm. Quasimodo appeared no more moved by it than by a
    scratch to King Pharamond. He laid his hand on the arrow, tore it from
    his arm, and tranquilly broke it across his big knee; then he let the
@@ -17438,7 +17427,7 @@
 
    “/Elle est bien habillée,
    La ville de Cambrai;
-   Marafin l'a pillée/... "[[file:footnotes.xml#footnote_63][[63]]]
+   Marafin l'a pillée/... "
 
    He did not finish. Quasimodo was seen on the parapet of the gallery,
    holding the scholar by the feet with one hand and whirling him over the
@@ -17499,7 +17488,7 @@
    archers.
 
    He had come, that day, to sleep at the Bastille. The great chamber five
-   toises[[file:footnotes.xml#footnote_64][[64]]] square, which he had at
+   toises, which he had at
    the Louvre, with its huge chimney-piece loaded with twelve great beasts
    and thirteen great prophets, and his grand bed, eleven feet by twelve,
    pleased him but little. He felt himself lost amid all this grandeur.
@@ -17941,7 +17930,7 @@
    #+BEGIN_QUOTE
    “/Maître Jean Balue, A perdu la vue De ses évêchés. Monsieur de
    Verdun. N'en a plus pas un; Tous sont
-   dépêchés/."[[file:footnotes.xml#footnote_65][[65]]]
+   dépêchés/."
    #+END_QUOTE
 
    The king reascended in silence to his retreat, and his suite followed
@@ -18094,7 +18083,7 @@
    “Yes, sire. They are knaves from the Cour-des-Miracles. They have been
    complaining this long while, of the bailiff, whose vassals they are.
    They do not wish to recognize him either as judge or as
-   voyer?"[[file:footnotes.xml#footnote_66][[66]]]
+   voyer?"
 
    “Yes, certainly!” retorted the king with a smile of satîs-faction which
    he strove in vain to disguise.
@@ -18526,7 +18515,7 @@
    wages (you wanted them of Paris). In November, '73, by letters given to
    Gergeole, we instituted you keeper of the Wood of Vincennes, in the
    place of Gilbert Acle, equerry; in '75,
-   gruyer[[file:footnotes.xml#footnote_67][[67]]] of the forest of
+   gruyer of the forest of
    Rouvray-lez-Saint-Cloud, in the place of Jacques lé Maire; in '78, we
    graciously settled on you, by letters patent sealed doubly with green
    wax, an income of ten livres parisis, for you and your wife, on the
@@ -19670,7 +19659,7 @@
    inscribed this charm,---
 
    /Quand lé parell retrouveras
-   Ta mere te tendras les bras/.[[file:footnotes.xml#footnote_68][[68]]]
+   Ta mere te tendras les bras/.
 
    Quicker than a flash of lightning, the recluse had laid the two shoes
    together, had read the parchment and had put close to the bars of the

@@ -1,10 +1,17 @@
 * Novels.org 
   *Read Novels in plain text.*
 
+  [[novels.org.gif]]
 * Read with
   [[https://www.gnu.org/software/emacs/][GNU Emacs]]
 
-  [[http://www.orgzly.com/][Orgzly]]
+  [[http://www.orgzly.com/][Orgzly (Android)]]
+* Recommended Emacs Packages
+  [[https://github.com/kunalb/poet][Poet (Theme)]]
+  
+  [[https://github.com/rlister/org-present][org-present-mode]]
+
+  [[https://github.com/hlissner/emacs-hide-mode-line][emacs-hide-mode-line]]
 * Brought to you with
   *Source*: [[https://www.gutenberg.org/][Project Gutenberg]]
 
