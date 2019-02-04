@@ -1,3 +1,4 @@
+#+LANGUAGE: en
 #+AUTHOR: Lewis Carroll
 #+TITLE: Alice's Adventures in Wonderland
 
