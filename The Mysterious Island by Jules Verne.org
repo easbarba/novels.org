@@ -28,47 +28,47 @@
       -  [[Chapter 21][Chapter 21]]
       -  [[Chapter 22][Chapter 22]]
     -  [[Part 2 - Abandoned][Part 2 - Abandoned]]
-        -  [[Chapter 1][Chapter 1]]
-        -  [[Chapter 2][Chapter 2]]
-        -  [[Chapter 3][Chapter 3]]
-        -  [[Chapter 4][Chapter 4]]
-        -  [[Chapter 5][Chapter 5]]
-        -  [[Chapter 6][Chapter 6]]
-        -  [[Chapter 7][Chapter 7]]
-        -  [[Chapter 8][Chapter 8]]
-        -  [[Chapter 9][Chapter 9]]
-        -  [[Chapter 10][Chapter 10]]
-        -  [[Chapter 11][Chapter 11]]
-        -  [[Chapter 12][Chapter 12]]
-        -  [[Chapter 13][Chapter 13]]
-        -  [[Chapter 14][Chapter 14]]
-        -  [[Chapter 15][Chapter 15]]
-        -  [[Chapter 16][Chapter 16]]
-        -  [[Chapter 17][Chapter 17]]
-        -  [[Chapter 18][Chapter 18]]
-        -  [[Chapter 19][Chapter 19]]
-        -  [[Chapter 20][Chapter 20]]
+      -  [[Chapter 1][Chapter 1]]
+      -  [[Chapter 2][Chapter 2]]
+      -  [[Chapter 3][Chapter 3]]
+      -  [[Chapter 4][Chapter 4]]
+      -  [[Chapter 5][Chapter 5]]
+      -  [[Chapter 6][Chapter 6]]
+      -  [[Chapter 7][Chapter 7]]
+      -  [[Chapter 8][Chapter 8]]
+      -  [[Chapter 9][Chapter 9]]
+      -  [[Chapter 10][Chapter 10]]
+      -  [[Chapter 11][Chapter 11]]
+      -  [[Chapter 12][Chapter 12]]
+      -  [[Chapter 13][Chapter 13]]
+      -  [[Chapter 14][Chapter 14]]
+      -  [[Chapter 15][Chapter 15]]
+      -  [[Chapter 16][Chapter 16]]
+      -  [[Chapter 17][Chapter 17]]
+      -  [[Chapter 18][Chapter 18]]
+      -  [[Chapter 19][Chapter 19]]
+      -  [[Chapter 20][Chapter 20]]
     -  [[Part 3 - The Secret of the Island][Part 3 - The Secret of the Island]]
-        -  [[Chapter 1][Chapter 1]]
-        -  [[Chapter 2][Chapter 2]]
-        -  [[Chapter 3][Chapter 3]]
-        -  [[Chapter 4][Chapter 4]]
-        -  [[Chapter 5][Chapter 5]]
-        -  [[Chapter 6][Chapter 6]]
-        -  [[Chapter 7][Chapter 7]]
-        -  [[Chapter 8][Chapter 8]]
-        -  [[Chapter 9][Chapter 9]]
-        -  [[Chapter 10][Chapter 10]]
-        -  [[Chapter 11][Chapter 11]]
-        -  [[Chapter 12][Chapter 12]]
-        -  [[Chapter 13][Chapter 13]]
-        -  [[Chapter 14][Chapter 14]]
-        -  [[Chapter 15][Chapter 15]]
-        -  [[Chapter 16][Chapter 16]]
-        -  [[Chapter 17][Chapter 17]]
-        -  [[Chapter 18][Chapter 18]]
-        -  [[Chapter 19][Chapter 19]]
-        -  [[Chapter 20][Chapter 20]]
+      -  [[Chapter 1][Chapter 1]]
+      -  [[Chapter 2][Chapter 2]]
+      -  [[Chapter 3][Chapter 3]]
+      -  [[Chapter 4][Chapter 4]]
+      -  [[Chapter 5][Chapter 5]]
+      -  [[Chapter 6][Chapter 6]]
+      -  [[Chapter 7][Chapter 7]]
+      -  [[Chapter 8][Chapter 8]]
+      -  [[Chapter 9][Chapter 9]]
+      -  [[Chapter 10][Chapter 10]]
+      -  [[Chapter 11][Chapter 11]]
+      -  [[Chapter 12][Chapter 12]]
+      -  [[Chapter 13][Chapter 13]]
+      -  [[Chapter 14][Chapter 14]]
+      -  [[Chapter 15][Chapter 15]]
+      -  [[Chapter 16][Chapter 16]]
+      -  [[Chapter 17][Chapter 17]]
+      -  [[Chapter 18][Chapter 18]]
+      -  [[Chapter 19][Chapter 19]]
+      -  [[Chapter 20][Chapter 20]]
 
 * The Mysterious Island
 ** Jules Verne
@@ -90,7 +90,6 @@
 ** Part 1 - Dropped from the clouds
 *** Chapter 1
 
-     
 
     "Are we rising again?" "No. On the contrary." "Are we descending?" "Worse than that, captain! we are falling!" "For
     Heaven's sake heave out the ballast!" "There! the last sack is empty!" "Does the balloon rise?" "No!" "I hear a noise
@@ -258,7 +257,6 @@
 
 *** Chapter 2
 
-     
 
     Those whom the hurricane had just thrown on this coast were neither aeronauts by profession nor amateurs. They were
     prisoners of war whose boldness had induced them to escape in this extraordinary manner.
@@ -498,7 +496,6 @@
 
 *** Chapter 3
 
-     
 
     The engineer, the meshes of the net having given way, had been carried off by a wave. His dog also had disappeared. The
     faithful animal had voluntarily leaped out to help his master. "Forward," cried the reporter; and all four, Spilett,
@@ -678,7 +675,6 @@
 
 *** Chapter 4
 
-     
 
     All at once the reporter sprang up, and telling the sailor that he would rejoin them at that same place, he climbed the
     cliff in the direction which the Negro Neb had taken a few hours before. Anxiety hastened his steps, for he longed to
@@ -909,7 +905,6 @@
 
 *** Chapter 5
 
-     
 
     Pencroft's first care, after unloading the raft, was to render the cave habitable by stopping up all the holes which
     made it draughty. Sand, stones, twisted branches, wet clay, closed up the galleries open to the south winds. One narrow
@@ -1133,7 +1128,6 @@
 
 *** Chapter 6
 
-     
 
     The inventory of the articles possessed by these castaways from the clouds, thrown upon a coast which appeared to be
     uninhabited, was soon made out. They had nothing, save the clothes which they were wearing at the time of the
@@ -1340,7 +1334,6 @@
 
 *** Chapter 7
 
-     
 
     Gideon Spilett was standing motionless on the shore, his arms crossed, gazing over the sea, the horizon of which was
     lost towards the east in a thick black cloud which was spreading rapidly towards the zenith. The wind was already
@@ -1605,7 +1598,6 @@
 
 *** Chapter 8
 
-     
 
     Neb did not move. Pencroft only uttered one word.
 
@@ -1887,7 +1879,6 @@
 
 *** Chapter 9
 
-     
 
     In a few words, Gideon Spilett, Herbert, and Neb were made acquainted with what had happened. This accident, which
     appeared so very serious to Pencroft, produced different effects on the companions of the honest sailor.
@@ -2231,7 +2222,6 @@
 
 *** Chapter 10
 
-     
 
     In a few minutes the three hunters were before a crackling fire. The captain and the reporter were there. Pencroft
     looked from one to the other, his capybara in his hand, without saying a word.
@@ -2478,7 +2468,6 @@
 
 *** Chapter 11
 
-     
 
     Half an hour later Cyrus Harding and Herbert had returned to the encampment. The engineer merely told his companions
     that the land upon which fate had thrown them was an island, and that the next day they would consult. Then each settled
@@ -2785,7 +2774,6 @@
 
 *** Chapter 12
 
-     
 
     They now began the descent of the mountain. Climbing down the crater, they went round the cone and reached their
     encampment of the previous night. Pencroft thought it must be breakfast-time, and the watches of the reporter and
@@ -3049,7 +3037,6 @@
 
 *** Chapter 13
 
-     
 
     "Well, captain, where are we going to begin?" asked Pencroft next morning of the engineer.
 
@@ -3330,7 +3317,6 @@
 
 *** Chapter 14
 
-     
 
     The next day, the 16th of April, and Easter Sunday, the settlers issued from the Chimneys at daybreak, and proceeded to
     wash their linen. The engineer intended to manufacture soap as soon as he could procure the necessary materials---soda
@@ -3589,7 +3575,6 @@
 
 *** Chapter 15
 
-     
 
     The next day, the 17th of April, the sailor's first words were addressed to Gideon Spilett.
 
@@ -3795,7 +3780,6 @@
 
 *** Chapter 16
 
-     
 
     It was the 6th of May, a day which corresponds to the 6th of November in the countries of the Northern Hemisphere. The
     sky had been obscured for some days, and it was of importance to make preparations for the winter. However, the
@@ -4021,7 +4005,6 @@
 
 *** Chapter 17
 
-     
 
     The next day, the 7th of May, Harding and Gideon Spilett, leaving Neb to prepare breakfast, climbed Prospect Heights,
     while Herbert and Pencroft ascended by the river, to renew their store of wood.
@@ -4289,7 +4272,6 @@
 
 *** Chapter 18
 
-     
 
     Cyrus Harding's project had succeeded, but, according to his usual habit he showed no satisfaction; with closed lips and
     a fixed look, he remained motionless. Herbert was in ecstasies, Neb bounded with joy, Pencroft nodded his great head,
@@ -4552,7 +4534,6 @@
 
 *** Chapter 19
 
-     
 
     The next day, the 22nd of May, the arrangement of their new dwelling was commenced. In fact, the settlers longed to
     exchange the insufficient shelter of the Chimneys for this large and healthy retreat, in the midst of solid rock, and
@@ -4761,7 +4742,6 @@
 
 *** Chapter 20
 
-     
 
     The winter season set in with the month of June, which corresponds with the month of December in the Northern
     Hemisphere. It began with showers and squalls, which succeeded each other without intermission. The tenants of Granite
@@ -4988,7 +4968,6 @@
 
 *** Chapter 21
 
-     
 
     From this time Pencroft did not let a single day pass without going to visit what he gravely called his "corn-field."
     And woe to the insects which dared to venture there! No mercy was shown them.
@@ -5218,7 +5197,6 @@
 
 *** Chapter 22
 
-     
 
     This intense cold lasted till the 15th of August, without, however, passing the degree of Fahrenheit already mentioned.
     When the atmosphere was calm, the low temperature was easily borne, but when the wind blew, the poor settlers,
@@ -5542,7 +5520,6 @@
 ** Part 2 - Abandoned
 **** Chapter 1
 
-      
 
      It was now exactly seven months since the balloon voyagers had been thrown on Lincoln Island. During that time,
      notwithstanding the researches they had made, no human being had been discovered. No smoke even had betrayed the
@@ -5836,7 +5813,6 @@
 
 **** Chapter 2
 
-      
 
      On the 9th of October the bark canoe was entirely finished. Pencroft had kept his promise, and a light boat, the shell
      of which was joined together by the flexible twigs of the crejimba, had been constructed in five days. A seat in the
@@ -6118,7 +6094,6 @@
 
 **** Chapter 3
 
-      
 
      The next day, the 30th of October, all was ready for the proposed exploring expedition, which recent events had rendered
      so necessary. In fact, things had so come about that the settlers in Lincoln Island no longer needed help for
@@ -6384,7 +6359,6 @@
 
 **** Chapter 4
 
-      
 
      It was six o' clock in the morning when the settlers, after a hasty breakfast, set out to reach by the shortest way, the
      western coast of the island. And how long would it take to do this? Cyrus Harding had said two hours, but of course that
@@ -6639,7 +6613,6 @@
 
 **** Chapter 5
 
-      
 
      Cyrus Harding and his companions slept like innocent marmots in the cave which the jaguar had so politely left at their
      disposal.
@@ -6976,7 +6949,6 @@
 
 **** Chapter 6
 
-      
 
      Cyrus Harding stood still, without saying a word. His companions searched in the darkness on the wall, in case the wind
      should have moved the ladder, and on the ground, thinking that it might have fallen down... . But the ladder had quite
@@ -7275,7 +7247,6 @@
 
 **** Chapter 7
 
-      
 
      The settlers in Lincoln Island had now regained their dwelling, without having been obliged to reach it by the old
      opening, and were therefore spared the trouble of mason's work. It was certainly lucky, that at the moment they were
@@ -7521,7 +7492,6 @@
 
 **** Chapter 8
 
-      
 
      The first week of January was devoted to the manufacture of the linen garments required by the colony. The needles found
      in the box were used by sturdy if not delicate fingers, and we may be sure that what was sewn was sewn firmly.
@@ -7743,7 +7713,6 @@
 
 **** Chapter 9
 
-      
 
      The weather changed during the first week of March. There had been a full moon at the commencement of the month, and the
      heat was excessive. The atmosphere was felt to be full of electricity, and a period of some length of tempestuous
@@ -7999,7 +7968,6 @@
 
 **** Chapter 10
 
-      
 
      When Pencroft had once got a plan in his head, he had no peace till it was executed. Now he wished to visit Tabor
      Island, and as a boat of a certain size was necessary for this voyage, he determined to build one.
@@ -8257,7 +8225,6 @@
 
 **** Chapter 11
 
-      
 
      Winter arrived with the month of June, which is the December of the northern zones, and the great business was the
      making of warm and solid clothing.
@@ -8566,7 +8533,6 @@
 
 **** Chapter 12
 
-      
 
      In the evening the hunters returned, having enjoyed good sport, and being literally loaded with game; indeed, they had
      as much as four men could possibly carry. Top wore a necklace of teal and Jup wreaths of snipe round his body.
@@ -8946,7 +8912,6 @@
 
 **** Chapter 13
 
-      
 
      "A castaway!" exclaimed Pencroft; "left on this Tabor Island not two hundred miles from us! Ah, Captain Harding, you
      won't now oppose my going."
@@ -9237,7 +9202,6 @@
 
 **** Chapter 14
 
-      
 
      Pencroft, Herbert, and Gideon Spilett remained silent in the midst of the darkness.
 
@@ -9554,7 +9518,6 @@
 
 **** Chapter 15
 
-      
 
      The next day, the 20th of October, at seven o'clock in the morning, after a voyage of four days, the "Bonadventure"
      gently glided up to the beach at the mouth of the Mercy.
@@ -9826,7 +9789,6 @@
 
 **** Chapter 16
 
-      
 
      Yes! the unfortunate man had wept! Some recollection doubtless had flashed across his brain, and to use Cyrus Harding's
      expression, by those tears he was once more a man.
@@ -10187,7 +10149,6 @@
 
 **** Chapter 17
 
-      
 
      These last words justified the colonists' presentiment. There had been some mournful past, perhaps expiated in the sight
      of men, but from which his conscience had not yet absolved him. At any rate the guilty man felt remorse, he repented,
@@ -10514,7 +10475,6 @@
 
 **** Chapter 18
 
-      
 
      "Poor man!" said Herbert, who had rushed to the door, but returned, having seen Ayrton slide down the rope on the lift
      and disappear in the darkness.
@@ -10798,7 +10758,6 @@
 
 **** Chapter 19
 
-      
 
      Two years already! and for two years the colonists had had no communication with their fellow-creatures! They were
      without news from the civilized world, lost on this island, as completely as if they had been on the most minute star of
@@ -11079,7 +11038,6 @@
 
 **** Chapter 20
 
-      
 
      Things happened as Pencroft had predicted, he being seldom mistaken in his prognostications. The wind rose, and from a
      fresh breeze it soon increased to a regular gale; that is to say, it acquired a speed of from forty to forty-five miles
@@ -11390,7 +11348,6 @@
 ** Part 3 - The Secret of the Island
 **** Chapter 1
 
-      
 
      It was now two years and a half since the castaways from the balloon had been thrown on Lincoln Island, and during that
      period there had been no communication between them and their fellow-creatures. Once the reporter had attempted to
@@ -11702,7 +11659,6 @@
 
 **** Chapter 2
 
-      
 
      There was no longer any doubt as to the pirates' intentions. They had dropped anchor at a short distance from the
      island, and it was evident that the next day by means of their boats they purposed to land on the beach!
@@ -11988,7 +11944,6 @@
 
 **** Chapter 3
 
-      
 
      The night passed without incident. The colonists were on the qui vive, and did not leave their post at the Chimneys. The
      pirates, on their side, did not appear to have made any attempt to land. Since the last shots fired at Ayrton not a
@@ -12320,7 +12275,6 @@
 
 **** Chapter 4
 
-      
 
      "She has blown up!" cried Herbert.
 
@@ -12637,7 +12591,6 @@
 
 **** Chapter 5
 
-      
 
      So, then, all was explained by the submarine explosion of this torpedo. Cyrus Harding could not be mistaken, as, during
      the war of the Union, he had had occasion to try these terrible engines of destruction. It was under the action of this
@@ -12881,7 +12834,6 @@
 
 **** Chapter 6
 
-      
 
      However, the chief business of the colonists was to make that complete exploration of the island which had been decided
      upon, and which would have two objects: to discover the mysterious being whose existence was now indisputable, and at
@@ -13171,7 +13123,6 @@
 
 **** Chapter 7
 
-      
 
      At Herbert's cry, Pencroft, letting his gun fall, rushed towards him.
 
@@ -13449,7 +13400,6 @@
 
 **** Chapter 8
 
-      
 
      So the convicts were still there, watching the corral, and determined to kill the settlers one after the other. There
      was nothing to be done but to treat them as wild beasts. But great precautions must be taken, for just now the wretches
@@ -13560,7 +13510,6 @@
 
 **** Chapter 9
 
-      
 
      The convalescence of the young invalid was regularly progressing. One thing only was now to be desired, that his state
      would allow him to be brought to Granite House. However well built and supplied the corral house was, it could not be so
@@ -13851,7 +13800,6 @@
 
 **** Chapter 10
 
-      
 
      Of the convicts, the dangers which menaced Granite House, the ruins with which the plateau was covered, the colonists
      thought no longer. Herbert's critical state outweighed all other considerations. Would the removal prove fatal to him by
@@ -14064,7 +14012,6 @@
 
 **** Chapter 11
 
-      
 
      Gideon Spilett took the box and opened it. It contained nearly two hundred grains of a white powder, a few particles of
      which he carried to his lips. The extreme bitterness of the substance precluded all doubt; it was certainly the precious
@@ -14299,7 +14246,6 @@
 
 **** Chapter 12
 
-      
 
      The next day, the 18th of February, was devoted to the exploration of all that wooded region forming the shore from
      Reptile End to Falls River. The colonists were able to search this forest thoroughly, for, as it was comprised between
@@ -14590,7 +14536,6 @@
 
 **** Chapter 13
 
-      
 
      How had it happened? who had killed the convicts? Was it Ayrton? No, for a moment before he was dreading their return.
 
@@ -14901,7 +14846,6 @@
 
 **** Chapter 14
 
-      
 
      Three years had passed away since the escape of the prisoners from Richmond, and how often during those three years had
      they spoken of their country, always present in their thoughts!
@@ -15147,7 +15091,6 @@
 
 **** Chapter 15
 
-      
 
      The colonists, warned by the engineer, left their work and gazed in silence at the summit of Mount Franklin.
 
@@ -15549,7 +15492,6 @@
 
 **** Chapter 16
 
-      
 
      At these words the reclining figure rose, and the electric light fell upon his countenance; a magnificent head, the
      forehead high, the glance commanding, beard white, hair abundant and falling over the shoulders.
@@ -15830,7 +15772,6 @@
 
 **** Chapter 17
 
-      
 
      Day had returned. No ray of light penetrated into the profundity of the cavern. It being high-water, the entrance was
      closed by the sea. But the artificial light, which escaped in long streams from the skylights of the "Nautilus" was as
@@ -16092,7 +16033,6 @@
 
 **** Chapter 18
 
-      
 
      At break of day the colonists regained in silence the entrance of the cavern, to which they gave the name of "Dakkar
      Grotto," in memory of Captain Nemo. It was now low-water, and they passed without difficulty under the arcade, washed on
@@ -16477,7 +16417,6 @@
 
 **** Chapter 19
 
-      
 
      The next day, the 8th day of January, after a day and night passed at the corral, where they left all in order, Cyrus
      Harding and Ayrton arrived at Granite House.
@@ -16806,7 +16745,6 @@
 
 **** Chapter 20
 
-      
 
      An isolated rock, thirty feet in length, twenty in breadth, scarcely ten from the water's edge, such was the only solid
      point which the waves of the Pacific had not engulfed.

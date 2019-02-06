@@ -4039,9 +4039,6 @@
 
 
 *** The Epilogue
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     So ends the story of the strange and evil experiments of the Invisible Man. And if you would learn more of him you must
     go to a little inn near Port Stowe and talk to the landlord. The sign of the inn is an empty board save for a hat and

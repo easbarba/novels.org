@@ -395,7 +395,6 @@
 
 *** Chapter 2
 
-     
 
     The emperor of Lilliput, attended by several of the nobility, comes to see the author in his confinement. The emperor's
     person and habit described. Learned men appointed to teach the author their language. He gains favour by his mild
@@ -591,7 +590,6 @@
 
 *** Chapter 3
 
-     
 
     The author diverts the emperor, and his nobility of both sexes, in a very uncommon manner. The diversions of the court
     of Lilliput described. The author has his liberty granted him upon certain conditions.
@@ -758,7 +756,6 @@
 
 *** Chapter 4
 
-     
 
     Mildendo, the metropolis of Lilliput, described, together with the emperor's palace. A conversation between the author
     and a principal secretary, concerning the affairs of that empire. The author's offers to serve the emperor in his wars.
@@ -860,7 +857,6 @@
 
 *** Chapter 5
 
-     
 
     The author, by an extraordinary stratagem, prevents an invasion. A high title of honour is conferred upon him.
     Ambassadors arrive from the emperor of Blefuscu, and sue for peace. The empress's apartment on fire by an accident; the
@@ -995,7 +991,6 @@
 
 *** Chapter 6
 
-     
 
     Of the inhabitants of Lilliput; their learning, laws, and customs; the manner of educating their children. The author's
     way of living in that country. His vindication of a great lady.
@@ -1211,7 +1206,6 @@
 
 *** Chapter 7
 
-     
 
     The author, being informed of a design to accuse him of high-treason, makes his escape to Blefuscu. His reception there.
 
@@ -1399,7 +1393,6 @@
 
 *** Chapter 8
 
-     
 
     The author, by a lucky accident, finds means to leave Blefuscu; and, after some difficulties, returns safe to his native
     country.
@@ -1534,7 +1527,6 @@
 ** Part 2 - A Voyage to Brobdingnag
 *** Chapter 1
 
-     
 
     [A great storm described; the long boat sent to fetch water; the author goes with it to discover the country. He is left
     on shore, is seized by one of the natives, and carried to a farmer's house. His reception, with several accidents that
@@ -1784,7 +1776,6 @@
 
 *** Chapter 2
 
-     
 
     [A description of the farmer's daughter. The author carried to a market-town, and then to the metropolis. The
     particulars of his journey.]
@@ -1901,7 +1892,6 @@
 
 *** Chapter 3
 
-     
 
     [The author sent for to court. The queen buys him of his master the farmer, and presents him to the king. He disputes
     with his majesty's great scholars. An apartment at court provided for the author. He is in high favour with the queen.
@@ -2107,7 +2097,6 @@
 
 *** Chapter 4
 
-     
 
     [The country described. A proposal for correcting modern maps. The king's palace; and some account of the metropolis.
     The author's way of travelling. The chief temple described.]
@@ -2210,7 +2199,6 @@
 
 *** Chapter 5
 
-     
 
     [Several adventurers that happened to the author. The execution of a criminal. The author shows his skill in
     navigation.]
@@ -2409,7 +2397,6 @@
 
 *** Chapter 6
 
-     
 
     [Several contrivances of the author to please the king and queen. He shows his skill in music. The king inquires into
     the state of England, which the author relates to him. The king's observations thereon.]
@@ -2593,7 +2580,6 @@
 
 *** Chapter 7
 
-     
 
     [The author's love of his country. He makes a proposal of much advantage to the king, which is rejected. The king's
     great ignorance in politics. The learning of that country very imperfect and confined. The laws, and military affairs,
@@ -2733,7 +2719,6 @@
 
 *** Chapter 8
 
-     
 
     [The king and queen make a progress to the frontiers. The author attends them. The manner in which he leaves the country
     very particularly related. He returns to England.]
@@ -2971,7 +2956,6 @@
 ** Part 3 - A Voyage to Laputa, Balnibarbi, Luggnagg, Glubbdubdrib, and Japan
 *** Chapter 1
 
-     
 
     [The author sets out on his third voyage. Is taken by pirates. The malice of a Dutchman. His arrival at an island. He is
     received into Laputa.]
@@ -3091,7 +3075,6 @@
 
 *** Chapter 2
 
-     
 
     [The humours and dispositions of the Laputians described. An account of their learning. Of the king and his court. The
     author's reception there. The inhabitants subject to fear and disquietudes. An account of the women.]
@@ -3267,7 +3250,6 @@
 
 *** Chapter 3
 
-     
 
     [A phenomenon solved by modern philosophy and astronomy. The Laputians' great improvements in the latter. The king's
     method of suppressing insurrections.]
@@ -3386,7 +3368,6 @@
 
 *** Chapter 4
 
-     
 
     [The author leaves Laputa; is conveyed to Balnibarbi; arrives at the metropolis. A description of the metropolis, and
     the country adjoining. The author hospitably received by a great lord. His conversation with that lord.]
@@ -3517,7 +3498,6 @@
 
 *** Chapter 5
 
-     
 
     [The author permitted to see the grand academy of Lagado. The academy largely described. The arts wherein the professors
     employ themselves.]
@@ -3688,7 +3668,6 @@
 
 *** Chapter 6
 
-     
 
     [A further account of the academy. The author proposes some improvements, which are honourably received.]
 
@@ -3814,7 +3793,6 @@
 
 *** Chapter 7
 
-     
 
     [The author leaves Lagado: arrives at Maldonada. No ship ready. He takes a short voyage to Glubbdubdrib. His reception
     by the governor.]
@@ -3903,7 +3881,6 @@
 
 *** Chapter 8
 
-     
 
     [A further account of Glubbdubdrib. Ancient and modern history corrected.]
 
@@ -4026,7 +4003,6 @@
 
 *** Chapter 9
 
-     
 
     [The author returns to Maldonada. Sails to the kingdom of Luggnagg. The author confined. He is sent for to court. The
     manner of his admittance. The king's great lenity to his subjects.]
@@ -4106,7 +4082,6 @@
 
 *** Chapter 10
 
-     
 
     [The Luggnaggians commended. A particular description of the Struldbrugs, with many conversations between the author and
     some eminent persons upon that subject.]
@@ -4290,7 +4265,6 @@
 
 *** Chapter 11
 
-     
 
     [The author leaves Luggnagg, and sails to Japan. From thence he returns in a Dutch ship to Amsterdam, and from Amsterdam
     to England.]
@@ -4369,7 +4343,6 @@
 ** Part 4 - A Voyage to the Country of the Houyhnhnms
 *** Chapter 1
 
-     
 
     [The author sets out as captain of a ship. His men conspire against him, confine him a long time to his cabin, and set
     him on shore in an unknown land. He travels up into the country. The Yahoos, a strange sort of animal, described. The
@@ -4509,7 +4482,6 @@
 
 *** Chapter 2
 
-     
 
     [The author conducted by a Houyhnhnm to his house. The house described. The author's reception. The food of the
     Houyhnhnms. The author in distress for want of meat. Is at last relieved. His manner of feeding in this country.]
@@ -4632,7 +4604,6 @@
 
 *** Chapter 3
 
-     
 
     [The author studies to learn the language. The Houyhnhnm, his master, assists in teaching him. The language described.
     Several Houyhnhnms of quality come out of curiosity to see the author. He gives his master a short account of his
@@ -4755,7 +4726,6 @@
 
 *** Chapter 4
 
-     
 
     [The Houyhnhnm's notion of truth and falsehood. The author's discourse disapproved by his master. The author gives a
     more particular account of himself, and the accidents of his voyage.]
@@ -4864,7 +4834,6 @@
 
 *** Chapter 5
 
-     
 
     [The author at his master's command, informs him of the state of England. The causes of war among the princes of Europe.
     The author begins to explain the English constitution.]
@@ -5007,7 +4976,6 @@
 
 *** Chapter 6
 
-     
 
     [A continuation of the state of England under Queen Anne. The character of a first minister of state in European
     courts.]
@@ -5162,7 +5130,6 @@
 
 *** Chapter 7
 
-     
 
     [The author's great love of his native country. His master's observations upon the constitution and administration of
     England, as described by the author, with parallel cases and comparisons. His master's observations upon human nature.]
@@ -5326,7 +5293,6 @@
 
 *** Chapter 8
 
-     
 
     [The author relates several particulars of the YAHOOS. The great virtues of the HOUYHNHNMS. The education and exercise
     of their youth. Their general assembly.]
@@ -5460,7 +5426,6 @@
 
 *** Chapter 9
 
-     
 
     [A grand debate at the general assembly of the HOUYHNHNMS, and how it was determined. The learning of the HOUYHNHNMS.
     Their buildings. Their manner of burials. The defectiveness of their language.]
@@ -5576,7 +5541,6 @@
 
 *** Chapter 10
 
-     
 
     [The author's economy, and happy life, among the Houyhnhnms. His great improvement in virtue by conversing with them.
     Their conversations. The author has notice given him by his master, that he must depart from the country. He falls into
@@ -5734,7 +5698,6 @@
 
 *** Chapter 11
 
-     
 
     [The author's dangerous voyage. He arrives at New Holland, hoping to settle there. Is wounded with an arrow by one of
     the natives. Is seized and carried by force into a Portuguese ship. The great civilities of the captain. The author
@@ -5902,7 +5865,6 @@
 
 *** Chapter 12
 
-     
 
     [The author's veracity. His design in publishing this work. His censure of those travellers who swerve from the truth.
     The author clears himself from any sinister ends in writing. An objection answered. The method of planting colonies. His

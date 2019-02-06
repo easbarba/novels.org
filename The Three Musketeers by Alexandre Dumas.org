@@ -90,9 +90,6 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 *** Preface
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     In which it is proved that, notwithstanding their names' ending in OS and IS, the heroes of the story which we are about
     to have the honor to relate to our readers have nothing mythological about them.
@@ -415,7 +412,7 @@
    "What the devil!" said the host to himself. "Can he be afraid of this boy?" But an imperious glance from the stranger
    stopped him short; he bowed humbly and retired.
 
-   "It is not necessary for Milady[[file:footnotes.xml#footnote_1][[1]]] to be seen by this fellow," continued the
+   "It is not necessary for Milady to be seen by this fellow," continued the
    stranger. "She will soon pass; she is already late. I had better get on horseback, and go and meet her. I should like,
    however, to know what this letter addressed to Treville contains."
 
@@ -917,7 +914,7 @@
 
    "The Guards of the cardinal! And why so?" asked Porthos, warmly.
 
-   "Because he plainly perceives that his piquette[[file:footnotes.xml#footnote_2][[2]]] stands in need of being enlivened
+   "Because he plainly perceives that his piquette stands in need of being enlivened
    by a mixture of good wine."
 
    The two Musketeers reddened to the whites of their eyes. d'Artagnan did not know where he was, and wished himself a
@@ -3096,7 +3093,7 @@
    and conducting him to the queen, were it only to enrage the cardinal, and if we could find means to play him a sharp
    turn, I vow that I would voluntarily risk my head in doing it."
 
-   "And did the mercer[[file:footnotes.xml#footnote_3][[3]]]," rejoined Athos, "tell you, d'Artagnan, that the queen
+   "And did the mercer," rejoined Athos, "tell you, d'Artagnan, that the queen
    thought that Buckingham had been brought over by a forged letter?"
 
    "She is afraid so."
@@ -8048,7 +8045,7 @@
    of Paris to traverse, he met with no misadventure. Everyone knows that drunkards and lovers have a protecting deity.
 
    He found the door of his passage open, sprang up the stairs and knocked softly in a manner agreed upon between him and
-   his lackey. Planchet[[file:footnotes.xml#footnote_4][[4]]], whom he had sent home two hours before from the Hotel de
+   his lackey. Planchet, whom he had sent home two hours before from the Hotel de
    Ville, telling him to sit up for him, opened the door for him.
 
    "Has anyone brought a letter for me?" asked d'Artagnan, eagerly.
@@ -8889,7 +8886,7 @@
    "Indeed!"
 
    "He came, he said, on the part of his Eminence, who wished you well, and to beg you to follow him to the
-   Palais-Royal."[[file:footnotes.xml#footnote_5][[5]]]
+   Palais-Royal."
 
    "What did you answer him?"
 

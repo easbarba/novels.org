@@ -86,7 +86,6 @@
 ** Part 1
 *** Chapter 1
 
-     
 
     It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
 
@@ -179,7 +178,6 @@
 
 *** Chapter 2
 
-     
 
     Mr. Bennet was among the earliest of those who waited on Mr. Bingley. He had always intended to visit him, though to the
     last always assuring his wife that he should not go; and till the evening after the visit was paid she had no knowledge
@@ -258,7 +256,6 @@
 
 *** Chapter 3
 
-     
 
     Not all that Mrs. Bennet, however, with the assistance of her five daughters, could ask on the subject, was sufficient
     to draw from her husband any satisfactory description of Mr. Bingley. They attacked him in various ways---with barefaced
@@ -372,7 +369,6 @@
 
 *** Chapter 4
 
-     
 
     When Jane and Elizabeth were alone, the former, who had been cautious in her praise of Mr. Bingley before, expressed to
     her sister just how very much she admired him.
@@ -449,7 +445,6 @@
 
 *** Chapter 5
 
-     
 
     Within a short walk of Longbourn lived a family with whom the Bennets were particularly intimate. Sir William Lucas had
     been formerly in trade in Meryton, where he had made a tolerable fortune, and risen to the honour of knighthood by an
@@ -532,7 +527,6 @@
 
 *** Chapter 6
 
-     
 
     The ladies of Longbourn soon waited on those of Netherfield. The visit was soon returned in due form. Miss Bennet's
     pleasing manners grew on the goodwill of Mrs. Hurst and Miss Bingley; and though the mother was found to be intolerable,
@@ -727,7 +721,6 @@
 
 *** Chapter 7
 
-     
 
     Mr. Bennet's property consisted almost entirely in an estate of two thousand a year, which, unfortunately for his
     daughters, was entailed, in default of heirs male, on a distant relation; and their mother's fortune, though ample for
@@ -896,7 +889,6 @@
 
 *** Chapter 8
 
-     
 
     At five o'clock the two ladies retired to dress, and at half-past six Elizabeth was summoned to dinner. To the civil
     inquiries which then poured in, and amongst which she had the pleasure of distinguishing the much superior solicitude of
@@ -1077,7 +1069,6 @@
 
 *** Chapter 9
 
-     
 
     Elizabeth passed the chief of the night in her sister's room, and in the morning had the pleasure of being able to send
     a tolerable answer to the inquiries which she very early received from Mr. Bingley by a housemaid, and some time
@@ -1219,7 +1210,6 @@
 
 *** Chapter 10
 
-     
 
     The day passed much as the day before had done. Mrs. Hurst and Miss Bingley had spent some hours of the morning with the
     invalid, who continued, though slowly, to mend; and in the evening Elizabeth joined their party in the drawing-room. The
@@ -1426,7 +1416,6 @@
 
 *** Chapter 11
 
-     
 
     When the ladies removed after dinner, Elizabeth ran up to her sister, and seeing her well guarded from cold, attended
     her into the drawing-room, where she was welcomed by her two friends with many professions of pleasure; and Elizabeth
@@ -1555,7 +1544,6 @@
 
 *** Chapter 12
 
-     
 
     In consequence of an agreement between the sisters, Elizabeth wrote the next morning to their mother, to beg that the
     carriage might be sent for them in the course of the day. But Mrs. Bennet, who had calculated on her daughters remaining
@@ -1603,7 +1591,6 @@
 
 *** Chapter 13
 
-     
 
     "I hope, my dear," said Mr. Bennet to his wife, as they were at breakfast the next morning, "that you have ordered a
     good dinner to-day, because I have reason to expect an addition to our family party."
@@ -1730,7 +1717,6 @@
 
 *** Chapter 14
 
-     
 
     During dinner, Mr. Bennet scarcely spoke at all; but when the servants were withdrawn, he thought it time to have some
     conversation with his guest, and therefore started a subject in which he expected him to shine, by observing that he
@@ -1814,7 +1800,6 @@
 
 *** Chapter 15
 
-     
 
     Mr. Collins was not a sensible man, and the deficiency of nature had been but little assisted by education or society;
     the greatest part of his life having been spent under the guidance of an illiterate and miserly father; and though he
@@ -1921,7 +1906,6 @@
 
 *** Chapter 16
 
-     
 
     As no objection was made to the young people's engagement with their aunt, and all Mr. Collins's scruples of leaving Mr.
     and Mrs. Bennet for a single evening during his visit were most steadily resisted, the coach conveyed him and his five
@@ -2173,7 +2157,6 @@
 
 *** Chapter 17
 
-     
 
     Elizabeth related to Jane the next day what had passed between Mr. Wickham and herself. Jane listened with astonishment
     and concern; she knew not how to believe that Mr. Darcy could be so unworthy of Mr. Bingley's regard; and yet, it was
@@ -2259,7 +2242,6 @@
 
 *** Chapter 18
 
-     
 
     Till Elizabeth entered the drawing-room at Netherfield, and looked in vain for Mr. Wickham among the cluster of red
     coats there assembled, a doubt of his being present had never occurred to her. The certainty of meeting him had not been
@@ -2620,7 +2602,6 @@
 
 *** Chapter 19
 
-     
 
     The next day opened a new scene at Longbourn. Mr. Collins made his declaration in form. Having resolved to do it without
     loss of time, as his leave of absence extended only to the following Saturday, and having no feelings of diffidence to
@@ -2744,7 +2725,6 @@
 
 *** Chapter 20
 
-     
 
     Mr. Collins was not left long to the silent contemplation of his successful love; for Mrs. Bennet, having dawdled about
     in the vestibule to watch for the end of the conference, no sooner saw Elizabeth open the door and with quick step pass
@@ -2867,7 +2847,6 @@
 
 *** Chapter 21
 
-     
 
     The discussion of Mr. Collins's offer was now nearly at an end, and Elizabeth had only to suffer from the uncomfortable
     feelings necessarily attending it, and occasionally from some peevish allusions of her mother. As for the gentleman
@@ -3009,7 +2988,6 @@
 
 *** Chapter 22
 
-     
 
     The Bennets were engaged to dine with the Lucases and again during the chief of the day was Miss Lucas so kind as to
     listen to Mr. Collins. Elizabeth took an opportunity of thanking her. "It keeps him in good humour," said she, "and I am
@@ -3123,7 +3101,6 @@
 
 *** Chapter 23
 
-     
 
     Elizabeth was sitting with her mother and sisters, reflecting on what she had heard, and doubting whether she was
     authorised to mention it, when Sir William Lucas himself appeared, sent by his daughter, to announce her engagement to
@@ -3381,7 +3358,6 @@
 
 *** Chapter 2
 
-     
 
     After a week spent in professions of love and schemes of felicity, Mr. Collins was called from his amiable Charlotte by
     the arrival of Saturday. The pain of separation, however, might be alleviated on his side, by preparations for the
@@ -3487,7 +3463,6 @@
 
 *** Chapter 3
 
-     
 
     Mrs. Gardiner's caution to Elizabeth was punctually and kindly given on the first favourable opportunity of speaking to
     her alone; after honestly telling her what she thought, she thus went on:
@@ -3643,7 +3618,6 @@
 
 *** Chapter 4
 
-     
 
     With no greater events than these in the Longbourn family, and otherwise diversified by little beyond the walks to
     Meryton, sometimes dirty and sometimes cold, did January and February pass away. March was to take Elizabeth to
@@ -3740,7 +3714,6 @@
 
 *** Chapter 5
 
-     
 
     Every object in the next day's journey was new and interesting to Elizabeth; and her spirits were in a state of
     enjoyment; for she had seen her sister looking so well as to banish all fear for her health, and the prospect of her
@@ -3844,7 +3817,6 @@
 
 *** Chapter 6
 
-     
 
     Mr. Collins's triumph, in consequence of this invitation, was complete. The power of displaying the grandeur of his
     patroness to his wondering visitors, and of letting them see her civility towards himself and his wife, was exactly what
@@ -4027,7 +3999,6 @@
 
 *** Chapter 7
 
-     
 
     Sir William stayed only a week at Hunsford, but his visit was long enough to convince him of his daughter's being most
     comfortably settled, and of her possessing such a husband and such a neighbour as were not often met with. While Sir
@@ -4107,7 +4078,6 @@
 
 *** Chapter 8
 
-     
 
     Colonel Fitzwilliam's manners were very much admired at the Parsonage, and the ladies all felt that he must add
     considerably to the pleasures of their engagements at Rosings. It was some days, however, before they received any
@@ -4228,7 +4198,6 @@
 
 *** Chapter 9
 
-     
 
     Elizabeth was sitting by herself the next morning, and writing to Jane while Mrs. Collins and Maria were gone on
     business into the village, when she was startled by a ring at the door, the certain signal of a visitor. As she had
@@ -4350,7 +4319,6 @@
 
 *** Chapter 10
 
-     
 
     More than once did Elizabeth, in her ramble within the park, unexpectedly meet Mr. Darcy. She felt all the perverseness
     of the mischance that should bring him where no one else was brought, and, to prevent its ever happening again, took
@@ -4503,7 +4471,6 @@
 
 *** Chapter 11
 
-     
 
     When they were gone, Elizabeth, as if intending to exasperate herself as much as possible against Mr. Darcy, chose for
     her employment the examination of all the letters which Jane had written to her since her being in Kent. They contained
@@ -4655,7 +4622,6 @@
 
 *** Chapter 12
 
-     
 
     Elizabeth awoke the next morning to the same thoughts and meditations which had at length closed her eyes. She could not
     yet recover from the surprise of what had happened; it was impossible to think of anything else; and, totally indisposed
@@ -4823,7 +4789,6 @@
 
 *** Chapter 13
 
-     
 
     If Elizabeth, when Mr. Darcy gave her the letter, did not expect it to contain a renewal of his offers, she had formed
     no expectation at all of its contents. But such as they were, it may well be supposed how eagerly she went through them,
@@ -4947,7 +4912,6 @@
 
 *** Chapter 14
 
-     
 
     The two gentlemen left Rosings the next morning, and Mr. Collins having been in waiting near the lodges, to make them
     his parting obeisance, was able to bring home the pleasing intelligence, of their appearing in very good health, and in
@@ -5046,7 +5010,6 @@
 
 *** Chapter 15
 
-     
 
     On Saturday morning Elizabeth and Mr. Collins met for breakfast a few minutes before the others appeared; and he took
     the opportunity of paying the parting civilities which he deemed indispensably necessary.
@@ -5124,7 +5087,6 @@
 
 *** Chapter 16
 
-     
 
     It was the second week in May, in which the three young ladies set out together from Gracechurch Street for the town of
     ------, in Hertfordshire; and, as they drew near the appointed inn where Mr. Bennet's carriage was to meet them, they
@@ -5242,7 +5204,6 @@
 
 *** Chapter 17
 
-     
 
     Elizabeth's impatience to acquaint Jane with what had happened could no longer be overcome; and at length, resolving to
     suppress every particular in which her sister was concerned, and preparing her to be surprised, she related to her the
@@ -5376,7 +5337,6 @@
 
 *** Chapter 18
 
-     
 
     The first week of their return was soon gone. The second began. It was the last of the regiment's stay in Meryton, and
     all the young ladies in the neighbourhood were drooping apace. The dejection was almost universal. The elder Miss
@@ -5550,7 +5510,6 @@
 
 *** Chapter 19
 
-     
 
     Had Elizabeth's opinion been all drawn from her own family, she could not have formed a very pleasing opinion of
     conjugal felicity or domestic comfort. Her father, captivated by youth and beauty, and that appearance of good humour
@@ -5670,7 +5629,6 @@
 ** Part 3
 *** Chapter 1
 
-     
 
     Elizabeth, as they drove along, watched for the first appearance of Pemberley Woods with some perturbation; and when at
     length they turned in at the lodge, her spirits were in a high flutter.
@@ -6021,7 +5979,6 @@
 
 *** Chapter 2
 
-     
 
     Elizabeth had settled it that Mr. Darcy would bring his sister to visit her the very day after her reaching Pemberley;
     and was consequently resolved not to be out of sight of the inn the whole of that morning. But her conclusion was false;
@@ -6162,7 +6119,6 @@
 
 *** Chapter 3
 
-     
 
     Convinced as Elizabeth now was that Miss Bingley's dislike of her had originated in jealousy, she could not help feeling
     how unwelcome her appearance at Pemberley must be to her, and was curious to know with how much civility on that lady's
@@ -6281,7 +6237,6 @@
 
 *** Chapter 4
 
-     
 
     Elizabeth had been a good deal disappointed in not finding a letter from Jane on their first arrival at Lambton; and
     this disappointment had been renewed on each of the mornings that had now been spent there; but on the third her
@@ -6469,7 +6424,6 @@
 
 *** Chapter 5
 
-     
 
     "I have been thinking it over again, Elizabeth," said her uncle, as they drove from the town; "and really, upon serious
     consideration, I am much more inclined than I was to judge as your eldest sister does on the matter. It appears to me so
@@ -6558,7 +6512,6 @@
     moderate period of extravagant and wild admiration, her fancy for him gave way, and others of the regiment, who treated
     her with more distinction, again became her favourites."
 
-     
 
     It may be easily believed, that however little of novelty could be added to their fears, hopes, and conjectures, on this
     interesting subject, by its repeated discussion, no other could detain them from it long, during the whole of the
@@ -6772,7 +6725,6 @@
 
 *** Chapter 6
 
-     
 
     The whole party were in hopes of a letter from Mr. Bennet the next morning, but the post came in without bringing a
     single line from him. His family knew him to be, on all common occasions, a most negligent and dilatory correspondent;
@@ -6933,7 +6885,6 @@
 
 *** Chapter 7
 
-     
 
     Two days after Mr. Bennet's return, as Jane and Elizabeth were walking together in the shrubbery behind the house, they
     saw the housekeeper coming towards them, and, concluding that she came to call them to their mother, went forward to
@@ -7127,7 +7078,6 @@
 
 *** Chapter 8
 
-     
 
     Mr. Bennet had very often wished before this period of his life that, instead of spending his whole income, he had laid
     by an annual sum for the better provision of his children, and of his wife, if she survived him. He now wished it more
@@ -7226,7 +7176,6 @@
     happiness could belong to a couple who were only brought together because their passions were stronger than their
     virtue, she could easily conjecture.
 
-     
 
     Mr. Gardiner soon wrote again to his brother. To Mr. Bennet's acknowledgments he briefly replied, with assurance of his
     eagerness to promote the welfare of any of his family; and concluded with entreaties that the subject might never be
@@ -7271,7 +7220,6 @@
 
 *** Chapter 9
 
-     
 
     Their sister's wedding day arrived; and Jane and Elizabeth felt for her probably more than she felt for herself. The
     carriage was sent to meet them at ------, and they were to return in it by dinner-time. Their arrival was dreaded by the
@@ -7418,7 +7366,6 @@
 
 *** Chapter 10
 
-     
 
     Elizabeth had the satisfaction of receiving an answer to her letter as soon as she possibly could. She was no sooner in
     possession of it than, hurrying into the little copse, where she was least likely to be interrupted, she sat down on one
@@ -7648,7 +7595,6 @@
 
 *** Chapter 11
 
-     
 
     Mr. Wickham was so perfectly satisfied with this conversation that he never again distressed himself, or provoked his
     dear sister Elizabeth, by introducing the subject of it; and she was pleased to find that she had said enough to keep
@@ -7878,7 +7824,6 @@
 
 *** Chapter 12
 
-     
 
     As soon as they were gone, Elizabeth walked out to recover her spirits; or in other words, to dwell without interruption
     on those subjects that must deaden them more. Mr. Darcy's behaviour astonished and vexed her.
@@ -7903,7 +7848,6 @@
 
     "I think you are in very great danger of making him as much in love with you as ever."
 
-     
 
     They did not see the gentlemen again till Tuesday; and Mrs. Bennet, in the meanwhile, was giving way to all the happy
     schemes, which the good humour and common politeness of Bingley, in half an hour's visit, had revived.
@@ -8011,7 +7955,6 @@
 
 *** Chapter 13
 
-     
 
     A few days after this visit, Mr. Bingley called again, and alone. His friend had left him that morning for London, but
     was to return home in ten days time. He sat with them above an hour, and was in remarkably good spirits. Mrs. Bennet
@@ -8202,7 +8145,6 @@
 
 *** Chapter 14
 
-     
 
     One morning, about a week after Bingley's engagement with Jane had been formed, as he and the females of the family were
     sitting together in the dining-room, their attention was suddenly drawn to the window, by the sound of a carriage; and
@@ -8447,7 +8389,6 @@
 
 *** Chapter 15
 
-     
 
     The discomposure of spirits which this extraordinary visit threw Elizabeth into, could not be easily overcome; nor could
     she, for many hours, learn to think of it less than incessantly. Lady Catherine, it appeared, had actually taken the
@@ -8479,7 +8420,6 @@
     know how to understand it. I shall then give over every expectation, every wish of his constancy. If he is satisfied
     with only regretting me, when he might have obtained my affections and hand, I shall soon cease to regret him at all."
 
-     
 
     The surprise of the rest of the family, on hearing who their visitor had been, was very great; but they obligingly
     satisfied it, with the same kind of supposition which had appeased Mrs. Bennet's curiosity; and Elizabeth was spared
@@ -8570,7 +8510,6 @@
 
 *** Chapter 16
 
-     
 
     Instead of receiving any such letter of excuse from his friend, as Elizabeth half expected Mr. Bingley to do, he was
     able to bring Darcy with him to Longbourn before many days had passed after Lady Catherine's visit. The gentlemen
@@ -8757,7 +8696,6 @@
 
 *** Chapter 17
 
-     
 
     "My dear Lizzy, where can you have been walking to?" was a question which Elizabeth received from Jane as soon as she
     entered their room, and from all the others when they sat down to table. She had only to say in reply, that they had
@@ -8821,7 +8759,6 @@
     own feelings had made her equally avoid the name of his friend. But now she would no longer conceal from her his share
     in Lydia's marriage. All was acknowledged, and half the night spent in conversation.
 
-     
 
     "Good gracious!" cried Mrs. Bennet, as she stood at a window the next morning, "if that disagreeable Mr. Darcy is not
     coming here again with our dear Bingley! What can he mean by being so tiresome as to be always coming here? I had no
@@ -8853,7 +8790,6 @@
     adapted to do credit to her sense; and she could no more bear that Mr. Darcy should hear the first raptures of her joy,
     than the first vehemence of her disapprobation.
 
-     
 
     In the evening, soon after Mr. Bennet withdrew to the library, she saw Mr. Darcy rise also and follow him, and her
     agitation on seeing it was extreme. She did not fear her father's opposition, but he was going to be made unhappy; and
@@ -8948,7 +8884,6 @@
 
 *** Chapter 18
 
-     
 
     Elizabeth's spirits soon rising to playfulness again, she wanted Mr. Darcy to account for his having ever fallen in love
     with her. "How could you begin?" said she. "I can comprehend your going on charmingly, when you had once made a
@@ -9070,7 +9005,6 @@
 
 *** Chapter 19
 
-     
 
     Happy for all her maternal feelings was the day on which Mrs. Bennet got rid of her two most deserving daughters. With
     what delighted pride she afterwards visited Mrs. Bingley, and talked of Mrs. Darcy, may be guessed. I wish I could say,

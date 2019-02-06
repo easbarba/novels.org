@@ -118,7 +118,7 @@
     Mail line, running on opposite tacks in that part of the Atlantic lying between the United States and Europe,
     respectively signaled each other that the monster had been sighted in latitude 42 degrees 15' north and longitude 60
     degrees 35' west of the meridian of Greenwich. From their simultaneous observations, they were able to estimate the
-    mammal's minimum length at more than 350 English feet;[[file:footnotes.xml#footnote_1][[1]]] this was because both the
+    mammal's minimum length at more than 350 English feet; this was because both the
     Shannon and the Helvetia were of smaller dimensions, although each measured 100 meters stem to stern. Now then, the
     biggest whales, those rorqual whales that frequent the waterways of the Aleutian Islands, have never exceeded a length
     of 56 meters---if they reach even that.
@@ -149,7 +149,7 @@
     For six months the war seesawed. With inexhaustible zest, the popular press took potshots at feature articles from the
     Geographic Institute of Brazil, the Royal Academy of Science in Berlin, the British Association, the Smithsonian
     Institution in Washington, D.C., at discussions in The Indian Archipelago, in Cosmos published by Father Moigno, in
-    Petermann's Mittheilungen,[[file:footnotes.xml#footnote_2][[2]]] and at scientific chronicles in the great French and
+    Petermann's Mittheilungen, and at scientific chronicles in the great French and
     foreign newspapers. When the monster's detractors cited a saying by the botanist Linnaeus that "nature doesn't make
     leaps," witty writers in the popular periodicals parodied it, maintaining in essence that "nature doesn't make
     lunatics," and ordering their contemporaries never to give the lie to nature by believing in krakens, sea serpents,
@@ -387,7 +387,7 @@
     to fire and stoke his furnaces! Half a day's delay would have been unforgivable! But Commander Farragut wanted nothing
     more than to go forth.
 
-    I received a letter three hours before the Abraham Lincoln left its Brooklyn pier;[[file:footnotes.xml#footnote_3][[3]]]
+    I received a letter three hours before the Abraham Lincoln left its Brooklyn pier;
     the letter read as follows:
 
     Pierre Aronnax
@@ -563,7 +563,7 @@
     At this order, which was relayed to the engine by means of a compressed-air device, the mechanics activated the start-up
     wheel. Steam rushed whistling into the gaping valves. Long horizontal pistons groaned and pushed the tie rods of the
     drive shaft. The blades of the propeller churned the waves with increasing speed, and the Abraham Lincoln moved out
-    majestically amid a spectator-laden escort of some 100 ferries and tenders[[file:footnotes.xml#footnote_4][[4]]].
+    majestically amid a spectator-laden escort of some 100 ferries and tenders.
 
     The wharves of Brooklyn, and every part of New York bordering the East River, were crowded with curiosity seekers.
     Departing from 500,000 throats, three cheers burst forth in succession. Thousands of handkerchiefs were waving above
@@ -1541,7 +1541,7 @@
     "Calm yourself, Ned my friend," Conseil replied serenely. "Don't flare up so quickly! We aren't in a kettle yet!"
 
     "In a kettle, no," the Canadian shot back, "but in an oven for sure. It's dark enough for one. Luckily my Bowie knife
-    hasn't left me, and I can still see well enough to put it to use.[[file:footnotes.xml#footnote_5][[5]]] The first one of
+    hasn't left me, and I can still see well enough to put it to use. The first one of
     these bandits who lays a hand on me---" "Don't be so irritable, Ned," I then told the harpooner, "and don't ruin things
     for us with pointless violence. Who knows whether they might be listening to us? Instead, let's try to find out where we
     are!" I started moving, groping my way. After five steps I encountered an iron wall made of riveted boilerplate. Then,
@@ -1637,7 +1637,7 @@
     earth, when you open your mouth, snap your jaws, smack your lips and teeth, isn't that the world's most understandable
     message? From Quebec to the Tuamotu Islands, from Paris to the Antipodes, doesn't it mean: I'm hungry, give me a bite to
     eat!" "Oh," Conseil put in, "there are some people so unintelligent by nature ... " As he was saying these words, the
-    door opened. A steward entered.[[file:footnotes.xml#footnote_6][[6]]] He brought us some clothes, jackets and sailor's
+    door opened. A steward entered. He brought us some clothes, jackets and sailor's
     pants, made out of a fabric whose nature I didn't recognize. I hurried to change into them, and my companions followed
     suit. Meanwhile our silent steward, perhaps a deaf--mute, set the table and laid three place settings. "There's
     something serious afoot," Conseil said, "and it bodes well." "Bah!" replied the rancorous harpooner. "What the devil do
@@ -2063,7 +2063,7 @@
 
     "By what name am I to call you?"
 
-    "Sir," the commander replied, "to you, I'm simply Captain Nemo;[[file:footnotes.xml#footnote_7][[7]]] to me, you and
+    "Sir," the commander replied, "to you, I'm simply Captain Nemo; to me, you and
     your companions are simply passengers on the Nautilus."
 
     Captain Nemo called out. A steward appeared. The captain gave him his orders in that strange language I couldn't even
@@ -2546,7 +2546,7 @@
     Brightly lit, the engine room measured at least 20 meters in length. It was divided, by function, into two parts: the
     first contained the cells for generating electricity, the second that mechanism transmitting movement to the propeller.
 
-    Right off, I detected an odor permeating the compartment that was sui generis.[[file:footnotes.xml#footnote_8][[8]]]
+    Right off, I detected an odor permeating the compartment that was sui generis.
     Captain Nemo noticed the negative impression it made on me. "That," he told me, "is a gaseous discharge caused by our
     use of sodium, but it's only a mild inconvenience. In any event, every morning we sanitize the ship by ventilating it in
     the open air." Meanwhile I examined the Nautilus's engine with a fascination easy to imagine. "You observe," Captain
@@ -2557,7 +2557,7 @@
     per minute." "And that gives you?" "A speed of fifty miles per hour." There lay a mystery, but I didn't insist on
     exploring it. How could electricity work with such power? Where did this nearly unlimited energy originate? Was it in
     the extraordinary voltage obtained from some new kind of induction coil? Could its transmission have been immeasurably
-    increased by some unknown system of levers?[[file:footnotes.xml#footnote_9][[9]]] This was the point I couldn't grasp.
+    increased by some unknown system of levers? This was the point I couldn't grasp.
     "Captain Nemo," I said, "I'll vouch for the results and not try to explain them. I've seen the Nautilus at work out in
     front of the Abraham Lincoln, and I know where I stand on its speed. But it isn't enough just to move, we have to see
     where we're going! We must be able to steer right or left, up or down! How do you reach the lower depths, where you meet
@@ -3172,7 +3172,7 @@
 
     Little by little, the mists were dispersed under the action of the sun's rays. The radiant orb cleared the eastern
     horizon. Under its gaze, the sea caught on fire like a trail of gunpowder. Scattered on high, the clouds were colored in
-    bright, wonderfully shaded hues, and numerous "ladyfingers"[[file:footnotes.xml#footnote_10][[10]]] warned of daylong
+    bright, wonderfully shaded hues, and numerous "ladyfingers" warned of daylong
     winds. But what were mere winds to this Nautilus, which no storms could intimidate! So I was marveling at this
     delightful sunrise, so life--giving and cheerful, when I heard someone climbing onto the platform. I was prepared to
     greet Captain Nemo, but it was his chief officer who appeared---whom I had already met during our first visit with the
@@ -3261,7 +3261,7 @@
     underwater conditions. But I repeat: having no gunpowder, I've replaced it with air at high pressure, which is
     abundantly supplied me by the Nautilus's pumps." "But this air must be swiftly depleted." "Well, in a pinch can't my
     Rouquayrol tank supply me with more? All I have to do is draw it from an ad hoc
-    spigot.[[file:footnotes.xml#footnote_11][[11]]] Besides, Professor Aronnax, you'll see for yourself that during these
+    spigot. Besides, Professor Aronnax, you'll see for yourself that during these
     underwater hunting trips, we make no great expenditure of either air or bullets." "But it seems to me that in this
     semidarkness, amid this liquid that's so dense in comparison to the atmosphere, a gunshot couldn't carry far and would
     prove fatal only with difficulty!" "On the contrary, sir, with this rifle every shot is fatal; and as soon as the animal
@@ -6900,7 +6900,7 @@
 
     "Captain, I hear you, but I can't believe my ears."
 
-    "Oh, sir! The old saying still holds good: Aures habent et non audient![[file:footnotes.xml#footnote_12][[12]]] Not only
+    "Oh, sir! The old saying still holds good: Aures habent et non audient! Not only
     does this passageway exist, but I've taken advantage of it on several occasions. Without it, I wouldn't have ventured
     today into such a blind alley as the Red Sea." "Is it indiscreet to ask how you discovered this tunnel?" "Sir," the
     captain answered me, "there can be no secrets between men who will never leave each other." I ignored this innuendo and
@@ -7386,7 +7386,7 @@
 
     Est in Carpathio Neptuni gurgite vates
 
-    Caeruleus Proteus ... [[file:footnotes.xml#footnote_13][[13]]] {verse It was indeed that bygone abode of Proteus, the
+    Caeruleus Proteus ...  {verse It was indeed that bygone abode of Proteus, the
     old shepherd of King Neptune's flocks: an island located between Rhodes and Crete, which Greeks now call Karpathos,
     Italians Scarpanto. Through the lounge window I could see only its granite bedrock. The next day, February 14, I decided
     to spend a few hours studying the fish of this island group; but for whatever reason, the panels remained hermetically
@@ -7420,7 +7420,7 @@
     The captain didn't reply but went to lean against the window. The man drew near, and gluing his face to the panel, he
     stared at us. To my deep astonishment, Captain Nemo gave him a signal. The diver answered with his hand, immediately
     swam up to the surface of the sea, and didn't reappear. "Don't be alarmed," the captain told me. "That's Nicolas from
-    Cape Matapan, nicknamed 'Il Pesce.'[[file:footnotes.xml#footnote_14][[14]]] He's well known throughout the Cyclades
+    Cape Matapan, nicknamed 'Il Pesce.' He's well known throughout the Cyclades
     Islands. A bold diver! Water is his true element, and he lives in the sea more than on shore, going constantly from one
     island to another, even to Crete." "You know him, captain?" "Why not, Professor Aronnax?" This said, Captain Nemo went
     to a cabinet standing near the lounge's left panel. Next to this cabinet I saw a chest bound with hoops of iron, its lid
@@ -7490,7 +7490,7 @@
 *** Chapter 7 The Mediterranean in Forty--Eight Hours
 
     THE MEDITERRANEAN, your ideal blue sea: to Greeks simply "the sea," to Hebrews "the great sea," to Romans mare
-    nostrum.[[file:footnotes.xml#footnote_15][[15]]] Bordered by orange trees, aloes, cactus, and maritime pine trees,
+    nostrum. Bordered by orange trees, aloes, cactus, and maritime pine trees,
     perfumed with the scent of myrtle, framed by rugged mountains, saturated with clean, transparent air but continuously
     under construction by fires in the earth, this sea is a genuine battlefield where Neptune and Pluto still struggle for
     world domination. Here on these beaches and waters, says the French historian Michelet, a man is revived by one of the
@@ -7804,7 +7804,7 @@
 
     Just then my eye was caught by some etchings hanging on the wall, which I hadn't noticed during my first visit. They
     were portraits of great men of history who had spent their lives in perpetual devotion to a great human ideal: Thaddeus
-    Kosciusko, the hero whose dying words had been Finis Poloniae;[[file:footnotes.xml#footnote_16][[16]]] Markos Botzaris,
+    Kosciusko, the hero whose dying words had been Finis Poloniae; Markos Botzaris,
     for modern Greece the reincarnation of Sparta's King Leonidas; Daniel O'Connell, Ireland's defender; George Washington,
     founder of the American Union; Daniele Manin, the Italian patriot; Abraham Lincoln, dead from the bullet of a believer
     in slavery; and finally, that martyr for the redemption of the black race, John Brown, hanging from his gallows as
@@ -8201,7 +8201,7 @@
 
     While this bizarre scenery was glittering under our electric beams, I told Conseil the story of the Atlanteans, who had
     inspired the old French scientist Jean Bailly to write so many entertaining---albeit utterly
-    fictitious---pages.[[file:footnotes.xml#footnote_17][[17]]] I told the lad about the wars of these heroic people. I
+    fictitious---pages. I told the lad about the wars of these heroic people. I
     discussed the question of Atlantis with the fervor of a man who no longer had any doubts. But Conseil was so distracted
     he barely heard me, and his lack of interest in any commentary on this historical topic was soon explained.
 
@@ -9539,7 +9539,7 @@
     short and conical, the eyes framed by red circles. Conseil laid in a supply of them, because when they're properly
     cooked, these winged creatures make a pleasant dish. In the air there passed sooty albatross with four--meter wingspans,
     birds aptly dubbed "vultures of the ocean," also gigantic petrels including several with arching wings, enthusiastic
-    eaters of seal that are known as quebrantahuesos,[[file:footnotes.xml#footnote_18][[18]]] and cape pigeons, a sort of
+    eaters of seal that are known as quebrantahuesos, and cape pigeons, a sort of
     small duck, the tops of their bodies black and white---in short, a whole series of petrels, some whitish with wings
     trimmed in brown, others blue and exclusive to these Antarctic seas, the former "so oily," I told Conseil, "that
     inhabitants of the Faroe Islands simply fit the bird with a wick, then light it up." "With that minor addition," Conseil
@@ -11229,8 +11229,3 @@
     ten months of this unnatural life? And to the question asked by Ecclesiastes three thousand years ago, "That which is
     far off and exceeding deep, who can find it out?" two men alone of all now living have the right to give an answer ---
     CAPTAIN NEMO AND MYSELF.
-
-    # * LOCAL VARIABLES
-    # Local Variables:
-    # eval: (read-only-mode)
-    # End:

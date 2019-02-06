@@ -46,9 +46,6 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 *** TO GILBERT KEITH CHESTERTON
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     /My dear Gilbert/:
 
@@ -67,12 +64,8 @@
 
     E. C. Bentley.
 
-     
 
 *** PROLOGUE
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     Between what matters and what seems to matter, how should the world we know judge wisely?
 
@@ -136,7 +129,6 @@
     is getting to be a mighty dull place since I quit." By slow degrees this amiable weakness of the Colossus became known
     to the business world, which exulted greatly in the knowledge.
 
-     
 
     At the news of his death, panic went through the markets like a hurricane; for it came at a luckless time. Prices
     tottered and crashed like towers in an earthquake. For two days Wall Street was a clamorous inferno of pale despair. All
@@ -186,7 +178,6 @@
     in a dozen newspaper offices; but before a copy reached Wall Street the tornado of the panic was in full fury, and
     Howard B. Jeffrey and his collaborators were whirled away like leaves before its breath.
 
-     
 
     All this sprang out of nothing.
 
@@ -921,7 +912,6 @@
    The inspector, then, replied to Trent's last words with cordial agreement. Leaning on either side of the French window,
    with the deep peace and hazy splendor of the summer landscape before them, they reviewed the case.
 
-    
 
    Trent had taken out a thin notebook, and as they talked he began to make, with light, sure touches, a rough sketch plan
    of the room. It was a thing he did habitually on such occasions, and often quite idly, but now and then the habit had
@@ -940,7 +930,6 @@
    blue on the table, a clock and some cigar boxes on the mantel-shelf, and a movable telephone standard on the top of the
    desk.
 
-    
 
    "Seen the body?" inquired the inspector.
 
@@ -1933,7 +1922,6 @@
    So he saw her for an instant as he passed, and he did not turn. He knew suddenly who the woman must be, and it was as if
    a curtain of gloom were drawn between him and the splendor of the day.
 
-    
 
    "You were planning to go to White Gables before the inquest, I think," remarked Trent to Mr. Cupples as they finished
    their breakfast. "You ought to be off, if you are to get back to the court in time. I have something to attend to there
@@ -2829,7 +2817,6 @@
    in the bedroom by the false Manderson, had been entrusted to him by his employer. He had then returned in the car to
    Marlstone, where he had shown great amazement and horror at the news of the murder.
 
-    
 
    These, I say, are the relevant facts about Marlowe. We must now examine fact number /five/ (as set out above) in
    connection with conclusion number /five/ about the false Manderson.
@@ -2920,7 +2907,6 @@
    What followed your readers and the authorities may conjecture for themselves. The corpse was found next morning
    clothed---rather untidily. Marlowe in the car appeared at Southampton by half-past six.
 
-    
 
    I bring this manuscript to an end in my sitting-room at the hotel at Marlstone. It is four o'clock in the morning. I
    leave for London by the noon train from Bishopsbridge. By this evening these pages will be in your hands, and I ask you
@@ -3021,7 +3007,6 @@
 
    These thoughts would scarcely leave him when he was alone.
 
-    
 
    Trent served Sir James, well earning his pay, for six months, and then returned to Paris, where he went to work again
    with a better heart. His powers had returned to him, and he began to live more happily than he had expected among a
@@ -3084,7 +3069,6 @@
    In twenty-four hours his feeble roots in Paris had been torn out. He was looking over a leaden sea at the shining
    fortress-wall of the Dover cliffs.
 
-    
 
    But though he had instinctively picked out the lines of a set purpose from among the welter of promptings in his mind,
    he found it delayed at the very outset.
@@ -3107,7 +3091,6 @@
    came away knowing that she had not been in the house. It was a habit that yielded him a sort of satisfaction along with
    the guilty excitement of his search; for he too loved music, and nothing gave him so much peace while its magic endured.
 
-    
 
    One night as he entered, hurrying through the brilliant crowd, he felt a touch on his arm. Flooded with an incredible
    certainty at the touch, he turned.
@@ -3164,7 +3147,6 @@
    But when, a few days after, she wrote asking him to come and see her on the following afternoon, he made no attempt to
    excuse himself. This was a formal challenge.
 
-    
 
    While she celebrated the rites of tea, and for some little time thereafter, she joined with such natural ease in his
    slightly fevered conversation on matters of the day that he began to hope she had changed what he could not doubt had
@@ -4506,7 +4488,6 @@
    Mr. Cupples, busy with his last mouthful, nodded brightly. He made an end of eating, wiped his sparse mustache, and then
    leaned forward over the table. "It's very simple," he said. "I shot Manderson myself."
 
-    
 
    "I am afraid I startled you," Trent heard the voice of Mr. Cupples say. He forced himself out of his stupefaction like a
    diver striking upward for the surface, and with a rigid movement raised his glass. But half of the wine splashed upon

@@ -5,7 +5,7 @@
   -  [[Don Quixote][Don Quixote]]
     -  [[Miguel Cervantes][Miguel Cervantes]]
     -  [[Part 1 - TO THE DUKE OF BEJAR, MARQUIS OF GIBRALEON,][Part 1 - TO THE DUKE OF BEJAR, MARQUIS OF GIBRALEON,]]
-        -  [[The Author's Preface][The Author's Preface]]
+      -  [[The Author's Preface][The Author's Preface]]
       -  [[Chapter 1][Chapter 1]]
       -  [[Chapter 2][Chapter 2]]
       -  [[Chapter 3][Chapter 3]]
@@ -59,7 +59,7 @@
       -  [[Chapter 51][Chapter 51]]
       -  [[Chapter 52][Chapter 52]]
     -  [[Part 2 - TO THE COUNT OF LEMOS][Part 2 - TO THE COUNT OF LEMOS]]
-        -  [[The Author's Preface][The Author's Preface]]
+      -  [[The Author's Preface][The Author's Preface]]
       -  [[Chapter 1][Chapter 1]]
       -  [[Chapter 2][Chapter 2]]
       -  [[Chapter 3][Chapter 3]]
@@ -166,7 +166,7 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 ** Part 1 - TO THE DUKE OF BEJAR, MARQUIS OF GIBRALEON,
-    *COUNT OF BENALCAZAR AND BANARES, VICECOUNT OF THE PUEBLA DE ALCOCER, MASTER
+   *COUNT OF BENALCAZAR AND BANARES, VICECOUNT OF THE PUEBLA DE ALCOCER, MASTER
    OF THE TOWNS OF CAPILLA, CURIEL AND BURGUILLOS*
 
    In belief of the good reception and honours that Your Excellency bestows on all sort of books, as prince so inclined to
@@ -330,7 +330,6 @@
 
 *** Chapter 1
 
-     
 
     *Which treats of the character and pursuits of the famous gentleman Don Quixote de la Mancha*
 
@@ -440,7 +439,6 @@
 
 *** Chapter 2
 
-     
 
     *Which treats of the first sally the ingenious Don Quixote made from home*
 
@@ -575,7 +573,6 @@
 
 *** Chapter 3
 
-     
 
     *Wherein is related the droll way in which Don Quixote had himself dubbed a knight*
 
@@ -709,7 +706,6 @@
 
 *** Chapter 4
 
-     
 
     *Of what happened to our knight when he left the inn*
 
@@ -877,7 +873,6 @@
 
 *** Chapter 5
 
-     
 
     *In which the narrative of our knight's mishap is continued*
 
@@ -990,7 +985,6 @@
 
 *** Chapter 6
 
-     
 
     *Of the diverting and important scrutiny which the curate and the barber made in the library of our ingenious gentleman*
 
@@ -1209,7 +1203,6 @@
 
 *** Chapter 7
 
-     
 
     *Of the second sally of our worthy knight Don Quixote of la Mancha*
 
@@ -1345,7 +1338,6 @@
 
 *** Chapter 8
 
-     
 
     *Of the good fortune which the valiant Don Quixote had in the terrible and undreamt-of adventure of the windmills, with
     other occurrences worthy to be fitly recorded*
@@ -1542,7 +1534,6 @@
 
 *** Chapter 9
 
-     
 
     *In which is concluded and finished the terrific battle between the gallant Biscayan and the valiant Manchegan*
 
@@ -1662,7 +1653,6 @@
 
 *** Chapter 10
 
-     
 
     *Of the pleasant discourse that passed between Don Quixote and his squire Sancho Panza*
 
@@ -1799,7 +1789,6 @@
 
 *** Chapter 11
 
-     
 
     *Of what befell Don Quixote with certain goatherds*
 
@@ -2054,7 +2043,6 @@
 
 *** Chapter 12
 
-     
 
     *Of what a goatherd related to those with Don Quixote*
 
@@ -2206,7 +2194,6 @@
 
 *** Chapter 13
 
-     
 
     *In which is ended the story of the shepherdess Marcela, with other incidents*
 
@@ -2433,7 +2420,6 @@
 
 *** Chapter 14
 
-     
 
     *Wherein are inserted the despairing verses of the dead shepherd, together with other incidents not looked for*
 
@@ -2798,7 +2784,6 @@
 
 *** Chapter 15
 
-     
 
     *In which is related the unfortunate adventure that Don Quixote fell in with when he fell out with certain heartless
     Yanguesans*
@@ -2983,7 +2968,6 @@
 
 *** Chapter 16
 
-     
 
     *Of what happened to the ingenious gentleman in the inn which he took to be a castle*
 
@@ -3163,7 +3147,6 @@
 
 *** Chapter 17
 
-     
 
     *In which are contained the innumerable troubles which the brave Don Quixote and his good squire Sancho Panza endured in
     the inn, which to his misfortune he took to be a castle*
@@ -3380,7 +3363,6 @@
 
 *** Chapter 18
 
-     
 
     *In which is related the discourse Sancho Panza held with his master, Don Quixote, and other adventures worth relating*
 
@@ -3645,7 +3627,6 @@
 
 *** Chapter 19
 
-     
 
     *Of the shrewd discourse which Sancho held with his master, and of the adventure that befell him with a dead body,
     together with other notable occurrences*
@@ -3848,7 +3829,6 @@
 
 *** Chapter 20
 
-     
 
     *Of the unexampled and unheard-of adventure which was achieved by the valiant Don Quixote of la Mancha with less peril
     than any ever achieved by any famous knight in the world*
@@ -4179,7 +4159,6 @@
 
 *** Chapter 21
 
-     
 
     *Which treats of the exalted adventure and rich prize of Mambrino's helmet, together with other things that happened to
     our invincible knight*
@@ -4472,7 +4451,6 @@
 
 *** Chapter 22
 
-     
 
     *Of the freedom Don Quixote conferred on several unfortunates who against their will were being carried where they had
     no wish to go*
@@ -4772,7 +4750,6 @@
 
 *** Chapter 23
 
-     
 
     *Of what befell Don Quixote in the Sierra Morena, which was one of the rarest adventures related in this veracious
     history*
@@ -5084,7 +5061,6 @@
 
 *** Chapter 24
 
-     
 
     *In which is continued the adventure of the Sierra Morena*
 
@@ -5282,7 +5258,6 @@
 
 *** Chapter 25
 
-     
 
     *Which treats of the strange things that happened to the stout knight of la Mancha in the Sierra Morena, and of his
     imitation of the penance of Beltenebros*
@@ -5689,7 +5664,6 @@
 
 *** Chapter 26
 
-     
 
     *In which are continued the refinements wherewith Don Quixote played the part of a lover in the Sierra Morena*
 
@@ -5932,7 +5906,6 @@
 
 *** Chapter 27
 
-     
 
     *Of how the curate and the barber proceeded with their scheme; together with other matters worthy of record in this
     great history*
@@ -6356,7 +6329,6 @@
 
 *** Chapter 28
 
-     
 
     *Which treats of the strange and delightful adventure that befell the curate and the barber in the same sierra*
 
@@ -6675,7 +6647,6 @@
 
 *** Chapter 29
 
-     
 
     *Which treats of the droll device and method adopted to extricate our love-stricken knight from the severe penance he
     had imposed upon himself*
@@ -6962,7 +6933,6 @@
 
 *** Chapter 30
 
-     
 
     *Which treats of address displayed by the fair Dorothea, with other matters pleasant and amusing*
 
@@ -7240,7 +7210,6 @@
 
 *** Chapter 31
 
-     
 
     *Of the delectable discussion between Don Quixote and Sancho Panza, his squire, together with other incidents*
 
@@ -7484,7 +7453,6 @@
 
 *** Chapter 32
 
-     
 
     *Which treats of what befell Don Quixote's party at the inn*
 
@@ -7667,7 +7635,6 @@
 
 *** Chapter 33
 
-     
 
     *In which is related the novel of "The Ill-Advised Curiosity"*
 
@@ -8119,7 +8086,6 @@
 
 *** Chapter 34
 
-     
 
     *In which is continued the novel of "The Ill-Advised Curiosity"*
 
@@ -8587,7 +8553,6 @@
 
 *** Chapter 35
 
-     
 
     *Which treats of the heroic and prodigious battle Don Quixote had with certain skins of red wine, and brings the novel
     of "The Ill-Advised Curiosity" to a close*
@@ -8793,7 +8758,6 @@
 
 *** Chapter 36
 
-     
 
     *Which treats of more curious incidents that occurred at the inn*
 
@@ -9011,7 +8975,6 @@
 
 *** Chapter 37
 
-     
 
     *In which is continued the story of the famous Princess Micomicona, with other droll adventures*
 
@@ -9262,7 +9225,6 @@
 
 *** Chapter 38
 
-     
 
     *Which treats of the curious discourse Don Quixote delivered on arms and letters*
 
@@ -9348,7 +9310,6 @@
 
 *** Chapter 39
 
-     
 
     *Wherein the captive relates his life and adventures*
 
@@ -9528,7 +9489,6 @@
 
 *** Chapter 40
 
-     
 
     *In which the story of the captive is continued.*
 
@@ -9846,7 +9806,6 @@
 
 *** Chapter 41
 
-     
 
     *In which the captive still continues his adventures*
 
@@ -10301,7 +10260,6 @@
 
 *** Chapter 42
 
-     
 
     *Which treats of what further took place in the inn, and of several other things worth knowing*
 
@@ -10472,7 +10430,6 @@
 
 *** Chapter 43
 
-     
 
     *Wherein is related the pleasant story of the muleteer, together with other strange things that came to pass in the inn*
 
@@ -10789,7 +10746,6 @@
 
 *** Chapter 44
 
-     
 
     *In which are continued the unheard-of adventures of the inn*
 
@@ -11010,7 +10966,6 @@
 
 *** Chapter 45
 
-     
 
     *In which the doubtful question of Mambrino's helmet and the pack-saddle is finally settled, with other adventures that
     occurred in truth and earnest*
@@ -11199,7 +11154,6 @@
 
 *** Chapter 46
 
-     
 
     *Of the end of the notable adventure of the officers of the Holy Brotherhood; and of the great ferocity of our worthy
     knight, Don Quixote*
@@ -11392,7 +11346,6 @@
 
 *** Chapter 47
 
-     
 
     *Of the strange manner in which Don Quixote of la Mancha was carried away enchanted, together with other remarkable
     incidents*
@@ -11609,7 +11562,6 @@
 
 *** Chapter 48
 
-     
 
     *In which the canon pursues the subject of the books of chivalry, with other matters worthy of his wit*
 
@@ -11784,7 +11736,6 @@
 
 *** Chapter 49
 
-     
 
     *Which treats of the shrewd conversation which Sancho Panza held with his master Don Quixote*
 
@@ -11948,7 +11899,6 @@
 
 *** Chapter 50
 
-     
 
     *Of the shrewd controversy which Don Quixote and the canon held, together with other incidents*
 
@@ -12101,7 +12051,6 @@
 
 *** Chapter 51
 
-     
 
     *Which deals with what the goatherd told those who were carrying off Don Quixote*
 
@@ -12215,7 +12164,6 @@
 
 *** Chapter 52
 
-     
 
     *Of the quarrel that Don Quixote had with the goatherd, together with the rare adventure of the penitents, which with an
     expenditure of sweat he brought to a happy conclusion*
@@ -12655,9 +12603,6 @@
 
 
 **** The Author's Preface
-     :PROPERTIES:
-     :CLASS:    section_title
-     :END:
 
      God bless me, gentle (or it may be plebeian) reader, how eagerly must thou be looking forward to this preface, expecting
      to find there retaliation, scolding, and abuse against the author of the second Don Quixote---I mean him who was, they
@@ -12735,7 +12680,6 @@
 
 *** Chapter 1
 
-     
 
     *Of the interview the curate and the barber had with Don Quixote about his malady*
 
@@ -13003,7 +12947,6 @@
 
 *** Chapter 2
 
-     
 
     *Which treats of the notable altercation which Sancho Panza had with Don Quixote's niece, and housekeeper, together with
     other droll matters*
@@ -13142,7 +13085,6 @@
 
 *** Chapter 3
 
-     
 
     *Of the laughable conversation that passed between Don Quixote, Sancho Panza, and the bachelor Samson Carrasco*
 
@@ -13359,7 +13301,6 @@
 
 *** Chapter 4
 
-     
 
     *In which Sancho Panza gives a satisfactory reply to the doubts and questions of the bachelor Samson Carrasco, together
     with other matters worth knowing and telling*
@@ -13495,7 +13436,6 @@
 
 *** Chapter 5
 
-     
 
     *Of the shrewd and droll conversation that passed between Sancho Panza and his wife Teresa Panza, and other matters
     worthy of being duly recorded*
@@ -13659,7 +13599,6 @@
 
 *** Chapter 6
 
-     
 
     *Of what took place between Don Quixote and his niece and housekeeper; one of the most important chapters in the whole
     history*
@@ -13789,7 +13728,6 @@
 
 *** Chapter 7
 
-     
 
     *Of what passed between Don Quixote and his squire, together with other very notable incidents*
 
@@ -13966,7 +13904,6 @@
 
 *** Chapter 8
 
-     
 
     *Wherein is related what befell Don Quixote on his way to see his lady Dulcinea del Toboso*
 
@@ -14144,7 +14081,6 @@
 
 *** Chapter 9
 
-     
 
     *Wherein is related what will be seen there*
 
@@ -14259,7 +14195,6 @@
 
 *** Chapter 10
 
-     
 
     *Wherein is related the crafty device Sancho adopted to enchant the lady Dulcinea, and other incidents as ludicrous as
     they are true*
@@ -14482,7 +14417,6 @@
 
 *** Chapter 11
 
-     
 
     *Of the strange adventure which the valiant Don Quixote had with the car or cart of "The Cortes of Death"*
 
@@ -14640,7 +14574,6 @@
 
 *** Chapter 12
 
-     
 
     *Of the strange adventure which befell the valiant Don Quixote with the bold knight of the mirrors*
 
@@ -14859,7 +14792,6 @@
 
 *** Chapter 13
 
-     
 
     *In which is continued the adventure of the knight of the grove, together with the sensible, original, and tranquil
     colloquy that passed between the two squires*
@@ -15023,7 +14955,6 @@
 
 *** Chapter 14
 
-     
 
     *Wherein is continued the adventure of the knight of the grove*
 
@@ -15301,7 +15232,6 @@
 
 *** Chapter 15
 
-     
 
     *Wherein it is told and known who the knight of the mirrors and his squire were*
 
@@ -15354,7 +15284,6 @@
 
 *** Chapter 16
 
-     
 
     *Of what befell Don Quixote with a discreet gentleman of La Mancha*
 
@@ -15575,7 +15504,6 @@
 
 *** Chapter 17
 
-     
 
     *Wherein is shown the furthest and highest point which the unexampled courage of Don Quixote reached or could reach;
     together with the happily achieved adventure of the lions*
@@ -15828,7 +15756,6 @@
 
 *** Chapter 18
 
-     
 
     *Of what happened Don Quixote in the castle or house of the knight of the green gaban, together with other matters out
     of the common*
@@ -16134,7 +16061,6 @@
 
 *** Chapter 19
 
-     
 
     *In which is related the adventure of the enamoured shepherd, together with other truly droll incidents*
 
@@ -16308,7 +16234,6 @@
 
 *** Chapter 20
 
-     
 
     *Wherein an account is given of the wedding of Camacho the rich, together with the incident of Basilio the poor*
 
@@ -16578,7 +16503,6 @@
 
 *** Chapter 21
 
-     
 
     *In which Camacho's wedding is continued, with other delightful incidents*
 
@@ -16728,7 +16652,6 @@
 
 *** Chapter 22
 
-     
 
     *Wherin is related the grand adventure of the cave of Montesinos in the heart of La Mancha, which the valiant Don
     Quixote brought to a happy termination*
@@ -16916,7 +16839,6 @@
 
 *** Chapter 23
 
-     
 
     *Of the wonderful things the incomparable Don Quixote said he saw in the profound cave of Montesinos, the impossibility
     and magnitude of which cause this adventure to be deemed apocryphal*
@@ -17183,7 +17105,6 @@
 
 *** Chapter 24
 
-     
 
     *Wherein are related a thousand trifling matters, as trivial as they are necessary to the right understanding of this
     great history*
@@ -17352,7 +17273,6 @@
 
 *** Chapter 25
 
-     
 
     *Wherein is set down the braying adventure, and the droll one of the puppet-showman, together with the memorable
     divinations of the divining ape*
@@ -17563,7 +17483,6 @@
 
 *** Chapter 26
 
-     
 
     *Wherein is continued the droll adventure of the puppet-showman, together with other things in truth right good*
 
@@ -17796,7 +17715,6 @@
 
 *** Chapter 27
 
-     
 
     *Wherein it is shown who Master Pedro and his ape were, together with the mishap Don Quixote had in the braying
     adventure, which he did not conclude as he would have liked or as he had expected*
@@ -17943,7 +17861,6 @@
 
 *** Chapter 28
 
-     
 
     *Of matters that Benengeli says he who reads them will know, if he reads them with attention*
 
@@ -18067,7 +17984,6 @@
 
 *** Chapter 29
 
-     
 
     *Of the famous adventure of the enchanted bark*
 
@@ -18223,7 +18139,6 @@
 
 *** Chapter 30
 
-     
 
     *Of Don Quixote's adventure with a fair huntress*
 
@@ -18351,7 +18266,6 @@
 
 *** Chapter 31
 
-     
 
     *Which treats of many and great matters*
 
@@ -18575,7 +18489,6 @@
 
 *** Chapter 32
 
-     
 
     *Of the reply Don Quixote gave his censurer, with other incidents, grave and droll*
 
@@ -18902,7 +18815,6 @@
 
 *** Chapter 33
 
-     
 
     *Of the delectable discourse which the duchess and her damsels held with Sancho Panza, well worth reading and noting*
 
@@ -19078,7 +18990,6 @@
 
 *** Chapter 34
 
-     
 
     *Which relates how they learned the way in which they were to disenchant the peerless Dulcinea del Toboso, which is one
     of the rarest adventures in this book*
@@ -19256,7 +19167,6 @@
 
 *** Chapter 35
 
-     
 
     *Wherein is continued the instruction given to Don Quixote touching the disenchantment of Dulcinea, together with other
     marvellous incidents*
@@ -19489,7 +19399,6 @@
 
 *** Chapter 36
 
-     
 
     *Wherein is related the strange and undreamt-of adventure of the distressed duenna, alias the countess Trifaldi,
     together with a letter which Sancho Panza wrote to his wife, Teresa Panza*
@@ -19634,7 +19543,6 @@
 
 *** Chapter 37
 
-     
 
     *Wherein is continued the notable adventure of the distressed duenna*
 
@@ -19695,7 +19603,6 @@
 
 *** Chapter 38
 
-     
 
     *Wherein is told the distressed duenna's tale of her misfortunes*
 
@@ -19853,7 +19760,6 @@
 
 *** Chapter 39
 
-     
 
     *In which the Trifaldi continues her marvellous and memorable story*
 
@@ -19917,7 +19823,6 @@
 
 *** Chapter 40
 
-     
 
     *Of matters relating and belonging to this adventure and to this memorable history*
 
@@ -20060,7 +19965,6 @@
 
 *** Chapter 41
 
-     
 
     *Of the arrival of Clavileno and the end of this protracted adventure*
 
@@ -20322,7 +20226,6 @@
 
 *** Chapter 42
 
-     
 
     *Of the counsels which Don Quixote gave Sancho Panza before he set out to govern the island, together with other
     well-considered matters*
@@ -20470,7 +20373,6 @@
 
 *** Chapter 43
 
-     
 
     *Of the second set of counsels Don Quixote gave Sancho Panza*
 
@@ -20629,7 +20531,6 @@
 
 *** Chapter 44
 
-     
 
     *How Sancho Panza was conducted to his government, and of the strange adventure that befell Don Quixote in the castle*
 
@@ -20962,7 +20863,6 @@
 
 *** Chapter 45
 
-     
 
     *Of how the great Sancho Panza took possession of his island, and of how he made a beginning in governing*
 
@@ -21141,7 +21041,6 @@
 
 *** Chapter 46
 
-     
 
     *Of the terrible bell and cat fright that Don Quixote got in the course of the enamoured Altisidora's wooing*
 
@@ -21294,7 +21193,6 @@
 
 *** Chapter 47
 
-     
 
     *Wherein is continued the account of how Sancho Panza conducted himself in his government*
 
@@ -21520,7 +21418,6 @@
 
 *** Chapter 48
 
-     
 
     *Of what befell Don Quixote with Dona Rodriguez, the duchess's duenna, together with other occurrences worthy of record
     and eternal remembrance*
@@ -21701,7 +21598,6 @@
 
 *** Chapter 49
 
-     
 
     *Of what happened Sancho in making the round of his island*
 
@@ -21995,7 +21891,6 @@
 
 *** Chapter 50
 
-     
 
     *Wherein is set forth who the enchanters and executioners were who flogged the duenna and pinched Don Quixote, and also
     what befell the page who carried the letter to Teresa Panza, Sancho Panza's wife*
@@ -22230,7 +22125,6 @@
 
 *** Chapter 51
 
-     
 
     *Of the progress of Sancho's government, and other such entertaining matters*
 
@@ -22431,7 +22325,6 @@
 
 *** Chapter 52
 
-     
 
     *Wherein is related the adventure of the second distressed or afflicted duenna, otherwise called Dona Rodriguez*
 
@@ -22603,7 +22496,6 @@
 
 *** Chapter 53
 
-     
 
     *Of the troublous end and termination Sancho Panza's government came to*
 
@@ -22739,7 +22631,6 @@
 
 *** Chapter 54
 
-     
 
     *Which deals with matters relating to this history and no other*
 
@@ -22930,7 +22821,6 @@
 
 *** Chapter 55
 
-     
 
     *Of what befell Sancho on the road, and other things that cannot be surpassed*
 
@@ -23095,7 +22985,6 @@
 
 *** Chapter 56
 
-     
 
     *Of the prodigious and unparalleled battle that took place between Don Quixote of La Mancha and the lacquey Tosilos in
     defence of the daughter of Dona Rodriguez*
@@ -23213,7 +23102,6 @@
 
 *** Chapter 57
 
-     
 
     *Which treats of how Don Quixote took leave of the duke, and of what followed with the witty and impudent Altisidora,
     one of the duchess's damsels*
@@ -23397,7 +23285,6 @@
 
 *** Chapter 58
 
-     
 
     *Which tells how adventures came crowding on Don Quixote in such numbers that they gave one another no breathing-time*
 
@@ -23660,7 +23547,6 @@
 
 *** Chapter 59
 
-     
 
     *Wherein is related the strange thing, which may be regarded as an adventure, that happened Don Quixote*
 
@@ -23879,7 +23765,6 @@
 
 *** Chapter 60
 
-     
 
     *Of what happened Don Quixote on his way to Barcelona*
 
@@ -24181,7 +24066,6 @@
 
 *** Chapter 61
 
-     
 
     *Of what happened Don Quixote on entering Barcelona, together with other matters that partake of the true rather than of
     the ingenious*
@@ -24246,7 +24130,6 @@
 
 *** Chapter 62
 
-     
 
     *Which deals with the adventure of the enchanted head, together with other trivial matters which cannot be left untold*
 
@@ -24556,7 +24439,6 @@
 
 *** Chapter 63
 
-     
 
     *Of the mishap that befell Sancho Panza through the visit to the galleys, and the strange adventure of the fair Morisco*
 
@@ -24776,7 +24658,6 @@
 
 *** Chapter 64
 
-     
 
     *Treating of the adventure which gave Don Quixote more unhappiness than all that had hitherto befallen him*
 
@@ -24880,7 +24761,6 @@
 
 *** Chapter 65
 
-     
 
     *Wherein is made known who the knight of the white moon was; likewise Don Gregorio's release, and other events*
 
@@ -25004,7 +24884,6 @@
 
 *** Chapter 66
 
-     
 
     *Which treats of what he who reads will see, or what he who has it read to him will hear*
 
@@ -25142,7 +25021,6 @@
 
 *** Chapter 67
 
-     
 
     *Of the resolution Don Quixote formed to turn shepherd and take to a life in the fields while the year for which he had
     given his word was running its course; with other events truly delectable and happy*
@@ -25263,7 +25141,6 @@
 
 *** Chapter 68
 
-     
 
     *Of the bristly adventure that befell Don Quixote*
 
@@ -25405,7 +25282,6 @@
 
 *** Chapter 69
 
-     
 
     *Of the strangest and most extraordinary adventure that befell Don Quixote in the whole course of this great history*
 
@@ -25557,7 +25433,6 @@
 
 *** Chapter 70
 
-     
 
     *Which follows sixty-nine and deals with matters indispensable for the clear comprehension of this history*
 
@@ -25729,7 +25604,6 @@
 
 *** Chapter 71
 
-     
 
     *Of what passed between Don Quixote and his squire Sancho on the way to their village*
 
@@ -25876,7 +25750,6 @@
 
 *** Chapter 72
 
-     
 
     *Of how Don Quixote and Sancho reached their village*
 
@@ -26000,7 +25873,6 @@
 
 *** Chapter 73
 
-     
 
     *Of the omens Don Quixote had as he entered his own village, and other incidents that embellish and give a colour to
     this great history*
@@ -26126,7 +25998,6 @@
 
 *** Chapter 74
 
-     
 
     *Of how Don Quixote fell sick, and of the will he made, and how he died*
 

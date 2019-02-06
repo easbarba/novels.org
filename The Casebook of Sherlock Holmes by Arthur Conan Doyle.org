@@ -36,9 +36,6 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 *** Preface
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     I fear that Mr. Sherlock Holmes may become like one of those popular tenors who, having outlived their time, are still
     tempted to make repeated farewell bows to their indulgent audiences. This must cease and he must go the way of all
