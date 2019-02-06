@@ -4,23 +4,6 @@
   [[https://www.gnu.org/software/emacs/][GNU Emacs]]
 
   [[http://www.orgzly.com/][Orgzly (Android)]]
-* Recommended Emacs Packages
-  [[https://github.com/kunalb/poet][Poet (Theme)]]
-
-  [[https://github.com/rlister/org-present][org-present-mode]]
-
-  [[https://github.com/hlissner/emacs-hide-mode-line][emacs-hide-mode-line]]
-* Brought to you with
-  *Books*: [[https://www.gutenberg.org/][Project Gutenberg]]
-
-  *Epub to Org*: [[https://pandoc.org/][Pandoc]]
-
-* Help us
-  - Send your Org Books
-  - Error reports
-  - Feature requests
-  - Suggestions
-
 * Licenses
   *Books*: Public Domain
 
