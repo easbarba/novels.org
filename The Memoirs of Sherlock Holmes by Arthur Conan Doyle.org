@@ -34,9 +34,6 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 ** Silver Blaze
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     "I am afraid, Watson, that I shall have to go," said Holmes, as we sat down together to our breakfast one morning.
 
@@ -818,9 +815,6 @@
     cigar in our rooms, Colonel, I shall be happy to give you any other details which might interest you."
 
 ** The Yellow Face
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     [In publishing these short sketches based upon the numerous cases in which my companion's singular gifts have made us
     the listeners to, and eventually the actors in, some strange drama, it is only natural that I should dwell rather upon
@@ -1387,9 +1381,6 @@
     pains to a case than it deserves, kindly whisper 'Norbury' in my ear, and I shall be infinitely obliged to you."
 
 ** The Stock-broker's Clerk
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     Shortly after my marriage I had bought a connection in the Paddington district. Old Mr. Farquhar, from whom I purchased
     it, had at one time an excellent general practice; but his age, and an affliction of the nature of St. Vitus's dance
@@ -1992,9 +1983,6 @@
     for the police."
 
 ** The 'Gloria Scott'
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     "I have some papers here," said my friend Sherlock Holmes, as we sat one winter's night on either side of the fire,
     "which I really think, Watson, that it would be worth your while to glance over. These are the documents in the
@@ -2564,9 +2552,6 @@
     your service."
 
 ** The Musgrave Ritual
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     An anomaly which often struck me in the character of my friend Sherlock Holmes was that, although in his methods of
     thought he was the neatest and most methodical of mankind, and although also he affected a certain quiet primness of
@@ -3116,9 +3101,6 @@
     England and carried herself and the memory of her crime to some land beyond the seas."
 
 ** The Reigate Puzzle
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     It was some time before the health of my friend Mr. Sherlock Holmes recovered from the strain caused by his immense
     exertions in the spring of '87. The whole question of the Netherland-Sumatra Company and of the colossal schemes of
@@ -3752,9 +3734,6 @@
     country has been a distinct success, and I shall certainly return much invigorated to Baker Street to-morrow."
 
 ** The Crooked Man
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     One summer night, a few months after my marriage, I was seated by my own hearth smoking a last pipe and nodding over a
     novel, for my day's work had been an exhausting one. My wife had already gone upstairs, and the sound of the locking of
@@ -4276,9 +4255,6 @@
     will find the story in the first or second of Samuel."
 
 ** The Resident Patient
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     Glancing over the somewhat incoherent series of Memoirs with which I have endeavored to illustrate a few of the mental
     peculiarities of my friend Mr. Sherlock Holmes, I have been struck by the difficulty which I have experienced in picking
@@ -4915,9 +4891,6 @@
     and the Brook Street Mystery, as it was called, has never until now been fully dealt with in any public print.
 
 ** The Greek Interpreter
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     During my long and intimate acquaintance with Mr. Sherlock Holmes I had never heard him refer to his relations, and
     hardly ever to his own early life. This reticence upon his part had increased the somewhat inhuman effect which he
@@ -5523,9 +5496,6 @@
     wrongs of herself and her brother came to be avenged.
 
 ** The Naval Treaty
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     The July which immediately succeeded my marriage was made memorable by three cases of interest, in which I had the
     privilege of being associated with Sherlock Holmes and of studying his methods. I find them recorded in my notes under
@@ -6684,9 +6654,6 @@
     gentleman to whose mercy I should be extremely unwilling to trust."
 
 ** The Final Problem
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     It is with a heavy heart that I take up my pen to write these the last words in which I shall ever record the singular
     gifts by which my friend Mr. Sherlock Holmes was distinguished. In an incoherent and, as I deeply feel, an entirely

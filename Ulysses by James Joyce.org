@@ -24,9 +24,6 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 ** Part 1
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
 
    Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay
    crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air. He held the bowl
@@ -1967,9 +1964,6 @@
    brailed up on the crosstrees, homing, upstream, silently moving, a silent ship. +
 
 ** Part 2
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
 
    Mr Leopold Bloom ate with relish the inner organs of beasts and fowls. He liked thick giblet soup, nutty gizzards, a
    stuffed roast heart, liverslices fried with crustcrumbs, fried hencods' roes. Most of all he liked grilled mutton
@@ -19301,9 +19295,6 @@
  lambkin peeps out of his waistcoat pocket.)/
 
 ** Part 3
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
 
    Preparatory to anything else Mr Bloom brushed off the greater bulk of the shavings and handed Stephen the hat and
    ashplant and bucked him up generally in orthodox Samaritan fashion which he very badly needed. His (Stephen's) mind was

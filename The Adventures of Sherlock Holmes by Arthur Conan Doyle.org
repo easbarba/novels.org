@@ -38,13 +38,7 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 ** Part 1 - A SCANDAL IN BOHEMIA
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
-
 *** Chapter 1
-
-     
 
     To Sherlock Holmes she is always THE woman. I have seldom heard him mention her under any other name. In his eyes she
     eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All
@@ -858,10 +852,6 @@
     of the woman.
 
 ** Part 2 - THE RED-HEADED LEAGUE
-  :PROPERTIES:
-  :style: text-align: center;
-  :END:
-
 
   I had called upon my friend, Mr. Sherlock Holmes, one day in the autumn of last year and found him in deep conversation
   with a very stout, florid-faced, elderly gentleman with fiery red hair. With an apology for my intrusion, I was about to
@@ -1612,10 +1602,6 @@
   rien---l'oeuvre c'est tout,' as Gustave Flaubert wrote to George Sand."
 
 ** Part 3 - A CASE OF IDENTITY
-  :PROPERTIES:
-  :style: text-align: center;
-  :END:
-
 
   "My dear fellow," said Sherlock Holmes as we sat on either side of the fire in his lodgings at Baker Street, "life is
   infinitely stranger than anything which the mind of man could invent. We would not dare to conceive the things which are
@@ -2146,10 +2132,6 @@
   and as much knowledge of the world."
 
 ** Part 4 - THE BOSCOMBE VALLEY MYSTERY
-  :PROPERTIES:
-  :style: text-align: center;
-  :END:
-
 
   We were seated at breakfast one morning, my wife and I, when the maid brought in a telegram. It was from Sherlock Holmes
   and ran in this way:
@@ -2916,10 +2898,6 @@
   which rests upon their past.
 
 ** Part 5 - THE FIVE ORANGE PIPS
-  :PROPERTIES:
-  :style: text-align: center;
-  :END:
-
 
   When I glance over my notes and records of the Sherlock Holmes cases between the years '82 and '90, I am faced by so
   many which present strange and interesting features that it is no easy matter to know which to choose and which to
@@ -3534,10 +3512,6 @@
   of the fate of the "Lone Star."
 
 ** Part 6 - THE MAN WITH THE TWISTED LIP
-  :PROPERTIES:
-  :style: text-align: center;
-  :END:
-
 
   Isa Whitney, brother of the late Elias Whitney, D.D., Principal of the Theological College of St. George's, was much
   addicted to opium. The habit grew upon him, as I understand, from some foolish freak when he was at college; for having
@@ -4310,10 +4284,6 @@
   that if we drive to Baker Street we shall just be in time for breakfast."
 
 ** Part 7 - THE ADVENTURE OF THE BLUE CARBUNCLE
-  :PROPERTIES:
-  :style: text-align: center;
-  :END:
-
 
   I had called upon my friend Sherlock Holmes upon the second morning after Christmas, with the intention of wishing him
   the compliments of the season. He was lounging upon the sofa in a purple dressing-gown, a pipe-rack within his reach
@@ -4997,10 +4967,6 @@
   investigation, in which, also a bird will be the chief feature."
 
 ** Part 8 - THE ADVENTURE OF THE SPECKLED BAND
-  :PROPERTIES:
-  :style: text-align: center;
-  :END:
-
 
   On glancing over my notes of the seventy odd cases in which I have during the last eight years studied the methods of my
   friend Sherlock Holmes, I find many tragic, some comic, a large number merely strange, but none commonplace; for,
@@ -5833,10 +5799,6 @@
   conscience."
 
 ** Part 9 - THE ADVENTURE OF THE ENGINEER'S THUMB
-  :PROPERTIES:
-  :style: text-align: center;
-  :END:
-
 
   Of all the problems which have been submitted to my friend, Mr. Sherlock Holmes, for solution during the years of our
   intimacy, there were only two which I was the means of introducing to his notice---that of Mr. Hatherley's thumb, and
@@ -6482,10 +6444,6 @@
   gain the reputation of being excellent company for the remainder of your existence."
 
 ** Part 10 - THE ADVENTURE OF THE NOBLE BACHELOR
-  :PROPERTIES:
-  :style: text-align: center;
-  :END:
-
 
   The Lord St. Simon marriage, and its curious termination, have long ceased to be a subject of interest in those exalted
   circles in which the unfortunate bridegroom moves. Fresh scandals have eclipsed it, and their more piquant details have
@@ -7200,10 +7158,6 @@
   and hand me my violin, for the only problem we have still to solve is how to while away these bleak autumnal evenings."
 
 ** Part 11 - THE ADVENTURE OF THE BERYL CORONET
-  :PROPERTIES:
-  :style: text-align: center;
-  :END:
-
 
   "Holmes," said I as I stood one morning in our bow-window looking down the street, "here is a madman coming along. It
   seems rather sad that his relatives should allow him to come out alone."
@@ -7966,10 +7920,6 @@
   too, that whatever her sins are, they will soon receive a more than sufficient punishment."
 
 ** Part 12 - THE ADVENTURE OF THE COPPER BEECHES
-  :PROPERTIES:
-  :style: text-align: center;
-  :END:
-
 
   "To the man who loves art for its own sake," remarked Sherlock Holmes, tossing aside the advertisement sheet of the
   Daily Telegraph, "it is frequently in its least important and lowliest manifestations that the keenest pleasure is to be

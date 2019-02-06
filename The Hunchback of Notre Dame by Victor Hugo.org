@@ -97,9 +97,6 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 *** PREFACE
-    :PROPERTIES:
-    :CLASS:    section_title
-    :END:
 
     A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an
     obscure nook of one of the towers, the following word, engraved by hand upon the wall:---
@@ -128,9 +125,6 @@
     March, 1831.
 
 ** Part 1
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
 **** Chapter 1 THE GRAND HALL
 
      Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all
@@ -1628,9 +1622,6 @@
     What is that word, in the first place?--- 'tis Egyptian!”
 
 ** Part 2
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
 **** Chapter 1 FROM CHARYBDIS TO SCYLLA
 
      Night comes on early in January. The streets were already dark when Gringoire issued forth from the Courts. This gloom
@@ -3189,9 +3180,6 @@
      a pity. There was something innocent and antediluvian about that broken crock, which quite pleased me.”
 
 ** Part 3
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
 *** Chapter 1 NOTRE-DAME
 
     The church of Notre-Dame de Paris is still no doubt, a majestic and sublime edifice. But, beautiful as it has been
@@ -3963,10 +3951,6 @@
     but an orchestra,--- than this symphony which produces the noise of a tempest.
 
 ** Part 4
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
-
 **** Chapter 1 GOOD SOULS
 
      Sixteen years previous to the epoch when this story takes place, one fine morning, on Quasimodo Sunday, a living
@@ -4596,10 +4580,6 @@
     these gracious things, and Claude was too dreamy.
 
 ** Part 5
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
-
 *** Chapter 1 ABBAS BEATI MARTINI
 
     Dom Claude's fame had spread far and wide. It procured for him, at about the epoch when he refused to see Madame de
@@ -5278,10 +5258,6 @@
     intelligence, a new Flood against an overflow of barbarians. It is the second tower of Babel of the human race.
 
 ** Part 6
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
-
 *** Chapter 1 AN IMPARTIAL GLANCE AT THE ANCIENT MAGISTRACY
 
     A very happy personage in the year of grace 1482, was the noble gentleman Robert d'Estouteville, chevalier, Sieur de
@@ -6578,9 +6554,6 @@
     captain. Just let me catch you at it again, Master Eustache. Come along, you greedy fellow!”
 
 ** Part 7
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
 **** Chapter 1 THE DANGER OF CONFIDING ONE'S SECRET TO A GOAT
 
      Many weeks had elapsed.
@@ -8681,9 +8654,6 @@
      “'Tis a sorceress who has stabbed a captain.”
 
 ** Part 8
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
 **** Chapter 1 THE CROWN CHANGED INTO A DRY LEAF
 
      Gringoire and the entire Court of Miracles were suffering mortal anxiety. For a whole month they had not known what had
@@ -10322,9 +10292,6 @@
      Grève on the other bank, and the recluse who was still waiting with her eyes riveted on the gibbet.
 
 ** Part 9
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
 ***** Chapter 1 DELIRIUM
 
       Claude Frollo was no longer in Notre-Dame when his adopted son so abruptly cut the fatal web in which the archdeacon and
@@ -11325,9 +11292,6 @@
       He repeated with a thoughtful air his fatal words: “No one shall have her.”
 
 ** Part 10
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
 *** Chapter 1 GRINGOIRE HAS MANY GOOD IDEAS IN SUCCESSION.--- RUE DES BERNARDINS
 
     As soon as Pierre Gringoire had seen how this whole affair was turning, and that there would decidedly be the rope,
@@ -13695,9 +13659,6 @@
     When he entered the cell, he found it empty.
 
 ** Part 11
-   :PROPERTIES:
-   :style:    text-align: center;
-   :END:
 *** Chapter 1 THE LITTLE SHOE
 
     La Esmeralda was sleeping at the moment when the outcasts assailed the church.

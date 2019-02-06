@@ -183,9 +183,6 @@
 
 
 **** The Author's Preface
-     :PROPERTIES:
-     :CLASS:    section_title
-     :END:
 
      Idle reader: thou mayest believe me without any oath that I would this book, as it is the child of my brain, were the
      fairest, gayest, and cleverest that could be imagined. But I could not counteract Nature's law that everything shall

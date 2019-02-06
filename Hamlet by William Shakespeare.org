@@ -10374,7 +10374,3 @@
      #+END_QUOTE
 
 
-# * LOCAL VARIABLES
-# Local Variables:
-# eval: (read-only-mode)
-# End:
