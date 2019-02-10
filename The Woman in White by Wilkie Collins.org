@@ -1,25 +1,6 @@
 #+TITLE: The Woman in White
 #+AUTHOR: Wilkie Collins
 
-* Table of Contents
-- [[#the-woman-in-white][The Woman in White]]
-  - [[#wilkie-collins][Wilkie Collins]]
-  - [[#part-1---first-epoch][Part 1 - First Epoch]]
-    - [[#chapter-1-the-story-begun-by-walter-hartright-of-clements-inn-teacher-of-drawing][Chapter 1 The Story Begun by Walter Hartright (of Clement's Inn, Teacher of Drawing)]]
-    - [[#chapter-2-the-story-continued-by-vincent-gilmore-of-chancery-lane-solicitor][Chapter 2 The Story Continued by Vincent Gilmore (of Chancery Lane, Solicitor)]]
-    - [[#chapter-3-the-story-continued-by-marian-halcombe-in-extracts-from-her-diary][Chapter 3 The Story Continued by Marian Halcombe (in Extracts from her Diary)]]
-  - [[#part-2---second-epoch][Part 2 - Second Epoch]]
-    - [[#chapter-1-the-story-continued-by-marian-halcombe][Chapter 1 The Story Continued by Marian Halcombe]]
-    - [[#chapter-2-the-story-continued-by-frederick-fairlie-esq-of-limmeridge-house][Chapter 2 The Story Continued by Frederick Fairlie, Esq., of Limmeridge House]]
-    - [[#chapter-3-the-story-continued-by-eliza-michelson-housekeeper-at-blackwater-park][Chapter 3 The Story Continued by Eliza Michelson (Housekeeper at Blackwater Park)]]
-    - [[#chapter-4-the-story-continued-in-several-narratives][Chapter 4 The Story Continued in Several Narratives]]
-  - [[#part-3---third-epoch][Part 3 - Third Epoch]]
-    - [[#chapter-1-the-story-continued-by-walter-hartright][Chapter 1 The Story Continued by Walter Hartright]]
-    - [[#chapter-2-the-story-continued-by-mrs-catherick][Chapter 2 The Story Continued by Mrs. Catherick]]
-    - [[#chapter-3-the-story-continued-by-walter-hartright][Chapter 3 The Story Continued by Walter Hartright]]
-    - [[#chapter-4-the-story-continued-by-isidore-ottavio-baldassare-fosco][Chapter 4 The Story Continued by Isidore, Ottavio, Baldassare Fosco]]
-    - [[#chapter-5-the-story-continued-by-walter-hartright][Chapter 5 The Story Continued by Walter Hartright]]
-
 * The Woman in White
 ** Wilkie Collins
    *Published:* 1860

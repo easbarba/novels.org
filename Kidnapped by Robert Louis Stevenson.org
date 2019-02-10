@@ -1,42 +1,6 @@
 #+TITLE: Kidnapped
 #+AUTHOR: Robert Louis Stevenson
 
-* Table of Contents
-- [[#kidnapped][Kidnapped]]
-  - [[#robert-louis-stevenson][Robert Louis Stevenson]]
-    - [[#preface-to-the-biographical-edition][PREFACE TO THE BIOGRAPHICAL EDITION]]
-    - [[#dedication][DEDICATION]]
-  - [[#chapter-1-i-set-off-upon-my-journey-to-the-house-of-shaws][Chapter 1 I SET OFF UPON MY JOURNEY TO THE HOUSE OF SHAWS]]
-  - [[#chapter-2-i-come-to-my-journeys-end][Chapter 2 I COME TO MY JOURNEY'S END]]
-  - [[#chapter-3-i-make-acquaintance-of-my-uncle][Chapter 3 I MAKE ACQUAINTANCE OF MY UNCLE]]
-  - [[#chapter-4-i-run-a-great-danger-in-the-house-of-shaws][Chapter 4 I RUN A GREAT DANGER IN THE HOUSE OF SHAWS]]
-  - [[#chapter-5-i-go-to-the-queens-ferry][Chapter 5 I GO TO THE QUEEN'S FERRY]]
-  - [[#chapter-6-what-befell-at-the-queens-ferry][Chapter 6 WHAT BEFELL AT THE QUEEN'S FERRY]]
-  - [[#chapter-7-i-go-to-sea-in-the-brig-covenant-of-dysart][Chapter 7 I GO TO SEA IN THE BRIG "COVENANT" OF DYSART]]
-  - [[#chapter-8-the-round-house][Chapter 8 THE ROUND-HOUSE]]
-  - [[#chapter-9-the-man-with-the-belt-of-gold][Chapter 9 THE MAN WITH THE BELT OF GOLD]]
-  - [[#chapter-10-the-siege-of-the-round-house][Chapter 10 THE SIEGE OF THE ROUND-HOUSE]]
-  - [[#chapter-11-the-captain-knuckles-under][Chapter 11 THE CAPTAIN KNUCKLES UNDER]]
-  - [[#chapter-12-i-hear-of-the-red-fox][Chapter 12 I HEAR OF THE "RED FOX"]]
-  - [[#chapter-13-the-loss-of-the-brig][Chapter 13 THE LOSS OF THE BRIG]]
-  - [[#chapter-14-the-islet][Chapter 14 THE ISLET]]
-  - [[#chapter-15-the-lad-with-the-silver-button-through-the-isle-of-mull][Chapter 15 THE LAD WITH THE SILVER BUTTON: THROUGH THE ISLE OF MULL]]
-  - [[#chapter-16-the-lad-with-the-silver-button-across-morven][Chapter 16 THE LAD WITH THE SILVER BUTTON: ACROSS MORVEN]]
-  - [[#chapter-17-the-death-of-the-red-fox][Chapter 17 THE DEATH OF THE RED FOX]]
-  - [[#chapter-18-i-talk-with-alan-in-the-wood-of-lettermore][Chapter 18 I TALK WITH ALAN IN THE WOOD OF LETTERMORE]]
-  - [[#chapter-19-the-house-of-fear][Chapter 19 THE HOUSE OF FEAR]]
-  - [[#chapter-20-the-flight-in-the-heather-the-rocks][Chapter 20 THE FLIGHT IN THE HEATHER: THE ROCKS]]
-  - [[#chapter-21-the-flight-in-the-heather-the-heugh-of-corrynakiegh][Chapter 21 THE FLIGHT IN THE HEATHER: THE HEUGH OF CORRYNAKIEGH]]
-  - [[#chapter-22-the-flight-in-the-heather-the-moor][Chapter 22 THE FLIGHT IN THE HEATHER: THE MOOR]]
-  - [[#chapter-23-clunys-cage][Chapter 23 CLUNY'S CAGE]]
-  - [[#chapter-24-the-flight-in-the-heather-the-quarrel][Chapter 24 THE FLIGHT IN THE HEATHER: THE QUARREL]]
-  - [[#chapter-25-in-balquhidder][Chapter 25 IN BALQUHIDDER]]
-  - [[#chapter-26-end-of-the-flight-we-pass-the-forth][Chapter 26 END OF THE FLIGHT: WE PASS THE FORTH]]
-  - [[#chapter-27-i-come-to-mr-rankeillor][Chapter 27 I COME TO MR. RANKEILLOR]]
-  - [[#chapter-28-i-go-in-quest-of-my-inheritance][Chapter 28 I GO IN QUEST OF MY INHERITANCE]]
-  - [[#chapter-29-i-come-into-my-kingdom][Chapter 29 I COME INTO MY KINGDOM]]
-  - [[#chapter-30-good-bye][Chapter 30 GOOD-BYE]]
-
 * Kidnapped
 ** Robert Louis Stevenson
    *Published:* 1886

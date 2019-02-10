@@ -1,27 +1,6 @@
 #+TITLE: The Valley of Fear
 #+AUTHOR: Arthur Conan Doyle
 
-* Table of Contents
-- [[#the-valley-of-fear][The Valley of Fear]]
-  - [[#arthur-conan-doyle][Arthur Conan Doyle]]
-  - [[#part-1---the-tragedy-of-birlstone][Part 1 - The Tragedy of Birlstone]]
-    - [[#chapter-1-the-warning][Chapter 1 The Warning]]
-    - [[#chapter-2-sherlock-holmes-discourses][Chapter 2 Sherlock Holmes Discourses]]
-    - [[#chapter-3-the-tragedy-of-birlstone][Chapter 3 The Tragedy of Birlstone]]
-    - [[#chapter-4-darkness][Chapter 4 Darkness]]
-    - [[#chapter-5-the-people-of-the-drama][Chapter 5 The People of the Drama]]
-    - [[#chapter-6-a-dawning-light][Chapter 6 A Dawning Light]]
-    - [[#chapter-7-the-solution][Chapter 7 The Solution]]
-  - [[#part-2---the-scowrers][Part 2 - The Scowrers]]
-    - [[#chapter-1-the-man][Chapter 1 The Man]]
-    - [[#chapter-2-the-bodymaster][Chapter 2 The Bodymaster]]
-    - [[#chapter-3-lodge-341-vermissa][Chapter 3 Lodge 341, Vermissa]]
-    - [[#chapter-4-the-valley-of-fear][Chapter 4 The Valley of Fear]]
-    - [[#chapter-5-the-darkest-hour][Chapter 5 The Darkest Hour]]
-    - [[#chapter-6-danger][Chapter 6 Danger]]
-    - [[#chapter-7-the-trapping-of-birdy-edwards][Chapter 7 The Trapping of Birdy Edwards]]
-    - [[#chapter-8-epilogue][Chapter 8 Epilogue]]
-
 * The Valley of Fear
 ** Arthur Conan Doyle
    *Published:* 1915

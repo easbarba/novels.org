@@ -1,11 +1,6 @@
 #+TITLE: The Raven
 #+AUTHOR: Edgar Allan Poe
 
-* Table of Contents
-- [[#the-raven][The Raven]]
-  - [[#edgar-allan-poe][Edgar Allan Poe]]
-  - [[#story][Story]]
-
 * The Raven
 ** Edgar Allan Poe
    *Published:* 1845

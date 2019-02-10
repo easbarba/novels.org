@@ -1,39 +1,6 @@
 #+TITLE: The War of the Worlds
 #+AUTHOR: H. G. Wells
 
-* Table of Contents
-- [[#the-war-of-the-worlds][The War of the Worlds]]
-  - [[#h-g-wells][H. G. Wells]]
-  - [[#part-1---the-coming-of-the-martians][Part 1 - The Coming of the Martians]]
-    - [[#chapter-1-the-eve-of-the-war][Chapter 1 The Eve of the War]]
-    - [[#chapter-2-the-falling-star][Chapter 2 The Falling Star]]
-    - [[#chapter-3-on-horsell-common][Chapter 3 On Horsell Common]]
-    - [[#chapter-4-the-cylinder-opens][Chapter 4 The Cylinder Opens]]
-    - [[#chapter-5-the-heat-ray][Chapter 5 The Heat Ray]]
-    - [[#chapter-6-the-heat-ray-in-the-chobham-road][Chapter 6 The Heat-Ray in the Chobham Road]]
-    - [[#chapter-7-how-i-reached-home][Chapter 7 How I Reached Home]]
-    - [[#chapter-8-friday-night][Chapter 8 Friday Night]]
-    - [[#chapter-9-the-fighting-begins][Chapter 9 The Fighting Begins]]
-    - [[#chapter-10-in-the-storm][Chapter 10 In the Storm]]
-    - [[#chapter-11-at-the-window][Chapter 11 At the Window]]
-    - [[#chapter-12-what-i-saw-of-the-destruction-of-weybridge-and-shepperton][Chapter 12 What I Saw of the Destruction of Weybridge and Shepperton]]
-    - [[#chapter-13-how-i-fell-in-with-the-curate][Chapter 13 How I Fell in with the Curate]]
-    - [[#chapter-14-in-london][Chapter 14 In London]]
-    - [[#chapter-15-what-had-happened-in-surrey][Chapter 15 What Had Happened in Surrey]]
-    - [[#chapter-16-the-exodus-from-london][Chapter 16 The Exodus from London]]
-    - [[#chapter-17-the-thunder-child][Chapter 17 The "Thunder Child"]]
-  - [[#part-2---the-earth-under-the-martians][Part 2 - The Earth Under the Martians]]
-    - [[#chapter-1-under-foot][Chapter 1 Under Foot]]
-    - [[#chapter-2-what-we-saw-from-the-ruined-house][Chapter 2 What We Saw from the Ruined House]]
-    - [[#chapter-3-the-days-of-imprisonment][Chapter 3 The Days of Imprisonment]]
-    - [[#chapter-4-the-death-of-the-curate][Chapter 4 The Death of the Curate]]
-    - [[#chapter-5-the-stillness][Chapter 5 The Stillness]]
-    - [[#chapter-6-the-work-of-fifteen-days][Chapter 6 The Work of Fifteen Days]]
-    - [[#chapter-7-the-man-on-putney-hill][Chapter 7 The Man on Putney Hill]]
-    - [[#chapter-8-dead-london][Chapter 8 Dead London]]
-    - [[#chapter-9-wreckage][Chapter 9 Wreckage]]
-    - [[#chapter-10-the-epilogue][Chapter 10 The Epilogue]]
-
 * The War of the Worlds
 ** H. G. Wells
    *Published:* 1898

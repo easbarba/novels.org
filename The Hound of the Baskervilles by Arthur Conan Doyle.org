@@ -1,25 +1,6 @@
 #+TITLE: The Hound of the Baskervilles
 #+AUTHOR: Arthur Conan Doyle
 
-* Table of Contents
-- [[#the-hound-of-the-baskervilles][The Hound of the Baskervilles]]
-  - [[#arthur-conan-doyle][Arthur Conan Doyle]]
-  - [[#chapter-1-mr-sherlock-holmes][Chapter 1 Mr. Sherlock Holmes]]
-  - [[#chapter-2-the-curse-of-the-baskervilles][Chapter 2 The Curse of the Baskervilles]]
-  - [[#chapter-3-the-problem][Chapter 3 The Problem]]
-  - [[#chapter-4-sir-henry-baskerville][Chapter 4 Sir Henry Baskerville]]
-  - [[#chapter-5-three-broken-threads][Chapter 5 Three Broken Threads]]
-  - [[#chapter-6-baskerville-hall][Chapter 6 Baskerville Hall]]
-  - [[#chapter-7-the-stapletons-of-merripit-house][Chapter 7 The Stapletons of Merripit House]]
-  - [[#chapter-8-first-report-of-dr-watson][Chapter 8 First Report of Dr. Watson]]
-  - [[#chapter-9-the-light-upon-the-moor][Chapter 9 The Light upon the Moor]]
-  - [[#chapter-10-extract-from-the-diary-of-dr-watson][Chapter 10 Extract from the Diary of Dr. Watson]]
-  - [[#chapter-11-the-man-on-the-tor][Chapter 11 The Man on the Tor]]
-  - [[#chapter-12-death-on-the-moor][Chapter 12 Death on the Moor]]
-  - [[#chapter-13-fixing-the-nets][Chapter 13 Fixing the Nets]]
-  - [[#chapter-14-the-hound-of-the-baskervilles][Chapter 14 The Hound of the Baskervilles]]
-  - [[#chapter-15-a-retrospection][Chapter 15 A Retrospection]]
-
 * The Hound of the Baskervilles
 ** Arthur Conan Doyle
    *Published:* 1902

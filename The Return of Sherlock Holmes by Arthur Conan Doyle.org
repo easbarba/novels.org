@@ -1,23 +1,6 @@
 #+TITLE: The Return of Sherlock Holmes
 #+AUTHOR: Arthur Conan Doyle
 
-* Table of Contents
-- [[#the-return-of-sherlock-holmes][The Return of Sherlock Holmes]]
-  - [[#arthur-conan-doyle][Arthur Conan Doyle]]
-  - [[#chapter-1-the-adventure-of-the-empty-house][Chapter 1 The Adventure of the Empty House]]
-  - [[#chapter-2-the-adventure-of-the-norwood-builder][Chapter 2 The Adventure of the Norwood Builder]]
-  - [[#chapter-3-the-adventure-of-the-dancing-men][Chapter 3 The Adventure of the Dancing Men]]
-  - [[#chapter-4-the-adventure-of-the-solitary-cyclist][Chapter 4 The Adventure of the Solitary Cyclist]]
-  - [[#chapter-5-the-adventure-of-the-priory-school][Chapter 5 The Adventure of the Priory School]]
-  - [[#chapter-6-the-adventure-of-black-peter][Chapter 6 The Adventure of Black Peter]]
-  - [[#chapter-7-the-adventure-of-charles-augustus-milverton][Chapter 7 The Adventure of Charles Augustus Milverton]]
-  - [[#chapter-8-the-adventure-of-the-six-napoleons][Chapter 8 The Adventure of the Six Napoleons]]
-  - [[#chapter-9-the-adventure-of-the-three-students][Chapter 9 The Adventure of the Three Students]]
-  - [[#chapter-10-the-adventure-of-the-golden-pince-nez][Chapter 10 The Adventure of the Golden Pince-Nez]]
-  - [[#chapter-11-the-adventure-of-the-missing-three-quarter][Chapter 11 The Adventure of the Missing Three-Quarter]]
-  - [[#chapter-12-the-adventure-of-the-abbey-grange][Chapter 12 The Adventure of the Abbey Grange]]
-  - [[#chapter-13-the-adventure-of-the-second-stain][Chapter 13 The Adventure of the Second Stain]]
-
 * The Return of Sherlock Holmes
 ** Arthur Conan Doyle
    *Published:* 1905

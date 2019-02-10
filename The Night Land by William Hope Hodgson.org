@@ -1,28 +1,6 @@
 #+TITLE: The Night Land
 #+AUTHOR: William Hope Hodgson
 
-* Table of Contents
-- [[#the-night-land][The Night Land]]
-  - [[#william-hope-hodgson][William Hope Hodgson]]
-    - [[#the-dreams-that-are-only-dreams][THE DREAMS THAT ARE ONLY DREAMS]]
-  - [[#chapter-1-mirdath-the-beautiful][Chapter 1 MIRDATH THE BEAUTIFUL]]
-  - [[#chapter-2-the-last-redoubt][Chapter 2 THE LAST REDOUBT]]
-  - [[#chapter-3-the-quiet-calling][Chapter 3 THE QUIET CALLING]]
-  - [[#chapter-4-the-hushing-of-the-voice][Chapter 4 THE HUSHING OF THE VOICE]]
-  - [[#chapter-5-into-the-night-land][Chapter 5 INTO THE NIGHT LAND]]
-  - [[#chapter-6-the-way-that-i-did-go][Chapter 6 THE WAY THAT I DID GO]]
-  - [[#chapter-7-the-night-land][Chapter 7 THE NIGHT LAND]]
-  - [[#chapter-8-down-the-mighty-slope][Chapter 8 DOWN THE MIGHTY SLOPE]]
-  - [[#chapter-9-the-dark-pyramid][Chapter 9 THE DARK PYRAMID]]
-  - [[#chapter-10-the-maid-of-the-olden-days][Chapter 10 THE MAID OF THE OLDEN DAYS]]
-  - [[#chapter-11-the-homeward-way][Chapter 11 THE HOMEWARD WAY]]
-  - [[#chapter-12-downward-of-the-gorge][Chapter 12 DOWNWARD OF THE GORGE]]
-  - [[#chapter-13-homeward-by-the-shore][Chapter 13 HOMEWARD BY THE SHORE]]
-  - [[#chapter-14-on-the-island][Chapter 14 ON THE ISLAND]]
-  - [[#chapter-15-past-the-house-of-silence][Chapter 15 PAST THE HOUSE OF SILENCE]]
-  - [[#chapter-16-in-the-country-of-silence][Chapter 16 IN THE COUNTRY OF SILENCE]]
-  - [[#chapter-17-the-love-days][Chapter 17 THE LOVE DAYS]]
-
 * The Night Land
 ** William Hope Hodgson
    *Published:* 1912

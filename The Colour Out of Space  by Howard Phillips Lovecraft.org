@@ -1,11 +1,6 @@
 #+TITLE: The Colour Out of Space
 #+AUTHOR: Howard Phillips Lovecraft
 
-* Table of Contents
-- [[#the-colour-out-of-space][The Colour Out of Space]]
-  - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
-  - [[#story][Story]]
-
 * The Colour Out of Space
 ** Howard Phillips Lovecraft
    *Published:* 1927

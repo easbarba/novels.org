@@ -1,25 +1,6 @@
 #+TITLE: Tales of Space and Time
 #+AUTHOR: H. G. Wells
 
-* Table of Contents
-- [[#tales-of-space-and-time][Tales of Space and Time]]
-  - [[#h-g-wells][H. G. Wells]]
-  - [[#part-1---the-crystal-egg][Part 1 - THE CRYSTAL EGG]]
-  - [[#part-2---the-star][Part 2 - THE STAR]]
-  - [[#part-3---a-story-of-the-stone-age][Part 3 - A STORY OF THE STONE AGE]]
-    - [[#chapter-1-ugh-lomi-and-uya][Chapter 1 UGH-LOMI AND UYA]]
-    - [[#chapter-2-the-cave-bear][Chapter 2 THE CAVE BEAR]]
-    - [[#chapter-3-the-first-horseman][Chapter 3 THE FIRST HORSEMAN]]
-    - [[#chapter-4-uya-the-lion][Chapter 4 UYA THE LION]]
-    - [[#chapter-5-the-fight-in-the-lions-thicket][Chapter 5 THE FIGHT IN THE LION'S THICKET]]
-  - [[#part-4---a-story-of-the-days-to-come][Part 4 - A STORY OF THE DAYS TO COME]]
-    - [[#chapter-1-the-cure-for-love][Chapter 1 THE CURE FOR LOVE]]
-    - [[#chapter-2-the-vacant-country][Chapter 2 THE VACANT COUNTRY]]
-    - [[#chapter-3-the-ways-of-the-city][Chapter 3 THE WAYS OF THE CITY]]
-    - [[#chapter-4-underneath][Chapter 4 UNDERNEATH]]
-    - [[#chapter-5-bindon-intervenes][Chapter 5 BINDON INTERVENES]]
-  - [[#part-5---the-man-who-could-work-miracles][Part 5 - THE MAN WHO COULD WORK MIRACLES]]
-
 * Tales of Space and Time
 ** H. G. Wells
    *Published:* 1900

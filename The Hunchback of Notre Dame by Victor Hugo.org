@@ -1,46 +1,6 @@
 #+TITLE: The Hunchback of Notre Dame
 #+AUTHOR: Victor Hugo
 
-* Table of Contents
-- [[#the-hunchback-of-notre-dame][The Hunchback of Notre Dame]]
-  - [[#victor-hugo][Victor Hugo]]
-    - [[#preface][PREFACE]]
-  - [[#part-1][Part 1]]
-    - [[#chapter-5-quasimodo][Chapter 5 QUASIMODO]]
-    - [[#chapter-6-esmeralda][Chapter 6 ESMERALDA]]
-  - [[#part-2][Part 2]]
-  - [[#part-3][Part 3]]
-    - [[#chapter-1-notre-dame][Chapter 1 NOTRE-DAME]]
-    - [[#chapter-2-a-birds-eye-view-of-paris][Chapter 2 A BIRD'S-EYE VIEW OF PARIS]]
-  - [[#part-4][Part 4]]
-    - [[#chapter-5-more-about-claude-frollo][Chapter 5 MORE ABOUT CLAUDE FROLLO]]
-    - [[#chapter-6-unpopularity][Chapter 6 UNPOPULARITY]]
-  - [[#part-5][Part 5]]
-    - [[#chapter-1-abbas-beati-martini][Chapter 1 ABBAS BEATI MARTINI]]
-    - [[#chapter-2-this-will-kill-that][Chapter 2 THIS WILL KILL THAT]]
-  - [[#part-6][Part 6]]
-    - [[#chapter-1-an-impartial-glance-at-the-ancient-magistracy][Chapter 1 AN IMPARTIAL GLANCE AT THE ANCIENT MAGISTRACY]]
-    - [[#chapter-2-the-rat-hole][Chapter 2 THE RAT-HOLE]]
-    - [[#chapter-3-history-of-a-leavened-cake-of-maize][Chapter 3 HISTORY OF A LEAVENED CAKE OF MAIZE]]
-    - [[#chapter-4-a-tear-for-a-drop-of-water][Chapter 4 A TEAR FOR A DROP OF WATER]]
-    - [[#chapter-5-end-of-the-story-of-the-cake][Chapter 5 END OF THE STORY OF THE CAKE]]
-  - [[#part-7][Part 7]]
-  - [[#part-8][Part 8]]
-  - [[#part-9][Part 9]]
-  - [[#part-10][Part 10]]
-    - [[#chapter-1-gringoire-has-many-good-ideas-in-succession----rue-des-bernardins][Chapter 1 GRINGOIRE HAS MANY GOOD IDEAS IN SUCCESSION.--- RUE DES BERNARDINS]]
-    - [[#chapter-2-turn-vagabond][Chapter 2 TURN VAGABOND]]
-    - [[#chapter-3-long-live-mirth][Chapter 3 LONG LIVE MIRTH]]
-    - [[#chapter-4-an-awkward-friend][Chapter 4 AN AWKWARD FRIEND]]
-    - [[#chapter-5-the-retreat-in-which-monsieur-louis-of-france-says-his-prayers][Chapter 5 THE RETREAT IN WHICH MONSIEUR LOUIS OF FRANCE SAYS HIS PRAYERS]]
-    - [[#chapter-6-little-sword-in-pocket][Chapter 6 LITTLE SWORD IN POCKET]]
-    - [[#chapter-7-chateaupers-to-the-rescue][Chapter 7 CHATEAUPERS TO THE RESCUE]]
-  - [[#part-11][Part 11]]
-    - [[#chapter-1-the-little-shoe][Chapter 1 THE LITTLE SHOE]]
-    - [[#chapter-2-the-beautiful-creature-clad-in-white-dante][Chapter 2 THE BEAUTIFUL CREATURE CLAD IN WHITE. (Dante.)]]
-    - [[#chapter-3-the-marriage-of-phoebus][Chapter 3 THE MARRIAGE OF PHOEBUS]]
-    - [[#chapter-4-the-marriage-of-quasimodo][Chapter 4 THE MARRIAGE OF QUASIMODO]]
-
 * The Hunchback of Notre Dame
 ** Victor Hugo
    *Published:* 1831

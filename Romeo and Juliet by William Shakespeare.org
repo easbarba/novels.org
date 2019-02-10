@@ -1,41 +1,6 @@
 #+TITLE: Romeo and Juliet
 #+AUTHOR: William Shakespeare
 
-* Table of Contents
-- [[#romeo-and-juliet][Romeo and Juliet]]
-  - [[#william-shakespeare][William Shakespeare]]
-  - [[#act-i][Act I]]
-    - [[#prologue][Prologue]]
-    - [[#scene-i-verona-a-public-place][SCENE I. Verona. A public place.]]
-    - [[#scene-ii-a-street][SCENE II. A street.]]
-    - [[#scene-iii-a-room-in-capulets-house][SCENE III. A room in Capulet's house.]]
-    - [[#scene-iv-a-street][SCENE IV. A street.]]
-    - [[#scene-v-a-hall-in-capulets-house][SCENE V. A hall in Capulet's house.]]
-  - [[#act-ii][Act II]]
-    - [[#prologue-1][Prologue]]
-    - [[#scene-i-a-lane-by-the-wall-of-capulets-orchard][SCENE I. A lane by the wall of Capulet's orchard.]]
-    - [[#scene-ii-capulets-orchard][SCENE II. Capulet's orchard.]]
-    - [[#scene-iii-friar-laurences-cell][SCENE III. Friar Laurence's cell.]]
-    - [[#scene-iv-a-street-1][SCENE IV. A street.]]
-    - [[#scene-v-capulets-orchard][SCENE V. Capulet's orchard.]]
-    - [[#scene-vi-friar-laurences-cell][SCENE VI. Friar Laurence's cell.]]
-  - [[#act-iii][Act III]]
-    - [[#scene-i-a-public-place][SCENE I. A public place.]]
-    - [[#scene-ii-capulets-orchard-1][SCENE II. Capulet's orchard.]]
-    - [[#scene-iii-friar-laurences-cell-1][SCENE III. Friar Laurence's cell.]]
-    - [[#scene-iv-a-room-in-capulets-house][SCENE IV. A room in Capulet's house.]]
-    - [[#scene-v-capulets-orchard-1][SCENE V. Capulet's orchard.]]
-  - [[#act-iv][Act IV]]
-    - [[#scene-i-friar-laurences-cell][SCENE I. Friar Laurence's cell.]]
-    - [[#scene-ii-hall-in-capulets-house][SCENE II. Hall in Capulet's house.]]
-    - [[#scene-iii-juliets-chamber][SCENE III. Juliet's chamber.]]
-    - [[#scene-iv-hall-in-capulets-house][SCENE IV. Hall in Capulet's house.]]
-    - [[#scene-v-juliets-chamber][SCENE V. Juliet's chamber.]]
-  - [[#act-v][Act V]]
-    - [[#scene-i-mantua-a-street][SCENE I. Mantua. A street.]]
-    - [[#scene-ii-friar-laurences-cell][SCENE II. Friar Laurence's cell.]]
-    - [[#scene-iii-a-churchyard-in-it-a-tomb-belonging-to-the-capulets][SCENE III. A churchyard; in it a tomb belonging to the Capulets.]]
-
 * Romeo and Juliet
 ** William Shakespeare
    *Published:* 1597

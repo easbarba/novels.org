@@ -1,33 +1,6 @@
 #+TITLE: The Island of Dr. Moreau
 #+AUTHOR: H. G. Wells
 
-* Table of Contents
-- [[#the-island-of-dr-moreau][The Island of Dr. Moreau]]
-  - [[#h-g-wells][H. G. Wells]]
-    - [[#introduction][Introduction]]
-  - [[#chapter-1-in-the-dingey-of-the-lady-vain][Chapter 1 In the Dingey of the "Lady Vain"]]
-  - [[#chapter-2-the-man-who-was-going-nowhere][Chapter 2 The Man Who was Going Nowhere]]
-  - [[#chapter-3-the-strange-face][Chapter 3 The Strange Face]]
-  - [[#chapter-4-at-the-schooners-rail][Chapter 4 At the Schooner's Rail]]
-  - [[#chapter-5-the-man-who-had-nowhere-to-go][Chapter 5 The Man Who Had Nowhere to Go]]
-  - [[#chapter-6-the-evil-looking-boatmen][Chapter 6 The Evil-Looking Boatmen]]
-  - [[#chapter-7-the-locked-door][Chapter 7 The Locked Door]]
-  - [[#chapter-8-the-crying-of-the-puma][Chapter 8 The Crying of the Puma]]
-  - [[#chapter-9-the-thing-in-the-forest][Chapter 9 The Thing in the Forest]]
-  - [[#chapter-10-the-crying-of-the-man][Chapter 10 The Crying of the Man]]
-  - [[#chapter-11-the-hunting-of-the-man][Chapter 11 The Hunting of the Man]]
-  - [[#chapter-12-the-sayers-of-the-law][Chapter 12 The Sayers of the Law]]
-  - [[#chapter-13-a-parley][Chapter 13 A Parley]]
-  - [[#chapter-14-doctor-moreau-explains][Chapter 14 Doctor Moreau Explains]]
-  - [[#chapter-15-concerning-the-beast-folk][Chapter 15 Concerning the Beast Folk]]
-  - [[#chapter-16-how-the-beast-folk-taste-blood][Chapter 16 How the Beast Folk Taste Blood]]
-  - [[#chapter-17-a-catastrophe][Chapter 17 A Catastrophe]]
-  - [[#chapter-18-the-finding-of-moreau][Chapter 18 The Finding of Moreau]]
-  - [[#chapter-19-montgomerys-bank-holiday][Chapter 19 Montgomery's "Bank Holiday"]]
-  - [[#chapter-20-alone-with-the-beast-folk][Chapter 20 Alone with the Beast Folk]]
-  - [[#chapter-21-the-reversion-of-the-beast-folk][Chapter 21 The Reversion of the Beast Folk]]
-  - [[#chapter-22-the-man-alone][Chapter 22 The Man Alone]]
-
 * The Island of Dr. Moreau
 ** H. G. Wells
    *Published:* 1896

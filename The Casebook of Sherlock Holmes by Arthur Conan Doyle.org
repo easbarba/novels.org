@@ -1,23 +1,6 @@
 #+TITLE: The Casebook of Sherlock Holmes
 #+AUTHOR: Arthur Conan Doyle
 
-* Table of Contents
-- [[#the-casebook-of-sherlock-holmes][The Casebook of Sherlock Holmes]]
-  - [[#arthur-conan-doyle][Arthur Conan Doyle]]
-    - [[#preface][Preface]]
-  - [[#chapter-1-the-adventure-of-the-mazarin-stone][Chapter 1 The Adventure of the Mazarin Stone]]
-  - [[#chapter-2-the-problem-of-thor-bridge][Chapter 2 The Problem of Thor Bridge]]
-  - [[#chapter-3-the-adventure-of-the-creeping-man][Chapter 3 The Adventure of the Creeping Man]]
-  - [[#chapter-4-the-adventure-of-the-sussex-vampire][Chapter 4 The Adventure of the Sussex Vampire]]
-  - [[#chapter-5-the-adventure-of-the-three-garridebs][Chapter 5 The Adventure of the Three Garridebs]]
-  - [[#chapter-6-the-adventure-of-the-illustrious-client][Chapter 6 The Adventure of the Illustrious Client]]
-  - [[#chapter-7-the-adventure-of-the-three-gables][Chapter 7 The Adventure of the Three Gables]]
-  - [[#chapter-8-the-adventure-of-the-blanched-soldier][Chapter 8 The Adventure of the Blanched Soldier]]
-  - [[#chapter-9-the-adventure-of-the-lions-mane][Chapter 9 The Adventure of the Lion's Mane]]
-  - [[#chapter-10-the-adventure-of-the-retired-colourman][Chapter 10 The Adventure of the Retired Colourman]]
-  - [[#chapter-11-the-adventure-of-the-veiled-lodger][Chapter 11 The Adventure of the Veiled Lodger]]
-  - [[#chapter-12-the-adventure-of-shoscombe-old-place][Chapter 12 The Adventure of Shoscombe Old Place]]
-
 * The Casebook of Sherlock Holmes
 ** Arthur Conan Doyle
    *Published:* 1923

@@ -1,38 +1,6 @@
 #+TITLE: Tarzan of the Apes
 #+AUTHOR: Edgar Rice Burroughs
 
-* Table of Contents
-- [[#tarzan-of-the-apes][Tarzan of the Apes]]
-  - [[#edgar-rice-burroughs][Edgar Rice Burroughs]]
-  - [[#chapter-1-out-to-sea][Chapter 1 Out to Sea]]
-  - [[#chapter-2-the-savage-home][Chapter 2 The Savage Home]]
-  - [[#chapter-3-life-and-death][Chapter 3 Life and Death]]
-  - [[#chapter-4-the-apes][Chapter 4 The Apes]]
-  - [[#chapter-5-the-white-ape][Chapter 5 The White Ape]]
-  - [[#chapter-6-jungle-battles][Chapter 6 Jungle Battles]]
-  - [[#chapter-7-the-light-of-knowledge][Chapter 7 The Light of Knowledge]]
-  - [[#chapter-8-the-tree-top-hunter][Chapter 8 The Tree-top Hunter]]
-  - [[#chapter-9-man-and-man][Chapter 9 Man and Man]]
-  - [[#chapter-10-the-fear-phantom][Chapter 10 The Fear-Phantom]]
-  - [[#chapter-11-king-of-the-apes][Chapter 11 King of the Apes]]
-  - [[#chapter-12-mans-reason][Chapter 12 Man's Reason]]
-  - [[#chapter-13-his-own-kind][Chapter 13 His Own Kind]]
-  - [[#chapter-14-at-the-mercy-of-the-jungle][Chapter 14 At the Mercy of the Jungle]]
-  - [[#chapter-15-the-forest-god][Chapter 15 The Forest God]]
-  - [[#chapter-16-most-remarkable][Chapter 16 Most Remarkable]]
-  - [[#chapter-17-burials][Chapter 17 Burials]]
-  - [[#chapter-18-the-jungle-toll][Chapter 18 The Jungle Toll]]
-  - [[#chapter-19-the-call-of-the-primitive][Chapter 19 The Call of the Primitive]]
-  - [[#chapter-20-heredity][Chapter 20 Heredity]]
-  - [[#chapter-21-the-village-of-torture][Chapter 21 The Village of Torture]]
-  - [[#chapter-22-the-search-party][Chapter 22 The Search Party]]
-  - [[#chapter-23-brother-men][Chapter 23 Brother Men]]
-  - [[#chapter-24-lost-treasure][Chapter 24 Lost Treasure]]
-  - [[#chapter-25-the-outpost-of-the-world][Chapter 25 The Outpost of the World]]
-  - [[#chapter-26-the-height-of-civilization][Chapter 26 The Height of Civilization]]
-  - [[#chapter-27-the-giant-again][Chapter 27 The Giant Again]]
-  - [[#chapter-28-conclusion][Chapter 28 Conclusion]]
-
 * Tarzan of the Apes
 ** Edgar Rice Burroughs
    *Published:* 1912

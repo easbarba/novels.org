@@ -1,13 +1,6 @@
 #+TITLE: Ulysses
 #+AUTHOR: James Joyce
 
-* Table of Contents
-- [[#ulysses][Ulysses]]
-  - [[#james-joyce][James Joyce]]
-  - [[#part-1][Part 1]]
-  - [[#part-2][Part 2]]
-  - [[#part-3][Part 3]]
-
 * Ulysses
 ** James Joyce
    *Published:* 1922

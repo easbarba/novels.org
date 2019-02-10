@@ -1,20 +1,6 @@
 #+TITLE: Strange Case of Dr Jekyll and Mr Hyde
 #+AUTHOR: Robert Louis Stevenson
 
-* Table of Contents
-- [[#strange-case-of-dr-jekyll-and-mr-hyde][Strange Case of Dr Jekyll and Mr Hyde]]
-  - [[#robert-louis-stevenson][Robert Louis Stevenson]]
-  - [[#chapter-1-story-of-the-door][Chapter 1 Story of the Door]]
-  - [[#chapter-2-search-for-mr-hyde][Chapter 2 Search for Mr. Hyde]]
-  - [[#chapter-3-dr-jekyll-was-quite-at-ease][Chapter 3 Dr. Jekyll Was Quite at Ease]]
-  - [[#chapter-4-the-carew-murder-case][Chapter 4 The Carew Murder Case]]
-  - [[#chapter-5-incident-of-the-letter][Chapter 5 Incident of the Letter]]
-  - [[#chapter-6-remarkable-incident-of-dr-lanyon][Chapter 6 Remarkable Incident of Dr. Lanyon]]
-  - [[#chapter-7-incident-at-the-window][Chapter 7 Incident at the Window]]
-  - [[#chapter-8-the-last-night][Chapter 8 The Last Night]]
-  - [[#chapter-9-dr-lanyons-narrative][Chapter 9 Dr. Lanyon's Narrative]]
-  - [[#chapter-10-henry-jekylls-full-statement-of-the-case][Chapter 10 Henry Jekyll's Full Statement of the Case]]
-
 * Strange Case of Dr Jekyll and Mr Hyde
 ** Robert Louis Stevenson
    *Published:* 1886

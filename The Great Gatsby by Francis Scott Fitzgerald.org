@@ -1,19 +1,6 @@
 #+TITLE: The Great Gatsby
 #+AUTHOR: Francis Scott Fitzgerald
 
-* Table of Contents
-- [[#the-great-gatsby][The Great Gatsby]]
-  - [[#francis-scott-fitzgerald][Francis Scott Fitzgerald]]
-  - [[#chapter-1][Chapter 1]]
-  - [[#chapter-2][Chapter 2]]
-  - [[#chapter-3][Chapter 3]]
-  - [[#chapter-4][Chapter 4]]
-  - [[#chapter-5][Chapter 5]]
-  - [[#chapter-6][Chapter 6]]
-  - [[#chapter-7][Chapter 7]]
-  - [[#chapter-8][Chapter 8]]
-  - [[#chapter-9][Chapter 9]]
-
 * The Great Gatsby
 ** Francis Scott Fitzgerald
    *Published:* 1925

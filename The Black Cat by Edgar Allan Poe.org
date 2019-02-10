@@ -1,11 +1,6 @@
 #+TITLE: The Black Cat
 #+AUTHOR: Edgar Allan Poe
 
-* Table of Contents
-- [[#the-black-cat][The Black Cat]]
-  - [[#edgar-allan-poe][Edgar Allan Poe]]
-  - [[#story][Story]]
-
 * The Black Cat
 ** Edgar Allan Poe
    *Published:* 1842

@@ -1,13 +1,6 @@
 #+TITLE: The Call of Cthulhu
 #+AUTHOR: Howard Phillips Lovecraft
 
-* Table of Contents
-- [[#the-call-of-cthulhu][The Call of Cthulhu]]
-  - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
-  - [[#chapter-1-the-horror-in-clay][Chapter 1 The Horror In Clay]]
-  - [[#chapter-2-the-tale-of-inspector-legrasse][Chapter 2 The Tale of Inspector Legrasse]]
-  - [[#chapter-3-the-madness-from-the-sea][Chapter 3 The Madness from the Sea]]
-
 * The Call of Cthulhu
 ** Howard Phillips Lovecraft
    *Published:* 1926

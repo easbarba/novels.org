@@ -1,11 +1,6 @@
 #+TITLE: The Outsider
 #+AUTHOR: Howard Phillips Lovecraft
 
-* Table of Contents
-- [[#the-outsider][The Outsider]]
-  - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
-  - [[#story][Story]]
-
 * The Outsider
 ** Howard Phillips Lovecraft
    *Published:* 1926

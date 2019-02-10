@@ -2,37 +2,6 @@
 #+AUTHOR: Bram Stoker
 #+TITLE: Dracula
 
-* Table of Contents
-- [[#dracula][Dracula]]
-  - [[#bram-stoker][Bram Stoker]]
-  - [[#chapter-1-jonathan-harkers-journal][Chapter 1 Jonathan Harker's Journal]]
-  - [[#chapter-2-jonathan-harkers-journal-continued][Chapter 2 Jonathan Harker's Journal Continued]]
-  - [[#chapter-3-jonathan-harkers-journal-continued][Chapter 3 Jonathan Harker's Journal Continued]]
-  - [[#chapter-4-jonathan-harkers-journal-continued][Chapter 4 Jonathan Harker's Journal Continued]]
-  - [[#chapter-5-letter-from-miss-mina-murray-to-miss-lucy-westenra][Chapter 5 Letter from Miss Mina Murray to Miss Lucy Westenra]]
-  - [[#chapter-6-mina-murrays-journal][Chapter 6 Mina Murray's Journal]]
-  - [[#chapter-7-cutting-from-the-dailygraph-8-august][Chapter 7 Cutting from "The Dailygraph," 8 August]]
-  - [[#chapter-8-mina-murrays-journal][Chapter 8 Mina Murray's Journal]]
-  - [[#chapter-9-letter-mina-harker-to-lucy-westenra][Chapter 9 Letter, Mina Harker to Lucy Westenra]]
-  - [[#chapter-10-letter-dr-seward-to-hon-arthur-holmwood][Chapter 10 Letter, Dr. Seward to Hon. Arthur Holmwood]]
-  - [[#chapter-11-lucy-westenras-diary][Chapter 11 Lucy Westenra's Diary]]
-  - [[#chapter-12-dr-sewards-diary][Chapter 12 Dr. Seward's Diary]]
-  - [[#chapter-13-dr-sewards-diary---cont][Chapter 13 Dr. Seward's Diary---cont.]]
-  - [[#chapter-14-mina-harkers-journal][Chapter 14 Mina Harker's Journal]]
-  - [[#chapter-15-dr-sewards-diary---cont][Chapter 15 Dr. Seward's Diary---cont.]]
-  - [[#chapter-16-dr-sewards-diary---cont][Chapter 16 Dr. Seward's Diary---cont.]]
-  - [[#chapter-17-dr-sewards-diary---cont][Chapter 17 Dr. Seward's Diary---cont.]]
-  - [[#chapter-18-dr-sewards-diary][Chapter 18 Dr. Seward's Diary]]
-  - [[#chapter-19-jonathan-harkers-journal][Chapter 19 Jonathan Harker's Journal]]
-  - [[#chapter-20-jonathan-harkers-journal][Chapter 20 Jonathan Harker's Journal]]
-  - [[#chapter-21-dr-sewards-diary][Chapter 21 Dr. Seward's Diary]]
-  - [[#chapter-22-jonathan-harkers-journal][Chapter 22 Jonathan Harker's Journal]]
-  - [[#chapter-23-dr-sewards-diary][Chapter 23 Dr. Seward's Diary]]
-  - [[#chapter-24-dr-sewards-phonograph-diary][Chapter 24 Dr. Seward's Phonograph Diary]]
-  - [[#chapter-25-dr-sewards-diary][Chapter 25 Dr. Seward's Diary]]
-  - [[#chapter-26-dr-sewards-diary][Chapter 26 Dr. Seward's Diary]]
-  - [[#chapter-27-mina-harkers-journal][Chapter 27 Mina Harker's Journal]]
-
 * Dracula
 ** Bram Stoker
    *Published:* 1897
