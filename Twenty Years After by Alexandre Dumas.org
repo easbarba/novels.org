@@ -1,5 +1,3 @@
-#+TITLE: Twenty Years After
-#+AUTHOR: Alexandre Dumas
 
 * Twenty Years After
 ** Alexandre Dumas

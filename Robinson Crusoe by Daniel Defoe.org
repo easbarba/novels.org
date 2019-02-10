@@ -1,5 +1,3 @@
-#+TITLE: Robinson Crusoe
-#+AUTHOR: Daniel Defoe
 
 * Robinson Crusoe
 ** Daniel Defoe

@@ -1,5 +1,3 @@
-#+TITLE: The Great Gatsby
-#+AUTHOR: Francis Scott Fitzgerald
 
 * The Great Gatsby
 ** Francis Scott Fitzgerald

@@ -1,5 +1,3 @@
-#+TITLE: The Woman in White
-#+AUTHOR: Wilkie Collins
 
 * The Woman in White
 ** Wilkie Collins

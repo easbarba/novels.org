@@ -1,5 +1,3 @@
-#+TITLE: The Dunwich Horror
-#+AUTHOR: Howard Phillips Lovecraft
 
 * The Dunwich Horror
 ** Howard Phillips Lovecraft

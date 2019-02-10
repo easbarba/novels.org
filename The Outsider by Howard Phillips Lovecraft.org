@@ -1,5 +1,3 @@
-#+TITLE: The Outsider
-#+AUTHOR: Howard Phillips Lovecraft
 
 * The Outsider
 ** Howard Phillips Lovecraft

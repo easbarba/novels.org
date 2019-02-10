@@ -1,5 +1,3 @@
-#+TITLE: The Colour Out of Space
-#+AUTHOR: Howard Phillips Lovecraft
 
 * The Colour Out of Space
 ** Howard Phillips Lovecraft

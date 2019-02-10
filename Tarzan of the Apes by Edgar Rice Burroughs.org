@@ -1,5 +1,3 @@
-#+TITLE: Tarzan of the Apes
-#+AUTHOR: Edgar Rice Burroughs
 
 * Tarzan of the Apes
 ** Edgar Rice Burroughs

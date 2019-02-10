@@ -1,5 +1,3 @@
-#+TITLE: The Island of Dr. Moreau
-#+AUTHOR: H. G. Wells
 
 * The Island of Dr. Moreau
 ** H. G. Wells

@@ -1,5 +1,3 @@
-#+TITLE: The Haunter of the Dark
-#+AUTHOR: Howard Phillips Lovecraft
 
 * The Haunter of the Dark
 ** Howard Phillips Lovecraft

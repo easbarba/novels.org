@@ -1,5 +1,3 @@
-#+TITLE: The Mysterious Island
-#+AUTHOR: Jules Verne
 
 * The Mysterious Island
 ** Jules Verne

@@ -1,5 +1,3 @@
-#+TITLE: The Black Cat
-#+AUTHOR: Edgar Allan Poe
 
 * The Black Cat
 ** Edgar Allan Poe

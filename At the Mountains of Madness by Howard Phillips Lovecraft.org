@@ -1,5 +1,3 @@
-#+TITLE: At the Mountains of Madness
-#+AUTHOR: Howard Phillips Lovecraft
 
 * At the Mountains of Madness
 ** Howard Phillips Lovecraft

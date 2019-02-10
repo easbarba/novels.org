@@ -1,6 +1,4 @@
 #+LANGUAGE: en
-#+AUTHOR: Bram Stoker
-#+TITLE: Dracula
 
 * Dracula
 ** Bram Stoker

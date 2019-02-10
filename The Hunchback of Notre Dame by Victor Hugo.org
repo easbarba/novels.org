@@ -1,5 +1,3 @@
-#+TITLE: The Hunchback of Notre Dame
-#+AUTHOR: Victor Hugo
 
 * The Hunchback of Notre Dame
 ** Victor Hugo
@@ -833,7 +831,6 @@
      the door of the reserved gallery which had hitherto remained so inopportunely closed, opened still more inopportunely;
      and the ringing voice of the usher announced abruptly, “His eminence, Monseigneur the Cardinal de Bourbon.”
 
-      
 
 **** Chapter 3 MONSIEUR THE CARDINAL
 

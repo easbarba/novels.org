@@ -1,5 +1,3 @@
-#+TITLE: Twelve Years a Slave
-#+AUTHOR: Solomon Northup
 
 * Twelve Years a Slave
 ** Solomon Northup

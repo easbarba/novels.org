@@ -1,5 +1,3 @@
-#+TITLE: The Time Machine
-#+AUTHOR: H. G. Wells
 
 * The Time Machine
 ** H. G. Wells

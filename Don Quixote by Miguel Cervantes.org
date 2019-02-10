@@ -1,6 +1,3 @@
-#+AUTHOR: Miguel Cervantes
-#+TITLE: Don Quixote
-
 * Don Quixote
 ** Miguel Cervantes
    *Published:* 1615

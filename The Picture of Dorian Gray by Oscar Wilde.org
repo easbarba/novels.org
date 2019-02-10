@@ -1,5 +1,3 @@
-#+TITLE: The Picture of Dorian Gray
-#+AUTHOR: Oscar Wilde
 
 * The Picture of Dorian Gray
 ** Oscar Wilde

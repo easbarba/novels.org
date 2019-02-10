@@ -1,5 +1,3 @@
-#+TITLE: Ulysses
-#+AUTHOR: James Joyce
 
 * Ulysses
 ** James Joyce

@@ -1,5 +1,3 @@
-#+TITLE: The Three Musketeers
-#+AUTHOR: Alexandre Dumas
 
 * The Three Musketeers
 ** Alexandre Dumas
@@ -18801,7 +18799,6 @@
    "You have done right, Lieutenant," said the soldier. "Such songs disturb the mind; and yet we become accustomed to them,
    her voice is so beautiful."
 
-    
 
 ** Chapter 54 CAPTIVITY: THE THIRD DAY
 

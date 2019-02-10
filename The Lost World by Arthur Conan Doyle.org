@@ -1,5 +1,3 @@
-#+TITLE: The Lost World
-#+AUTHOR: Arthur Conan Doyle
 
 * The Lost World
 ** Arthur Conan Doyle

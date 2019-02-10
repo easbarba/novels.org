@@ -1,5 +1,3 @@
-#+TITLE: The Adventures of Tom Sawyer
-#+AUTHOR: Mark Twain
 
 * The Adventures of Tom Sawyer
 ** Mark Twain

@@ -1,5 +1,3 @@
-#+TITLE: The Adventures of Sherlock Holmes
-#+AUTHOR: Arthur Conan Doyle
 
 * The Adventures of Sherlock Holmes
 ** Arthur Conan Doyle

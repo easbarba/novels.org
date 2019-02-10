@@ -1,5 +1,3 @@
-#+TITLE: The Count of Monte Cristo
-#+AUTHOR: Alexandre Dumas
 
 * The Count of Monte Cristo
 ** Alexandre Dumas

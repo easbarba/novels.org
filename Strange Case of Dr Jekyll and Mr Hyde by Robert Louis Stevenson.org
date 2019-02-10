@@ -1,5 +1,3 @@
-#+TITLE: Strange Case of Dr Jekyll and Mr Hyde
-#+AUTHOR: Robert Louis Stevenson
 
 * Strange Case of Dr Jekyll and Mr Hyde
 ** Robert Louis Stevenson

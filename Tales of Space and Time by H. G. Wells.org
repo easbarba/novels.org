@@ -1,5 +1,3 @@
-#+TITLE: Tales of Space and Time
-#+AUTHOR: H. G. Wells
 
 * Tales of Space and Time
 ** H. G. Wells
@@ -1788,7 +1786,6 @@
 
     The shadow became full of instinctive stirrings. There was a patter of feet, and a faint snarling---the sound of a blow.
 
-     
 
     There was little sleep that night for the women and children at the squatting-place until they heard Eudena scream. But
     hurried to get the nearest places to the fires. The old woman laughed at the scream, and laughed again because Si, the

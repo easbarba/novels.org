@@ -1,5 +1,3 @@
-#+AUTHOR: Herman Melville
-#+TITLE: Moby-Dick
 
 * Moby-Dick
 ** Herman Melville

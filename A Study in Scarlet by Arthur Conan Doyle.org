@@ -1,5 +1,3 @@
-#+TITLE: A Study in Scarlet
-#+AUTHOR: Arthur Conan Doyle
 
 * A Study in Scarlet
 ** Arthur Conan Doyle

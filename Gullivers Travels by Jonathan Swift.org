@@ -1,5 +1,3 @@
-#+TITLE: Gulliver's Travels
-#+AUTHOR: Jonathan Swift
 
 * Gulliver's Travels
 ** Jonathan Swift

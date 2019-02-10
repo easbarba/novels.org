@@ -1,5 +1,3 @@
-#+TITLE: The Marvelous Land of Oz
-#+AUTHOR: Lyman Frank Baum
 
 * The Marvelous Land of Oz
 ** Lyman Frank Baum
