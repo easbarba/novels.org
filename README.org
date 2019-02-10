@@ -3,7 +3,7 @@
 * Read with
   [[https://www.gnu.org/software/emacs/][GNU Emacs]]
 
-  [[http://www.orgzly.com/][Orgzly (Android)]]
+  [[http://www.orgzly.com/][Orgzly (F-Droid)]]
 * Licenses
   *Books*: Public Domain
 

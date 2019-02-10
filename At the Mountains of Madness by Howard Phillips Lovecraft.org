@@ -2,20 +2,20 @@
 #+AUTHOR: Howard Phillips Lovecraft
 
 * Table of Contents
-  -  [[At the Mountains of Madness][At the Mountains of Madness]]
-    -  [[Howard Phillips Lovecraft][Howard Phillips Lovecraft]]
-    -  [[Chapter 1][Chapter 1]]
-    -  [[Chapter 2][Chapter 2]]
-    -  [[Chapter 3][Chapter 3]]
-    -  [[Chapter 4][Chapter 4]]
-    -  [[Chapter 5][Chapter 5]]
-    -  [[Chapter 6][Chapter 6]]
-    -  [[Chapter 7][Chapter 7]]
-    -  [[Chapter 8][Chapter 8]]
-    -  [[Chapter 9][Chapter 9]]
-    -  [[Chapter 10][Chapter 10]]
-    -  [[Chapter 11][Chapter 11]]
-    -  [[Chapter 12][Chapter 12]]
+- [[#at-the-mountains-of-madness][At the Mountains of Madness]]
+  - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
+  - [[#chapter-1][Chapter 1]]
+  - [[#chapter-2][Chapter 2]]
+  - [[#chapter-3][Chapter 3]]
+  - [[#chapter-4][Chapter 4]]
+  - [[#chapter-5][Chapter 5]]
+  - [[#chapter-6][Chapter 6]]
+  - [[#chapter-7][Chapter 7]]
+  - [[#chapter-8][Chapter 8]]
+  - [[#chapter-9][Chapter 9]]
+  - [[#chapter-10][Chapter 10]]
+  - [[#chapter-11][Chapter 11]]
+  - [[#chapter-12][Chapter 12]]
 
 * At the Mountains of Madness
 ** Howard Phillips Lovecraft

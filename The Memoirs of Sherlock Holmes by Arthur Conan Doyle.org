@@ -2,19 +2,19 @@
 #+AUTHOR: Arthur Conan Doyle
 
 * Table of Contents
-  -  [[The Memoirs of Sherlock Holmes][The Memoirs of Sherlock Holmes]]
-    -  [[Arthur Conan Doyle][Arthur Conan Doyle]]
-    -  [[Silver Blaze][Silver Blaze]]
-    -  [[The Yellow Face][The Yellow Face]]
-    -  [[The Stock-broker's Clerk][The Stock-broker's Clerk]]
-    -  [[The 'Gloria Scott'][The 'Gloria Scott']]
-    -  [[The Musgrave Ritual][The Musgrave Ritual]]
-    -  [[The Reigate Puzzle][The Reigate Puzzle]]
-    -  [[The Crooked Man][The Crooked Man]]
-    -  [[The Resident Patient][The Resident Patient]]
-    -  [[The Greek Interpreter][The Greek Interpreter]]
-    -  [[The Naval Treaty][The Naval Treaty]]
-    -  [[The Final Problem][The Final Problem]]
+- [[#the-memoirs-of-sherlock-holmes][The Memoirs of Sherlock Holmes]]
+  - [[#arthur-conan-doyle][Arthur Conan Doyle]]
+  - [[#silver-blaze][Silver Blaze]]
+  - [[#the-yellow-face][The Yellow Face]]
+  - [[#the-stock-brokers-clerk][The Stock-broker's Clerk]]
+  - [[#the-gloria-scott][The 'Gloria Scott']]
+  - [[#the-musgrave-ritual][The Musgrave Ritual]]
+  - [[#the-reigate-puzzle][The Reigate Puzzle]]
+  - [[#the-crooked-man][The Crooked Man]]
+  - [[#the-resident-patient][The Resident Patient]]
+  - [[#the-greek-interpreter][The Greek Interpreter]]
+  - [[#the-naval-treaty][The Naval Treaty]]
+  - [[#the-final-problem][The Final Problem]]
 
 * The Memoirs of Sherlock Holmes
 ** Arthur Conan Doyle

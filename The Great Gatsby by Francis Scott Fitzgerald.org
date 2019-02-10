@@ -2,17 +2,17 @@
 #+AUTHOR: Francis Scott Fitzgerald
 
 * Table of Contents
-  -  [[The Great Gatsby][The Great Gatsby]]
-    -  [[Francis Scott Fitzgerald][Francis Scott Fitzgerald]]
-    -  [[Chapter 1][Chapter 1]]
-    -  [[Chapter 2][Chapter 2]]
-    -  [[Chapter 3][Chapter 3]]
-    -  [[Chapter 4][Chapter 4]]
-    -  [[Chapter 5][Chapter 5]]
-    -  [[Chapter 6][Chapter 6]]
-    -  [[Chapter 7][Chapter 7]]
-    -  [[Chapter 8][Chapter 8]]
-    -  [[Chapter 9][Chapter 9]]
+- [[#the-great-gatsby][The Great Gatsby]]
+  - [[#francis-scott-fitzgerald][Francis Scott Fitzgerald]]
+  - [[#chapter-1][Chapter 1]]
+  - [[#chapter-2][Chapter 2]]
+  - [[#chapter-3][Chapter 3]]
+  - [[#chapter-4][Chapter 4]]
+  - [[#chapter-5][Chapter 5]]
+  - [[#chapter-6][Chapter 6]]
+  - [[#chapter-7][Chapter 7]]
+  - [[#chapter-8][Chapter 8]]
+  - [[#chapter-9][Chapter 9]]
 
 * The Great Gatsby
 ** Francis Scott Fitzgerald
@@ -26,7 +26,7 @@
    Generation," Americans born in the 1890s who came of age during World War I. He finished four novels, left a fifth
    unfinished, and wrote dozens of short stories that treat themes of youth, despair, and age.
 
-   *Copyright:* This work is available for countries where copyright is    [[http://en.wikisource.org/wiki/Help:Public_domain#Copyright_terms_by_country][Life+70]].
+   *Copyright:* This work is available for countries where copyright is [[http://en.wikisource.org/wiki/Help:Public_domain#Copyright_terms_by_country][Life+70]].
 
    Strictly for personal use, do not use this file for commercial purposes.
 
@@ -538,7 +538,6 @@
    seaward --- and distinguished nothing except a single green light, minute and far away, that might have been the end of
    a dock. When I looked once more for Gatsby he had vanished, and I was alone again in the unquiet darkness.
 
-
 ** Chapter 2
 
 
@@ -945,7 +944,6 @@
 
    Then I was lying half asleep in the cold lower level of the Pennsylvania Station, staring at the morning TRIBUNE, and
    waiting for the four o'clock train.
-
 
 ** Chapter 3
 
@@ -1472,7 +1470,6 @@
    Every one suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people
    that I have ever known.
 
-
 ** Chapter 4
 
 
@@ -1992,7 +1989,6 @@
    and blinding signs, and so I drew up the girl beside me, tightening my arms. Her wan, scornful mouth smiled, and so I
    drew her up again closer, this time to my face.
 
-
 ** Chapter 5
 
 
@@ -2442,7 +2438,6 @@
    at them and they looked back at me, remotely, possessed by intense life. Then I went out of the room and down the marble
    steps into the rain, leaving them there together.
 
-
 ** Chapter 6
 
 
@@ -2843,7 +2838,6 @@
    fragment of lost words, that I had heard somewhere a long time ago. For a moment a phrase tried to take shape in my
    mouth and my lips parted like a dumb man's, as though there was more struggling upon them than a wisp of startled air.
    But they made no sound, and what I had almost remembered was uncommunicable forever.
-
 
 ** Chapter 7
 
@@ -3881,7 +3875,6 @@
    He put his hands in his coat pockets and turned back eagerly to his scrutiny of the house, as though my presence marred
    the sacredness of the vigil. So I walked away and left him standing there in the moonlight --- watching over nothing.
 
-
 ** Chapter 8
 
 
@@ -4269,7 +4262,6 @@
 
    It was after we started with Gatsby toward the house that the gardener saw Wilson's body a little way off in the grass,
    and the holocaust was complete.
-
 
 ** Chapter 9
 

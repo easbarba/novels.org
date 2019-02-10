@@ -1,35 +1,34 @@
-#+LANGUAGE: en
 #+AUTHOR: William Shakespeare
 #+TITLE: Hamlet
 
 * Table of Contents
-  -  [[Hamlet][Hamlet]]
-    -  [[William Shakespeare][William Shakespeare]]
-    -  [[Act I][Act I]]
-      -  [[SCENE I. Elsinore. A platform before the castle.][SCENE I. Elsinore. A platform before the castle.]]
-      -  [[SCENE II. A room of state in the castle.][SCENE II. A room of state in the castle.]]
-      -  [[SCENE III. A room in Polonius' house.][SCENE III. A room in Polonius' house.]]
-      -  [[SCENE IV. The platform.][SCENE IV. The platform.]]
-      -  [[SCENE V. Another part of the platform.][SCENE V. Another part of the platform.]]
-    -  [[Act II][Act II]]
-      -  [[SCENE I. A room in POLONIUS' house.][SCENE I. A room in POLONIUS' house.]]
-      -  [[SCENE II. A room in the castle][SCENE II. A room in the castle]]
-    -  [[Act III][Act III]]
-      -  [[SCENE I. A room in the castle.][SCENE I. A room in the castle.]]
-      -  [[SCENE II. A hall in the castle.][SCENE II. A hall in the castle.]]
-      -  [[SCENE III. A room in the castle.][SCENE III. A room in the castle.]]
-      -  [[SCENE IV. The Queen's closet.][SCENE IV. The Queen's closet.]]
-    -  [[Act IV][Act IV]]
-      -  [[SCENE I. A room in the castle.][SCENE I. A room in the castle.]]
-      -  [[SCENE II. Another room in the castle.][SCENE II. Another room in the castle.]]
-      -  [[SCENE III. Another room in the castle.][SCENE III. Another room in the castle.]]
-      -  [[SCENE IV. A plain in Denmark.][SCENE IV. A plain in Denmark.]]
-      -  [[SCENE V. Elsinore. A room in the castle.][SCENE V. Elsinore. A room in the castle.]]
-      -  [[SCENE VI. Another room in the castle.][SCENE VI. Another room in the castle.]]
-      -  [[SCENE VII. Another room in the castle.][SCENE VII. Another room in the castle.]]
-    -  [[Act V][Act V]]
-      -  [[SCENE I. A churchyard.][SCENE I. A churchyard.]]
-      -  [[SCENE II. A hall in the castle.][SCENE II. A hall in the castle.]]
+- [[#hamlet][Hamlet]]
+  - [[#william-shakespeare][William Shakespeare]]
+  - [[#act-i][Act I]]
+    - [[#scene-i-elsinore-a-platform-before-the-castle][SCENE I. Elsinore. A platform before the castle.]]
+    - [[#scene-ii-a-room-of-state-in-the-castle][SCENE II. A room of state in the castle.]]
+    - [[#scene-iii-a-room-in-polonius-house][SCENE III. A room in Polonius' house.]]
+    - [[#scene-iv-the-platform][SCENE IV. The platform.]]
+    - [[#scene-v-another-part-of-the-platform][SCENE V. Another part of the platform.]]
+  - [[#act-ii][Act II]]
+    - [[#scene-i-a-room-in-polonius-house][SCENE I. A room in POLONIUS' house.]]
+    - [[#scene-ii-a-room-in-the-castle][SCENE II. A room in the castle]]
+  - [[#act-iii][Act III]]
+    - [[#scene-i-a-room-in-the-castle][SCENE I. A room in the castle.]]
+    - [[#scene-ii-a-hall-in-the-castle][SCENE II. A hall in the castle.]]
+    - [[#scene-iii-a-room-in-the-castle][SCENE III. A room in the castle.]]
+    - [[#scene-iv-the-queens-closet][SCENE IV. The Queen's closet.]]
+  - [[#act-iv][Act IV]]
+    - [[#scene-i-a-room-in-the-castle-1][SCENE I. A room in the castle.]]
+    - [[#scene-ii-another-room-in-the-castle][SCENE II. Another room in the castle.]]
+    - [[#scene-iii-another-room-in-the-castle][SCENE III. Another room in the castle.]]
+    - [[#scene-iv-a-plain-in-denmark][SCENE IV. A plain in Denmark.]]
+    - [[#scene-v-elsinore-a-room-in-the-castle][SCENE V. Elsinore. A room in the castle.]]
+    - [[#scene-vi-another-room-in-the-castle][SCENE VI. Another room in the castle.]]
+    - [[#scene-vii-another-room-in-the-castle][SCENE VII. Another room in the castle.]]
+  - [[#act-v][Act V]]
+    - [[#scene-i-a-churchyard][SCENE I. A churchyard.]]
+    - [[#scene-ii-a-hall-in-the-castle-1][SCENE II. A hall in the castle.]]
 
 * Hamlet
 ** William Shakespeare
@@ -10327,5 +10326,3 @@
 
     /A dead march. Exeunt, bearing off the dead bodies; after which a peal of ordnance is shot off/
     #+END_QUOTE
-
-

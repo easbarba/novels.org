@@ -2,9 +2,9 @@
 #+AUTHOR: Edgar Allan Poe
 
 * Table of Contents
-  -  [[The Black Cat][The Black Cat]]
-    -  [[Edgar Allan Poe][Edgar Allan Poe]]
-    -  [[Story][Story]]
+- [[#the-black-cat][The Black Cat]]
+  - [[#edgar-allan-poe][Edgar Allan Poe]]
+  - [[#story][Story]]
 
 * The Black Cat
 ** Edgar Allan Poe

@@ -2,9 +2,9 @@
 #+AUTHOR: Howard Phillips Lovecraft
 
 * Table of Contents
-  -  [[The Colour Out of Space][The Colour Out of Space]]
-    -  [[Howard Phillips Lovecraft][Howard Phillips Lovecraft]]
-    -  [[Story][Story]]
+- [[#the-colour-out-of-space][The Colour Out of Space]]
+  - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
+  - [[#story][Story]]
 
 * The Colour Out of Space
 ** Howard Phillips Lovecraft

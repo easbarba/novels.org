@@ -2,9 +2,9 @@
 #+AUTHOR: Edgar Allan Poe
 
 * Table of Contents
-  -  [[The Raven][The Raven]]
-    -  [[Edgar Allan Poe][Edgar Allan Poe]]
-    -  [[Story][Story]]
+- [[#the-raven][The Raven]]
+  - [[#edgar-allan-poe][Edgar Allan Poe]]
+  - [[#story][Story]]
 
 * The Raven
 ** Edgar Allan Poe
@@ -24,19 +24,19 @@
 
 ** Story
 
-   Once upon a midnight dreary, while I pondered, weak and weary, 
+   Once upon a midnight dreary, while I pondered, weak and weary,
 
-   Over many a quaint and curious volume of forgotten lore  
+   Over many a quaint and curious volume of forgotten lore
 
-   While I nodded, nearly napping, suddenly there came a tapping, 
+   While I nodded, nearly napping, suddenly there came a tapping,
 
    As of some one gently rapping, rapping at my chamber door.
 
-   "'Tis some visiter," I muttered, "tapping at my chamber door 
+   "'Tis some visiter," I muttered, "tapping at my chamber door
 
         Only this and nothing more."
 
-   
+
 
    Ah, distinctly I remember it was in the bleak December,
 
@@ -44,13 +44,13 @@
 
    Eagerly I wished the morrow; vainly I had sought to borrow
 
-   From my books surcease of sorrow sorrow for the lost Lenore 
+   From my books surcease of sorrow sorrow for the lost Lenore
 
-   For the rare and radiant maiden whom the angels name Lenore 
+   For the rare and radiant maiden whom the angels name Lenore
 
    Nameless here for evermore.
 
-   
+
 
    And the silken sad uncertain rustling of each purple curtain
 
@@ -58,13 +58,13 @@
 
    So that now, to still the beating of my heart, I stood repeating
 
-   "'Tis some visiter entreating entrance at my chamber door 
+   "'Tis some visiter entreating entrance at my chamber door
 
    Some late visiter entreating entrance at my chamber door;
 
    This it is and nothing more."
 
-   
+
 
    Presently my soul grew stronger; hesitating then no longer,
 
@@ -74,11 +74,11 @@
 
    And so faintly you came tapping, tapping at my chamber door,
 
-   That I scarce was sure I heard you" here I opened wide the door 
+   That I scarce was sure I heard you" here I opened wide the door
 
           Darkness there and nothing more.
 
-   
+
 
    Deep into that darkness peering, long I stood there wondering, fearing,
 
@@ -88,11 +88,11 @@
 
    And the only word there spoken was the whispered word, "Lenore?"
 
-   This I whispered, and an echo murmured back the word, "Lenore!" 
+   This I whispered, and an echo murmured back the word, "Lenore!"
 
           Merely this and nothing more.
 
-   
+
 
    Back into the chamber turning, all my soul within me burning,
 
@@ -100,13 +100,13 @@
 
    "Surely," said I, "surely that is something at my window lattice;
 
-   Let me see, then, what thereat is and this mystery explore 
+   Let me see, then, what thereat is and this mystery explore
 
-   Let my heart be still a moment and this mystery explore; 
+   Let my heart be still a moment and this mystery explore;
 
           'Tis the wind and nothing more.
 
-   
+
 
    Open here I flung the shutter, when, with many a flirt and flutter,
 
@@ -114,13 +114,13 @@
 
    Not the least obeisance made he; not a minute stopped or stayed he,
 
-   But, with mien of lord or lady, perched above my chamber door 
+   But, with mien of lord or lady, perched above my chamber door
 
-   Perched upon a bust of Pallas just above my chamber door 
+   Perched upon a bust of Pallas just above my chamber door
 
           Perched, and sat, and nothing more.
 
-   
+
 
    Then the ebony bird beguiling my sad fancy into smiling,
 
@@ -128,13 +128,13 @@
 
    "Though thy crest be shorn and shaven, thou," I said, "art sure no craven,
 
-   Ghastly grim and ancient Raven wandering from the Nightly shore 
+   Ghastly grim and ancient Raven wandering from the Nightly shore
 
    Tell me what thy lordly name is on the Night's Plutonian shore!"
 
           Quoth the Raven, "Nevermore."
 
-   
+
 
    Much I marvelled this ungainly fowl to hear discourse so plainly,
 
@@ -142,27 +142,27 @@
 
    For we cannot help agreeing that no living human being
 
-   Ever yet was blessed with seeing bird above his chamber door 
+   Ever yet was blessed with seeing bird above his chamber door
 
    Bird or beast upon the sculptured bust above his chamber door,
 
           With such name as "Nevermore."
 
-   
+
 
    But the Raven, sitting lonely on that placid bust, spoke only
 
    That one word, as if its soul in that one word he did outpour
 
-   Nothing farther then he uttered; not a feather then he fluttered 
+   Nothing farther then he uttered; not a feather then he fluttered
 
-   Till I scarcely more than muttered: "Other friends have flown before 
+   Till I scarcely more than muttered: "Other friends have flown before
 
    On the morrow he will leave me, as my Hopes have flown before."
 
           Then the bird said "Nevermore."
 
-   
+
 
    Startled at the stillness broken by reply so aptly spoken,
 
@@ -170,13 +170,13 @@
 
    Caught from some unhappy master whom unmerciful
 
-   Disaster Followed fast and followed faster till his songs one burden bore 
+   Disaster Followed fast and followed faster till his songs one burden bore
 
    Till the dirges of his Hope that melancholy burden bore
 
    Of 'Never nevermore.'"
 
-   
+
 
    But the Raven still beguiling all my sad soul into smiling,
 
@@ -184,13 +184,13 @@
 
    Then, upon the velvet sinking, I betook myself to linking
 
-   Fancy unto fancy, thinking what this ominous bird of yore 
+   Fancy unto fancy, thinking what this ominous bird of yore
 
    What this grim, ungainly, ghastly, gaunt, and ominous bird of yore
 
    Meant in croaking "Nevermore."
 
-   
+
 
    This I sat engaged in guessing, but no syllable expressing
 
@@ -204,7 +204,7 @@
 
    She shall press, ah, nevermore!
 
-   
+
 
    Then, methought, the air grew denser, perfumed from an unseen censer
 
@@ -218,37 +218,37 @@
 
    Quoth the Raven, "Nevermore."
 
-   
 
-   "Prophet!" said I, "thing of evil! prophet still, if bird or devil! 
+
+   "Prophet!" said I, "thing of evil! prophet still, if bird or devil!
 
    Whether Tempter sent, or whether tempest tossed thee here ashore,
 
-   Desolate, yet all undaunted, on this desert land enchanted 
+   Desolate, yet all undaunted, on this desert land enchanted
 
-   On this home by Horror haunted tell me truly, I implore 
+   On this home by Horror haunted tell me truly, I implore
 
    Is there is there balm in Gilead? tell me tell me, I implore!"
 
    Quoth the Raven, "Nevermore."
 
-   
+
 
    "Prophet!" said I, "thing of evil! prophet still, if bird or devil!
 
-   By that Heaven that bends above us by that God we both adore 
+   By that Heaven that bends above us by that God we both adore
 
    Tell this soul with sorrow laden if, within the distant Aidenn,
 
-   It shall clasp a sainted maiden whom the angels name Lenore 
+   It shall clasp a sainted maiden whom the angels name Lenore
 
    Clasp a rare and radiant maiden whom the angels name Lenore."
 
    Quoth the Raven, "Nevermore."
 
-   
 
-   "Be that our sign of parting, bird or fiend!" I shrieked, upstarting 
+
+   "Be that our sign of parting, bird or fiend!" I shrieked, upstarting
 
    "Get thee back into the tempest and the Night's Plutonian shore!
 
@@ -260,7 +260,7 @@
 
    Quoth the Raven, "Nevermore."
 
-   
+
 
    And the Raven, never flitting, still is sitting, still is sitting
 

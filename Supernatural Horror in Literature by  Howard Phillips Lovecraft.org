@@ -2,18 +2,18 @@
 #+AUTHOR: Howard Phillips Lovecraft
 
 * Table of Contents
-  -  [[Supernatural Horror in Literature][Supernatural Horror in Literature]]
-    -  [[Howard Phillips Lovecraft][Howard Phillips Lovecraft]]
-    -  [[Chapter 1 Introduction][Chapter 1 Introduction]]
-    -  [[Chapter 2 The Dawn of the Horror-Tale][Chapter 2 The Dawn of the Horror-Tale]]
-    -  [[Chapter 3 The Early Gothic Novel][Chapter 3 The Early Gothic Novel]]
-    -  [[Chapter 4 The Apex of Gothic Romance][Chapter 4 The Apex of Gothic Romance]]
-    -  [[Chapter 5 The Aftermath of Gothic Fiction][Chapter 5 The Aftermath of Gothic Fiction]]
-    -  [[Chapter 6 Spectral Literature on the Continent][Chapter 6 Spectral Literature on the Continent]]
-    -  [[Chapter 7 Edgar Allan Poe][Chapter 7 Edgar Allan Poe]]
-    -  [[Chapter 8 The Weird Tradition in America][Chapter 8 The Weird Tradition in America]]
-    -  [[Chapter 9 The Weird Tradition in the British Isles][Chapter 9 The Weird Tradition in the British Isles]]
-    -  [[Chapter 10 The Modern Masters][Chapter 10 The Modern Masters]]
+- [[#supernatural-horror-in-literature][Supernatural Horror in Literature]]
+  - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
+  - [[#chapter-1-introduction][Chapter 1 Introduction]]
+  - [[#chapter-2-the-dawn-of-the-horror-tale][Chapter 2 The Dawn of the Horror-Tale]]
+  - [[#chapter-3-the-early-gothic-novel][Chapter 3 The Early Gothic Novel]]
+  - [[#chapter-4-the-apex-of-gothic-romance][Chapter 4 The Apex of Gothic Romance]]
+  - [[#chapter-5-the-aftermath-of-gothic-fiction][Chapter 5 The Aftermath of Gothic Fiction]]
+  - [[#chapter-6-spectral-literature-on-the-continent][Chapter 6 Spectral Literature on the Continent]]
+  - [[#chapter-7-edgar-allan-poe][Chapter 7 Edgar Allan Poe]]
+  - [[#chapter-8-the-weird-tradition-in-america][Chapter 8 The Weird Tradition in America]]
+  - [[#chapter-9-the-weird-tradition-in-the-british-isles][Chapter 9 The Weird Tradition in the British Isles]]
+  - [[#chapter-10-the-modern-masters][Chapter 10 The Modern Masters]]
 
 * Supernatural Horror in Literature
 ** Howard Phillips Lovecraft

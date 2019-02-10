@@ -1,11 +1,10 @@
 #+TITLE: Dreams in the Witch-House
 #+AUTHOR: Howard Phillips Lovecraft
 
-
 * Table of Contents
-  -  [[Dreams in the Witch-House][Dreams in the Witch-House]]
-    -  [[Howard Phillips Lovecraft][Howard Phillips Lovecraft]]
-    -  [[Story][Story]]
+- [[#dreams-in-the-witch-house][Dreams in the Witch-House]]
+  - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
+  - [[#story][Story]]
 
 * Dreams in the Witch-House
 ** Howard Phillips Lovecraft
