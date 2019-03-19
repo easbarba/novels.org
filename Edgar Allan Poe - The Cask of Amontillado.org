@@ -1,4 +1,3 @@
-
 * The Cask of Amontillado
 ** Edgar Allan Poe
    *Published:* 1846

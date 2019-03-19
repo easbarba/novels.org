@@ -1,4 +1,3 @@
-
 * Robinson Crusoe
 ** Daniel Defoe
    *Published:* 1719

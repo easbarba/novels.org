@@ -1,6 +1,3 @@
-#+AUTHOR: William Shakespeare
-#+TITLE: Hamlet
-
 * Hamlet
 ** William Shakespeare
    *Published:* 1599

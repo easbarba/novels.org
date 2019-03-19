@@ -1,4 +1,3 @@
-
 * Strange Case of Dr Jekyll and Mr Hyde
 ** Robert Louis Stevenson
    *Published:* 1886

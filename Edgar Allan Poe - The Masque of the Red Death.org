@@ -1,4 +1,3 @@
-
 * The Masque of the Red Death
 ** Edgar Allan Poe
    *Published:* 1842

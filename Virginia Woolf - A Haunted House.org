@@ -1,4 +1,3 @@
-
 * A Haunted House
 ** Virginia Woolf
    *Published:* 1921

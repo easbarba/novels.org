@@ -1,4 +1,3 @@
-
 * The Black Cat
 ** Edgar Allan Poe
    *Published:* 1842
