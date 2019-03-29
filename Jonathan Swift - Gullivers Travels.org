@@ -10,7 +10,7 @@
    (first for Whigs then for Tories), and poet, famous for works like Gulliver's Travels, A Modest Proposal, A Journal to
    Stella, The Drapier's Letters, The Battle of the Books, and A Tale of a Tub. Swift is probably the foremost prose
    satirist in the English language, although he is less well known for his poetry. Swift published all of his works under
-   pseudonyms --- such as Lemuel Gulliver, Isaac Bickerstaff, M.B. Drapier --- or anonymously. He is also known for being a
+   pseudonyms  -  such as Lemuel Gulliver, Isaac Bickerstaff, M.B. Drapier  -  or anonymously. He is also known for being a
    master of 2 styles of satire; the Horatian and Juvenalian styles. Source: Wikipedia
 
    Strictly for personal use, do not use this file for commercial purposes.
@@ -256,8 +256,8 @@
     aloud, Borach mevolah; and when they saw the vessels in the air, there was a universal shout of Hekinah degul. I confess
     I was often tempted, while they were passing backwards and forwards on my body, to seize forty or fifty of the first
     that came in my reach, and dash them against the ground. But the remembrance of what I had felt, which probably might
-    not be the worst they could do, and the promise of honour I made them---for so I interpreted my submissive
-    behaviour---soon drove out these imaginations. Besides, I now considered myself as bound by the laws of hospitality, to
+    not be the worst they could do, and the promise of honour I made them - for so I interpreted my submissive
+    behaviour - soon drove out these imaginations. Besides, I now considered myself as bound by the laws of hospitality, to
     a people who had treated me with so much expense and magnificence. However, in my thoughts I could not sufficiently
     wonder at the intrepidity of these diminutive mortals, who durst venture to mount and walk upon my body, while one of my
     hands was at liberty, without trembling at the very sight of so prodigious a creature as I must appear to them. After
@@ -431,7 +431,7 @@
     his majesty and the whole board, in my behalf, that an imperial commission was issued out, obliging all the villages,
     nine hundred yards round the city, to deliver in every morning six beeves, forty sheep, and other victuals for my
     sustenance; together with a proportionable quantity of bread, and wine, and other liquors; for the due payment of which,
-    his majesty gave assignments upon his treasury:---for this prince lives chiefly upon his own demesnes; seldom, except
+    his majesty gave assignments upon his treasury: - for this prince lives chiefly upon his own demesnes; seldom, except
     upon great occasions, raising any subsidies upon his subjects, who are bound to attend him in his wars at their own
     expense. An establishment was also made of six hundred persons to be my domestics, who had board-wages allowed for their
     maintenance, and tents built for them very conveniently on each side of my door. It was likewise ordered, that three
@@ -655,7 +655,7 @@
     globe; monarch of all monarchs, taller than the sons of men; whose feet press down to the centre, and whose head strikes
     against the sun; at whose nod the princes of the earth shake their knees; pleasant as the spring, comfortable as the
     summer, fruitful as autumn, dreadful as winter: his most sublime majesty proposes to the man-mountain, lately arrived at
-    our celestial dominions, the following articles, which, by a solemn oath, he shall be obliged to perform:---
+    our celestial dominions, the following articles, which, by a solemn oath, he shall be obliged to perform: - 
 
     "1st, The man-mountain shall not depart from our dominions, without our license under our great seal.
 
@@ -1184,7 +1184,7 @@
     justiciary, have prepared articles of impeachment against you, for treason and other capital crimes."
 
     This preface made me so impatient, being conscious of my own merits and innocence, that I was going to interrupt him;
-    when he entreated me to be silent, and thus proceeded:---
+    when he entreated me to be silent, and thus proceeded: - 
 
     "Out of gratitude for the favours you have done me, I procured information of the whole proceedings, and a copy of the
     articles; wherein I venture my head for your service.
@@ -3178,8 +3178,8 @@
     please, they long to see the world, and take the diversions of the metropolis, which they are not allowed to do without
     a particular license from the king; and this is not easy to be obtained, because the people of quality have found, by
     frequent experience, how hard it is to persuade their women to return from below. I was told that a great court lady,
-    who had several children,---is married to the prime minister, the richest subject in the kingdom, a very graceful
-    person, extremely fond of her, and lives in the finest palace of the island,---went down to Lagado on the pretence of
+    who had several children, - is married to the prime minister, the richest subject in the kingdom, a very graceful
+    person, extremely fond of her, and lives in the finest palace of the island, - went down to Lagado on the pretence of
     health, there hid herself for several months, till the king sent a warrant to search for her; and she was found in an
     obscure eating-house all in rags, having pawned her clothes to maintain an old deformed footman, who beat her every day,
     and in whose company she was taken, much against her will. And although her husband received her with all possible
@@ -3730,7 +3730,7 @@
     horse; L, a fleet at sea; or, secondly, by transposing the letters of the alphabet in any suspected paper, they can lay
     open the deepest designs of a discontented party. So, for example, if I should say, in a letter to a friend, 'Our
     brother Tom has just got the piles,' a skilful decipherer would discover, that the same letters which compose that
-    sentence, may be analysed into the following words, 'Resist---, a plot is brought home---The tour.' And this is the
+    sentence, may be analysed into the following words, 'Resist - , a plot is brought home - The tour.' And this is the
     anagrammatic method."
 
     The professor made me great acknowledgments for communicating these observations, and promised to make honourable

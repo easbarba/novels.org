@@ -60,7 +60,7 @@
    Lord Henry stretched himself out on the divan and laughed. "Yes, I knew you would; but it is quite true, all the same."
    "Too much of yourself in it! Upon my word, Basil, I didn't know you were so vain; and I really can't see any resemblance
    between you, with your rugged strong face and your coal-black hair, and this young Adonis, who looks as if he was made
-   out of ivory and rose-leaves. Why, my dear Basil, he is a Narcissus, and you--- well, of course you have an intellectual
+   out of ivory and rose-leaves. Why, my dear Basil, he is a Narcissus, and you -  well, of course you have an intellectual
    expression and all that. But beauty, real beauty, ends where an intellectual expression begins. Intellect is in itself a
    mode of exaggeration, and destroys the harmony of any face. The moment one sits down to think, one becomes all nose, or
    all forehead, or something horrid. Look at the successful men in any of the learned professions. How perfectly hideous
@@ -76,9 +76,9 @@
    physical and intellectual distinction, the sort of fatality that seems to dog through history the faltering steps of
    kings. It is better not to be different from one's fellows. The ugly and the stupid have the best of it in this world.
    They can sit at their ease and gape at the play. If they know nothing of victory, they are at least spared the knowledge
-   of defeat. They live as we all should live---undisturbed, indifferent, and without disquiet. They neither bring ruin
-   upon others, nor ever receive it from alien hands. Your rank and wealth, Harry; my brains, such as they are---my art,
-   whatever it may be worth; Dorian Gray's good looks---we shall all suffer for what the gods have given us, suffer
+   of defeat. They live as we all should live - undisturbed, indifferent, and without disquiet. They neither bring ruin
+   upon others, nor ever receive it from alien hands. Your rank and wealth, Harry; my brains, such as they are - my art,
+   whatever it may be worth; Dorian Gray's good looks - we shall all suffer for what the gods have given us, suffer
    terribly."
 
    "Dorian Gray? Is that his name?" asked Lord Henry, walking across the studio towards Basil Hallward.
@@ -95,9 +95,9 @@
 
    "Not at all," answered Lord Henry, "not at all, my dear Basil. You seem to forget that I am married, and the one charm
    of marriage is that it makes a life of deception absolutely necessary for both parties. I never know where my wife is,
-   and my wife never knows what I am doing. When we meet---we do meet occasionally, when we dine out together, or go down
-   to the Duke's---we tell each other the most absurd stories with the most serious faces. My wife is very good at
-   it---much better, in fact, than I am. She never gets confused over her dates, and I always do. But when she does find me
+   and my wife never knows what I am doing. When we meet - we do meet occasionally, when we dine out together, or go down
+   to the Duke's - we tell each other the most absurd stories with the most serious faces. My wife is very good at
+   it - much better, in fact, than I am. She never gets confused over her dates, and I always do. But when she does find me
    out, she makes no row at all. I sometimes wish she would; but she merely laughs at me."
 
    "I hate the way you talk about your married life, Harry," said Basil Hallward, strolling towards the door that led into
@@ -157,15 +157,15 @@
    over me. I knew that I had come face to face with some one whose mere personality was so fascinating that, if I allowed
    it to do so, it would absorb my whole nature, my whole soul, my very art itself. I did not want any external influence
    in my life. You know yourself, Harry, how independent I am by nature. I have always been my own master; had at least
-   always been so, till I met Dorian Gray. Then---but I don't know how to explain it to you. Something seemed to tell me
+   always been so, till I met Dorian Gray. Then - but I don't know how to explain it to you. Something seemed to tell me
    that I was on the verge of a terrible crisis in my life. I had a strange feeling that fate had in store for me exquisite
    joys and exquisite sorrows. I grew afraid and turned to quit the room. It was not conscience that made me do so: it was
    a sort of cowardice. I take no credit to myself for trying to escape."
 
    "Conscience and cowardice are really the same things, Basil. Conscience is the trade-name of the firm. That is all."
 
-   "I don't believe that, Harry, and I don't believe you do either. However, whatever was my motive---and it may have been
-   pride, for I used to be very proud---I certainly struggled to the door. There, of course, I stumbled against Lady
+   "I don't believe that, Harry, and I don't believe you do either. However, whatever was my motive - and it may have been
+   pride, for I used to be very proud - I certainly struggled to the door. There, of course, I stumbled against Lady
    Brandon. 'You are not going to run away so soon, Mr. Hallward?' she screamed out. You know her curiously shrill voice?"
 
    "Yes; she is a peacock in everything but beauty," said Lord Henry, pulling the daisy to bits with his long nervous
@@ -192,14 +192,14 @@
    "My dear fellow, she tried to found a salon, and only succeeded in opening a restaurant. How could I admire her? But
    tell me, what did she say about Mr. Dorian Gray?"
 
-   "Oh, something like, 'Charming boy---poor dear mother and I absolutely inseparable. Quite forget what he does---afraid
-   he--- doesn't do anything---oh, yes, plays the piano---or is it the violin, dear Mr. Gray?' Neither of us could help
+   "Oh, something like, 'Charming boy - poor dear mother and I absolutely inseparable. Quite forget what he does - afraid
+   he -  doesn't do anything - oh, yes, plays the piano - or is it the violin, dear Mr. Gray?' Neither of us could help
    laughing, and we became friends at once."
 
    "Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one," said the young lord,
    plucking another daisy.
 
-   Hallward shook his head. "You don't understand what friendship is, Harry," he murmured---"or what enmity is, for that
+   Hallward shook his head. "You don't understand what friendship is, Harry," he murmured - "or what enmity is, for that
    matter. You like every one; that is to say, you are indifferent to every one."
 
    "How horribly unjust of you!" cried Lord Henry, tilting his hat back and looking up at the little clouds that, like
@@ -231,7 +231,7 @@
 
    Lord Henry stroked his pointed brown beard and tapped the toe of his patent-leather boot with a tasselled ebony cane.
    "How English you are Basil! That is the second time you have made that observation. If one puts forward an idea to a
-   true Englishman---always a rash thing to do---he never dreams of considering whether the idea is right or wrong. The
+   true Englishman - always a rash thing to do - he never dreams of considering whether the idea is right or wrong. The
    only thing he considers of any importance is whether one believes it oneself. Now, the value of an idea has nothing
    whatsoever to do with the sincerity of the man who expresses it. Indeed, the probabilities are that the more insincere
    the man is, the more purely intellectual will the idea be, as in that case it will not be coloured by either his wants,
@@ -250,14 +250,14 @@
    from him, sketch from him. Of course, I have done all that. But he is much more to me than a model or a sitter. I won't
    tell you that I am dissatisfied with what I have done of him, or that his beauty is such that art cannot express it.
    There is nothing that art cannot express, and I know that the work I have done, since I met Dorian Gray, is good work,
-   is the best work of my life. But in some curious way---I wonder will you understand me?---his personality has suggested
+   is the best work of my life. But in some curious way - I wonder will you understand me? - his personality has suggested
    to me an entirely new manner in art, an entirely new mode of style. I see things differently, I think of them
-   differently. I can now recreate life in a way that was hidden from me before. 'A dream of form in days of thought'---who
-   is it who says that? I forget; but it is what Dorian Gray has been to me. The merely visible presence of this lad---for
-   he seems to me little more than a lad, though he is really over twenty--- his merely visible presence---ah! I wonder can
+   differently. I can now recreate life in a way that was hidden from me before. 'A dream of form in days of thought' - who
+   is it who says that? I forget; but it is what Dorian Gray has been to me. The merely visible presence of this lad - for
+   he seems to me little more than a lad, though he is really over twenty -  his merely visible presence - ah! I wonder can
    you realize all that that means? Unconsciously he defines for me the lines of a fresh school, a school that is to have
    in it all the passion of the romantic spirit, all the perfection of the spirit that is Greek. The harmony of soul and
-   body--- how much that is! We in our madness have separated the two, and have invented a realism that is vulgar, an
+   body -  how much that is! We in our madness have separated the two, and have invented a realism that is vulgar, an
    ideality that is void. Harry! if you only knew what Dorian Gray is to me! You remember that landscape of mine, for which
    Agnew offered me such a huge price but which I would not part with? It is one of the best things I have ever done. And
    why is it so? Because, while I was painting it, Dorian Gray sat beside me. Some subtle influence passed from him to me,
@@ -275,7 +275,7 @@
    "Because, without intending it, I have put into it some expression of all this curious artistic idolatry, of which, of
    course, I have never cared to speak to him. He knows nothing about it. He shall never know anything about it. But the
    world might guess it, and I will not bare my soul to their shallow prying eyes. My heart shall never be put under their
-   microscope. There is too much of myself in the thing, Harry---too much of myself!"
+   microscope. There is too much of myself in the thing, Harry - too much of myself!"
 
    "Poets are not so scrupulous as you are. They know how useful passion is for publication. Nowadays a broken heart will
    run to many editions."
@@ -299,7 +299,7 @@
    thing to think of, but there is no doubt that genius lasts longer than beauty. That accounts for the fact that we all
    take such pains to over-educate ourselves. In the wild struggle for existence, we want to have something that endures,
    and so we fill our minds with rubbish and facts, in the silly hope of keeping our place. The thoroughly well-informed
-   man---that is the modern ideal. And the mind of the thoroughly well-informed man is a dreadful thing. It is like a
+   man - that is the modern ideal. And the mind of the thoroughly well-informed man is a dreadful thing. It is like a
    bric-a-brac shop, all monsters and dust, with everything priced above its proper value. I think you will tire first, all
    the same. Some day you will look at your friend, and he will seem to you to be a little out of drawing, or you won't
    like his tone of colour, or something. You will bitterly reproach him in your own heart, and seriously think that he has
@@ -314,8 +314,8 @@
    the faithless who know love's tragedies." And Lord Henry struck a light on a dainty silver case and began to smoke a
    cigarette with a self-conscious and satisfied air, as if he had summed up the world in a phrase. There was a rustle of
    chirruping sparrows in the green lacquer leaves of the ivy, and the blue cloud-shadows chased themselves across the
-   grass like swallows. How pleasant it was in the garden! And how delightful other people's emotions were!--- much more
-   delightful than their ideas, it seemed to him. One's own soul, and the passions of one's friends---those were the
+   grass like swallows. How pleasant it was in the garden! And how delightful other people's emotions were! -  much more
+   delightful than their ideas, it seemed to him. One's own soul, and the passions of one's friends - those were the
    fascinating things in life. He pictured to himself with silent amusement the tedious luncheon that he had missed by
    staying so long with Basil Hallward. Had he gone to his aunt's, he would have been sure to have met Lord Goodbody there,
    and the whole conversation would have been about the feeding of the poor and the necessity for model lodging-houses.
@@ -381,7 +381,7 @@
 
    "I am in Lady Agatha's black books at present," answered Dorian with a funny look of penitence. "I promised to go to a
    club in Whitechapel with her last Tuesday, and I really forgot all about it. We were to have played a duet
-   together---three duets, I believe. I don't know what she will say to me. I am far too frightened to call."
+   together - three duets, I believe. I don't know what she will say to me. I am far too frightened to call."
 
    "Oh, I will make your peace with my aunt. She is quite devoted to you. And I don't think it really matters about your
    not being there. The audience probably thought it was a duet. When Aunt Agatha sits down to the piano, she makes quite
@@ -394,7 +394,7 @@
    youth was there, as well as all youth's passionate purity. One felt that he had kept himself unspotted from the world.
    No wonder Basil Hallward worshipped him.
 
-   "You are too charming to go in for philanthropy, Mr. Gray---far too charming." And Lord Henry flung himself down on the
+   "You are too charming to go in for philanthropy, Mr. Gray - far too charming." And Lord Henry flung himself down on the
    divan and opened his cigarette-case.
 
    The painter had been busy mixing his colours and getting his brushes ready. He was looking worried, and when he heard
@@ -436,7 +436,7 @@
    beautiful voice. After a few moments he said to him, "Have you really a very bad influence, Lord Henry? As bad as Basil
    says?"
 
-   "There is no such thing as a good influence, Mr. Gray. All influence is immoral---immoral from the scientific point of
+   "There is no such thing as a good influence, Mr. Gray. All influence is immoral - immoral from the scientific point of
    view."
 
    "Why?"
@@ -444,20 +444,20 @@
    "Because to influence a person is to give him one's own soul. He does not think his natural thoughts, or burn with his
    natural passions. His virtues are not real to him. His sins, if there are such things as sins, are borrowed. He becomes
    an echo of some one else's music, an actor of a part that has not been written for him. The aim of life is
-   self-development. To realize one's nature perfectly---that is what each of us is here for. People are afraid of
+   self-development. To realize one's nature perfectly - that is what each of us is here for. People are afraid of
    themselves, nowadays. They have forgotten the highest of all duties, the duty that one owes to one's self. Of course,
    they are charitable. They feed the hungry and clothe the beggar. But their own souls starve, and are naked. Courage has
    gone out of our race. Perhaps we never really had it. The terror of society, which is the basis of morals, the terror of
-   God, which is the secret of religion---these are the two things that govern us. And yet---"
+   God, which is the secret of religion - these are the two things that govern us. And yet - "
 
    "Just turn your head a little more to the right, Dorian, like a good boy," said the painter, deep in his work and
    conscious only that a look had come into the lad's face that he had never seen there before.
 
    "And yet," continued Lord Henry, in his low, musical voice, and with that graceful wave of the hand that was always so
    characteristic of him, and that he had even in his Eton days, "I believe that if one man were to live out his life fully
-   and completely, were to give form to every feeling, expression to every thought, reality to every dream---I believe that
+   and completely, were to give form to every feeling, expression to every thought, reality to every dream - I believe that
    the world would gain such a fresh impulse of joy that we would forget all the maladies of mediaevalism, and return to
-   the Hellenic ideal--- to something finer, richer than the Hellenic ideal, it may be. But the bravest man amongst us is
+   the Hellenic ideal -  to something finer, richer than the Hellenic ideal, it may be. But the bravest man amongst us is
    afraid of himself. The mutilation of the savage has its tragic survival in the self-denial that mars our lives. We are
    punished for our refusals. Every impulse that we strive to strangle broods in the mind and poisons us. The body sins
    once, and has done with its sin, for action is a mode of purification. Nothing remains then but the recollection of a
@@ -466,14 +466,14 @@
    monstrous and unlawful. It has been said that the great events of the world take place in the brain. It is in the brain,
    and the brain only, that the great sins of the world take place also. You, Mr. Gray, you yourself, with your rose-red
    youth and your rose-white boyhood, you have had passions that have made you afraid, thoughts that have filled you with
-   terror, day-dreams and sleeping dreams whose mere memory might stain your cheek with shame---"
+   terror, day-dreams and sleeping dreams whose mere memory might stain your cheek with shame - "
 
    "Stop!" faltered Dorian Gray, "stop! you bewilder me. I don't know what to say. There is some answer to you, but I
    cannot find it. Don't speak. Let me think. Or, rather, let me try not to think."
 
    For nearly ten minutes he stood there, motionless, with parted lips and eyes strangely bright. He was dimly conscious
    that entirely fresh influences were at work within him. Yet they seemed to him to have come really from himself. The few
-   words that Basil's friend had said to him---words spoken by chance, no doubt, and with wilful paradox in them--- had
+   words that Basil's friend had said to him - words spoken by chance, no doubt, and with wilful paradox in them -  had
    touched some secret chord that had never been touched before, but that he felt was now vibrating and throbbing to
    curious pulses.
 
@@ -499,7 +499,7 @@
    here."
 
    "My dear fellow, I am so sorry. When I am painting, I can't think of anything else. But you never sat better. You were
-   perfectly still. And I have caught the effect I wanted--- the half-parted lips and the bright look in the eyes. I don't
+   perfectly still. And I have caught the effect I wanted -  the half-parted lips and the bright look in the eyes. I don't
    know what Harry has been saying to you, but he has certainly made you have the most wonderful expression. I suppose he
    has been paying you compliments. You mustn't believe a word that he says."
 
@@ -523,7 +523,7 @@
    gilded threads. There was a look of fear in his eyes, such as people have when they are suddenly awakened. His finely
    chiselled nostrils quivered, and some hidden nerve shook the scarlet of his lips and left them trembling.
 
-   "Yes," continued Lord Henry, "that is one of the great secrets of life--- to cure the soul by means of the senses, and
+   "Yes," continued Lord Henry, "that is one of the great secrets of life -  to cure the soul by means of the senses, and
    the senses by means of the soul. You are a wonderful creation. You know more than you think you know, just as you know
    less than you want to know."
 
@@ -552,7 +552,7 @@
    "No, you don't feel it now. Some day, when you are old and wrinkled and ugly, when thought has seared your forehead with
    its lines, and passion branded your lips with its hideous fires, you will feel it, you will feel it terribly. Now,
    wherever you go, you charm the world. Will it always be so? ... You have a wonderfully beautiful face, Mr. Gray. Don't
-   frown. You have. And beauty is a form of genius--- is higher, indeed, than genius, as it needs no explanation. It is of
+   frown. You have. And beauty is a form of genius -  is higher, indeed, than genius, as it needs no explanation. It is of
    the great facts of the world, like sunlight, or spring-time, or the reflection in dark waters of that silver shell we
    call the moon. It cannot be questioned. It has its divine right of sovereignty. It makes princes of those who have it.
    You smile? Ah! when you have lost it you won't smile... . People say sometimes that beauty is only superficial. That may
@@ -566,12 +566,12 @@
    dull-eyed. You will suffer horribly... . Ah! realize your youth while you have it. Don't squander the gold of your days,
    listening to the tedious, trying to improve the hopeless failure, or giving away your life to the ignorant, the common,
    and the vulgar. These are the sickly aims, the false ideals, of our age. Live! Live the wonderful life that is in you!
-   Let nothing be lost upon you. Be always searching for new sensations. Be afraid of nothing... . A new Hedonism--- that
+   Let nothing be lost upon you. Be always searching for new sensations. Be afraid of nothing... . A new Hedonism -  that
    is what our century wants. You might be its visible symbol. With your personality there is nothing you could not do. The
    world belongs to you for a season... . The moment I met you I saw that you were quite unconscious of what you really
    are, of what you really might be. There was so much in you that charmed me that I felt I must tell you something about
    yourself. I thought how tragic it would be if you were wasted. For there is such a little time that your youth will
-   last---such a little time. The common hill-flowers wither, but they blossom again. The laburnum will be as yellow next
+   last - such a little time. The common hill-flowers wither, but they blossom again. The laburnum will be as yellow next
    June as it is now. In a month there will be purple stars on the clematis, and year after year the green night of its
    leaves will hold its purple stars. But we never get back our youth. The pulse of joy that beats in us at twenty becomes
    sluggish. Our limbs fail, our senses rot. We degenerate into hideous puppets, haunted by the memory of the passions of
@@ -659,7 +659,7 @@
    "How sad it is!" murmured Dorian Gray with his eyes still fixed upon his own portrait. "How sad it is! I shall grow old,
    and horrible, and dreadful. But this picture will remain always young. It will never be older than this particular day
    of June... . If it were only the other way! If it were I who was to be always young, and the picture that was to grow
-   old! For that---for that---I would give everything! Yes, there is nothing in the whole world I would not give! I would
+   old! For that - for that - I would give everything! Yes, there is nothing in the whole world I would not give! I would
    give my soul for that!"
 
    "You would hardly care for such an arrangement, Basil," cried Lord Henry, laughing. "It would be rather hard lines on
@@ -679,18 +679,18 @@
    only thing worth having. When I find that I am growing old, I shall kill myself."
 
    Hallward turned pale and caught his hand. "Dorian! Dorian!" he cried, "don't talk like that. I have never had such a
-   friend as you, and I shall never have such another. You are not jealous of material things, are you?--- you who are
+   friend as you, and I shall never have such another. You are not jealous of material things, are you? -  you who are
    finer than any of them!"
 
    "I am jealous of everything whose beauty does not die. I am jealous of the portrait you have painted of me. Why should
    it keep what I must lose? Every moment that passes takes something from me and gives something to it. Oh, if it were
    only the other way! If the picture could change, and I could be always what I am now! Why did you paint it? It will mock
-   me some day---mock me horribly!" The hot tears welled into his eyes; he tore his hand away and, flinging himself on the
+   me some day - mock me horribly!" The hot tears welled into his eyes; he tore his hand away and, flinging himself on the
    divan, he buried his face in the cushions, as though he was praying.
 
    "This is your doing, Harry," said the painter bitterly.
 
-   Lord Henry shrugged his shoulders. "It is the real Dorian Gray--- that is all."
+   Lord Henry shrugged his shoulders. "It is the real Dorian Gray -  that is all."
 
    "It is not."
 
@@ -723,7 +723,7 @@
 
    "I adore simple pleasures," said Lord Henry. "They are the last refuge of the complex. But I don't like scenes, except
    on the stage. What absurd fellows you are, both of you! I wonder who it was defined man as a rational animal. It was the
-   most premature definition ever given. Man is many things, but he is not rational. I am glad he is not, after all---
+   most premature definition ever given. Man is many things, but he is not rational. I am glad he is not, after all - 
    though I wish you chaps would not squabble over the picture. You had much better let me have it, Basil. This silly boy
    doesn't really want it, and I really do."
 
@@ -876,10 +876,10 @@
 
    "Kelso's grandson!" echoed the old gentleman. "Kelso's grandson! ... Of course... . I knew his mother intimately. I
    believe I was at her christening. She was an extraordinarily beautiful girl, Margaret Devereux, and made all the men
-   frantic by running away with a penniless young fellow--- a mere nobody, sir, a subaltern in a foot regiment, or
+   frantic by running away with a penniless young fellow -  a mere nobody, sir, a subaltern in a foot regiment, or
    something of that kind. Certainly. I remember the whole thing as if it happened yesterday. The poor chap was killed in a
    duel at Spa a few months after the marriage. There was an ugly story about it. They said Kelso got some rascally
-   adventurer, some Belgian brute, to insult his son-in-law in public---paid him, sir, to do it, paid him--- and that the
+   adventurer, some Belgian brute, to insult his son-in-law in public - paid him, sir, to do it, paid him -  and that the
    fellow spitted his man as if he had been a pigeon. The thing was hushed up, but, egad, Kelso ate his chop alone at the
    club for some time afterwards. He brought his daughter back with him, I was told, and she never spoke to him again. Oh,
    yes; it was a bad business. The girl died, too, died within a year. So she left a son, did she? I had forgotten that.
@@ -961,7 +961,7 @@
    enthralling in the exercise of influence. No other activity was like it. To project one's soul into some gracious form,
    and let it tarry there for a moment; to hear one's own intellectual views echoed back to one with all the added music of
    passion and youth; to convey one's temperament into another as though it were a subtle fluid or a strange perfume: there
-   was a real joy in that---perhaps the most satisfying joy left to us in an age so limited and vulgar as our own, an age
+   was a real joy in that - perhaps the most satisfying joy left to us in an age so limited and vulgar as our own, an age
    grossly carnal in its pleasures, and grossly common in its aims... . He was a marvellous type, too, this lad, whom by so
    curious a chance he had met in Basil's studio, or could be fashioned into a marvellous type, at any rate. Grace was his,
    and the white purity of boyhood, and beauty such as old Greek marbles kept for us. There was nothing that one could not
@@ -975,7 +975,7 @@
    remembered something like it in history. Was it not Plato, that artist in thought, who had first analyzed it? Was it not
    Buonarotti who had carved it in the coloured marbles of a sonnet-sequence? But in our own century it was strange... .
    Yes; he would try to be to Dorian Gray what, without knowing it, the lad was to the painter who had fashioned the
-   wonderful portrait. He would seek to dominate him---had already, indeed, half done so. He would make that wonderful
+   wonderful portrait. He would seek to dominate him - had already, indeed, half done so. He would make that wonderful
    spirit his own. There was something fascinating in this son of love and death.
 
    Suddenly he stopped and glanced up at the houses. He found that he had passed his aunt's some distance, and, smiling to
@@ -1020,7 +1020,7 @@
 
    "Don't mind him, my dear," whispered Lady Agatha. "He never means anything that he says."
 
-   "When America was discovered," said the Radical member--- and he began to give some wearisome facts. Like all people who
+   "When America was discovered," said the Radical member -  and he began to give some wearisome facts. Like all people who
    try to exhaust a subject, he exhausted his listeners. The duchess sighed and exercised her privilege of interruption. "I
    wish to goodness it never had been discovered at all!" she exclaimed. "Really, our girls have no chance nowadays. It is
    most unfair."
@@ -1206,7 +1206,7 @@
 
    "I am afraid it is not Harry, Mr. Gray," answered a shrill voice.
 
-   He glanced quickly round and rose to his feet. "I beg your pardon. I thought---"
+   He glanced quickly round and rose to his feet. "I beg your pardon. I thought - "
 
    "You thought it was my husband. It is only his wife. You must let me introduce myself. I know you quite well by your
    photographs. I think my husband has got seventeen of them."
@@ -1227,17 +1227,17 @@
    The same nervous staccato laugh broke from her thin lips, and her fingers began to play with a long tortoise-shell
    paper-knife.
 
-   Dorian smiled and shook his head: "I am afraid I don't think so, Lady Henry. I never talk during music---at least,
+   Dorian smiled and shook his head: "I am afraid I don't think so, Lady Henry. I never talk during music - at least,
    during good music. If one hears bad music, it is one's duty to drown it in conversation."
 
    "Ah! that is one of Harry's views, isn't it, Mr. Gray? I always hear Harry's views from his friends. It is the only way
    I get to know of them. But you must not think I don't like good music. I adore it, but I am afraid of it. It makes me
-   too romantic. I have simply worshipped pianists--- two at a time, sometimes, Harry tells me. I don't know what it is
+   too romantic. I have simply worshipped pianists -  two at a time, sometimes, Harry tells me. I don't know what it is
    about them. Perhaps it is that they are foreigners. They all are, ain't they? Even those that are born in England become
    foreigners after a time, don't they? It is so clever of them, and such a compliment to art. Makes it quite cosmopolitan,
    doesn't it? You have never been to any of my parties, have you, Mr. Gray? You must come. I can't afford orchids, but I
    share no expense in foreigners. They make one's rooms look so picturesque. But here is Harry! Harry, I came in to look
-   for you, to ask you something--- I forget what it was---and I found Mr. Gray here. We have had such a pleasant chat
+   for you, to ask you something -  I forget what it was - and I found Mr. Gray here. We have had such a pleasant chat
    about music. We have quite the same ideas. No; I think our ideas are quite different. But he has been most pleasant. I
    am so glad I've seen him."
 
@@ -1319,8 +1319,8 @@
    a vile cigar. He had greasy ringlets, and an enormous diamond blazed in the centre of a soiled shirt. 'Have a box, my
    Lord?' he said, when he saw me, and he took off his hat with an air of gorgeous servility. There was something about
    him, Harry, that amused me. He was such a monster. You will laugh at me, I know, but I really went in and paid a whole
-   guinea for the stage-box. To the present day I can't make out why I did so; and yet if I hadn't--- my dear Harry, if I
-   hadn't---I should have missed the greatest romance of my life. I see you are laughing. It is horrid of you!"
+   guinea for the stage-box. To the present day I can't make out why I did so; and yet if I hadn't -  my dear Harry, if I
+   hadn't - I should have missed the greatest romance of my life. I see you are laughing. It is horrid of you!"
 
    "I am not laughing, Dorian; at least I am not laughing at you. But you should not say the greatest romance of your life.
    You should say the first romance of your life. You will always be loved, and you will always be in love with love. A
@@ -1335,7 +1335,7 @@
 
    "My dear boy, the people who love only once in their lives are really the shallow people. What they call their loyalty,
    and their fidelity, I call either the lethargy of custom or their lack of imagination. Faithfulness is to the emotional
-   life what consistency is to the life of the intellect---simply a confession of failure. Faithfulness! I must analyse it
+   life what consistency is to the life of the intellect - simply a confession of failure. Faithfulness! I must analyse it
    some day. The passion for property is in it. There are many things that we would throw away if we were not afraid that
    others might pick them up. But I don't want to interrupt you. Go on with your story."
 
@@ -1365,7 +1365,7 @@
    dark-brown hair, eyes that were violet wells of passion, lips that were like the petals of a rose. She was the loveliest
    thing I had ever seen in my life. You said to me once that pathos left you unmoved, but that beauty, mere beauty, could
    fill your eyes with tears. I tell you, Harry, I could hardly see this girl for the mist of tears that came across me.
-   And her voice---I never heard such a voice. It was very low at first, with deep mellow notes that seemed to fall singly
+   And her voice - I never heard such a voice. It was very low at first, with deep mellow notes that seemed to fall singly
    upon one's ear. Then it became a little louder, and sounded like a flute or a distant hautboy. In the garden-scene it
    had all the tremulous ecstasy that one hears just before dawn when nightingales are singing. There were moments, later
    on, when it had the wild passion of violins. You know how a voice can stir one. Your voice and the voice of Sibyl Vane
@@ -1395,8 +1395,8 @@
    "Yes, Harry, I believe that is true. I cannot help telling you things. You have a curious influence over me. If I ever
    did a crime, I would come and confess it to you. You would understand me."
 
-   "People like you---the wilful sunbeams of life---don't commit crimes, Dorian. But I am much obliged for the compliment,
-   all the same. And now tell me--- reach me the matches, like a good boy---thanks---what are your actual relations with
+   "People like you - the wilful sunbeams of life - don't commit crimes, Dorian. But I am much obliged for the compliment,
+   all the same. And now tell me -  reach me the matches, like a good boy - thanks - what are your actual relations with
    Sibyl Vane?"
 
    Dorian Gray leaped to his feet, with flushed cheeks and burning eyes. "Harry! Sibyl Vane is sacred!"
@@ -1427,12 +1427,12 @@
    me once, with an air of pride, that his five bankruptcies were entirely due to 'The Bard,' as he insisted on calling
    him. He seemed to think it a distinction."
 
-   "It was a distinction, my dear Dorian---a great distinction. Most people become bankrupt through having invested too
+   "It was a distinction, my dear Dorian - a great distinction. Most people become bankrupt through having invested too
    heavily in the prose of life. To have ruined one's self over poetry is an honour. But when did you first speak to Miss
    Sibyl Vane?"
 
    "The third night. She had been playing Rosalind. I could not help going round. I had thrown her some flowers, and she
-   had looked at me---at least I fancied that she had. The old Jew was persistent. He seemed determined to take me behind,
+   had looked at me - at least I fancied that she had. The old Jew was persistent. He seemed determined to take me behind,
    so I consented. It was curious my not wanting to know her, wasn't it?"
 
    "No; I don't think so."
@@ -1499,8 +1499,8 @@
    "And what do you propose to do?" said Lord Henry at last.
 
    "I want you and Basil to come with me some night and see her act. I have not the slightest fear of the result. You are
-   certain to acknowledge her genius. Then we must get her out of the Jew's hands. She is bound to him for three years---at
-   least for two years and eight months--- from the present time. I shall have to pay him something, of course. When all
+   certain to acknowledge her genius. Then we must get her out of the Jew's hands. She is bound to him for three years - at
+   least for two years and eight months -  from the present time. I shall have to pay him something, of course. When all
    that is settled, I shall take a West End theatre and bring her out properly. She will make the world as mad as she has
    made me."
 
@@ -1548,18 +1548,18 @@
    him so much as Dorian Gray, and yet the lad's mad adoration of some one else caused him not the slightest pang of
    annoyance or jealousy. He was pleased by it. It made him a more interesting study. He had been always enthralled by the
    methods of natural science, but the ordinary subject-matter of that science had seemed to him trivial and of no import.
-   And so he had begun by vivisecting himself, as he had ended by vivisecting others. Human life---that appeared to him the
+   And so he had begun by vivisecting himself, as he had ended by vivisecting others. Human life - that appeared to him the
    one thing worth investigating. Compared to it there was nothing else of any value. It was true that as one watched life
    in its curious crucible of pain and pleasure, one could not wear over one's face a mask of glass, nor keep the
    sulphurous fumes from troubling the brain and making the imagination turbid with monstrous fancies and misshapen dreams.
    There were poisons so subtle that to know their properties one had to sicken of them. There were maladies so strange
    that one had to pass through them if one sought to understand their nature. And, yet, what a great reward one received!
    How wonderful the whole world became to one! To note the curious hard logic of passion, and the emotional coloured life
-   of the intellect---to observe where they met, and where they separated, at what point they were in unison, and at what
-   point they were at discord---there was a delight in that! What matter what the cost was? One could never pay too high a
+   of the intellect - to observe where they met, and where they separated, at what point they were in unison, and at what
+   point they were at discord - there was a delight in that! What matter what the cost was? One could never pay too high a
    price for any sensation.
 
-   He was conscious---and the thought brought a gleam of pleasure into his brown agate eyes---that it was through certain
+   He was conscious - and the thought brought a gleam of pleasure into his brown agate eyes - that it was through certain
    words of his, musical words said with musical utterance, that Dorian Gray's soul had turned to this white girl and bowed
    in worship before her. To a large extent the lad was his own creation. He had made him premature. That was something.
    Ordinary people waited till life disclosed to them its secrets, but to the few, to the elect, the mysteries of life were
@@ -1574,7 +1574,7 @@
    gracious figures in a pageant or a play, whose joys seem to be remote from one, but whose sorrows stir one's sense of
    beauty, and whose wounds are like red roses.
 
-   Soul and body, body and soul---how mysterious they were! There was animalism in the soul, and the body had its moments
+   Soul and body, body and soul - how mysterious they were! There was animalism in the soul, and the body had its moments
    of spirituality. The senses could refine, and the intellect could degrade. Who could say where the fleshly impulse
    ceased, or the psychical impulse began? How shallow were the arbitrary definitions of ordinary psychologists! And yet
    how difficult to decide between the claims of the various schools! Was the soul a shadow seated in the house of sin? Or
@@ -1650,7 +1650,7 @@
 
    Suddenly she felt the need to speak. The wordy silence troubled her. "Mother, Mother," she cried, "why does he love me
    so much? I know why I love him. I love him because he is like what love himself should be. But what does he see in me? I
-   am not worthy of him. And yet---why, I cannot tell---though I feel so much beneath him, I don't feel humble. I feel
+   am not worthy of him. And yet - why, I cannot tell - though I feel so much beneath him, I don't feel humble. I feel
    proud, terribly proud. Mother, did you love my father as I love Prince Charming?"
 
    The elder woman grew pale beneath the coarse powder that daubed her cheeks, and her dry lips twitched with a spasm of
@@ -1687,14 +1687,14 @@
    "Why not, Mother? I mean it."
 
    "You pain me, my son. I trust you will return from Australia in a position of affluence. I believe there is no society
-   of any kind in the Colonies--- nothing that I would call society---so when you have made your fortune, you must come
+   of any kind in the Colonies -  nothing that I would call society - so when you have made your fortune, you must come
    back and assert yourself in London."
 
    "Society!" muttered the lad. "I don't want to know anything about that. I should like to make some money to take you and
    Sibyl off the stage. I hate it."
 
    "Oh, Jim!" said Sibyl, laughing, "how unkind of you! But are you really going for a walk with me? That will be nice! I
-   was afraid you were going to say good-bye to some of your friends--- to Tom Hardy, who gave you that hideous pipe, or
+   was afraid you were going to say good-bye to some of your friends -  to Tom Hardy, who gave you that hideous pipe, or
    Ned Langton, who makes fun of you for smoking it. It is very sweet of you to let me have your last afternoon. Where
    shall we go? Let us go to the park."
 
@@ -1818,7 +1818,7 @@
    "Why, you don't even know his name," answered the lad. "Who is he? I have a right to know."
 
    "He is called Prince Charming. Don't you like the name. Oh! you silly boy! you should never forget it. If you only saw
-   him, you would think him the most wonderful person in the world. Some day you will meet him---when you come back from
+   him, you would think him the most wonderful person in the world. Some day you will meet him - when you come back from
    Australia. You will like him so much. Everybody likes him, and I ... love him. I wish you could come to the theatre
    to-night. He is going to be there, and I am to play Juliet. Oh! how I shall play it! Fancy, Jim, to be in love and play
    Juliet! To have him sitting there! To play for his delight! I am afraid I may frighten the company, frighten or enthrall
@@ -1849,7 +1849,7 @@
    sit down and see the smart people go by."
 
    They took their seats amidst a crowd of watchers. The tulip-beds across the road flamed like throbbing rings of fire. A
-   white dust--- tremulous cloud of orris-root it seemed---hung in the panting air. The brightly coloured parasols danced
+   white dust -  tremulous cloud of orris-root it seemed - hung in the panting air. The brightly coloured parasols danced
    and dipped like monstrous butterflies.
 
    She made her brother talk of himself, his hopes, his prospects. He spoke slowly and with effort. They passed words to
@@ -1996,7 +1996,7 @@
    "I hope the girl is good, Harry. I don't want to see Dorian tied to some vile creature, who might degrade his nature and
    ruin his intellect."
 
-   "Oh, she is better than good---she is beautiful," murmured Lord Henry, sipping a glass of vermouth and orange-bitters.
+   "Oh, she is better than good - she is beautiful," murmured Lord Henry, sipping a glass of vermouth and orange-bitters.
    "Dorian says she is beautiful, and he is not often wrong about things of that kind. Your portrait of him has quickened
    his appreciation of the personal appearance of other people. It has had that excellent effect, amongst others. We are to
    see her to-night, if that boy doesn't forget his appointment."
@@ -2035,7 +2035,7 @@
 
    "My dear Harry, my dear Basil, you must both congratulate me!" said the lad, throwing off his evening cape with its
    satin-lined wings and shaking each of his friends by the hand in turn. "I have never been so happy. Of course, it is
-   sudden--- all really delightful things are. And yet it seems to me to be the one thing I have been looking for all my
+   sudden -  all really delightful things are. And yet it seems to me to be the one thing I have been looking for all my
    life." He was flushed with excitement and pleasure, and looked extraordinarily handsome.
 
    "I hope you will always be very happy, Dorian," said Hallward, "but I don't quite forgive you for not having let me know
@@ -2053,7 +2053,7 @@
    cross-gartered hose, a dainty little green cap with a hawk's feather caught in a jewel, and a hooded cloak lined with
    dull red. She had never seemed to me more exquisite. She had all the delicate grace of that Tanagra figurine that you
    have in your studio, Basil. Her hair clustered round her face like dark leaves round a pale rose. As for her
-   acting---well, you shall see her to-night. She is simply a born artist. I sat in the dingy box absolutely enthralled. I
+   acting - well, you shall see her to-night. She is simply a born artist. I sat in the dingy box absolutely enthralled. I
    forgot that I was in London and in the nineteenth century. I was away with my love in a forest that no man had ever
    seen. After the performance was over, I went behind and spoke to her. As we were sitting together, suddenly there came
    into her eyes a look that I had never seen there before. My lips moved towards hers. We kissed each other. I can't
@@ -2085,7 +2085,7 @@
    bring misery upon any one. His nature is too fine for that."
 
    Lord Henry looked across the table. "Dorian is never annoyed with me," be answered. "I asked the question for the best
-   reason possible, for the only reason, indeed, that excuses one for asking any question--- simple curiosity. I have a
+   reason possible, for the only reason, indeed, that excuses one for asking any question -  simple curiosity. I have a
    theory that it is always the women who propose to us, and not we who propose to the women. Except, of course, in
    middle-class life. But then the middle classes are not modern."
 
@@ -2113,7 +2113,7 @@
    irises that stood in the centre of the table, "what do you mean by good, Harry?"
 
    "To be good is to be in harmony with one's self," he replied, touching the thin stem of his glass with his pale,
-   fine-pointed fingers. "Discord is to be forced to be in harmony with others. One's own life---that is the important
+   fine-pointed fingers. "Discord is to be forced to be in harmony with others. One's own life - that is the important
    thing. As for the lives of one's neighbours, if one wishes to be a prig or a Puritan, one can flaunt one's moral views
    about them, but they are not one's concern. Besides, individualism has really the higher aim. Modern morality consists
    in accepting the standard of one's age. I consider that for any man of culture to accept the standard of his age is a
@@ -2156,7 +2156,7 @@
    "Harry, you are dreadful! I don't know why I like you so much."
 
    "You will always like me, Dorian," he replied. "Will you have some coffee, you fellows? Waiter, bring coffee, and
-   fine-champagne, and some cigarettes. No, don't mind the cigarettes---I have some. Basil, I can't allow you to smoke
+   fine-champagne, and some cigarettes. No, don't mind the cigarettes - I have some. Basil, I can't allow you to smoke
    cigars. You must have a cigarette. A cigarette is the perfect type of a perfect pleasure. It is exquisite, and it leaves
    one unsatisfied. What more can one want? Yes, Dorian, you will always be fond of me. I represent to you all the sins you
    have never had the courage to commit."
@@ -2205,7 +2205,7 @@
 
    "Don't pay any attention to him, Dorian," said the painter. "I understand what you mean, and I believe in this girl. Any
    one you love must be marvellous, and any girl who has the effect you describe must be fine and noble. To spiritualize
-   one's age---that is something worth doing. If this girl can give a soul to those who have lived without one, if she can
+   one's age - that is something worth doing. If this girl can give a soul to those who have lived without one, if she can
    create the sense of beauty in people whose lives have been sordid and ugly, if she can strip them of their selfishness
    and lend them tears for sorrows that are not their own, she is worthy of all your adoration, worthy of the adoration of
    the world. This marriage is quite right. I did not think so at first, but I admit it now. The gods made Sibyl Vane for
@@ -2217,7 +2217,7 @@
    good in me."
 
    A quarter of an hour afterwards, amidst an extraordinary turmoil of applause, Sibyl Vane stepped on to the stage. Yes,
-   she was certainly lovely to look at--- one of the loveliest creatures, Lord Henry thought, that he had ever seen. There
+   she was certainly lovely to look at -  one of the loveliest creatures, Lord Henry thought, that he had ever seen. There
    was something of the fawn in her shy grace and startled eyes. A faint blush, like the shadow of a rose in a mirror of
    silver, came to her cheeks as she glanced at the crowded enthusiastic house. She stepped back a few paces and her lips
    seemed to tremble. Basil Hallward leaped to his feet and began to applaud. Motionless, and as one in a dream, sat Dorian
@@ -2230,10 +2230,10 @@
    ivory.
 
    Yet she was curiously listless. She showed no sign of joy when her eyes rested on Romeo. The few words she had to
-   speak---
+   speak - 
 
    Good pilgrim, you do wrong your hand too much, Which mannerly devotion shows in this; For saints have hands that
-   pilgrims' hands do touch, And palm to palm is holy palmers' kiss--- with the brief dialogue that follows, were spoken in
+   pilgrims' hands do touch, And palm to palm is holy palmers' kiss -  with the brief dialogue that follows, were spoken in
    a thoroughly artificial manner. The voice was exquisite, but from the point of view of tone it was absolutely false. It
    was wrong in colour. It took away all the life from the verse. It made the passion unreal.
 
@@ -2245,17 +2245,17 @@
 
    She looked charming as she came out in the moonlight. That could not be denied. But the staginess of her acting was
    unbearable, and grew worse as she went on. Her gestures became absurdly artificial. She overemphasized everything that
-   she had to say. The beautiful passage---
+   she had to say. The beautiful passage - 
 
    Thou knowest the mask of night is on my face, Else would a maiden blush bepaint my cheek For that which thou hast heard
-   me speak to-night---
+   me speak to-night - 
 
    was declaimed with the painful precision of a schoolgirl who has been taught to recite by some second-rate professor of
-   elocution. When she leaned over the balcony and came to those wonderful lines---
+   elocution. When she leaned over the balcony and came to those wonderful lines - 
 
    Although I joy in thee, I have no joy of this contract to-night: It is too rash, too unadvised, too sudden; Too like the
    lightning, which doth cease to be Ere one can say, "It lightens." Sweet, good-night! This bud of love by summer's
-   ripening breath May prove a beauteous flower when next we meet--- she spoke the words as though they conveyed no meaning
+   ripening breath May prove a beauteous flower when next we meet -  she spoke the words as though they conveyed no meaning
    to her. It was not nervousness. Indeed, so far from being nervous, she was absolutely self-contained. It was simply bad
    art. She was a complete failure.
 
@@ -2280,7 +2280,7 @@
    longer. It is not good for one's morals to see bad acting. Besides, I don't suppose you will want your wife to act, so
    what does it matter if she plays Juliet like a wooden doll? She is very lovely, and if she knows as little about life as
    she does about acting, she will be a delightful experience. There are only two kinds of people who are really
-   fascinating--- people who know absolutely everything, and people who know absolutely nothing. Good heavens, my dear boy,
+   fascinating -  people who know absolutely everything, and people who know absolutely nothing. Good heavens, my dear boy,
    don't look so tragic! The secret of remaining young is never to have an emotion that is unbecoming. Come to the club
    with Basil and myself. We will smoke cigarettes and drink to the beauty of Sibyl Vane. She is beautiful. What more can
    you want?"
@@ -2322,8 +2322,8 @@
    "Dorian, Dorian," she cried, "before I knew you, acting was the one reality of my life. It was only in the theatre that
    I lived. I thought that it was all true. I was Rosalind one night and Portia the other. The joy of Beatrice was my joy,
    and the sorrows of Cordelia were mine also. I believed in everything. The common people who acted with me seemed to me
-   to be godlike. The painted scenes were my world. I knew nothing but shadows, and I thought them real. You came---oh, my
-   beautiful love!--- and you freed my soul from prison. You taught me what reality really is. To-night, for the first time
+   to be godlike. The painted scenes were my world. I knew nothing but shadows, and I thought them real. You came - oh, my
+   beautiful love! -  and you freed my soul from prison. You taught me what reality really is. To-night, for the first time
    in my life, I saw through the hollowness, the sham, the silliness of the empty pageant in which I had always played.
    To-night, for the first time, I became conscious that the Romeo was hideous, and old, and painted, that the moonlight in
    the orchard was false, that the scenery was vulgar, and that the words I had to speak were unreal, were not my words,
@@ -2332,7 +2332,7 @@
    shadows. You are more to me than all art can ever be. What have I to do with the puppets of a play? When I came on
    to-night, I could not understand how it was that everything had gone from me. I thought that I was going to be
    wonderful. I found that I could do nothing. Suddenly it dawned on my soul what it all meant. The knowledge was exquisite
-   to me. I heard them hissing, and I smiled. What could they know of love such as ours? Take me away, Dorian---take me
+   to me. I heard them hissing, and I smiled. What could they know of love such as ours? Take me away, Dorian - take me
    away with you, where we can be quite alone. I hate the stage. I might mimic a passion that I do not feel, but I cannot
    mimic one that burns me like fire. Oh, Dorian, Dorian, you understand now what it signifies? Even if I could do it, it
    would be profanation for me to play at being in love. You have made me see that."
@@ -2362,8 +2362,8 @@
 
    A low moan broke from her, and she flung herself at his feet and lay there like a trampled flower. "Dorian, Dorian,
    don't leave me!" she whispered. "I am so sorry I didn't act well. I was thinking of you all the time. But I will
-   try---indeed, I will try. It came so suddenly across me, my love for you. I think I should never have known it if you
-   had not kissed me--- if we had not kissed each other. Kiss me again, my love. Don't go away from me. I couldn't bear it.
+   try - indeed, I will try. It came so suddenly across me, my love for you. I think I should never have known it if you
+   had not kissed me -  if we had not kissed each other. Kiss me again, my love. Don't go away from me. I couldn't bear it.
    Oh! don't go away from me. My brother ... No; never mind. He didn't mean it. He was in jest... . But you, oh! can't you
    forgive me for to-night? I will work so hard and try to improve. Don't be cruel to me, because I love you better than
    anything in the world. After all, it is only once that I have not pleased you. But you are quite right, Dorian. I should
@@ -2456,7 +2456,7 @@
    came over him. It had altered already, and would alter more. Its gold would wither into grey. Its red and white roses
    would die. For every sin that he committed, a stain would fleck and wreck its fairness. But he would not sin. The
    picture, changed or unchanged, would be to him the visible emblem of conscience. He would resist temptation. He would
-   not see Lord Henry any more---would not, at any rate, listen to those subtle poisonous theories that in Basil Hallward's
+   not see Lord Henry any more - would not, at any rate, listen to those subtle poisonous theories that in Basil Hallward's
    garden had first stirred within him the passion for impossible things. He would go back to Sibyl Vane, make her amends,
    marry her, try to love her again. Yes, it was his duty to do so. She must have suffered more than he had. Poor child! He
    had been selfish and cruel to her. The fascination that she had exercised over him would return. They would be happy
@@ -2534,7 +2534,7 @@
    As he often remembered afterwards, and always with no small wonder, he found himself at first gazing at the portrait
    with a feeling of almost scientific interest. That such a change should have taken place was incredible to him. And yet
    it was a fact. Was there some subtle affinity between the chemical atoms that shaped themselves into form and colour on
-   the canvas and the soul that was within him? Could it be that what that soul thought, they realized?---that what it
+   the canvas and the soul that was within him? Could it be that what that soul thought, they realized? - that what it
    dreamed, they made true? Or was there some other, more terrible reason? He shuddered, and felt afraid, and, going back
    to the couch, lay there, gazing at the picture in sickened horror.
 
@@ -2573,7 +2573,7 @@
 
    "I felt sure you had. Did you make a scene with her?"
 
-   "I was brutal, Harry---perfectly brutal. But it is all right now. I am not sorry for anything that has happened. It has
+   "I was brutal, Harry - perfectly brutal. But it is all right now. I am not sorry for anything that has happened. It has
    taught me to know myself better."
 
    "Ah, Dorian, I am so glad you take it in that way! I was afraid I would find you plunged in remorse and tearing that
@@ -2581,13 +2581,13 @@
 
    "I have got through all that," said Dorian, shaking his head and smiling. "I am perfectly happy now. I know what
    conscience is, to begin with. It is not what you told me it was. It is the divinest thing in us. Don't sneer at it,
-   Harry, any more---at least not before me. I want to be good. I can't bear the idea of my soul being hideous."
+   Harry, any more - at least not before me. I want to be good. I can't bear the idea of my soul being hideous."
 
    "A very charming artistic basis for ethics, Dorian! I congratulate you on it. But how are you going to begin?"
 
    "By marrying Sibyl Vane."
 
-   "Marrying Sibyl Vane!" cried Lord Henry, standing up and looking at him in perplexed amazement. "But, my dear Dorian---"
+   "Marrying Sibyl Vane!" cried Lord Henry, standing up and looking at him in perplexed amazement. "But, my dear Dorian - "
 
    "Yes, Harry, I know what you are going to say. Something dreadful about marriage. Don't say it. Don't ever say things of
    that kind to me again. Two days ago I asked Sibyl to marry me. I am not going to break my word to her. She is to be my
@@ -2603,7 +2603,7 @@
    "What do you mean?"
 
    Lord Henry walked across the room, and sitting down by Dorian Gray, took both his hands in his own and held them
-   tightly. "Dorian," he said, "my letter---don't be frightened---was to tell you that Sibyl Vane is dead."
+   tightly. "Dorian," he said, "my letter - don't be frightened - was to tell you that Sibyl Vane is dead."
 
    A cry of pain broke from the lad's lips, and he leaped to his feet, tearing his hands away from Lord Henry's grasp.
    "Dead! Sibyl dead! It is not true! It is a horrible lie! How dare you say it?"
@@ -2616,7 +2616,7 @@
    point."
 
    Dorian did not answer for a few moments. He was dazed with horror. Finally he stammered, in a stifled voice, "Harry, did
-   you say an inquest? What did you mean by that? Did Sibyl---? Oh, Harry, I can't bear it! But be quick. Tell me
+   you say an inquest? What did you mean by that? Did Sibyl - ? Oh, Harry, I can't bear it! But be quick. Tell me
    everything at once."
 
    "I have no doubt it was not an accident, Dorian, though it must be put in that way to the public. It seems that as she
@@ -2642,7 +2642,7 @@
    love-letter I have ever written in my life. Strange, that my first passionate love-letter should have been addressed to
    a dead girl. Can they feel, I wonder, those white silent people we call the dead? Sibyl! Can she feel, or know, or
    listen? Oh, Harry, how I loved her once! It seems years ago to me now. She was everything to me. Then came that dreadful
-   night---was it really only last night?--- when she played so badly, and my heart almost broke. She explained it all to
+   night - was it really only last night? -  when she played so badly, and my heart almost broke. She explained it all to
    me. It was terribly pathetic. But I was not moved a bit. I thought her shallow. Suddenly something happened that made me
    afraid. I can't tell you what it was, but it was terrible. I said I would go back to her. I felt I had done wrong. And
    now she is dead. My God! My God! Harry, what shall I do? You don't know the danger I am in, and there is nothing to keep
@@ -2653,13 +2653,13 @@
    married this girl, you would have been wretched. Of course, you would have treated her kindly. One can always be kind to
    people about whom one cares nothing. But she would have soon found out that you were absolutely indifferent to her. And
    when a woman finds that out about her husband, she either becomes dreadfully dowdy, or wears very smart bonnets that
-   some other woman's husband has to pay for. I say nothing about the social mistake, which would have been abject---which,
-   of course, I would not have allowed--- but I assure you that in any case the whole thing would have been an absolute
+   some other woman's husband has to pay for. I say nothing about the social mistake, which would have been abject - which,
+   of course, I would not have allowed -  but I assure you that in any case the whole thing would have been an absolute
    failure."
 
    "I suppose it would," muttered the lad, walking up and down the room and looking horribly pale. "But I thought it was my
    duty. It is not my fault that this terrible tragedy has prevented my doing what was right. I remember your saying once
-   that there is a fatality about good resolutions---that they are always made too late. Mine certainly were."
+   that there is a fatality about good resolutions - that they are always made too late. Mine certainly were."
 
    "Good resolutions are useless attempts to interfere with scientific laws. Their origin is pure vanity. Their result is
    absolutely nil. They give us, now and then, some of those luxurious sterile emotions that have a certain charm for the
@@ -2686,8 +2686,8 @@
    our sense of dramatic effect. Suddenly we find that we are no longer the actors, but the spectators of the play. Or
    rather we are both. We watch ourselves, and the mere wonder of the spectacle enthralls us. In the present case, what is
    it that has really happened? Some one has killed herself for love of you. I wish that I had ever had such an experience.
-   It would have made me in love with love for the rest of my life. The people who have adored me---there have not been
-   very many, but there have been some---have always insisted on living on, long after I had ceased to care for them, or
+   It would have made me in love with love for the rest of my life. The people who have adored me - there have not been
+   very many, but there have been some - have always insisted on living on, long after I had ceased to care for them, or
    they to care for me. They have become stout and tedious, and when I meet them, they go in at once for reminiscences.
    That awful memory of woman! What a fearful thing it is! And what an utter intellectual stagnation it reveals! One should
    absorb the colour of life, but one should never remember its details. Details are always vulgar."
@@ -2697,8 +2697,8 @@
    "There is no necessity," rejoined his companion. "Life has always poppies in her hands. Of course, now and then things
    linger. I once wore nothing but violets all through one season, as a form of artistic mourning for a romance that would
    not die. Ultimately, however, it did die. I forget what killed it. I think it was her proposing to sacrifice the whole
-   world for me. That is always a dreadful moment. It fills one with the terror of eternity. Well---would you believe
-   it?---a week ago, at Lady Hampshire's, I found myself seated at dinner next the lady in question, and she insisted on
+   world for me. That is always a dreadful moment. It fills one with the terror of eternity. Well - would you believe
+   it? - a week ago, at Lady Hampshire's, I found myself seated at dinner next the lady in question, and she insisted on
    going over the whole thing again, and digging up the past, and raking up the future. I had buried my romance in a bed of
    asphodel. She dragged it out again and assured me that I had spoiled her life. I am bound to state that she ate an
    enormous dinner, so I did not feel any anxiety. But what a lack of taste she showed! The one charm of the past is that
@@ -2732,7 +2732,7 @@
 
    "What was that, Harry?"
 
-   "You said to me that Sibyl Vane represented to you all the heroines of romance---that she was Desdemona one night, and
+   "You said to me that Sibyl Vane represented to you all the heroines of romance - that she was Desdemona one night, and
    Ophelia the other; that if she died as Juliet, she came to life as Imogen."
 
    "She will never come to life again now," muttered the lad, burying his face in his hands.
@@ -2795,8 +2795,8 @@
    winsome fanciful ways, and shy tremulous grace. He brushed them away hastily and looked again at the picture.
 
    He felt that the time had really come for making his choice. Or had his choice already been made? Yes, life had decided
-   that for him---life, and his own infinite curiosity about life. Eternal youth, infinite passion, pleasures subtle and
-   secret, wild joys and wilder sins---he was to have all these things. The portrait was to bear the burden of his shame:
+   that for him - life, and his own infinite curiosity about life. Eternal youth, infinite passion, pleasures subtle and
+   secret, wild joys and wilder sins - he was to have all these things. The portrait was to bear the burden of his shame:
    that was all.
 
    A feeling of pain crept over him as he thought of the desecration that was in store for the fair face on the canvas.
@@ -2874,14 +2874,14 @@
    The lad flushed up and, going to the window, looked out for a few moments on the green, flickering, sun-lashed garden.
    "I owe a great deal to Harry, Basil," he said at last, "more than I owe to you. You only taught me to be vain."
 
-   "Well, I am punished for that, Dorian---or shall be some day."
+   "Well, I am punished for that, Dorian - or shall be some day."
 
    "I don't know what you mean, Basil," he exclaimed, turning round. "I don't know what you want. What do you want?"
 
    "I want the Dorian Gray I used to paint," said the artist sadly.
 
    "Basil," said the lad, going over to him and putting his hand on his shoulder, "you have come too late. Yesterday, when
-   I heard that Sibyl Vane had killed herself---"
+   I heard that Sibyl Vane had killed herself - "
 
    "Killed herself! Good heavens! is there no doubt about that?" cried Hallward, looking up at him with an expression of
    horror.
@@ -2892,17 +2892,17 @@
 
    "No," said Dorian Gray, "there is nothing fearful about it. It is one of the great romantic tragedies of the age. As a
    rule, people who act lead the most commonplace lives. They are good husbands, or faithful wives, or something tedious.
-   You know what I mean---middle-class virtue and all that kind of thing. How different Sibyl was! She lived her finest
-   tragedy. She was always a heroine. The last night she played--- the night you saw her---she acted badly because she had
+   You know what I mean - middle-class virtue and all that kind of thing. How different Sibyl was! She lived her finest
+   tragedy. She was always a heroine. The last night she played -  the night you saw her - she acted badly because she had
    known the reality of love. When she knew its unreality, she died, as Juliet might have died. She passed again into the
    sphere of art. There is something of the martyr about her. Her death has all the pathetic uselessness of martyrdom, all
    its wasted beauty. But, as I was saying, you must not think I have not suffered. If you had come in yesterday at a
-   particular moment--- about half-past five, perhaps, or a quarter to six--- you would have found me in tears. Even Harry,
+   particular moment -  about half-past five, perhaps, or a quarter to six -  you would have found me in tears. Even Harry,
    who was here, who brought me the news, in fact, had no idea what I was going through. I suffered immensely. Then it
    passed away. I cannot repeat an emotion. No one can, except sentimentalists. And you are awfully unjust, Basil. You come
    down here to console me. That is charming of you. You find me consoled, and you are furious. How like a sympathetic
    person! You remind me of a story Harry told me about a certain philanthropist who spent twenty years of his life in
-   trying to get some grievance redressed, or some unjust law altered---I forget exactly what it was. Finally he succeeded,
+   trying to get some grievance redressed, or some unjust law altered - I forget exactly what it was. Finally he succeeded,
    and nothing could exceed his disappointment. He had absolutely nothing to do, almost died of ennui, and became a
    confirmed misanthrope. And besides, my dear old Basil, if you really want to console me, teach me rather to forget what
    has happened, or to see it from a proper artistic point of view. Was it not Gautier who used to write about la
@@ -2910,12 +2910,12 @@
    delightful phrase. Well, I am not like that young man you told me of when we were down at Marlow together, the young man
    who used to say that yellow satin could console one for all the miseries of life. I love beautiful things that one can
    touch and handle. Old brocades, green bronzes, lacquer-work, carved ivories, exquisite surroundings, luxury,
-   pomp---there is much to be got from all these. But the artistic temperament that they create, or at any rate reveal, is
+   pomp - there is much to be got from all these. But the artistic temperament that they create, or at any rate reveal, is
    still more to me. To become the spectator of one's own life, as Harry says, is to escape the suffering of life. I know
    you are surprised at my talking to you like this. You have not realized how I have developed. I was a schoolboy when you
    knew me. I am a man now. I have new passions, new thoughts, new ideas. I am different, but you must not like me less. I
    am changed, but you must always be my friend. Of course, I am very fond of Harry. But I know that you are better than he
-   is. You are not stronger--- you are too much afraid of life---but you are better. And how happy we used to be together!
+   is. You are not stronger -  you are too much afraid of life - but you are better. And how happy we used to be together!
    Don't leave me, Basil, and don't quarrel with me. I am what I am. There is nothing more to be said."
 
    The painter felt strangely moved. The lad was infinitely dear to him, and his personality had been the great turning
@@ -2947,7 +2947,7 @@
    different as I came in."
 
    "My servant has nothing to do with it, Basil. You don't imagine I let him arrange my room for me? He settles my flowers
-   for me sometimes--- that is all. No; I did it myself. The light was too strong on the portrait."
+   for me sometimes -  that is all. No; I did it myself. The light was too strong on the portrait."
 
    "Too strong! Surely not, my dear fellow? It is an admirable place for it. Let me see it." And Hallward walked towards
    the corner of the room.
@@ -2975,8 +2975,8 @@
    before that, so I must see it some day, and why not to-day?"
 
    "To exhibit it! You want to exhibit it?" exclaimed Dorian Gray, a strange sense of terror creeping over him. Was the
-   world going to be shown his secret? Were people to gape at the mystery of his life? That was impossible. Something---he
-   did not know what---had to be done at once.
+   world going to be shown his secret? Were people to gape at the mystery of his life? That was impossible. Something - he
+   did not know what - had to be done at once.
 
    "Yes; I don't suppose you will object to that. Georges Petit is going to collect all my best pictures for a special
    exhibition in the Rue de Seze, which will open the first week in October. The portrait will only be away a month. I
@@ -3004,7 +3004,7 @@
    away, and curiosity had taken its place. He was determined to find out Basil Hallward's mystery.
 
    "Let us sit down, Dorian," said the painter, looking troubled. "Let us sit down. And just answer me one question. Have
-   you noticed in the picture something curious?---something that probably at first did not strike you, but that revealed
+   you noticed in the picture something curious? - something that probably at first did not strike you, but that revealed
    itself to you suddenly?"
 
    "Basil!" cried the lad, clutching the arms of his chair with trembling hands and gazing at him with wild startled eyes.
@@ -3015,12 +3015,12 @@
    grew jealous of every one to whom you spoke. I wanted to have you all to myself. I was only happy when I was with you.
    When you were away from me, you were still present in my art... . Of course, I never let you know anything about this.
    It would have been impossible. You would not have understood it. I hardly understood it myself. I only knew that I had
-   seen perfection face to face, and that the world had become wonderful to my eyes--- too wonderful, perhaps, for in such
+   seen perfection face to face, and that the world had become wonderful to my eyes -  too wonderful, perhaps, for in such
    mad worships there is peril, the peril of losing them, no less than the peril of keeping them... . Weeks and weeks went
    on, and I grew more and more absorbed in you. Then came a new development. I had drawn you as Paris in dainty armour,
    and as Adonis with huntsman's cloak and polished boar-spear. Crowned with heavy lotus-blossoms you had sat on the prow
    of Adrian's barge, gazing across the green turbid Nile. You had leaned over the still pool of some Greek woodland and
-   seen in the water's silent silver the marvel of your own face. And it had all been what art should be---unconscious,
+   seen in the water's silent silver the marvel of your own face. And it had all been what art should be - unconscious,
    ideal, and remote. One day, a fatal day I sometimes think, I determined to paint a wonderful portrait of you as you
    actually are, not in the costume of dead ages, but in your own dress and in your own time. Whether it was the realism of
    the method, or the mere wonder of your own personality, thus directly presented to me without mist or veil, I cannot
@@ -3033,7 +3033,7 @@
    foolish in imagining that I had seen anything in it, more than that you were extremely good-looking and that I could
    paint. Even now I cannot help feeling that it is a mistake to think that the passion one feels in creation is ever
    really shown in the work one creates. Art is always more abstract than we fancy. Form and colour tell us of form and
-   colour---that is all. It often seems to me that art conceals the artist far more completely than it ever reveals him.
+   colour - that is all. It often seems to me that art conceals the artist far more completely than it ever reveals him.
    And so when I got this offer from Paris, I determined to make your portrait the principal thing in my exhibition. It
    never occurred to me that you would refuse. I see now that you were right. The picture cannot be shown. You must not be
    angry with me, Dorian, for what I have told you. As I said to Harry, once, you are made to be worshipped."
@@ -3096,7 +3096,7 @@
    As he left the room, Dorian Gray smiled to himself. Poor Basil! How little he knew of the true reason! And bow strange
    it was that, instead of having been forced to reveal his own secret, he had succeeded, almost by chance, in wresting a
    secret from his friend! How much that strange confession explained to him! The painter's absurd fits of jealousy, his
-   wild devotion, his extravagant panegyrics, his curious reticences--- he understood them all now, and he felt sorry.
+   wild devotion, his extravagant panegyrics, his curious reticences -  he understood them all now, and he felt sorry.
    There seemed to him to be something tragic in a friendship so coloured by romance.
 
    He sighed and touched the bell. The portrait must be hidden away at all costs. He could not run such a risk of discovery
@@ -3123,11 +3123,11 @@
 
    "I don't want it put straight, Leaf. I only want the key."
 
-   "Well, sir, you'll be covered with cobwebs if you go into it. Why, it hasn't been opened for nearly five years---not
+   "Well, sir, you'll be covered with cobwebs if you go into it. Why, it hasn't been opened for nearly five years - not
    since his lordship died."
 
    He winced at the mention of his grandfather. He had hateful memories of him. "That does not matter," he answered. "I
-   simply want to see the place--- that is all. Give me the key."
+   simply want to see the place -  that is all. Give me the key."
 
    "And here is the key, sir," said the old lady, going over the contents of her bunch with tremulously uncertain hands.
    "Here is the key. I'll have it off the bunch in a moment. But you don't think of living up there, sir, and you so
@@ -3142,13 +3142,13 @@
    coverlet heavily embroidered with gold, a splendid piece of late seventeenth-century Venetian work that his grandfather
    had found in a convent near Bologna. Yes, that would serve to wrap the dreadful thing in. It had perhaps served often as
    a pall for the dead. Now it was to hide something that had a corruption of its own, worse than the corruption of death
-   itself--- something that would breed horrors and yet would never die. What the worm was to the corpse, his sins would be
+   itself -  something that would breed horrors and yet would never die. What the worm was to the corpse, his sins would be
    to the painted image on the canvas. They would mar its beauty and eat away its grace. They would defile it and make it
    shameful. And yet the thing would still live on. It would be always alive.
 
    He shuddered, and for a moment he regretted that he had not told Basil the true reason why he had wished to hide the
    picture away. Basil would have helped him to resist Lord Henry's influence, and the still more poisonous influences that
-   came from his own temperament. The love that he bore him---for it was really love--- had nothing in it that was not
+   came from his own temperament. The love that he bore him - for it was really love -  had nothing in it that was not
    noble and intellectual. It was not that mere physical admiration of beauty that is born of the senses and that dies when
    the senses tire. It was such love as Michelangelo had known, and Montaigne, and Winckelmann, and Shakespeare himself.
    Yes, Basil could have saved him. But it was too late now. The past could always be annihilated. Regret, denial, or
@@ -3157,9 +3157,9 @@
 
    He took up from the couch the great purple-and-gold texture that covered it, and, holding it in his hands, passed behind
    the screen. Was the face on the canvas viler than before? It seemed to him that it was unchanged, and yet his loathing
-   of it was intensified. Gold hair, blue eyes, and rose-red lips---they all were there. It was simply the expression that
+   of it was intensified. Gold hair, blue eyes, and rose-red lips - they all were there. It was simply the expression that
    had altered. That was horrible in its cruelty. Compared to what he saw in it of censure or rebuke, how shallow Basil's
-   reproaches about Sibyl Vane had been!--- how shallow, and of what little account! His own soul was looking out at him
+   reproaches about Sibyl Vane had been! -  how shallow, and of what little account! His own soul was looking out at him
    from the canvas and calling him to judgement. A look of pain came across him, and he flung the rich pall over the
    picture. As he did so, a knock came to the door. He passed out as his servant entered.
 
@@ -3183,7 +3183,7 @@
    Fonthill, I believe. Admirably suited for a religious subject, Mr. Gray."
 
    "I am so sorry you have given yourself the trouble of coming round, Mr. Hubbard. I shall certainly drop in and look at
-   the frame--- though I don't go in much at present for religious art---but to-day I only want a picture carried to the
+   the frame -  though I don't go in much at present for religious art - but to-day I only want a picture carried to the
    top of the house for me. It is rather heavy, so I thought I would ask you to lend me a couple of your men."
 
    "No trouble at all, Mr. Gray. I am delighted to be of any service to you. Which is the work of art, sir?"
@@ -3208,7 +3208,7 @@
    "I am afraid it is rather heavy," murmured Dorian as he unlocked the door that opened into the room that was to keep for
    him the curious secret of his life and hide his soul from the eyes of men.
 
-   He had not entered the place for more than four years---not, indeed, since he had used it first as a play-room when he
+   He had not entered the place for more than four years - not, indeed, since he had used it first as a play-room when he
    was a child, and then as a study when he grew somewhat older. It was a large, well-proportioned room, which had been
    specially built by the last Lord Kelso for the use of the little grandson whom, for his strange likeness to his mother,
    and also for other reasons, he had always hated and desired to keep at a distance. It appeared to Dorian to have but
@@ -3223,9 +3223,9 @@
    But there was no other place in the house so secure from prying eyes as this. He had the key, and no one else could
    enter it. Beneath its purple pall, the face painted on the canvas could grow bestial, sodden, and unclean. What did it
    matter? No one could see it. He himself would not see it. Why should he watch the hideous corruption of his soul? He
-   kept his youth--- that was enough. And, besides, might not his nature grow finer, after all? There was no reason that
+   kept his youth -  that was enough. And, besides, might not his nature grow finer, after all? There was no reason that
    the future should be so full of shame. Some love might come across his life, and purify him, and shield him from those
-   sins that seemed to be already stirring in spirit and in flesh--- those curious unpictured sins whose very mystery lent
+   sins that seemed to be already stirring in spirit and in flesh -  those curious unpictured sins whose very mystery lent
    them their subtlety and their charm. Perhaps, some day, the cruel look would have passed away from the scarlet sensitive
    mouth, and he might show to the world Basil Hallward's masterpiece.
 
@@ -3263,7 +3263,7 @@
    was a book bound in yellow paper, the cover slightly torn and the edges soiled. A copy of the third edition of The St.
    James's Gazette had been placed on the tea-tray. It was evident that Victor had returned. He wondered if he had met the
    men in the hall as they were leaving the house and had wormed out of them what they had been doing. He would be sure to
-   miss the picture---had no doubt missed it already, while he had been laying the tea-things. The screen had not been set
+   miss the picture - had no doubt missed it already, while he had been laying the tea-things. The screen had not been set
    back, and a blank space was visible on the wall. Perhaps some night he might find him creeping upstairs and trying to
    force the door of the room. It was a horrible thing to have a spy in one's house. He had heard of rich men who had been
    blackmailed all their lives by some servant who had read a letter, or overheard a conversation, or picked up a card with
@@ -3274,7 +3274,7 @@
    St. James's languidly, and looked through it. A red pencil-mark on the fifth page caught his eye. It drew attention to
    the following paragraph:
 
-   INQUEST ON AN ACTRESS.---An inquest was held this morning at the Bell Tavern, Hoxton Road, by Mr. Danby, the District
+   INQUEST ON AN ACTRESS. - An inquest was held this morning at the Bell Tavern, Hoxton Road, by Mr. Danby, the District
    Coroner, on the body of Sibyl Vane, a young actress recently engaged at the Royal Theatre, Holborn. A verdict of death
    by misadventure was returned. Considerable sympathy was expressed for the mother of the deceased, who was greatly
    affected during the giving of her own evidence, and that of Dr. Birrell, who had made the post-mortem examination of the
@@ -3338,16 +3338,16 @@
    prefiguring type of himself. And, indeed, the whole book seemed to him to contain the story of his own life, written
    before he had lived it.
 
-   In one point he was more fortunate than the novel's fantastic hero. He never knew---never, indeed, had any cause to
-   know---that somewhat grotesque dread of mirrors, and polished metal surfaces, and still water which came upon the young
+   In one point he was more fortunate than the novel's fantastic hero. He never knew - never, indeed, had any cause to
+   know - that somewhat grotesque dread of mirrors, and polished metal surfaces, and still water which came upon the young
    Parisian so early in his life, and was occasioned by the sudden decay of a beau that had once, apparently, been so
-   remarkable. It was with an almost cruel joy--- and perhaps in nearly every joy, as certainly in every pleasure, cruelty
-   has its place---that he used to read the latter part of the book, with its really tragic, if somewhat overemphasized,
+   remarkable. It was with an almost cruel joy -  and perhaps in nearly every joy, as certainly in every pleasure, cruelty
+   has its place - that he used to read the latter part of the book, with its really tragic, if somewhat overemphasized,
    account of the sorrow and despair of one who had himself lost what in others, and the world, he had most dearly valued.
 
    For the wonderful beauty that had so fascinated Basil Hallward, and many others besides him, seemed never to leave him.
-   Even those who had heard the most evil things against him--- and from time to time strange rumours about his mode of
-   life crept through London and became the chatter of the clubs--- could not believe anything to his dishonour when they
+   Even those who had heard the most evil things against him -  and from time to time strange rumours about his mode of
+   life crept through London and became the chatter of the clubs -  could not believe anything to his dishonour when they
    saw him. He had always the look of one who had kept himself unspotted from the world. Men who talked grossly became
    silent when Dorian Gray entered the room. There was something in the purity of his face that rebuked them. His mere
    presence seemed to recall to them the memory of the innocence that they had tarnished. They wondered how one so charming
@@ -3479,7 +3479,7 @@
    walls of olive-green lacquer, he used to give curious concerts in which mad gipsies tore wild music from little zithers,
    or grave, yellow-shawled Tunisians plucked at the strained strings of monstrous lutes, while grinning Negroes beat
    monotonously upon copper drums and, crouching upon scarlet mats, slim turbaned Indians blew through long pipes of reed
-   or brass and charmed--- or feigned to charm---great hooded snakes and horrible horned adders. The harsh intervals and
+   or brass and charmed -  or feigned to charm - great hooded snakes and horrible horned adders. The harsh intervals and
    shrill discords of barbaric music stirred him at times when Schubert's grace, and Chopin's beautiful sorrows, and the
    mighty harmonies of Beethoven himself, fell unheeded on his ear. He collected together from all parts of the world the
    strangest instruments that could be found, either in the tombs of dead nations or among the few savage tribes that have
@@ -3530,7 +3530,7 @@
    mirrours of chrysolites, carbuncles, sapphires, and greene emeraults." Marco Polo had seen the inhabitants of Zipangu
    place rose-coloured pearls in the mouths of the dead. A sea-monster had been enamoured of the pearl that the diver
    brought to King Perozes, and had slain the thief, and mourned for seven moons over its loss. When the Huns lured the
-   king into the great pit, he flung it away--- Procopius tells the story---nor was it ever found again, though the Emperor
+   king into the great pit, he flung it away -  Procopius tells the story - nor was it ever found again, though the Emperor
    Anastasius offered five hundred-weight of gold pieces for it. The King of Malabar had shown to a certain Venetian a
    rosary of three hundred and four pearls, one for every god that he worshipped.
 
@@ -3549,8 +3549,8 @@
    wonderful.
 
    Then he turned his attention to embroideries and to the tapestries that performed the office of frescoes in the chill
-   rooms of the northern nations of Europe. As he investigated the subject--- and he always had an extraordinary faculty of
-   becoming absolutely absorbed for the moment in whatever he took up---he was almost saddened by the reflection of the
+   rooms of the northern nations of Europe. As he investigated the subject -  and he always had an extraordinary faculty of
+   becoming absolutely absorbed for the moment in whatever he took up - he was almost saddened by the reflection of the
    ruin that time brought on beautiful and wonderful things. He, at any rate, had escaped that. Summer followed summer, and
    the yellow jonquils bloomed and died many times, and nights of horror repeated the story of their shame, but he was
    unchanged. No winter marred his face or stained his flowerlike bloom. How different it was with material things! Where
@@ -3560,7 +3560,7 @@
    gilt-reined steeds? He longed to see the curious table-napkins wrought for the Priest of the Sun, on which were
    displayed all the dainties and viands that could be wanted for a feast; the mortuary cloth of King Chilperic, with its
    three hundred golden bees; the fantastic robes that excited the indignation of the Bishop of Pontus and were figured
-   with "lions, panthers, bears, dogs, forests, rocks, hunters---all, in fact, that a painter can copy from nature"; and
+   with "lions, panthers, bears, dogs, forests, rocks, hunters - all, in fact, that a painter can copy from nature"; and
    the coat that Charles of Orleans once wore, on the sleeves of which were embroidered the verses of a song beginning
    "Madame, je suis tout joyeux," the musical accompaniment of the words being wrought in gold thread, and each note, of
    square shape in those days, formed with four pearls. He read of the room that was prepared at the palace at Rheims for
@@ -3645,7 +3645,7 @@
    seen to grow pallid with shame or horror if Dorian Gray entered the room.
 
    Yet these whispered scandals only increased in the eyes of many his strange and dangerous charm. His great wealth was a
-   certain element of security. Society---civilized society, at least--- is never very ready to believe anything to the
+   certain element of security. Society - civilized society, at least -  is never very ready to believe anything to the
    detriment of those who are both rich and fascinating. It feels instinctively that manners are of more importance than
    morals, and, in its opinion, the highest respectability is of much less value than the possession of a good chef. And,
    after all, it is a very poor consolation to be told that the man who has given one a bad dinner, or poor wine, is
@@ -3681,7 +3681,7 @@
    insolent pose! What passions had he bequeathed? The world had looked upon him as infamous. He had led the orgies at
    Carlton House. The star of the Garter glittered upon his breast. Beside him hung the portrait of his wife, a pallid,
    thin-lipped woman in black. Her blood, also, stirred within him. How curious it all seemed! And his mother with her Lady
-   Hamilton face and her moist, wine-dashed lips---he knew what he had got from her. He had got from her his beauty, and
+   Hamilton face and her moist, wine-dashed lips - he knew what he had got from her. He had got from her his beauty, and
    his passion for the beauty of others. She laughed at him in her loose Bacchante dress. There were vine leaves in her
    hair. The purple spilled from the cup she was holding. The carnations of the painting had withered, but the eyes were
    still wonderful in their depth and brilliancy of colour. They seemed to follow him wherever he went.
@@ -3716,7 +3716,7 @@
    Florence, child and minion of Sixtus IV, whose beauty was equalled only by his debauchery, and who received Leonora of
    Aragon in a pavilion of white and crimson silk, filled with nymphs and centaurs, and gilded a boy that he might serve at
    the feast as Ganymede or Hylas; Ezzelin, whose melancholy could be cured only by the spectacle of death, and who had a
-   passion for red blood, as other men have for red wine---the son of the Fiend, as was reported, and one who had cheated
+   passion for red blood, as other men have for red wine - the son of the Fiend, as was reported, and one who had cheated
    his father at dice when gambling with him for his own soul; Giambattista Cibo, who in mockery took the name of Innocent
    and into whose torpid veins the blood of three lads was infused by a Jewish doctor; Sigismondo Malatesta, the lover of
    Isotta and the lord of Rimini, whose effigy was burned at Rome as the enemy of God and man, who strangled Polyssena with
@@ -3729,7 +3729,7 @@
    weep, and Atalanta, who had cursed him, blessed him.
 
    There was a horrible fascination in them all. He saw them at night, and they troubled his imagination in the day. The
-   Renaissance knew of strange manners of poisoning--- poisoning by a helmet and a lighted torch, by an embroidered glove
+   Renaissance knew of strange manners of poisoning -  poisoning by a helmet and a lighted torch, by an embroidered glove
    and a jewelled fan, by a gilded pomander and by an amber chain. Dorian Gray had been poisoned by a book. There were
    moments when he looked on evil simply as a mode through which he could realize his conception of the beautiful.
 
@@ -3781,8 +3781,8 @@
    become of the Frenchman, by the bye?"
 
    Dorian shrugged his shoulders. "I believe he married Lady Radley's maid, and has established her in Paris as an English
-   dressmaker. Anglomania is very fashionable over there now, I hear. It seems silly of the French, doesn't it? But---do
-   you know?---he was not at all a bad servant. I never liked him, but I had nothing to complain about. One often imagines
+   dressmaker. Anglomania is very fashionable over there now, I hear. It seems silly of the French, doesn't it? But - do
+   you know? - he was not at all a bad servant. I never liked him, but I had nothing to complain about. One often imagines
    things that are quite absurd. He was really very devoted to me and seemed quite sorry when he went away. Have another
    brandy-and-soda? Or would you like hock-and-seltzer? I always take hock-and-seltzer myself. There is sure to be some in
    the next room."
@@ -3810,11 +3810,11 @@
    position and wealth are not everything. Mind you, I don't believe these rumours at all. At least, I can't believe them
    when I see you. Sin is a thing that writes itself across a man's face. It cannot be concealed. People talk sometimes of
    secret vices. There are no such things. If a wretched man has a vice, it shows itself in the lines of his mouth, the
-   droop of his eyelids, the moulding of his hands even. Somebody---I won't mention his name, but you know him---came to me
+   droop of his eyelids, the moulding of his hands even. Somebody - I won't mention his name, but you know him - came to me
    last year to have his portrait done. I had never seen him before, and had never heard anything about him at the time,
    though I have heard a good deal since. He offered an extravagant price. I refused him. There was something in the shape
    of his fingers that I hated. I know now that I was quite right in what I fancied about him. His life is dreadful. But
-   you, Dorian, with your pure, bright, innocent face, and your marvellous untroubled youth--- I can't believe anything
+   you, Dorian, with your pure, bright, innocent face, and your marvellous untroubled youth -  I can't believe anything
    against you. And yet I see you very seldom, and you never come down to the studio now, and when I am away from you, and
    I hear all these hideous things that people are whispering about you, I don't know what to say. Why is it, Dorian, that
    a man like the Duke of Berwick leaves the room of a club when you enter it? Why is it that so many gentlemen in London
@@ -3852,7 +3852,7 @@
 
    "I must speak, and you must listen. You shall listen. When you met Lady Gwendolen, not a breath of scandal had ever
    touched her. Is there a single decent woman in London now who would drive with her in the park? Why, even her children
-   are not allowed to live with her. Then there are other stories--- stories that you have been seen creeping at dawn out
+   are not allowed to live with her. Then there are other stories -  stories that you have been seen creeping at dawn out
    of dreadful houses and slinking in disguise into the foulest dens in London. Are they true? Can they be true? When I
    first heard them, I laughed. I hear them now, and they make me shudder. What about your country-house and the life that
    is led there? Dorian, you don't know what is said about you. I won't tell you that I don't want to preach to you. I
@@ -3865,7 +3865,7 @@
    not. How should I know? But it is said of you. I am told things that it seems impossible to doubt. Lord Gloucester was
    one of my greatest friends at Oxford. He showed me a letter that his wife had written to him when she was dying alone in
    her villa at Mentone. Your name was implicated in the most terrible confession I ever read. I told him that it was
-   absurd---that I knew you thoroughly and that you were incapable of anything of the kind. Know you? I wonder do I know
+   absurd - that I knew you thoroughly and that you were incapable of anything of the kind. Know you? I wonder do I know
    you? Before I could answer that, I should have to see your soul."
 
    "To see my soul!" muttered Dorian Gray, starting up from the sofa and turning almost white from fear.
@@ -3935,7 +3935,7 @@
    orange. He shuddered. "Shut the door behind you," he whispered, as he placed the lamp on the table.
 
    Hallward glanced round him with a puzzled expression. The room looked as if it had not been lived in for years. A faded
-   Flemish tapestry, a curtained picture, an old Italian cassone, and an almost empty book-case---that was all that it
+   Flemish tapestry, a curtained picture, an old Italian cassone, and an almost empty book-case - that was all that it
    seemed to contain, besides a chair and a table. As Dorian Gray was lighting a half-burned candle that was standing on
    the mantelshelf, he saw that the whole place was covered with dust and that the carpet was in holes. A mouse ran
    scuffling behind the wainscoting. There was a damp odour of mildew.
@@ -4074,7 +4074,7 @@
    secret press that was in the wainscoting, a press in which he kept his own curious disguises, and put them into it. He
    could easily burn them afterwards. Then he pulled out his watch. It was twenty minutes to two.
 
-   He sat down and began to think. Every year---every month, almost--- men were strangled in England for what he had done.
+   He sat down and began to think. Every year - every month, almost -  men were strangled in England for what he had done.
    There had been a madness of murder in the air. Some red star had come too close to the earth... . And yet, what evidence
    was there against him? Basil Hallward had left the house at eleven. No one had seen him come in again. Most of the
    servants were at Selby Royal. His valet had gone to bed... . Paris! Yes. It was to Paris that Basil had gone, and by the
@@ -4198,7 +4198,7 @@
    should be out of England? Days would elapse before he could come back. Perhaps he might refuse to come. What could he do
    then? Every moment was of vital importance.
 
-   They had been great friends once, five years before--- almost inseparable, indeed. Then the intimacy had come suddenly
+   They had been great friends once, five years before -  almost inseparable, indeed. Then the intimacy had come suddenly
    to an end. When they met in society now, it was only Dorian Gray who smiled: Alan Campbell never did.
 
    He was an extremely clever young man, though he had no real appreciation of the visible arts, and whatever little sense
@@ -4208,14 +4208,14 @@
    own in which he used to shut himself up all day long, greatly to the annoyance of his mother, who had set her heart on
    his standing for Parliament and had a vague idea that a chemist was a person who made up prescriptions. He was an
    excellent musician, however, as well, and played both the violin and the piano better than most amateurs. In fact, it
-   was music that had first brought him and Dorian Gray together---music and that indefinable attraction that Dorian seemed
-   to be able to exercise whenever he wished--- and, indeed, exercised often without being conscious of it. They had met at
+   was music that had first brought him and Dorian Gray together - music and that indefinable attraction that Dorian seemed
+   to be able to exercise whenever he wished -  and, indeed, exercised often without being conscious of it. They had met at
    Lady Berkshire's the night that Rubinstein played there, and after that used to be always seen together at the opera and
    wherever good music was going on. For eighteen months their intimacy lasted. Campbell was always either at Selby Royal
    or in Grosvenor Square. To him, as to many others, Dorian Gray was the type of everything that is wonderful and
    fascinating in life. Whether or not a quarrel had taken place between them no one ever knew. But suddenly people
    remarked that they scarcely spoke when they met and that Campbell seemed always to go away early from any party at which
-   Dorian Gray was present. He had changed, too---was strangely melancholy at times, appeared almost to dislike hearing
+   Dorian Gray was present. He had changed, too - was strangely melancholy at times, appeared almost to dislike hearing
    music, and would never himself play, giving as his excuse, when he was called upon, that he was so absorbed in science
    that he had no time left in which to practise. And this was certainly true. Every day he seemed to become more
    interested in biology, and his name appeared once or twice in some of the scientific reviews in connection with certain
@@ -4260,7 +4260,7 @@
    After a strained moment of silence, he leaned across and said, very quietly, but watching the effect of each word upon
    the face of him he had sent for, "Alan, in a locked room at the top of this house, a room to which nobody but myself has
    access, a dead man is seated at a table. He has been dead ten hours now. Don't stir, and don't look at me like that. Who
-   the man is, why he died, how he died, are matters that do not concern you. What you have to do is this---"
+   the man is, why he died, how he died, are matters that do not concern you. What you have to do is this - "
 
    "Stop, Gray. I don't want to know anything further. Whether what you have told me is true or not true doesn't concern
    me. I entirely decline to be mixed up in your life. Keep your horrible secrets to yourself. They don't interest me any
@@ -4269,7 +4269,7 @@
    "Alan, they will have to interest you. This one will have to interest you. I am awfully sorry for you, Alan. But I can't
    help myself. You are the one man who is able to save me. I am forced to bring you into the matter. I have no option.
    Alan, you are scientific. You know about chemistry and things of that kind. You have made experiments. What you have got
-   to do is to destroy the thing that is upstairs--- to destroy it so that not a vestige of it will be left. Nobody saw
+   to do is to destroy the thing that is upstairs -  to destroy it so that not a vestige of it will be left. Nobody saw
    this person come into the house. Indeed, at the present moment he is supposed to be in Paris. He will not be missed for
    months. When he is missed, there must be no trace of him found here. You, Alan, you must change him, and everything that
    belongs to him, into a handful of ashes that I may scatter in the air."
@@ -4278,7 +4278,7 @@
 
    "Ah! I was waiting for you to call me Dorian."
 
-   "You are mad, I tell you---mad to imagine that I would raise a finger to help you, mad to make this monstrous
+   "You are mad, I tell you - mad to imagine that I would raise a finger to help you, mad to make this monstrous
    confession. I will have nothing to do with this matter, whatever it is. Do you think I am going to peril my reputation
    for you? What is it to me what devil's work you are up to?"
 
@@ -4319,7 +4319,7 @@
    don't inquire where the dead things on which you experiment come from. Don't inquire now. I have told you too much as it
    is. But I beg of you to do this. We were friends once, Alan."
 
-   "Don't speak about those days, Dorian---they are dead."
+   "Don't speak about those days, Dorian - they are dead."
 
    "The dead linger sometimes. The man upstairs will not go away. He is sitting at the table with bowed head and
    outstretched arms. Alan! Alan! If you don't come to my assistance, I am ruined. Why, they will hang me, Alan! Don't you
@@ -4350,7 +4350,7 @@
    "I am so sorry for you, Alan," he murmured, "but you leave me no alternative. I have a letter written already. Here it
    is. You see the address. If you don't help me, I must send it. If you don't help me, I will send it. You know what the
    result will be. But you are going to help me. It is impossible for you to refuse now. I tried to spare you. You will do
-   me the justice to admit that. You were stern, harsh, offensive. You treated me as no man has ever dared to treat me---no
+   me the justice to admit that. You were stern, harsh, offensive. You treated me as no man has ever dared to treat me - no
    living man, at any rate. I bore it all. Now it is for me to dictate terms."
 
    Campbell buried his face in his hands, and a shudder passed through him.
@@ -4393,7 +4393,7 @@
    "Hush, Alan. You have saved my life," said Dorian.
 
    "Your life? Good heavens! what a life that is! You have gone from corruption to corruption, and now you have culminated
-   in crime. In doing what I am going to do---what you force me to do--- it is not of your life that I am thinking."
+   in crime. In doing what I am going to do - what you force me to do -  it is not of your life that I am thinking."
 
    "Ah, Alan," murmured Dorian with a sigh, "I wish you had a thousandth part of the pity for me that I have for you." He
    turned away as he spoke and stood looking out at the garden. Campbell made no answer.
@@ -4408,9 +4408,9 @@
 
    "Harden, sir."
 
-   "Yes---Harden. You must go down to Richmond at once, see Harden personally, and tell him to send twice as many orchids
+   "Yes - Harden. You must go down to Richmond at once, see Harden personally, and tell him to send twice as many orchids
    as I ordered, and to have as few white ones as possible. In fact, I don't want any white ones. It is a lovely day,
-   Francis, and Richmond is a very pretty place--- otherwise I wouldn't bother you about it."
+   Francis, and Richmond is a very pretty place -  otherwise I wouldn't bother you about it."
 
    "No trouble, sir. At what time shall I be back?"
 
@@ -4437,7 +4437,7 @@
    life, to hide the fatal canvas, and was about to rush forward, when he drew back with a shudder.
 
    What was that loathsome red dew that gleamed, wet and glistening, on one of the hands, as though the canvas had sweated
-   blood? How horrible it was!---more horrible, it seemed to him for the moment, than the silent thing that he knew was
+   blood? How horrible it was! - more horrible, it seemed to him for the moment, than the silent thing that he knew was
    stretched across the table, the thing whose grotesque misshapen shadow on the spotted carpet showed him that it had not
    stirred, but was still there, as he had left it.
 
@@ -4525,7 +4525,7 @@
    "I believe he is in love," cried Lady Narborough, "and that he is afraid to tell me for fear I should be jealous. He is
    quite right. I certainly should."
 
-   "Dear Lady Narborough," murmured Dorian, smiling, "I have not been in love for a whole week---not, in fact, since Madame
+   "Dear Lady Narborough," murmured Dorian, smiling, "I have not been in love for a whole week - not, in fact, since Madame
    de Ferrol left town."
 
    "How you men can fall in love with that woman!" exclaimed the old lady. "I really cannot understand it."
@@ -4602,7 +4602,7 @@
 
    "Ah, my dear," cried Lady Narborough, putting on her gloves, "don't tell me that you have exhausted life. When a man
    says that one knows that life has exhausted him. Lord Henry is very wicked, and I sometimes wish that I had been; but
-   you are made to be good--- you look so good. I must find you a nice wife. Lord Henry, don't you think that Mr. Gray
+   you are made to be good -  you look so good. I must find you a nice wife. Lord Henry, don't you think that Mr. Gray
    should get married?"
 
    "I am always telling him so, Lady Narborough," said Lord Henry with a bow.
@@ -4641,10 +4641,10 @@
 
    The men laughed, and Mr. Chapman got up solemnly from the foot of the table and came up to the top. Dorian Gray changed
    his seat and went and sat by Lord Henry. Mr. Chapman began to talk in a loud voice about the situation in the House of
-   Commons. He guffawed at his adversaries. The word doctrinaire---word full of terror to the British mind--- reappeared
+   Commons. He guffawed at his adversaries. The word doctrinaire - word full of terror to the British mind -  reappeared
    from time to time between his explosions. An alliterative prefix served as an ornament of oratory. He hoisted the Union
-   Jack on the pinnacles of thought. The inherited stupidity of the race---sound English common sense he jovially termed
-   it---was shown to be the proper bulwark for society.
+   Jack on the pinnacles of thought. The inherited stupidity of the race - sound English common sense he jovially termed
+   it - was shown to be the proper bulwark for society.
 
    A smile curved Lord Henry's lips, and he turned round and looked at Dorian.
 
@@ -4929,7 +4929,7 @@
 
    "You had better confess your sin, for as sure as I am James Vane, you are going to die." There was a horrible moment.
    Dorian did not know what to say or do. "Down on your knees!" growled the man. "I give you one minute to make your
-   peace---no more. I go on board to-night for India, and I must do my job first. One minute. That's all."
+   peace - no more. I go on board to-night for India, and I must do my job first. One minute. That's all."
 
    Dorian's arms fell to his side. Paralysed with terror, he did not know what to do. Suddenly a wild hope flashed across
    his brain. "Stop," he cried. "How long ago is it since your sister died? Quick, tell me!"
@@ -5339,7 +5339,7 @@
    keeper. The wood seemed to him to have become suddenly alive with faces. There was the trampling of myriad feet and the
    low buzz of voices. A great copper-breasted pheasant came beating through the boughs overhead.
 
-   After a few moments---that were to him, in his perturbed state, like endless hours of pain---he felt a hand laid on his
+   After a few moments - that were to him, in his perturbed state, like endless hours of pain - he felt a hand laid on his
    shoulder. He started and looked round.
 
    "Dorian," said Lord Henry, "I had better tell them that the shooting is stopped for to-day. It would not look well to go
@@ -5517,7 +5517,7 @@
    "Was there anything found on him?" said Dorian, leaning forward and looking at the man with startled eyes. "Anything
    that would tell his name?"
 
-   "Some money, sir---not much, and a six-shooter. There was no name of any kind. A decent-looking man, sir, but
+   "Some money, sir - not much, and a six-shooter. There was no name of any kind. A decent-looking man, sir, but
    rough-like. A sort of sailor we think."
 
    Dorian started to his feet. A terrible hope fluttered past him. He clutched at it madly. "Where is the body?" he
@@ -5687,8 +5687,8 @@
    should."
 
    "I forget," said Dorian. "I suppose I did. But I never really liked it. I am sorry I sat for it. The memory of the thing
-   is hateful to me. Why do you talk of it? It used to remind me of those curious lines in some play---Hamlet, I
-   think---how do they run?--- "Like the painting of a sorrow, A face without a heart."
+   is hateful to me. Why do you talk of it? It used to remind me of those curious lines in some play - Hamlet, I
+   think - how do they run? -  "Like the painting of a sorrow, A face without a heart."
 
    Yes: that is what it was like."
 
@@ -5698,7 +5698,7 @@
    face without a heart.'"
 
    The elder man lay back and looked at him with half-closed eyes. "By the way, Dorian," he said after a pause, "'what does
-   it profit a man if he gain the whole world and lose---how does the quotation run?--- his own soul'?"
+   it profit a man if he gain the whole world and lose - how does the quotation run? -  his own soul'?"
 
    The music jarred, and Dorian Gray started and stared at his friend. "Why do you ask me that, Harry?"
 
@@ -5707,7 +5707,7 @@
    little crowd of shabby-looking people listening to some vulgar street-preacher. As I passed by, I heard the man yelling
    out that question to his audience. It struck me as being rather dramatic. London is very rich in curious effects of that
    kind. A wet Sunday, an uncouth Christian in a mackintosh, a ring of sickly white faces under a broken roof of dripping
-   umbrellas, and a wonderful phrase flung into the air by shrill hysterical lips---it was really very good in its way,
+   umbrellas, and a wonderful phrase flung into the air by shrill hysterical lips - it was really very good in its way,
    quite a suggestion. I thought of telling the prophet that art had a soul, but that man had not. I am afraid, however, he
    would not have understood me."
 
@@ -5747,7 +5747,7 @@
    and fibres, and slowly built-up cells in which thought hides itself and passion has its dreams. You may fancy yourself
    safe and think yourself strong. But a chance tone of colour in a room or a morning sky, a particular perfume that you
    had once loved and that brings subtle memories with it, a line from a forgotten poem that you had come across again, a
-   cadence from a piece of music that you had ceased to play--- I tell you, Dorian, that it is on things like these that
+   cadence from a piece of music that you had ceased to play -  I tell you, Dorian, that it is on things like these that
    our lives depend. Browning writes about that somewhere; but our own senses will imagine them for us. There are moments
    when the odour of lilas blanc passes suddenly across me, and I have to live the strangest month of my life over again. I
    wish I could change places with you, Dorian. The world has cried out against us both, but it has always worshipped you.
@@ -5762,7 +5762,7 @@
    "Why have you stopped playing, Dorian? Go back and give me the nocturne over again. Look at that great, honey-coloured
    moon that hangs in the dusky air. She is waiting for you to charm her, and if you play she will come closer to the
    earth. You won't? Let us go to the club, then. It has been a charming evening, and we must end it charmingly. There is
-   some one at White's who wants immensely to know you---young Lord Poole, Bournemouth's eldest son. He has already copied
+   some one at White's who wants immensely to know you - young Lord Poole, Bournemouth's eldest son. He has already copied
    your neckties, and has begged me to introduce him to you. He is quite delightful and rather reminds me of you."
 
    "I hope not," said Dorian with a sad look in his eyes. "But I am tired to-night, Harry. I shan't go to the club. It is
@@ -5803,13 +5803,13 @@
    talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often
    lately was that no one knew who he was. He had often told the girl whom he had lured to love him that he was poor, and
    she had believed him. He had told her once that he was wicked, and she had laughed at him and answered that wicked
-   people were always very old and very ugly. What a laugh she had!---just like a thrush singing. And how pretty she had
+   people were always very old and very ugly. What a laugh she had! - just like a thrush singing. And how pretty she had
    been in her cotton dresses and her large hats! She knew nothing, but she had everything that he had lost.
 
    When he reached home, he found his servant waiting up for him. He sent him to bed, and threw himself down on the sofa in
    the library, and began to think over some of the things that Lord Henry had said to him.
 
-   Was it really true that one could never change? He felt a wild longing for the unstained purity of his boyhood--- his
+   Was it really true that one could never change? He felt a wild longing for the unstained purity of his boyhood -  his
    rose-white boyhood, as Lord Henry had once called it. He knew that he had tarnished himself, filled his mind with
    corruption and given horror to his fancy; that he had been an evil influence to others, and had experienced a terrible
    joy in being so; and that of the lives that had crossed his own, it had been the fairest and the most full of promise
@@ -5854,12 +5854,12 @@
 
    He went in quietly, locking the door behind him, as was his custom, and dragged the purple hanging from the portrait. A
    cry of pain and indignation broke from him. He could see no change, save that in the eyes there was a look of cunning
-   and in the mouth the curved wrinkle of the hypocrite. The thing was still loathsome---more loathsome, if possible, than
-   before---and the scarlet dew that spotted the hand seemed brighter, and more like blood newly spilled. Then he trembled.
+   and in the mouth the curved wrinkle of the hypocrite. The thing was still loathsome - more loathsome, if possible, than
+   before - and the scarlet dew that spotted the hand seemed brighter, and more like blood newly spilled. Then he trembled.
    Had it been merely vanity that had made him do his one good deed? Or the desire for a new sensation, as Lord Henry had
    hinted, with his mocking laugh? Or that passion to act a part that sometimes makes us do things finer than we are
    ourselves? Or, perhaps, all these? And why was the red stain larger than it had been? It seemed to have crept like a
-   horrible disease over the wrinkled fingers. There was blood on the painted feet, as though the thing had dripped---blood
+   horrible disease over the wrinkled fingers. There was blood on the painted feet, as though the thing had dripped - blood
    even on the hand that had not held the knife. Confess? Did it mean that he was to confess? To give himself up and be put
    to death? He laughed. He felt that the idea was monstrous. Besides, even if he did confess, who would believe him? There
    was no trace of the murdered man anywhere. Everything belonging to him had been destroyed. He himself had burned what
@@ -5872,8 +5872,8 @@
    he thought so. But who could tell? ... No. There had been nothing more. Through vanity he had spared her. In hypocrisy
    he had worn the mask of goodness. For curiosity's sake he had tried the denial of self. He recognized that now.
 
-   But this murder---was it to dog him all his life? Was he always to be burdened by his past? Was he really to confess?
-   Never. There was only one bit of evidence left against him. The picture itself--- that was evidence. He would destroy
+   But this murder - was it to dog him all his life? Was he always to be burdened by his past? Was he really to confess?
+   Never. There was only one bit of evidence left against him. The picture itself -  that was evidence. He would destroy
    it. Why had he kept it so long? Once it had given him pleasure to watch it changing and growing old. Of late he had felt
    no such pleasure. It had kept him awake at night. When he had been away, he had been filled with terror lest other eyes
    should look upon it. It had brought melancholy across his passions. Its mere memory had marred many moments of joy. It
@@ -5901,7 +5901,7 @@
 
    After about a quarter of an hour, he got the coachman and one of the footmen and crept upstairs. They knocked, but there
    was no reply. They called out. Everything was still. Finally, after vainly trying to force the door, they got on the
-   roof and dropped down on to the balcony. The windows yielded easily---their bolts were old.
+   roof and dropped down on to the balcony. The windows yielded easily - their bolts were old.
 
    When they entered, they found hanging upon the wall a splendid portrait of their master as they had last seen him, in
    all the wonder of his exquisite youth and beauty. Lying on the floor was a dead man, in evening dress, with a knife in

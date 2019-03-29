@@ -23,7 +23,7 @@
    of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses. Our
    chairs, being his patents, embraced and caressed us rather than submitted to be sat upon, and there was that luxurious
    after-dinner atmosphere when thought roams gracefully free of the trammels of precision. And he put it to us in this
-   way---marking the points with a lean forefinger---as we sat and lazily admired his earnestness over this new paradox (as
+   way - marking the points with a lean forefinger - as we sat and lazily admired his earnestness over this new paradox (as
    we thought it) and his fecundity.
 
    'You must follow me carefully. I shall have to controvert one or two ideas that are almost universally accepted. The
@@ -39,7 +39,7 @@
 
    'Nor, having only length, breadth, and thickness, can a cube have a real existence.'
 
-   'There I object,' said Filby. 'Of course a solid body may exist. All real things---'
+   'There I object,' said Filby. 'Of course a solid body may exist. All real things - '
 
    'So most people think. But wait a moment. Can an instantaneous cube exist?'
 
@@ -48,7 +48,7 @@
    'Can a cube that does not last for any time at all, have a real existence?'
 
    Filby became pensive. 'Clearly,' the Time Traveller proceeded, 'any real body must have extension in four directions: it
-   must have Length, Breadth, Thickness, and---Duration. But through a natural infirmity of the flesh, which I will explain
+   must have Length, Breadth, Thickness, and - Duration. But through a natural infirmity of the flesh, which I will explain
    to you in a moment, we incline to overlook this fact. There are really four dimensions, three which we call the three
    planes of Space, and a fourth, Time. There is, however, a tendency to draw an unreal distinction between the former
    three dimensions and the latter, because it happens that our consciousness moves intermittently in one direction along
@@ -67,11 +67,11 @@
 
    'It is simply this. That Space, as our mathematicians have it, is spoken of as having three dimensions, which one may
    call Length, Breadth, and Thickness, and is always definable by reference to three planes, each at right angles to the
-   others. But some philosophical people have been asking why three dimensions particularly---why not another direction at
-   right angles to the other three?---and have even tried to construct a Four-Dimension geometry. Professor Simon Newcomb
+   others. But some philosophical people have been asking why three dimensions particularly - why not another direction at
+   right angles to the other three? - and have even tried to construct a Four-Dimension geometry. Professor Simon Newcomb
    was expounding this to the New York Mathematical Society only a month or so ago. You know how on a flat surface, which
    has only two dimensions, we can represent a figure of a three-dimensional solid, and similarly they think that by models
-   of three dimensions they could represent one of four---if they could master the perspective of the thing. See?'
+   of three dimensions they could represent one of four - if they could master the perspective of the thing. See?'
 
    'I think so,' murmured the Provincial Mayor; and, knitting his brows, he lapsed into an introspective state, his lips
    moving as one who repeats mystic words. 'Yes, I think I see it now,' he said after some time, brightening in a quite
@@ -123,7 +123,7 @@
    can go up against gravitation in a balloon, and why should he not hope that ultimately he may be able to stop or
    accelerate his drift along the Time-Dimension, or even turn about and travel the other way?'
 
-   'Oh, this,' began Filby, 'is all---'
+   'Oh, this,' began Filby, 'is all - '
 
    'Why not?' said the Time Traveller.
 
@@ -134,7 +134,7 @@
    'You can show black is white by argument,' said Filby, 'but you will never convince me.'
 
    'Possibly not,' said the Time Traveller. 'But now you begin to see the object of my investigations into the geometry of
-   Four Dimensions. Long ago I had a vague inkling of a machine---'
+   Four Dimensions. Long ago I had a vague inkling of a machine - '
 
    'To travel through Time!' exclaimed the Very Young Man.
 
@@ -161,7 +161,7 @@
 
    'Of all the wild extravagant theories!' began the Psychologist.
 
-   'Yes, so it seemed to me, and so I never talked of it until---'
+   'Yes, so it seemed to me, and so I never talked of it until - '
 
    'Experimental verification!' cried I. 'You are going to verify that?'
 
@@ -179,7 +179,7 @@
 
    The thing the Time Traveller held in his hand was a glittering metallic framework, scarcely larger than a small clock,
    and very delicately made. There was ivory in it, and some transparent crystalline substance. And now I must be explicit,
-   for this that follows---unless his explanation is to be accepted---is an absolutely unaccountable thing. He took one of
+   for this that follows - unless his explanation is to be accepted - is an absolutely unaccountable thing. He took one of
    the small octagonal tables that were scattered about the room, and set it in front of the fire, with two legs on the
    hearthrug. On this table he placed the mechanism. Then he drew up a chair, and sat down. The only other object on the
    table was a small shaded lamp, the bright light of which fell upon the model. There were also perhaps a dozen candles
@@ -212,7 +212,7 @@
    Psychologist himself who sent forth the model Time Machine on its interminable voyage. We all saw the lever turn. I am
    absolutely certain there was no trickery. There was a breath of wind, and the lamp flame jumped. One of the candles on
    the mantel was blown out, and the little machine suddenly swung round, became indistinct, was seen as a ghost for a
-   second perhaps, as an eddy of faintly glittering brass and ivory; and it was gone---vanished! Save for the lamp the
+   second perhaps, as an eddy of faintly glittering brass and ivory; and it was gone - vanished! Save for the lamp the
    table was bare.
 
    Everyone was silent for a minute. Then Filby said he was damned.
@@ -226,12 +226,12 @@
 
    'Certainly,' said the Time Traveller, stooping to light a spill at the fire. Then he turned, lighting his pipe, to look
    at the Psychologist's face. (The Psychologist, to show that he was not unhinged, helped himself to a cigar and tried to
-   light it uncut.) 'What is more, I have a big machine nearly finished in there'---he indicated the laboratory---'and when
+   light it uncut.) 'What is more, I have a big machine nearly finished in there' - he indicated the laboratory - 'and when
    that is put together I mean to have a journey on my own account.'
 
    'You mean to say that that machine has travelled into the future?' said Filby.
 
-   'Into the future or the past---I don't, for certain, know which.'
+   'Into the future or the past - I don't, for certain, know which.'
 
    After an interval the Psychologist had an inspiration. 'It must have gone into the past if it has gone anywhere,' he
    said.
@@ -269,7 +269,7 @@
    complete, but the twisted crystalline bars lay unfinished upon the bench beside some sheets of drawings, and I took one
    up for a better look at it. Quartz it seemed to be.
 
-   'Look here,' said the Medical Man, 'are you perfectly serious? Or is this a trick---like that ghost you showed us last
+   'Look here,' said the Medical Man, 'are you perfectly serious? Or is this a trick - like that ghost you showed us last
    Christmas?'
 
    'Upon that machine,' said the Time Traveller, holding the lamp aloft, 'I intend to explore time. Is that plain? I was
@@ -296,12 +296,12 @@
    Friday at the Linnaean. He said he had seen a similar thing at Tubingen, and laid considerable stress on the blowing out
    of the candle. But how the trick was done he could not explain.
 
-   The next Thursday I went again to Richmond---I suppose I was one of the Time Traveller's most constant guests---and,
+   The next Thursday I went again to Richmond - I suppose I was one of the Time Traveller's most constant guests - and,
    arriving late, found four or five men already assembled in his drawing-room. The Medical Man was standing before the
-   fire with a sheet of paper in one hand and his watch in the other. I looked round for the Time Traveller, and---'It's
+   fire with a sheet of paper in one hand and his watch in the other. I looked round for the Time Traveller, and - 'It's
    half-past seven now,' said the Medical Man. 'I suppose we'd better have dinner?'
 
-   'Where's------?' said I, naming our host.
+   'Where's -  - ?' said I, naming our host.
 
    'You've just come? It's rather odd. He's unavoidably detained. He asks me in this note to lead off with dinner at seven
    if he's not back. Says he'll explain when he comes.'
@@ -310,7 +310,7 @@
    the bell.
 
    The Psychologist was the only person besides the Doctor and myself who had attended the previous dinner. The other men
-   were Blank, the Editor aforementioned, a certain journalist, and another---a quiet, shy man with a beard---whom I didn't
+   were Blank, the Editor aforementioned, a certain journalist, and another - a quiet, shy man with a beard - whom I didn't
    know, and who, as far as my observation went, never opened his mouth all the evening. There was some speculation at the
    dinner-table about the Time Traveller's absence, and I suggested time travelling, in a half-jocular spirit. The Editor
    wanted that explained to him, and the Psychologist volunteered a wooden account of the 'ingenious paradox and trick' we
@@ -320,8 +320,8 @@
    who saw him next. And the whole tableful turned towards the door.
 
    He was in an amazing plight. His coat was dusty and dirty, and smeared with green down the sleeves; his hair disordered,
-   and as it seemed to me greyer---either with dust and dirt or because its colour had actually faded. His face was ghastly
-   pale; his chin had a brown cut on it---a cut half healed; his expression was haggard and drawn, as by intense suffering.
+   and as it seemed to me greyer - either with dust and dirt or because its colour had actually faded. His face was ghastly
+   pale; his chin had a brown cut on it - a cut half healed; his expression was haggard and drawn, as by intense suffering.
    For a moment he hesitated in the doorway, as if he had been dazzled by the light. Then he came into the room. He walked
    with just such a limp as I have seen in footsore tramps. We stared at him in silence, expecting him to speak.
 
@@ -336,7 +336,7 @@
    for a bit of meat.'
 
    He looked across at the Editor, who was a rare visitor, and hoped he was all right. The Editor began a question. 'Tell
-   you presently,' said the Time Traveller. 'I'm---funny! Be all right in a minute.'
+   you presently,' said the Time Traveller. 'I'm - funny! Be all right in a minute.'
 
    He put down his glass, and walked towards the staircase door. Again I remarked his lameness and the soft padding sound
    of his footfall, and standing up in my place, I saw his feet as he went out. He had nothing on them but a pair of
@@ -349,8 +349,8 @@
    Psychologist, and read my own interpretation in his face. I thought of the Time Traveller limping painfully upstairs. I
    don't think any one else had noticed his lameness.
 
-   The first to recover completely from this surprise was the Medical Man, who rang the bell---the Time Traveller hated to
-   have servants waiting at dinner---for a hot plate. At that the Editor turned to his knife and fork with a grunt, and the
+   The first to recover completely from this surprise was the Medical Man, who rang the bell - the Time Traveller hated to
+   have servants waiting at dinner - for a hot plate. At that the Editor turned to his knife and fork with a grunt, and the
    Silent Man followed suit. The dinner was resumed. Conversation was exclamatory for a little while, with gaps of
    wonderment; and then the Editor got fervent in his curiosity. 'Does our friend eke out his modest income with a
    crossing? or has he his Nebuchadnezzar phases?' he inquired. 'I feel assured it's this business of the Time Machine,' I
@@ -358,8 +358,8 @@
    Editor raised objections. 'What was this time travelling? A man couldn't cover himself with dust by rolling in a
    paradox, could he?' And then, as the idea came home to him, he resorted to caricature. Hadn't they any clothes-brushes
    in the Future? The Journalist too, would not believe at any price, and joined the Editor in the easy work of heaping
-   ridicule on the whole thing. They were both the new kind of journalist---very joyous, irreverent young men. 'Our Special
-   Correspondent in the Day after To-morrow reports,' the Journalist was saying---or rather shouting---when the Time
+   ridicule on the whole thing. They were both the new kind of journalist - very joyous, irreverent young men. 'Our Special
+   Correspondent in the Day after To-morrow reports,' the Journalist was saying - or rather shouting - when the Time
    Traveller came back. He was dressed in ordinary evening clothes, and nothing save his haggard look remained of the
    change that had startled me.
 
@@ -397,14 +397,14 @@
 
    'I can't argue to-night. I don't mind telling you the story, but I can't argue. I will,' he went on, 'tell you the story
    of what has happened to me, if you like, but you must refrain from interruptions. I want to tell it. Badly. Most of it
-   will sound like lying. So be it! It's true---every word of it, all the same. I was in my laboratory at four o'clock, and
+   will sound like lying. So be it! It's true - every word of it, all the same. I was in my laboratory at four o'clock, and
    since then ... I've lived eight days ... such days as no human being ever lived before! I'm nearly worn out, but I
    shan't sleep till I've told this thing over to you. Then I shall go to bed. But no interruptions! Is it agreed?'
 
    'Agreed,' said the Editor, and the rest of us echoed 'Agreed.' And with that the Time Traveller began his story as I
    have set it forth. He sat back in his chair at first, and spoke like a weary man. Afterwards he got more animated. In
-   writing it down I feel with only too much keenness the inadequacy of pen and ink---and, above all, my own
-   inadequacy---to express its quality. You read, I will suppose, attentively enough; but you cannot see the speaker's
+   writing it down I feel with only too much keenness the inadequacy of pen and ink - and, above all, my own
+   inadequacy - to express its quality. You read, I will suppose, attentively enough; but you cannot see the speaker's
    white, sincere face in the bright circle of the little lamp, nor hear the intonation of his voice. You cannot know how
    his expression followed the turns of his story! Most of us hearers were in shadow, for the candles in the smoking-room
    had not been lighted, and only the face of the Journalist and the legs of the Silent Man from the knees downward were
@@ -435,7 +435,7 @@
    confusedness descended on my mind.
 
    'I am afraid I cannot convey the peculiar sensations of time travelling. They are excessively unpleasant. There is a
-   feeling exactly like that one has upon a switchback---of a helpless headlong motion! I felt the same horrible
+   feeling exactly like that one has upon a switchback - of a helpless headlong motion! I felt the same horrible
    anticipation, too, of an imminent smash. As I put on pace, night followed day like the flapping of a black wing. The dim
    suggestion of the laboratory seemed presently to fall away from me, and I saw the sun hopping swiftly across the sky,
    leaping it every minute, and every minute marking a day. I supposed the laboratory had been destroyed and I had come
@@ -451,7 +451,7 @@
    'The landscape was misty and vague. I was still on the hill-side upon which this house now stands, and the shoulder rose
    above me grey and dim. I saw trees growing and changing like puffs of vapour, now brown, now green; they grew, spread,
    shivered, and passed away. I saw huge buildings rise up faint and fair, and pass like dreams. The whole surface of the
-   earth seemed changed---melting and flowing under my eyes. The little hands upon the dials that registered my speed raced
+   earth seemed changed - melting and flowing under my eyes. The little hands upon the dials that registered my speed raced
    round faster and faster. Presently I noted that the sun belt swayed up and down, from solstice to solstice, in a minute
    or less, and that consequently my pace was over a year a minute; and minute by minute the white snow flashed across the
    world, and vanished, and was followed by the bright, brief green of spring.
@@ -460,7 +460,7 @@
    exhilaration. I remarked indeed a clumsy swaying of the machine, for which I was unable to account. But my mind was too
    confused to attend to it, so with a kind of madness growing upon me, I flung myself into futurity. At first I scarce
    thought of stopping, scarce thought of anything but these new sensations. But presently a fresh series of impressions
-   grew up in my mind---a certain curiosity and therewith a certain dread---until at last they took complete possession of
+   grew up in my mind - a certain curiosity and therewith a certain dread - until at last they took complete possession of
    me. What strange developments of humanity, what wonderful advances upon our rudimentary civilization, I thought, might
    not appear when I came to look nearly into the dim elusive world that raced and fluctuated before my eyes! I saw great
    and splendid architecture rising about me, more massive than any buildings of our own time, and yet, as it seemed, built
@@ -468,12 +468,12 @@
    through the veil of my confusion the earth seemed very fair. And so my mind came round to the business of stopping.
 
    'The peculiar risk lay in the possibility of my finding some substance in the space which I, or the machine, occupied.
-   So long as I travelled at a high velocity through time, this scarcely mattered; I was, so to speak, attenuated---was
+   So long as I travelled at a high velocity through time, this scarcely mattered; I was, so to speak, attenuated - was
    slipping like a vapour through the interstices of intervening substances! But to come to a stop involved the jamming of
    myself, molecule by molecule, into whatever lay in my way; meant bringing my atoms into such intimate contact with those
-   of the obstacle that a profound chemical reaction---possibly a far-reaching explosion---would result, and blow myself
-   and my apparatus out of all possible dimensions---into the Unknown. This possibility had occurred to me again and again
-   while I was making the machine; but then I had cheerfully accepted it as an unavoidable risk---one of the risks a man
+   of the obstacle that a profound chemical reaction - possibly a far-reaching explosion - would result, and blow myself
+   and my apparatus out of all possible dimensions - into the Unknown. This possibility had occurred to me again and again
+   while I was making the machine; but then I had cheerfully accepted it as an unavoidable risk - one of the risks a man
    has got to take! Now the risk was inevitable, I no longer saw it in the same cheerful light. The fact is that,
    insensibly, the absolute strangeness of everything, the sickly jarring and swaying of the machine, above all, the
    feeling of prolonged falling, had absolutely upset my nerve. I told myself that I could never stop, and with a gust of
@@ -497,7 +497,7 @@
    winged sphinx, but the wings, instead of being carried vertically at the sides, were spread so that it seemed to hover.
    The pedestal, it appeared to me, was of bronze, and was thick with verdigris. It chanced that the face was towards me;
    the sightless eyes seemed to watch me; there was the faint shadow of a smile on the lips. It was greatly weather-worn,
-   and that imparted an unpleasant suggestion of disease. I stood looking at it for a little space---half a minute,
+   and that imparted an unpleasant suggestion of disease. I stood looking at it for a little space - half a minute,
    perhaps, or half an hour. It seemed to advance and to recede as the hail drove before it denser or thinner. At last I
    tore my eyes from it for a moment and saw that the hail curtain had worn threadbare, and that the sky was lightening
    with the promise of the sun.
@@ -506,9 +506,9 @@
    appear when that hazy curtain was altogether withdrawn? What might not have happened to men? What if cruelty had grown
    into a common passion? What if in this interval the race had lost its manliness and had developed into something
    inhuman, unsympathetic, and overwhelmingly powerful? I might seem some old-world savage animal, only the more dreadful
-   and disgusting for our common likeness---a foul creature to be incontinently slain.
+   and disgusting for our common likeness - a foul creature to be incontinently slain.
 
-   'Already I saw other vast shapes---huge buildings with intricate parapets and tall columns, with a wooded hill-side
+   'Already I saw other vast shapes - huge buildings with intricate parapets and tall columns, with a wooded hill-side
    dimly creeping in upon me through the lessening storm. I was seized with a panic fear. I turned frantically to the Time
    Machine, and strove hard to readjust it. As I did so the shafts of the sun smote through the thunderstorm. The grey
    downpour was swept aside and vanished like the trailing garments of a ghost. Above me, in the intense blue of the summer
@@ -525,12 +525,12 @@
 
    'Then I heard voices approaching me. Coming through the bushes by the White Sphinx were the heads and shoulders of men
    running. One of these emerged in a pathway leading straight to the little lawn upon which I stood with my machine. He
-   was a slight creature---perhaps four feet high---clad in a purple tunic, girdled at the waist with a leather belt.
-   Sandals or buskins---I could not clearly distinguish which---were on his feet; his legs were bare to the knees, and his
+   was a slight creature - perhaps four feet high - clad in a purple tunic, girdled at the waist with a leather belt.
+   Sandals or buskins - I could not clearly distinguish which - were on his feet; his legs were bare to the knees, and his
    head was bare. Noticing that, I noticed for the first time how warm the air was.
 
    'He struck me as being a very beautiful and graceful creature, but indescribably frail. His flushed face reminded me of
-   the more beautiful kind of consumptive---that hectic beauty of which we used to hear so much. At the sight of him I
+   the more beautiful kind of consumptive - that hectic beauty of which we used to hear so much. At the sight of him I
    suddenly regained confidence. I took my hands from the machine.
 
 ** Chapter 4
@@ -543,7 +543,7 @@
    me. One of them addressed me. It came into my head, oddly enough, that my voice was too harsh and deep for them. So I
    shook my head, and, pointing to my ears, shook it again. He came a step forward, hesitated, and then touched my hand.
    Then I felt other soft little tentacles upon my back and shoulders. They wanted to make sure I was real. There was
-   nothing in this at all alarming. Indeed, there was something in these pretty little people that inspired confidence---a
+   nothing in this at all alarming. Indeed, there was something in these pretty little people that inspired confidence - a
    graceful gentleness, a certain childlike ease. And besides, they looked so frail that I could fancy myself flinging the
    whole dozen of them about like nine-pins. But I made a sudden motion to warn them when I saw their little pink hands
    feeling at the Time Machine. Happily then, when it was not too late, I thought of a danger I had hitherto forgotten, and
@@ -553,7 +553,7 @@
    'And then, looking more nearly into their features, I saw some further peculiarities in their Dresden-china type of
    prettiness. Their hair, which was uniformly curly, came to a sharp end at the neck and cheek; there was not the faintest
    suggestion of it on the face, and their ears were singularly minute. The mouths were small, with bright red, rather thin
-   lips, and the little chins ran to a point. The eyes were large and mild; and---this may seem egotism on my part---I
+   lips, and the little chins ran to a point. The eyes were large and mild; and - this may seem egotism on my part - I
    fancied even that there was a certain lack of the interest I might have expected in them.
 
    'As they made no effort to communicate with me, but simply stood round me smiling and speaking in soft cooing notes to
@@ -565,7 +565,7 @@
    abruptly: were these creatures fools? You may hardly understand how it took me. You see I had always anticipated that
    the people of the year Eight Hundred and Two Thousand odd would be incredibly in front of us in knowledge, art,
    everything. Then one of them suddenly asked me a question that showed him to be on the intellectual level of one of our
-   five-year-old children---asked me, in fact, if I had come from the sun in a thunderstorm! It let loose the judgment I
+   five-year-old children - asked me, in fact, if I had come from the sun in a thunderstorm! It let loose the judgment I
    had suspended upon their clothes, their frail light limbs, and fragile features. A flow of disappointment rushed across
    my mind. For a moment I felt that I had built the Time Machine in vain.
 
@@ -594,7 +594,7 @@
 
    'The big doorway opened into a proportionately great hall hung with brown. The roof was in shadow, and the windows,
    partially glazed with coloured glass and partially unglazed, admitted a tempered light. The floor was made up of huge
-   blocks of some very hard white metal, not plates nor slabs---blocks, and it was so much worn, as I judged by the going
+   blocks of some very hard white metal, not plates nor slabs - blocks, and it was so much worn, as I judged by the going
    to and fro of past generations, as to be deeply channelled along the more frequented ways. Transverse to the length were
    innumerable tables made of slabs of polished stone, raised perhaps a foot from the floor, and upon these were heaps of
    fruits. Some I recognized as a kind of hypertrophied raspberry and orange, but for the most part they were strange.
@@ -614,7 +614,7 @@
    'Fruit, by the by, was all their diet. These people of the remote future were strict vegetarians, and while I was with
    them, in spite of some carnal cravings, I had to be frugivorous also. Indeed, I found afterwards that horses, cattle,
    sheep, dogs, had followed the Ichthyosaurus into extinction. But the fruits were very delightful; one, in particular,
-   that seemed to be in season all the time I was there---a floury thing in a three-sided husk---was especially good, and I
+   that seemed to be in season all the time I was there - a floury thing in a three-sided husk - was especially good, and I
    made it my staple. At first I was puzzled by all these strange fruits, and by the strange flowers I saw, but later I
    began to perceive their import.
 
@@ -640,19 +640,19 @@
    gesticulated in a friendly way, leave me again to my own devices.
 
    'The calm of evening was upon the world as I emerged from the great hall, and the scene was lit by the warm glow of the
-   setting sun. At first things were very confusing. Everything was so entirely different from the world I had known---even
+   setting sun. At first things were very confusing. Everything was so entirely different from the world I had known - even
    the flowers. The big building I had left was situated on the slope of a broad river valley, but the Thames had shifted
    perhaps a mile from its present position. I resolved to mount to the summit of a crest, perhaps a mile and a half away,
    from which I could get a wider view of this our planet in the year Eight Hundred and Two Thousand Seven Hundred and One
    A.D. For that, I should explain, was the date the little dials of my machine recorded.
 
    'As I walked I was watching for every impression that could possibly help to explain the condition of ruinous splendour
-   in which I found the world---for ruinous it was. A little way up the hill, for instance, was a great heap of granite,
+   in which I found the world - for ruinous it was. A little way up the hill, for instance, was a great heap of granite,
    bound together by masses of aluminium, a vast labyrinth of precipitous walls and crumpled heaps, amidst which were thick
-   heaps of very beautiful pagoda-like plants---nettles possibly---but wonderfully tinted with brown about the leaves, and
+   heaps of very beautiful pagoda-like plants - nettles possibly - but wonderfully tinted with brown about the leaves, and
    incapable of stinging. It was evidently the derelict remains of some vast structure, to what end built I could not
-   determine. It was here that I was destined, at a later date, to have a very strange experience---the first intimation of
-   a still stranger discovery---but of that I will speak in its proper place.
+   determine. It was here that I was destined, at a later date, to have a very strange experience - the first intimation of
+   a still stranger discovery - but of that I will speak in its proper place.
 
    'Looking round with a sudden thought, from a terrace on which I rested for a while, I realized that there were no small
    houses to be seen. Apparently the single house, and possibly even the household, had vanished. Here and there among the
@@ -673,7 +673,7 @@
    after all what one would expect; for the strength of a man and the softness of a woman, the institution of the family,
    and the differentiation of occupations are mere militant necessities of an age of physical force; where population is
    balanced and abundant, much childbearing becomes an evil rather than a blessing to the State; where violence comes but
-   rarely and off-spring are secure, there is less necessity---indeed there is no necessity---for an efficient family, and
+   rarely and off-spring are secure, there is less necessity - indeed there is no necessity - for an efficient family, and
    the specialization of the sexes with reference to their children's needs disappears. We see some beginnings of this even
    in our own time, and in this future age it was complete. This, I must remind you, was my speculation at the time. Later,
    I was to appreciate how far it fell short of the reality.
@@ -695,14 +695,14 @@
    whole earth had become a garden.
 
    'So watching, I began to put my interpretation upon the things I had seen, and as it shaped itself to me that evening,
-   my interpretation was something in this way. (Afterwards I found I had got only a half-truth---or only a glimpse of one
+   my interpretation was something in this way. (Afterwards I found I had got only a half-truth - or only a glimpse of one
    facet of the truth.)
 
    'It seemed to me that I had happened upon humanity upon the wane. The ruddy sunset set me thinking of the sunset of
    mankind. For the first time I began to realize an odd consequence of the social effort in which we are at present
    engaged. And yet, come to think, it is a logical consequence enough. Strength is the outcome of need; security sets a
-   premium on feebleness. The work of ameliorating the conditions of life---the true civilizing process that makes life
-   more and more secure---had gone steadily on to a climax. One triumph of a united humanity over Nature had followed
+   premium on feebleness. The work of ameliorating the conditions of life - the true civilizing process that makes life
+   more and more secure - had gone steadily on to a climax. One triumph of a united humanity over Nature had followed
    another. Things that are now mere dreams had become projects deliberately put in hand and carried forward. And the
    harvest was what I saw!
 
@@ -710,7 +710,7 @@
    attacked but a little department of the field of human disease, but even so, it spreads its operations very steadily and
    persistently. Our agriculture and horticulture destroy a weed just here and there and cultivate perhaps a score or so of
    wholesome plants, leaving the greater number to fight out a balance as they can. We improve our favourite plants and
-   animals---and how few they are---gradually by selective breeding; now a new and better peach, now a seedless grape, now
+   animals - and how few they are - gradually by selective breeding; now a new and better peach, now a seedless grape, now
    a sweeter and larger flower, now a more convenient breed of cattle. We improve them gradually, because our ideals are
    vague and tentative, and our knowledge is very limited; because Nature, too, is shy and slow in our clumsy hands. Some
    day all this will be better organized, and still better. That is the drift of the current in spite of the eddies. The
@@ -746,25 +746,25 @@
 
    'Under the new conditions of perfect comfort and security, that restless energy, that with us is strength, would become
    weakness. Even in our own time certain tendencies and desires, once necessary to survival, are a constant source of
-   failure. Physical courage and the love of battle, for instance, are no great help---may even be hindrances---to a
+   failure. Physical courage and the love of battle, for instance, are no great help - may even be hindrances - to a
    civilized man. And in a state of physical balance and security, power, intellectual as well as physical, would be out of
    place. For countless years I judged there had been no danger of war or solitary violence, no danger from wild beasts, no
    wasting disease to require strength of constitution, no need of toil. For such a life, what we should call the weak are
    as well equipped as the strong, are indeed no longer weak. Better equipped indeed they are, for the strong would be
    fretted by an energy for which there was no outlet. No doubt the exquisite beauty of the buildings I saw was the outcome
    of the last surgings of the now purposeless energy of mankind before it settled down into perfect harmony with the
-   conditions under which it lived---the flourish of that triumph which began the last great peace. This has ever been the
+   conditions under which it lived - the flourish of that triumph which began the last great peace. This has ever been the
    fate of energy in security; it takes to art and to eroticism, and then come languor and decay.
 
-   'Even this artistic impetus would at last die away---had almost died in the Time I saw. To adorn themselves with
+   'Even this artistic impetus would at last die away - had almost died in the Time I saw. To adorn themselves with
    flowers, to dance, to sing in the sunlight: so much was left of the artistic spirit, and no more. Even that would fade
    in the end into a contented inactivity. We are kept keen on the grindstone of pain and necessity, and, it seemed to me,
    that here was that hateful grindstone broken at last!
 
    'As I stood there in the gathering dark I thought that in this simple explanation I had mastered the problem of the
-   world---mastered the whole secret of these delicious people. Possibly the checks they had devised for the increase of
+   world - mastered the whole secret of these delicious people. Possibly the checks they had devised for the increase of
    population had succeeded too well, and their numbers had rather diminished than kept stationary. That would account for
-   the abandoned ruins. Very simple was my explanation, and plausible enough---as most wrong theories are!
+   the abandoned ruins. Very simple was my explanation, and plausible enough - as most wrong theories are!
 
 ** Chapter 5
 
@@ -800,8 +800,8 @@
    'I might have consoled myself by imagining the little people had put the mechanism in some shelter for me, had I not
    felt assured of their physical and intellectual inadequacy. That is what dismayed me: the sense of some hitherto
    unsuspected power, through whose intervention my invention had vanished. Yet, for one thing I felt assured: unless some
-   other age had produced its exact duplicate, the machine could not have moved in time. The attachment of the levers---I
-   will show you the method later---prevented any one from tampering with it in that way when they were removed. It had
+   other age had produced its exact duplicate, the machine could not have moved in time. The attachment of the levers - I
+   will show you the method later - prevented any one from tampering with it in that way when they were removed. It had
    moved, and was hid, only in space. But then, where could it be?
 
    'I think I must have had a kind of frenzy. I remember running violently in and out among the moonlit bushes all round
@@ -822,7 +822,7 @@
    'Abruptly, I dashed down the match, and, knocking one of the people over in my course, went blundering across the big
    dining-hall again, out under the moonlight. I heard cries of terror and their little feet running and stumbling this way
    and that. I do not remember all I did as the moon crept up the sky. I suppose it was the unexpected nature of my loss
-   that maddened me. I felt hopelessly cut off from my own kind---a strange animal in an unknown world. I must have raved
+   that maddened me. I felt hopelessly cut off from my own kind - a strange animal in an unknown world. I must have raved
    to and fro, screaming and crying upon God and Fate. I have a memory of horrible fatigue, as the long night of despair
    wore away; of looking in this impossible place and that; of groping among moon-lit ruins and touching strange creatures
    in the black shadows; at last, of lying on the ground near the sphinx and weeping with absolute wretchedness. I had
@@ -832,7 +832,7 @@
    'I sat up in the freshness of the morning, trying to remember how I had got there, and why I had such a profound sense
    of desertion and despair. Then things came clear in my mind. With the plain, reasonable daylight, I could look my
    circumstances fairly in the face. I saw the wild folly of my frenzy overnight, and I could reason with myself. "Suppose
-   the worst?" I said. "Suppose the machine altogether lost---perhaps destroyed? It behoves me to be calm and patient, to
+   the worst?" I said. "Suppose the machine altogether lost - perhaps destroyed? It behoves me to be calm and patient, to
    learn the way of the people, to get a clear idea of the method of my loss, and the means of getting materials and tools;
    so that in the end, perhaps, I may make another." That would be my only hope, perhaps, but better than despair. And,
    after all, it was a beautiful and curious world.
@@ -858,20 +858,20 @@
    'I saw the heads of two orange-clad people coming through the bushes and under some blossom-covered apple-trees towards
    me. I turned smiling to them and beckoned them to me. They came, and then, pointing to the bronze pedestal, I tried to
    intimate my wish to open it. But at my first gesture towards this they behaved very oddly. I don't know how to convey
-   their expression to you. Suppose you were to use a grossly improper gesture to a delicate-minded woman---it is how she
+   their expression to you. Suppose you were to use a grossly improper gesture to a delicate-minded woman - it is how she
    would look. They went off as if they had received the last possible insult. I tried a sweet-looking little chap in white
    next, with exactly the same result. Somehow, his manner made me feel ashamed of myself. But, as you know, I wanted the
    Time Machine, and I tried him once more. As he turned off, like the others, my temper got the better of me. In three
    strides I was after him, had him by the loose part of his robe round the neck, and began dragging him towards the
    sphinx. Then I saw the horror and repugnance of his face, and all of a sudden I let him go.
 
-   'But I was not beaten yet. I banged with my fist at the bronze panels. I thought I heard something stir inside---to be
-   explicit, I thought I heard a sound like a chuckle---but I must have been mistaken. Then I got a big pebble from the
+   'But I was not beaten yet. I banged with my fist at the bronze panels. I thought I heard something stir inside - to be
+   explicit, I thought I heard a sound like a chuckle - but I must have been mistaken. Then I got a big pebble from the
    river, and came and hammered till I had flattened a coil in the decorations, and the verdigris came off in powdery
    flakes. The delicate little people must have heard me hammering in gusty outbreaks a mile away on either hand, but
    nothing came of it. I saw a crowd of them upon the slopes, looking furtively at me. At last, hot and tired, I sat down
    to watch the place. But I was too restless to watch long; I am too Occidental for a long vigil. I could work at a
-   problem for years, but to wait inactive for twenty-four hours---that is another matter.
+   problem for years, but to wait inactive for twenty-four hours - that is another matter.
 
    'I got up after a time, and began walking aimlessly through the bushes towards the hill again. "Patience," said I to
    myself. "If you want your machine again you must leave that sphinx alone. If they mean to take your machine away, it's
@@ -886,7 +886,7 @@
    have had something to do with my hammering at the gates of bronze. Yet I felt tolerably sure of the avoidance. I was
    careful, however, to show no concern and to abstain from any pursuit of them, and in the course of a day or two things
    got back to the old footing. I made what progress I could in the language, and in addition I pushed my explorations here
-   and there. Either I missed some subtle point or their language was excessively simple---almost exclusively composed of
+   and there. Either I missed some subtle point or their language was excessively simple - almost exclusively composed of
    concrete substantives and verbs. There seemed to be few, if any, abstract terms, or little use of figurative language.
    Their sentences were usually simple and of two words, and I failed to convey or understand any but the simplest
    propositions. I determined to put the thought of my Time Machine and the mystery of the bronze doors under the sphinx as
@@ -901,7 +901,7 @@
    One lay by the path up the hill, which I had followed during my first walk. Like the others, it was rimmed with bronze,
    curiously wrought, and protected by a little cupola from the rain. Sitting by the side of these wells, and peering down
    into the shafted darkness, I could see no gleam of water, nor could I start any reflection with a lighted match. But in
-   all of them I heard a certain sound: a thud---thud---thud, like the beating of some big engine; and I discovered, from
+   all of them I heard a certain sound: a thud - thud - thud, like the beating of some big engine; and I discovered, from
    the flaring of my matches, that a steady current of air set down the shafts. Further, I threw a scrap of paper into the
    throat of one, and, instead of fluttering slowly down, it was at once sucked swiftly out of sight.
 
@@ -941,12 +941,12 @@
 
    'Then, again, about the Time Machine: something, I knew not what, had taken it into the hollow pedestal of the White
    Sphinx. Why? For the life of me I could not imagine. Those waterless wells, too, those flickering pillars. I felt I
-   lacked a clue. I felt---how shall I put it? Suppose you found an inscription, with sentences here and there in excellent
+   lacked a clue. I felt - how shall I put it? Suppose you found an inscription, with sentences here and there in excellent
    plain English, and interpolated therewith, others made up of words, of letters even, absolutely unknown to you? Well, on
    the third day of my visit, that was how the world of Eight Hundred and Two Thousand Seven Hundred and One presented
    itself to me!
 
-   'That day, too, I made a friend---of a sort. It happened that, as I was watching some of the little people bathing in a
+   'That day, too, I made a friend - of a sort. It happened that, as I was watching some of the little people bathing in a
    shallow, one of them was seized with cramp and began drifting downstream. The main current ran rather swiftly, but not
    too strongly for even a moderate swimmer. It will give you an idea, therefore, of the strange deficiency in these
    creatures, when I tell you that none made the slightest attempt to rescue the weakly crying little thing which was
@@ -957,12 +957,12 @@
 
    'This happened in the morning. In the afternoon I met my little woman, as I believe it was, as I was returning towards
    my centre from an exploration, and she received me with cries of delight and presented me with a big garland of
-   flowers---evidently made for me and me alone. The thing took my imagination. Very possibly I had been feeling desolate.
+   flowers - evidently made for me and me alone. The thing took my imagination. Very possibly I had been feeling desolate.
    At any rate I did my best to display my appreciation of the gift. We were soon seated together in a little stone arbour,
    engaged in conversation, chiefly of smiles. The creature's friendliness affected me exactly as a child's might have
    done. We passed each other flowers, and she kissed my hands. I did the same to hers. Then I tried talk, and found that
    her name was Weena, which, though I don't know what it meant, somehow seemed appropriate enough. That was the beginning
-   of a queer friendship which lasted a week, and ended---as I will tell you!
+   of a queer friendship which lasted a week, and ended - as I will tell you!
 
    'She was exactly like a child. She wanted to be with me always. She tried to follow me everywhere, and on my next
    journey out and about it went to my heart to tire her down, and leave her at last, exhausted and calling after me rather
@@ -1018,7 +1018,7 @@
    energy; and it may be that some inner planet had suffered this fate. Whatever the reason, the fact remains that the sun
    was very much hotter than we know it.
 
-   'Well, one very hot morning---my fourth, I think---as I was seeking shelter from the heat and glare in a colossal ruin
+   'Well, one very hot morning - my fourth, I think - as I was seeking shelter from the heat and glare in a colossal ruin
    near the great house where I slept and fed, there happened this strange thing: Clambering among these heaps of masonry,
    I found a narrow gallery, whose end and side windows were blocked by fallen masses of stone. By contrast with the
    brilliancy outside, it seemed at first impenetrably dark to me. I entered it groping, for the change from light to
@@ -1070,36 +1070,36 @@
 
    'Here was the new view. Plainly, this second species of Man was subterranean. There were three circumstances in
    particular which made me think that its rare emergence above ground was the outcome of a long-continued underground
-   habit. In the first place, there was the bleached look common in most animals that live largely in the dark---the white
+   habit. In the first place, there was the bleached look common in most animals that live largely in the dark - the white
    fish of the Kentucky caves, for instance. Then, those large eyes, with that capacity for reflecting light, are common
-   features of nocturnal things---witness the owl and the cat. And last of all, that evident confusion in the sunshine,
+   features of nocturnal things - witness the owl and the cat. And last of all, that evident confusion in the sunshine,
    that hasty yet fumbling awkward flight towards dark shadow, and that peculiar carriage of the head while in the
-   light---all reinforced the theory of an extreme sensitiveness of the retina.
+   light - all reinforced the theory of an extreme sensitiveness of the retina.
 
    'Beneath my feet, then, the earth must be tunnelled enormously, and these tunnellings were the habitat of the new race.
-   The presence of ventilating shafts and wells along the hill slopes---everywhere, in fact, except along the river
-   valley---showed how universal were its ramifications. What so natural, then, as to assume that it was in this artificial
+   The presence of ventilating shafts and wells along the hill slopes - everywhere, in fact, except along the river
+   valley - showed how universal were its ramifications. What so natural, then, as to assume that it was in this artificial
    Underworld that such work as was necessary to the comfort of the daylight race was done? The notion was so plausible
    that I at once accepted it, and went on to assume the how of this splitting of the human species. I dare say you will
    anticipate the shape of my theory; though, for myself, I very soon felt that it fell far short of the truth.
 
    'At first, proceeding from the problems of our own age, it seemed clear as daylight to me that the gradual widening of
    the present merely temporary and social difference between the Capitalist and the Labourer, was the key to the whole
-   position. No doubt it will seem grotesque enough to you---and wildly incredible!---and yet even now there are existing
+   position. No doubt it will seem grotesque enough to you - and wildly incredible! - and yet even now there are existing
    circumstances to point that way. There is a tendency to utilize underground space for the less ornamental purposes of
    civilization; there is the Metropolitan Railway in London, for instance, there are new electric railways, there are
    subways, there are underground workrooms and restaurants, and they increase and multiply. Evidently, I thought, this
    tendency had increased till Industry had gradually lost its birthright in the sky. I mean that it had gone deeper and
    deeper into larger and ever larger underground factories, spending a still-increasing amount of its time therein, till,
-   in the end---! Even now, does not an East-end worker live in such artificial conditions as practically to be cut off
+   in the end - ! Even now, does not an East-end worker live in such artificial conditions as practically to be cut off
    from the natural surface of the earth?
 
-   'Again, the exclusive tendency of richer people---due, no doubt, to the increasing refinement of their education, and
-   the widening gulf between them and the rude violence of the poor---is already leading to the closing, in their interest,
+   'Again, the exclusive tendency of richer people - due, no doubt, to the increasing refinement of their education, and
+   the widening gulf between them and the rude violence of the poor - is already leading to the closing, in their interest,
    of considerable portions of the surface of the land. About London, for instance, perhaps half the prettier country is
-   shut in against intrusion. And this same widening gulf---which is due to the length and expense of the higher
+   shut in against intrusion. And this same widening gulf - which is due to the length and expense of the higher
    educational process and the increased facilities for and temptations towards refined habits on the part of the
-   rich---will make that exchange between class and class, that promotion by intermarriage which at present retards the
+   rich - will make that exchange between class and class, that promotion by intermarriage which at present retards the
    splitting of our species along lines of social stratification, less and less frequent. So, in the end, above ground you
    must have the Haves, pursuing pleasure and comfort and beauty, and below ground the Have-nots, the Workers getting
    continually adapted to the conditions of their labour. Once they were there, they would no doubt have to pay rent, and
@@ -1118,7 +1118,7 @@
    since passed its zenith, and was now far fallen into decay. The too-perfect security of the Upper-worlders had led them
    to a slow movement of degeneration, to a general dwindling in size, strength, and intelligence. That I could see clearly
    enough already. What had happened to the Under-grounders I did not yet suspect; but from what I had seen of the
-   Morlocks---that, by the by, was the name by which these creatures were called---I could imagine that the modification of
+   Morlocks - that, by the by, was the name by which these creatures were called - I could imagine that the modification of
    the human type was even far more profound than among the "Eloi," the beautiful race that I already knew.
 
    'Then came troublesome doubts. Why had the Morlocks taken my Time Machine? For I felt sure it was they who had taken it.
@@ -1140,8 +1140,8 @@
 
    'The next night I did not sleep well. Probably my health was a little disordered. I was oppressed with perplexity and
    doubt. Once or twice I had a feeling of intense fear for which I could perceive no definite reason. I remember creeping
-   noiselessly into the great hall where the little people were sleeping in the moonlight---that night Weena was among
-   them---and feeling reassured by their presence. It occurred to me even then, that in the course of a few days the moon
+   noiselessly into the great hall where the little people were sleeping in the moonlight - that night Weena was among
+   them - and feeling reassured by their presence. It occurred to me even then, that in the course of a few days the moon
    must pass through its last quarter, and the nights grow dark, when the appearances of these unpleasant creatures from
    below, these whitened Lemurs, this new vermin that had replaced the old, might be more abundant. And on both these days
    I had the restless feeling of one who shirks an inevitable duty. I felt assured that the Time Machine was only to be
@@ -1211,10 +1211,10 @@
 
    'I have thought since how particularly ill-equipped I was for such an experience. When I had started with the Time
    Machine, I had started with the absurd assumption that the men of the Future would certainly be infinitely ahead of
-   ourselves in all their appliances. I had come without arms, without medicine, without anything to smoke---at times I
-   missed tobacco frightfully---even without enough matches. If only I had thought of a Kodak! I could have flashed that
+   ourselves in all their appliances. I had come without arms, without medicine, without anything to smoke - at times I
+   missed tobacco frightfully - even without enough matches. If only I had thought of a Kodak! I could have flashed that
    glimpse of the Underworld in a second, and examined it at leisure. But, as it was, I stood there with only the weapons
-   and the powers that Nature had endowed me with---hands, feet, and teeth; these, and four safety-matches that still
+   and the powers that Nature had endowed me with - hands, feet, and teeth; these, and four safety-matches that still
    remained to me.
 
    'I was afraid to push my way in among all this machinery in the dark, and it was only with my last glimpse of light I
@@ -1226,7 +1226,7 @@
    at my clothing. The sense of these unseen creatures examining me was indescribably unpleasant. The sudden realization of
    my ignorance of their ways of thinking and doing came home to me very vividly in the darkness. I shouted at them as
    loudly as I could. They started away, and then I could feel them approaching me again. They clutched at me more boldly,
-   whispering odd sounds to each other. I shivered violently, and shouted again---rather discordantly. This time they were
+   whispering odd sounds to each other. I shivered violently, and shouted again - rather discordantly. This time they were
    not so seriously alarmed, and they made a queer laughing noise as they came back at me. I will confess I was horribly
    frightened. I determined to strike another match and escape under the protection of its glare. I did so, and eking out
    the flicker with a scrap of paper from my pocket, I made good my retreat to the narrow tunnel. But I had scarce entered
@@ -1234,8 +1234,8 @@
    pattering like the rain, as they hurried after me.
 
    'In a moment I was clutched by several hands, and there was no mistaking that they were trying to haul me back. I struck
-   another light, and waved it in their dazzled faces. You can scarce imagine how nauseatingly inhuman they looked---those
-   pale, chinless faces and great, lidless, pinkish-grey eyes!---as they stared in their blindness and bewilderment. But I
+   another light, and waved it in their dazzled faces. You can scarce imagine how nauseatingly inhuman they looked - those
+   pale, chinless faces and great, lidless, pinkish-grey eyes! - as they stared in their blindness and bewilderment. But I
    did not stay to look, I promise you: I retreated again, and when my second match had ended, I struck my third. It had
    almost burned through when I reached the opening into the shaft. I lay down on the edge, for the throb of the great pump
    below made me giddy. Then I felt sideways for the projecting hooks, and, as I did so, my feet were grasped from behind,
@@ -1255,7 +1255,7 @@
    'Now, indeed, I seemed in a worse case than before. Hitherto, except during my night's anguish at the loss of the Time
    Machine, I had felt a sustaining hope of ultimate escape, but that hope was staggered by these new discoveries. Hitherto
    I had merely thought myself impeded by the childish simplicity of the little people, and by some unknown forces which I
-   had only to understand to overcome; but there was an altogether new element in the sickening quality of the Morlocks---a
+   had only to understand to overcome; but there was an altogether new element in the sickening quality of the Morlocks - a
    something inhuman and malign. Instinctively I loathed them. Before, I had felt as a man might feel who had fallen into a
    pit: my concern was with the pit and how to get out of it. Now I felt like a beast in a trap, whose enemy would come
    upon him soon.
@@ -1293,7 +1293,7 @@
    came back to my memory; and in the evening, taking Weena like a child upon my shoulder, I went up the hills towards the
    south-west. The distance, I had reckoned, was seven or eight miles, but it must have been nearer eighteen. I had first
    seen the place on a moist afternoon when distances are deceptively diminished. In addition, the heel of one of my shoes
-   was loose, and a nail was working through the sole---they were comfortable old shoes I wore about indoors---so that I
+   was loose, and a nail was working through the sole - they were comfortable old shoes I wore about indoors - so that I
    was lame. And it was already long past sunset when I came in sight of the palace, silhouetted black against the pale
    yellow of the sky.
 
@@ -1321,16 +1321,16 @@
    in my arms and talked to her and caressed her. Then, as the darkness grew deeper, she put her arms round my neck, and,
    closing her eyes, tightly pressed her face against my shoulder. So we went down a long slope into a valley, and there in
    the dimness I almost walked into a little river. This I waded, and went up the opposite side of the valley, past a
-   number of sleeping houses, and by a statue---a Faun, or some such figure, minus the head. Here too were acacias. So far
+   number of sleeping houses, and by a statue - a Faun, or some such figure, minus the head. Here too were acacias. So far
    I had seen nothing of the Morlocks, but it was yet early in the night, and the darker hours before the old moon rose
    were still to come.
 
    'From the brow of the next hill I saw a thick wood spreading wide and black before me. I hesitated at this. I could see
-   no end to it, either to the right or the left. Feeling tired---my feet, in particular, were very sore---I carefully
+   no end to it, either to the right or the left. Feeling tired - my feet, in particular, were very sore - I carefully
    lowered Weena from my shoulder as I halted, and sat down upon the turf. I could no longer see the Palace of Green
    Porcelain, and I was in doubt of my direction. I looked into the thickness of the wood and thought of what it might
    hide. Under that dense tangle of branches one would be out of sight of the stars. Even were there no other lurking
-   danger---a danger I did not care to let my imagination loose upon---there would still be all the roots to stumble over
+   danger - a danger I did not care to let my imagination loose upon - there would still be all the roots to stumble over
    and the tree-boles to strike against.
 
    'I was very tired, too, after the excitements of the day; so I decided that I would not face it, but would pass the
@@ -1370,12 +1370,12 @@
    there was no such thing in nature as the night. And then I thought once more of the meat that I had seen. I felt assured
    now of what it was, and from the bottom of my heart I pitied this last feeble rill from the great flood of humanity.
    Clearly, at some time in the Long-Ago of human decay the Morlocks' food had run short. Possibly they had lived on rats
-   and such-like vermin. Even now man is far less discriminating and exclusive in his food than he was---far less than any
-   monkey. His prejudice against human flesh is no deep-seated instinct. And so these inhuman sons of men------! I tried to
+   and such-like vermin. Even now man is far less discriminating and exclusive in his food than he was - far less than any
+   monkey. His prejudice against human flesh is no deep-seated instinct. And so these inhuman sons of men -  - ! I tried to
    look at the thing in a scientific spirit. After all, they were less human and more remote than our cannibal ancestors of
    three or four thousand years ago. And the intelligence that would have made this state of things a torment had gone. Why
    should I trouble myself? These Eloi were mere fatted cattle, which the ant-like Morlocks preserved and preyed
-   upon---probably saw to the breeding of. And there was Weena dancing at my side!
+   upon - probably saw to the breeding of. And there was Weena dancing at my side!
 
    'Then I tried to preserve myself from the horror that was coming upon me, by regarding it as a rigorous punishment of
    human selfishness. Man had been content to live in ease and delight upon the labours of his fellow-man, had taken
@@ -1399,7 +1399,7 @@
    vestiges of glass remained in its windows, and great sheets of the green facing had fallen away from the corroded
    metallic framework. It lay very high upon a turfy down, and looking north-eastward before I entered it, I was surprised
    to see a large estuary, or even creek, where I judged Wandsworth and Battersea must once have been. I thought
-   then---though I never followed up the thought---of what might have happened, or might be happening, to the living things
+   then - though I never followed up the thought - of what might have happened, or might be happening, to the living things
    in the sea.
 
    'The material of the Palace proved on examination to be indeed porcelain, and along the face of it I saw an inscription
@@ -1407,7 +1407,7 @@
    that the bare idea of writing had never entered her head. She always seemed to me, I fancy, more human than she was,
    perhaps because her affection was so human.
 
-   'Within the big valves of the door---which were open and broken---we found, instead of the customary hall, a long
+   'Within the big valves of the door - which were open and broken - we found, instead of the customary hall, a long
    gallery lit by many side windows. At the first glance I was reminded of a museum. The tiled floor was thick with dust,
    and a remarkable array of miscellaneous objects was shrouded in the same grey covering. Then I perceived, standing
    strange and gaunt in the centre of the hall, what was clearly the lower part of a huge skeleton. I recognized by the
@@ -1423,7 +1423,7 @@
    staved off for a time, and had, through the extinction of bacteria and fungi, lost ninety-nine hundredths of its force,
    was nevertheless, with extreme sureness if with extreme slowness at work again upon all its treasures. Here and there I
    found traces of the little people in the shape of rare fossils broken to pieces or threaded in strings upon reeds. And
-   the cases had in some instances been bodily removed---by the Morlocks as I judged. The place was very silent. The thick
+   the cases had in some instances been bodily removed - by the Morlocks as I judged. The place was very silent. The thick
    dust deadened our footsteps. Weena, who had been rolling a sea urchin down the sloping glass of a case, presently came,
    as I stared about me, and very quietly took my hand and stood beside me.
 
@@ -1443,7 +1443,7 @@
    held spirit, a brown dust of departed plants: that was all! I was sorry for that, because I should have been glad to
    trace the patent readjustments by which the conquest of animated nature had been attained. Then we came to a gallery of
    simply colossal proportions, but singularly ill-lit, the floor of it running downward at a slight angle from the end at
-   which I entered. At intervals white globes hung from the ceiling---many of them cracked and smashed---which suggested
+   which I entered. At intervals white globes hung from the ceiling - many of them cracked and smashed - which suggested
    that originally the place had been artificially lit. Here I was more in my element, for rising on either side of me were
    the huge bulks of big machines, all greatly corroded and many broken down, but some still fairly complete. You know I
    have a certain weakness for mechanism, and I was inclined to linger among these; the more so as for the most part they
@@ -1452,7 +1452,7 @@
 
    'Suddenly Weena came very close to my side. So suddenly that she startled me. Had it not been for her I do not think I
    should have noticed that the floor of the gallery sloped at all. [Footnote: It may be, of course, that the floor did not
-   slope, but that the museum was built into the side of a hill.---ED.] The end I had come in at was quite above ground,
+   slope, but that the museum was built into the side of a hill. - ED.] The end I had come in at was quite above ground,
    and was lit by rare slit-like windows. As you went down the length, the ground came up against these windows, until at
    last there was a pit like the "area" of a London house before each, and only a narrow line of daylight at the top. I
    went slowly along, puzzling about the machines, and had been too intent upon them to notice the gradual diminution of
@@ -1499,7 +1499,7 @@
    decay this volatile substance had chanced to survive, perhaps through many thousands of centuries. It reminded me of a
    sepia painting I had once seen done from the ink of a fossil Belemnite that must have perished and become fossilized
    millions of years ago. I was about to throw it away, but I remembered that it was inflammable and burned with a good
-   bright flame---was, in fact, an excellent candle---and I put it in my pocket. I found no explosives, however, nor any
+   bright flame - was, in fact, an excellent candle - and I put it in my pocket. I found no explosives, however, nor any
    means of breaking down the bronze doors. As yet my iron crowbar was the most helpful thing I had chanced upon.
    Nevertheless I left that gallery greatly elated.
 
@@ -1509,7 +1509,7 @@
    the bronze gates. There were numbers of guns, pistols, and rifles. The most were masses of rust, but many were of some
    new metal, and still fairly sound. But any cartridges or powder there may once have been had rotted into dust. One
    corner I saw was charred and shattered; perhaps, I thought, by an explosion among the specimens. In another place was a
-   vast array of idols---Polynesian, Mexican, Grecian, Phoenician, every country on earth I should think. And here,
+   vast array of idols - Polynesian, Mexican, Grecian, Phoenician, every country on earth I should think. And here,
    yielding to an irresistible impulse, I wrote my name upon the nose of a steatite monster from South America that
    particularly took my fancy.
 
@@ -1525,7 +1525,7 @@
    'It was after that, I think, that we came to a little open court within the palace. It was turfed, and had three
    fruit-trees. So we rested and refreshed ourselves. Towards sunset I began to consider our position. Night was creeping
    upon us, and my inaccessible hiding-place had still to be found. But that troubled me very little now. I had in my
-   possession a thing that was, perhaps, the best of all defences against the Morlocks---I had matches! I had the camphor
+   possession a thing that was, perhaps, the best of all defences against the Morlocks - I had matches! I had the camphor
    in my pocket, too, if a blaze were needed. It seemed to me that the best thing we could do would be to pass the night in
    the open, protected by a fire. In the morning there was the getting of the Time Machine. Towards that, as yet, I had
    only my iron mace. But now, with my growing knowledge, I felt very differently towards those bronze doors. Up to this, I
@@ -1606,7 +1606,7 @@
    camphor was in the air. My fire would not need replenishing for an hour or so. I felt very weary after my exertion, and
    sat down. The wood, too, was full of a slumbrous murmur that I did not understand. I seemed just to nod and open my
    eyes. But all was dark, and the Morlocks had their hands upon me. Flinging off their clinging fingers I hastily felt in
-   my pocket for the match-box, and---it had gone! Then they gripped and closed with me again. In a moment I knew what had
+   my pocket for the match-box, and - it had gone! Then they gripped and closed with me again. In a moment I knew what had
    happened. I had slept, and my fire had gone out, and the bitterness of death came over my soul. The forest seemed full
    of the smell of burning wood. I was caught by the neck, by the hair, by the arms, and pulled down. It was indescribably
    horrible in the darkness to feel all these soft creatures heaped upon me. I felt as if I was in a monstrous spider's
@@ -1620,8 +1620,8 @@
    before me. The whole wood was full of the stir and cries of them. A minute passed. Their voices seemed to rise to a
    higher pitch of excitement, and their movements grew faster. Yet none came within reach. I stood glaring at the
    blackness. Then suddenly came hope. What if the Morlocks were afraid? And close on the heels of that came a strange
-   thing. The darkness seemed to grow luminous. Very dimly I began to see the Morlocks about me---three battered at my
-   feet---and then I recognized, with incredulous surprise, that the others were running, in an incessant stream, as it
+   thing. The darkness seemed to grow luminous. Very dimly I began to see the Morlocks about me - three battered at my
+   feet - and then I recognized, with incredulous surprise, that the others were running, in an incessant stream, as it
    seemed, from behind me, and away through the wood in front. And their backs seemed no longer white, but reddish. As I
    stood agape, I saw a little red spark go drifting across a gap of starlight between the branches, and vanish. And at
    that I understood the smell of burning wood, the slumbrous murmur that was growing now into a gusty roar, the red glow,
@@ -1673,7 +1673,7 @@
    towards the hiding-place of the Time Machine. I walked slowly, for I was almost exhausted, as well as lame, and I felt
    the intensest wretchedness for the horrible death of little Weena. It seemed an overwhelming calamity. Now, in this old
    familiar room, it is more like the sorrow of a dream than an actual loss. But that morning it left me absolutely lonely
-   again---terribly alone. I began to think of this house of mine, of this fireside, of some of you, and with such thoughts
+   again - terribly alone. I began to think of this house of mine, of this fireside, of some of you, and with such thoughts
    came a longing that was pain.
 
    'But as I walked over the smoking ashes under the bright morning sky, I made a discovery. In my trouser pocket were
@@ -1693,7 +1693,7 @@
 
    'I grieved to think how brief the dream of the human intellect had been. It had committed suicide. It had set itself
    steadfastly towards comfort and ease, a balanced society with security and permanency as its watchword, it had attained
-   its hopes---to come to this at last. Once, life and property must have reached almost absolute safety. The rich had been
+   its hopes - to come to this at last. Once, life and property must have reached almost absolute safety. The rich had been
    assured of his wealth and comfort, the toiler assured of his life and work. No doubt in that perfect world there had
    been no unemployed problem, no social question left unsolved. And a great quiet had followed.
 
@@ -1703,7 +1703,7 @@
    animals partake of intelligence that have to meet a huge variety of needs and dangers.
 
    'So, as I see it, the Upper-world man had drifted towards his feeble prettiness, and the Under-world to mere mechanical
-   industry. But that perfect state had lacked one thing even for mechanical perfection---absolute permanency. Apparently
+   industry. But that perfect state had lacked one thing even for mechanical perfection - absolute permanency. Apparently
    as time went on, the feeding of the Under-world, however it was effected, had become disjointed. Mother Necessity, who
    had been staved off for a few thousand years, came back again, and she began below. The Under-world being in contact
    with machinery, which, however perfect, still needs some little thought outside habit, had probably retained perforce
@@ -1735,7 +1735,7 @@
    even partially taken it to pieces while trying in their dim way to grasp its purpose.
 
    'Now as I stood and examined it, finding a pleasure in the mere touch of the contrivance, the thing I had expected
-   happened. The bronze panels suddenly slid up and struck the frame with a clang. I was in the dark---trapped. So the
+   happened. The bronze panels suddenly slid up and struck the frame with a clang. I was in the dark - trapped. So the
    Morlocks thought. At that I chuckled gleefully.
 
    'I could already hear their murmuring laughter as they came towards me. Very calmly I tried to strike the match. I had
@@ -1746,7 +1746,7 @@
    in the dark at them with the levers, and began to scramble into the saddle of the machine. Then came one hand upon me
    and then another. Then I had simply to fight against their persistent fingers for my levers, and at the same time feel
    for the studs over which these fitted. One, indeed, they almost got away from me. As it slipped from my hand, I had to
-   butt in the dark with my head---I could hear the Morlock's skull ring---to recover it. It was a nearer thing than the
+   butt in the dark with my head - I could hear the Morlock's skull ring - to recover it. It was a nearer thing than the
    fight in the forest, I think, this last scramble.
 
    'But at last the lever was fitted and pulled over. The clinging hands slipped from me. The darkness presently fell from
@@ -1755,12 +1755,12 @@
 ** Chapter 11
 
    'As I drove on, a peculiar change crept over the appearance of things. The palpitating greyness grew darker;
-   then---though I was still travelling with prodigious velocity---the blinking succession of day and night, which was
+   then - though I was still travelling with prodigious velocity - the blinking succession of day and night, which was
    usually indicative of a slower pace, returned, and grew more and more marked. This puzzled me very much at first. The
    alternations of night and day grew slower and slower, and so did the passage of the sun across the sky, until they
    seemed to stretch through centuries. At last a steady twilight brooded over the earth, a twilight only broken now and
    then when a comet glared across the darkling sky. The band of light that had indicated the sun had long since
-   disappeared; for the sun had ceased to set---it simply rose and fell in the west, and grew ever broader and more red.
+   disappeared; for the sun had ceased to set - it simply rose and fell in the west, and grew ever broader and more red.
    All trace of the moon had vanished. The circling of the stars, growing slower and slower, had given place to creeping
    points of light. At last, some time before I stopped, the sun, red and very large, halted motionless upon the horizon, a
    vast dome glowing with a dull heat, and now and then suffering a momentary extinction. At one time it had for a little
@@ -1781,7 +1781,7 @@
    'The machine was standing on a sloping beach. The sea stretched away to the south-west, to rise into a sharp bright
    horizon against the wan sky. There were no breakers and no waves, for not a breath of wind was stirring. Only a slight
    oily swell rose and fell like a gentle breathing, and showed that the eternal sea was still moving and living. And along
-   the margin where the water sometimes broke was a thick incrustation of salt---pink under the lurid sky. There was a
+   the margin where the water sometimes broke was a thick incrustation of salt - pink under the lurid sky. There was a
    sense of oppression in my head, and I noticed that I was breathing very fast. The sensation reminded me of my only
    experience of mountaineering, and from that I judged the air to be more rarefied than it is now.
 
@@ -1807,7 +1807,7 @@
    'I cannot convey the sense of abominable desolation that hung over the world. The red eastern sky, the northward
    blackness, the salt Dead Sea, the stony beach crawling with these foul, slow-stirring monsters, the uniform
    poisonous-looking green of the lichenous plants, the thin air that hurts one's lungs: all contributed to an appalling
-   effect. I moved on a hundred years, and there was the same red sun---a little larger, a little duller---the same dying
+   effect. I moved on a hundred years, and there was the same red sun - a little larger, a little duller - the same dying
    sea, the same chill air, and the same crowd of earthy crustacea creeping in and out among the green weed and the red
    rocks. And in the westward sky, I saw a curved pale line like a vast new moon.
 
@@ -1837,7 +1837,7 @@
    'The darkness grew apace; a cold wind began to blow in freshening gusts from the east, and the showering white flakes in
    the air increased in number. From the edge of the sea came a ripple and whisper. Beyond these lifeless sounds the world
    was silent. Silent? It would be hard to convey the stillness of it. All the sounds of man, the bleating of sheep, the
-   cries of birds, the hum of insects, the stir that makes the background of our lives---all that was over. As the darkness
+   cries of birds, the hum of insects, the stir that makes the background of our lives - all that was over. As the darkness
    thickened, the eddying flakes grew more abundant, dancing before my eyes; and the cold of the air more intense. At last,
    one by one, swiftly, one after the other, the white peaks of the distant hills vanished into blackness. The breeze rose
    to a moaning wind. I saw the black central shadow of the eclipse sweeping towards me. In another moment the pale stars
@@ -1846,7 +1846,7 @@
    'A horror of this great darkness came on me. The cold, that smote to my marrow, and the pain I felt in breathing,
    overcame me. I shivered, and a deadly nausea seized me. Then like a red-hot bow in the sky appeared the edge of the sun.
    I got off the machine to recover myself. I felt giddy and incapable of facing the return journey. As I stood sick and
-   confused I saw again the moving thing upon the shoal---there was no mistake now that it was a moving thing---against the
+   confused I saw again the moving thing upon the shoal - there was no mistake now that it was a moving thing - against the
    red water of the sea. It was a round thing, the size of a football perhaps, or, it may be, bigger, and tentacles trailed
    down from it; it seemed black against the weltering blood-red water, and it was hopping fitfully about. Then I felt I
    was fainting. But a terrible dread of lying helpless in that remote and awful twilight sustained me while I clambered
@@ -1881,14 +1881,14 @@
    'For a time my brain went stagnant. Presently I got up and came through the passage here, limping, because my heel was
    still painful, and feeling sorely begrimed. I saw the Pall Mall Gazette on the table by the door. I found the date was
    indeed to-day, and looking at the timepiece, saw the hour was almost eight o'clock. I heard your voices and the clatter
-   of plates. I hesitated---I felt so sick and weak. Then I sniffed good wholesome meat, and opened the door on you. You
+   of plates. I hesitated - I felt so sick and weak. Then I sniffed good wholesome meat, and opened the door on you. You
    know the rest. I washed, and dined, and now I am telling you the story.
 
    'I know,' he said, after a pause, 'that all this will be absolutely incredible to you. To me the one incredible thing is
    that I am here to-night in this old familiar room looking into your friendly faces and telling you these strange
    adventures.'
 
-   He looked at the Medical Man. 'No. I cannot expect you to believe it. Take it as a lie---or a prophecy. Say I dreamed it
+   He looked at the Medical Man. 'No. I cannot expect you to believe it. Take it as a lie - or a prophecy. Say I dreamed it
    in the workshop. Consider I have been speculating upon the destinies of our race until I have hatched this fiction.
    Treat my assertion of its truth as a mere stroke of art to enhance its interest. And taking it as a story, what do you
    think of it?'
@@ -1897,14 +1897,14 @@
    was a momentary stillness. Then chairs began to creak and shoes to scrape upon the carpet. I took my eyes off the Time
    Traveller's face, and looked round at his audience. They were in the dark, and little spots of colour swam before them.
    The Medical Man seemed absorbed in the contemplation of our host. The Editor was looking hard at the end of his
-   cigar---the sixth. The Journalist fumbled for his watch. The others, as far as I remember, were motionless.
+   cigar - the sixth. The Journalist fumbled for his watch. The others, as far as I remember, were motionless.
 
    The Editor stood up with a sigh. 'What a pity it is you're not a writer of stories!' he said, putting his hand on the
    Time Traveller's shoulder.
 
    'You don't believe it?'
 
-   'Well------'
+   'Well -  - '
 
    'I thought not.'
 
@@ -1931,13 +1931,13 @@
    The Time Traveller put his hand to his head. He spoke like one who was trying to keep hold of an idea that eluded him.
    'They were put into my pocket by Weena, when I travelled into Time.' He stared round the room. 'I'm damned if it isn't
    all going. This room and you and the atmosphere of every day is too much for my memory. Did I ever make a Time Machine,
-   or a model of a Time Machine? Or is it all only a dream? They say life is a dream, a precious poor dream at times---but
+   or a model of a Time Machine? Or is it all only a dream? They say life is a dream, a precious poor dream at times - but
    I can't stand another that won't fit. It's madness. And where did the dream come from? ... I must look at that machine.
    If there is one!'
 
    He caught up the lamp swiftly, and carried it, flaring red, through the door into the corridor. We followed him. There
    in the flickering light of the lamp was the machine sure enough, squat, ugly, and askew; a thing of brass, ebony, ivory,
-   and translucent glimmering quartz. Solid to the touch---for I put out my hand and felt the rail of it---and with brown
+   and translucent glimmering quartz. Solid to the touch - for I put out my hand and felt the rail of it - and with brown
    spots and smears upon the ivory, and bits of grass and moss upon the lower parts, and one rail bent awry.
 
    The Time Traveller put the lamp down on the bench, and ran his hand along the damaged rail. 'It's all right now,' he
@@ -1973,14 +1973,14 @@
    As I took hold of the handle of the door I heard an exclamation, oddly truncated at the end, and a click and a thud. A
    gust of air whirled round me as I opened the door, and from within came the sound of broken glass falling on the floor.
    The Time Traveller was not there. I seemed to see a ghostly, indistinct figure sitting in a whirling mass of black and
-   brass for a moment---a figure so transparent that the bench behind with its sheets of drawings was absolutely distinct;
+   brass for a moment - a figure so transparent that the bench behind with its sheets of drawings was absolutely distinct;
    but this phantasm vanished as I rubbed my eyes. The Time Machine had gone. Save for a subsiding stir of dust, the
    further end of the laboratory was empty. A pane of the skylight had, apparently, just been blown in.
 
    I felt an unreasonable amazement. I knew that something strange had happened, and for the moment could not distinguish
    what the strange thing might be. As I stood staring, the door into the garden opened, and the man-servant appeared.
 
-   We looked at each other. Then ideas began to come. 'Has Mr. ------ gone out that way?' said I.
+   We looked at each other. Then ideas began to come. 'Has Mr.  -  -  gone out that way?' said I.
 
    'No, sir. No one has come out this way. I was expecting to find him here.'
 
@@ -1993,15 +1993,15 @@
 
     One cannot choose but wonder. Will he ever return? It may be that he swept back into the past, and fell among the
     blood-drinking, hairy savages of the Age of Unpolished Stone; into the abysses of the Cretaceous Sea; or among the
-    grotesque saurians, the huge reptilian brutes of the Jurassic times. He may even now---if I may use the phrase---be
+    grotesque saurians, the huge reptilian brutes of the Jurassic times. He may even now - if I may use the phrase - be
     wandering on some plesiosaurus-haunted Oolitic coral reef, or beside the lonely saline lakes of the Triassic Age. Or did
     he go forward, into one of the nearer ages, in which men are still men, but with the riddles of our own time answered
     and its wearisome problems solved? Into the manhood of the race: for I, for my own part, cannot think that these latter
     days of weak experiment, fragmentary theory, and mutual discord are indeed man's culminating time! I say, for my own
-    part. He, I know---for the question had been discussed among us long before the Time Machine was made---thought but
+    part. He, I know - for the question had been discussed among us long before the Time Machine was made - thought but
     cheerlessly of the Advancement of Mankind, and saw in the growing pile of civilization only a foolish heaping that must
     inevitably fall back upon and destroy its makers in the end. If that is so, it remains for us to live as though it were
-    not so. But to me the future is still black and blank---is a vast ignorance, lit at a few casual places by the memory of
-    his story. And I have by me, for my comfort, two strange white flowers---shrivelled now, and brown and flat and
-    brittle---to witness that even when mind and strength had gone, gratitude and a mutual tenderness still lived on in the
+    not so. But to me the future is still black and blank - is a vast ignorance, lit at a few casual places by the memory of
+    his story. And I have by me, for my comfort, two strange white flowers - shrivelled now, and brown and flat and
+    brittle - to witness that even when mind and strength had gone, gratitude and a mutual tenderness still lived on in the
     heart of man.

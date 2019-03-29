@@ -132,14 +132,14 @@
    #+BEGIN_QUOTE
    Doubtful it stood;
    As two spent swimmers, that do cling together
-   And choke their art. The merciless Macdonwald---
+   And choke their art. The merciless Macdonwald - 
    Worthy to be a rebel, for to that
    The multiplying villanies of nature
-   Do swarm upon him---from the western isles
+   Do swarm upon him - from the western isles
    Of kerns and gallowglasses is supplied;
    And fortune, on his damned quarrel smiling,
    Show'd like a rebel's whore: but all's too weak:
-   For brave Macbeth---well he deserves that name---
+   For brave Macbeth - well he deserves that name - 
    Disdaining fortune, with his brandish'd steel,
    Which smoked with bloody execution,
    Like valour's minion carved out his passage
@@ -310,7 +310,7 @@
 
    #+BEGIN_QUOTE
    A sailor's wife had chestnuts in her lap,
-   And munch'd, and munch'd, and munch'd:---
+   And munch'd, and munch'd, and munch'd: - 
    'Give me,' quoth I:
    'Aroint thee, witch!' the rump-fed ronyon cries.
    Her husband's to Aleppo gone, master o' the Tiger:
@@ -653,7 +653,7 @@
    #+BEGIN_QUOTE
    [Aside] Two truths are told,
    As happy prologues to the swelling act
-   Of the imperial theme.---I thank you, gentlemen.
+   Of the imperial theme. - I thank you, gentlemen.
 
    /Aside/
 
@@ -1225,9 +1225,9 @@
    #+BEGIN_QUOTE
    We fail!
    But screw your courage to the sticking-place,
-   And we'll not fail. When Duncan is asleep---
+   And we'll not fail. When Duncan is asleep - 
    Whereto the rather shall his day's hard journey
-   Soundly invite him---his two chamberlains
+   Soundly invite him - his two chamberlains
    Will I with wine and wassail so convince
    That memory, the warder of the brain,
    Shall be a fume, and the receipt of reason
@@ -1600,7 +1600,7 @@
    Sleep that knits up the ravell'd sleeve of care,
    The death of each day's life, sore labour's bath,
    Balm of hurt minds, great nature's second course,
-   Chief nourisher in life's feast,---
+   Chief nourisher in life's feast, - 
    #+END_QUOTE
 
    *LADY MACBETH*
@@ -2241,7 +2241,7 @@
    *ROSS*
 
    #+BEGIN_QUOTE
-   And Duncan's horses---a thing most strange and certain---
+   And Duncan's horses - a thing most strange and certain - 
    Beauteous and swift, the minions of their race,
    Turn'd wild in nature, broke their stalls, flung out,
    Contending 'gainst obedience, as they would make
@@ -2384,8 +2384,8 @@
    Thou play'dst most foully for't: yet it was said
    It should not stand in thy posterity,
    But that myself should be the root and father
-   Of many kings. If there come truth from them---
-   As upon thee, Macbeth, their speeches shine---
+   Of many kings. If there come truth from them - 
+   As upon thee, Macbeth, their speeches shine - 
    Why, by the verities on thee made good,
    May they not be my oracles as well,
    And set me up in hope? But hush! no more.
@@ -2516,7 +2516,7 @@
    /Exit Attendant/
 
    To be thus is nothing;
-   But to be safely thus.---Our fears in Banquo
+   But to be safely thus. - Our fears in Banquo
    Stick deep; and in his royalty of nature
    Reigns that which would be fear'd: 'tis much he dares;
    And, to that dauntless temper of his mind,
@@ -2675,7 +2675,7 @@
    *First Murderer*
 
    #+BEGIN_QUOTE
-   Though our lives---
+   Though our lives - 
    #+END_QUOTE
 
    *MACBETH*
@@ -2686,8 +2686,8 @@
    Acquaint you with the perfect spy o' the time,
    The moment on't; for't must be done to-night,
    And something from the palace; always thought
-   That I require a clearness: and with him---
-   To leave no rubs nor botches in the work---
+   That I require a clearness: and with him - 
+   To leave no rubs nor botches in the work - 
    Fleance his son, that keeps him company,
    Whose absence is no less material to me
    Than is his father's, must embrace the fate
@@ -3555,8 +3555,8 @@
    For 'twould have anger'd any heart alive
    To hear the men deny't. So that, I say,
    He has borne all things well: and I do think
-   That had he Duncan's sons under his key---
-   As, an't please heaven, he shall not---they
+   That had he Duncan's sons under his key - 
+   As, an't please heaven, he shall not - they
    should find
    What 'twere to kill a father; so should Fleance.
    But, peace! for from broad words and 'cause he fail'd
@@ -3576,8 +3576,8 @@
    Takes from his high respect: thither Macduff
    Is gone to pray the holy king, upon his aid
    To wake Northumberland and warlike Siward:
-   That, by the help of these---with Him above
-   To ratify the work---we may again
+   That, by the help of these - with Him above
+   To ratify the work - we may again
    Give to our tables meat, sleep to our nights,
    Free from our feasts and banquets bloody knives,
    Do faithful homage and receive free honours:
@@ -3825,7 +3825,7 @@
    *MACBETH*
 
    #+BEGIN_QUOTE
-   Tell me, thou unknown power,---
+   Tell me, thou unknown power, - 
    #+END_QUOTE
 
    *First Witch*
@@ -3849,7 +3849,7 @@
    #+BEGIN_QUOTE
    Whate'er thou art, for thy good caution, thanks;
    Thou hast harp'd my fear aright: but one
-   word more,---
+   word more, - 
    #+END_QUOTE
 
    *First Witch*
@@ -4094,7 +4094,7 @@
    His wife, his babes, and all unfortunate souls
    That trace him in his line. No boasting like a fool;
    This deed I'll do before this purpose cool.
-   But no more sights!---Where are these gentlemen?
+   But no more sights! - Where are these gentlemen?
    Come, bring me where they are.
 
    /Exeunt/
@@ -4699,7 +4699,7 @@
    *MALCOLM*
 
    #+BEGIN_QUOTE
-   Well; more anon.---Comes the king forth, I pray you?
+   Well; more anon. - Comes the king forth, I pray you?
    #+END_QUOTE
 
    *Doctor*
@@ -4707,8 +4707,8 @@
    #+BEGIN_QUOTE
    Ay, sir; there are a crew of wretched souls
    That stay his cure: their malady convinces
-   The great assay of art; but at his touch---
-   Such sanctity hath heaven given his hand---
+   The great assay of art; but at his touch - 
+   Such sanctity hath heaven given his hand - 
    They presently amend.
    #+END_QUOTE
 
@@ -5154,11 +5154,11 @@
    *LADY MACBETH*
 
    #+BEGIN_QUOTE
-   Out, damned spot! out, I say!---One: two: why,
-   then, 'tis time to do't.---Hell is murky!---Fie, my
+   Out, damned spot! out, I say! - One: two: why,
+   then, 'tis time to do't. - Hell is murky! - Fie, my
    lord, fie! a soldier, and afeard? What need we
    fear who knows it, when none can call our power to
-   account?---Yet who would have thought the old man
+   account? - Yet who would have thought the old man
    to have had so much blood in him.
    #+END_QUOTE
 
@@ -5171,8 +5171,8 @@
    *LADY MACBETH*
 
    #+BEGIN_QUOTE
-   The thane of Fife had a wife: where is she now?---
-   What, will these hands ne'er be clean?---No more o'
+   The thane of Fife had a wife: where is she now? - 
+   What, will these hands ne'er be clean? - No more o'
    that, my lord, no more o' that: you mar all with
    this starting.
    #+END_QUOTE
@@ -5214,7 +5214,7 @@
    *Doctor*
 
    #+BEGIN_QUOTE
-   Well, well, well,---
+   Well, well, well, - 
    #+END_QUOTE
 
    *Gentlewoman*
@@ -5235,7 +5235,7 @@
 
    #+BEGIN_QUOTE
    Wash your hands, put on your nightgown; look not so
-   pale.---I tell you yet again, Banquo's buried; he
+   pale. - I tell you yet again, Banquo's buried; he
    cannot come out on's grave.
    #+END_QUOTE
 
@@ -5250,7 +5250,7 @@
    #+BEGIN_QUOTE
    To bed, to bed! there's knocking at the gate:
    come, come, come, come, give me your hand. What's
-   done cannot be undone.---To bed, to bed, to bed!
+   done cannot be undone. - To bed, to bed, to bed!
 
    /Exit/
    #+END_QUOTE
@@ -5414,7 +5414,7 @@
    *Servant*
 
    #+BEGIN_QUOTE
-   There is ten thousand---
+   There is ten thousand - 
    #+END_QUOTE
 
    *MACBETH*
@@ -5451,8 +5451,8 @@
 
    /Exit Servant/
 
-   Seyton!---I am sick at heart,
-   When I behold---Seyton, I say!---This push
+   Seyton! - I am sick at heart,
+   When I behold - Seyton, I say! - This push
    Will cheer me ever, or disseat me now.
    I have lived long enough: my way of life
    Is fall'n into the sear, the yellow leaf;
@@ -5542,7 +5542,7 @@
    The water of my land, find her disease,
    And purge it to a sound and pristine health,
    I would applaud thee to the very echo,
-   That should applaud again.---Pull't off, I say.---
+   That should applaud again. - Pull't off, I say. - 
    What rhubarb, cyme, or what purgative drug,
    Would scour these English hence? Hear'st thou of them?
    #+END_QUOTE

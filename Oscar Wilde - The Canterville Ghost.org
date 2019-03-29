@@ -187,7 +187,7 @@
    The next morning, when the Otis family met at breakfast, they discussed the ghost at some length. The United States
    Minister was naturally a little annoyed to find that his present had not been accepted. “I have no wish,” he said, “to
    do the ghost any personal injury, and I must say that, considering the length of time he has been in the house, I don't
-   think it is at all polite to throw pillows at him”---a very just remark, at which, I am sorry to say, the twins burst
+   think it is at all polite to throw pillows at him” - a very just remark, at which, I am sorry to say, the twins burst
    into shouts of laughter. “Upon the other hand,” he continued, “if he really declines to use the Rising Sun Lubricator,
    we shall have to take his chains from him. It would be quite impossible to sleep, with such a noise going on outside the
    bedrooms.”
@@ -292,7 +292,7 @@
    floor, the body assumed a recumbent posture, and he found himself clasping a white dimity bed-curtain, with a
    sweeping-brush, a kitchen cleaver, and a hollow turnip lying at his feet! Unable to understand this curious
    transformation, he clutched the placard with feverish haste, and there, in the grey morning light, he read these fearful
-   words:---
+   words: - 
 
    #+BEGIN_QUOTE
    YE OTIS GHOSTE.
@@ -672,7 +672,7 @@
    them to London with you, and to regard them simply as a portion of your property which has been restored to you under
    certain strange conditions. As for my daughter, she is merely a child, and has as yet, I am glad to say, but little
    interest in such appurtenances of idle luxury. I am also informed by Mrs. Otis, who, I may say, is no mean authority
-   upon Art---having had the privilege of spending several winters in Boston when she was a girl---that these gems are of
+   upon Art - having had the privilege of spending several winters in Boston when she was a girl - that these gems are of
    great monetary worth, and if offered for sale would fetch a tall price. Under these circumstances, Lord Canterville, I
    feel sure that you will recognise how impossible it would be for me to allow them to remain in the possession of any
    member of my family; and, indeed, all such vain gauds and toys, however suitable or necessary to the dignity of the

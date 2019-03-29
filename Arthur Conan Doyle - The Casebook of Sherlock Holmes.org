@@ -5,7 +5,7 @@
    *Source:* Wikisource
 
    *About Doyle:*
-   Sir Arthur Ignatius Conan Doyle, DL (22 May 1859 -- 7 July 1930) was a Scottish author most noted for his stories about
+   Sir Arthur Ignatius Conan Doyle, DL (22 May 1859 - 7 July 1930) was a Scottish author most noted for his stories about
    the detective Sherlock Holmes, which are generally considered a major innovation in the field of crime fiction, and the
    adventures of Professor Challenger. He was a prolific writer whose other works include science fiction stories,
    historical novels, plays and romances, poetry, and non-fiction. Conan was originally a given name, but Doyle used it as
@@ -26,7 +26,7 @@
     for a time find a place, while some more astute sleuth with some even less astute comrade may fill the stage which they
     have vacated.
 
-    His career has been a long one---though it is possible to exaggerate it; decrepit gentlemen who approach me and declare
+    His career has been a long one - though it is possible to exaggerate it; decrepit gentlemen who approach me and declare
     that his adventures formed the reading of their boyhood do not meet the response from me which they seem to expect. One
     is not anxious to have one's personal dates handled so unkindly. As a matter of cold fact, Holmes made his debut in A
     Study in Scarlet and in The Sign of Four, two small booklets which appeared between 1887 and 1889. It was in 1891 that
@@ -90,11 +90,11 @@
    Billy sank his voice, as one who discusses great secrets of State. "I don't mind telling you, sir, but it should go no
    farther. It's this case of the Crown diamond."
 
-   "What --- the hundred-thousand-pound burglary?"
+   "What  -  the hundred-thousand-pound burglary?"
 
    "Yes, sir. They must get it back, sir. Why, we had the Prime Minister and the Home Secretary both sitting on that very
    sofa. Mr. Holmes was very nice to them. He soon put them at their ease and promised he would do all he could. Then there
-   is Lord Cantlemere ---"
+   is Lord Cantlemere  - "
 
    "Ah!"
 
@@ -161,7 +161,7 @@
    "But this danger, Holmes?"
 
    "Ah. yes, in case it should come off, it would perhaps be as well that you should burden your memory with the name and
-   address of the murderer. You can give it to Scotland Yard, with my love and a parting blessing. Sylvius is the name ---
+   address of the murderer. You can give it to Scotland Yard, with my love and a parting blessing. Sylvius is the name  - 
    Count Negretto Sylvius. Write it down, man, write it down! 136 Moorside Gardens, N. W. Got it?"
 
    Watson's honest face was twitching with anxiety. He knew only too well the immense risks taken by Holmes and was well
@@ -181,7 +181,7 @@
 
    "Because I don't know where the diamond is."
 
-   "Ah! Billy told me --- the missing Crown jewel!"
+   "Ah! Billy told me  -  the missing Crown jewel!"
 
    "Yes, the great yellow Mazarin stone. I've cast my net and I have my fish. But I have not got the stone. What is the use
    of taking them? We can make the world a better place by laying them by the heels. But that is not what I am out for.
@@ -195,13 +195,13 @@
    "Where is this Count Sylvius?"
 
    "I've been at his very elbow all the morning. You've seen me as an old lady, Watson. I was never more convincing. He
-   actually picked up my parasol for me once. 'By your leave, madame,' said he --- half-ltalian, you know, and with the
+   actually picked up my parasol for me once. 'By your leave, madame,' said he  -  half-ltalian, you know, and with the
    Southern graces of manner when in the mood, but a devil incarnate in the other mood. Life is full of whimsical
    happenings, Watson."
 
    "It might have been tragedy."
 
-   "Well, perhaps it might. I followed him to old Straubenzee's workshop in the Minories. Straubenzee made the air-gun ---
+   "Well, perhaps it might. I followed him to old Straubenzee's workshop in the Minories. Straubenzee made the air-gun  - 
    a very pretty bit of work, as I understand, and I rather fancy it is in the opposite window at the present moment. Have
    you seen the dummy? Of course, Billy showed it to you. Well, it may get a bullet through its beautiful head at any
    moment. Ah, Billy, what is it?"
@@ -222,7 +222,7 @@
 
    "Yes, there is one rough fellow near the door."
 
-   "That will be Sam Merton --- the faithful but rather fatuous Sam. Where is this gentleman, Billy?"
+   "That will be Sam Merton  -  the faithful but rather fatuous Sam. Where is this gentleman, Billy?"
 
    "In the waiting-room, sir."
 
@@ -247,7 +247,7 @@
 
    "In his way?"
 
-   "No, my dear fellow --- in my way."
+   "No, my dear fellow  -  in my way."
 
    "Well, I can't possibly leave you."
 
@@ -320,12 +320,12 @@
    "Really, sir, you compliment me. Old Baron Dowson said the night before he was hanged that in my case what the law had
    gained the stage had lost. And now you give my little impersonations your kindly praise?"
 
-   "It was you --- you yourself?"
+   "It was you  -  you yourself?"
 
    Holmes shrugged his shoulders. "You can see in the corner the parasol which you so politely handed to me in the Minories
    before you began to suspect."
 
-   "If I had known, you might never ---"
+   "If I had known, you might never  - "
 
    "Have seen this humble home again. I was well aware of it. We all have neglected opportunities to deplore. As it
    happens, you did not know, so here we are!"
@@ -339,7 +339,7 @@
 
    "But why?"
 
-   "Why? The sport --- the excitement --- the danger!"
+   "Why? The sport  -  the excitement  -  the danger!"
 
    "And, no doubt, to free the country from a pest?"
 
@@ -394,7 +394,7 @@
 
    "Me!"
 
-   "Yes, sir, you! You are all here --- every action of yor vile and dangerous life."
+   "Yes, sir, you! You are all here  -  every action of yor vile and dangerous life."
 
    "Damn you, Holmes!" cried the Count with blazing eyes. "There are limits to my patience!"
 
@@ -434,14 +434,14 @@
    "You never shall know."
 
    "No? Now, be reasonable, Count. Consider the situation. You are going to be locked up for twenty years. So is Sam
-   Merton. What good are you going to get out of your diamond? None in the world. But if you hand it over --- well, I'll
+   Merton. What good are you going to get out of your diamond? None in the world. But if you hand it over  -  well, I'll
    compound a felony. We don't want you or Sam. We want the stone. Give that up, and so far as I am concerned you can go
    free so long as you behave yourself in the future. If you make another slip well, it will be the last. But this time my
    commission is to get the stone, not you."
 
    "But if I refuse?"
 
-   "Why, then --- alas! --- it must be you and not the stone."
+   "Why, then  -  alas!  -  it must be you and not the stone."
 
    Billy had appeared in answer to a ring.
 
@@ -582,7 +582,7 @@
    Count Sylvius cast a somewhat unflattering glance at his associate and disregarded the unwashed hand which was extended
    towards him.
 
-   "What --- d'ye think I'm going to snatch it off you? See here, mister, I'm getting a bit tired of your ways."
+   "What  -  d'ye think I'm going to snatch it off you? See here, mister, I'm getting a bit tired of your ways."
 
    "Well, well, no offence, Sam. We can't afford to quarrel. Come over to the window if you want to see the beauty
    properly. Now hold it to the light! Here!"
@@ -593,12 +593,12 @@
    hand, while his other pointed a revolver at the Count's head. The two villains staggered back in utter amazement. Before
    they had recovered Holmes had pressed the electric bell.
 
-   "No violence, gentlemen --- no violence, I beg of you! Consider the furniture! It must be very clear to you that your
+   "No violence, gentlemen  -  no violence, I beg of you! Consider the furniture! It must be very clear to you that your
    position is an impossible one. The police are waiting below."
 
    The Count's bewilderment overmastered his rage and fear.
 
-   "But how the deuce ---?" he gasped.
+   "But how the deuce  - ?" he gasped.
 
    "Your surprise is very natural. You are not aware that a second door from my bedroom leads behind that curtain. I
    fancied that you must have heard me when I displaced the figure, but luck was on my side. It gave me a chance of
@@ -645,7 +645,7 @@
    "I am quite comfortable, sir. I have no need to stay. I have simply looked in to know how your self-appointed task was
    progressing."
 
-   "It is difficult --- very difficult."
+   "It is difficult  -  very difficult."
 
    "I feared that you would find it so."
 
@@ -666,7 +666,7 @@
 
    "When you have caught them."
 
-   "Exactly. But the question is --- how shall we proceed against the receiver?"
+   "Exactly. But the question is  -  how shall we proceed against the receiver?"
 
    "Is this not rather premature?"
 
@@ -701,21 +701,21 @@
 
    "What do you mean, sir?"
 
-   "Come --- come, do what I ask."
+   "Come  -  come, do what I ask."
 
    An instant later the amazed peer was standing, blinking and stammering, with the great yellow stone on his shaking palm.
 
    "What! What! How is this, Mr. Holmes?"
 
    "Too bad, Lord Cantlemere, too bad!" cried Holmes. "My old friend here will tell you that I have an impish habit of
-   practical joking. Also that I can never resist a dramatic situation. I took the liberty --- the very great liberty, I
-   admit --- of putting the stone into your pocket at the beginning of our interview."
+   practical joking. Also that I can never resist a dramatic situation. I took the liberty  -  the very great liberty, I
+   admit  -  of putting the stone into your pocket at the beginning of our interview."
 
    The old peer stared from the stone to the smiling face before him.
 
-   "Sir, I am bewildered. But --- yes --- it is indeed the Mazarin stone. We are greatly your debtors, Mr. Holmes. Your
+   "Sir, I am bewildered. But  -  yes  -  it is indeed the Mazarin stone. We are greatly your debtors, Mr. Holmes. Your
    sense of humour may, as you admit, be somewhat perverted, and its exhibition remarkably untimely, but at least I
-   withdraw any reflection I have made upon your amazing professional powers. But how ---"
+   withdraw any reflection I have made upon your amazing professional powers. But how  - "
 
    "The case is but half finished; the details can wait. No doubt, Lord Cantlemere, your pleasure in telling of this
    successful result in the exalted circle to which you return will be some small atonement for my practical joke. Billy,
@@ -798,8 +798,8 @@
    DEAR MR. SHERLOCK HOLMES:
 
    I can't see the best woman God ever made go to her death without doing all that is possible to save her. I can't explain
-   things --- I can't even try to explain them, but I know beyond all doubt that Miss Dunbar is innocent. You know the
-   facts --- who doesn't? It has been the gossip of the country. And never a voice raised for her! It's the damned
+   things  -  I can't even try to explain them, but I know beyond all doubt that Miss Dunbar is innocent. You know the
+   facts  -  who doesn't? It has been the gossip of the country. And never a voice raised for her! It's the damned
    injustice of it all that makes me crazy. That woman has a heart that wouldn't let her kill a fly. Well, I'll come at
    eleven to-morrow and see if you can get some ray of light in the dark. Maybe I have a clue and don't know it. Anyhow,
    all I know and all I have and all I am are for your use if only you can save her. If ever in your life you showed your
@@ -818,7 +818,7 @@
    scene is a grand old manor house, the centre of a historical English state. Then as to the tragedy. The wife was found
    in the grounds nearly half a mile from the house, late at night, clad in her dinner dress, with a shawl over her
    shoulders and a revolver bullet through her brain. No weapon was found near her and there was no local clue as to the
-   murder. No weapon near her, Watson --- mark that! The crime seems to have been committed late in the evening, and the
+   murder. No weapon near her, Watson  -  mark that! The crime seems to have been committed late in the evening, and the
    body was found by a gamekeeper about eleven o'clock, when it was examined by the police and by a doctor before being
    carried up to the house. Is this too condensed, or can you follow it clearly?"
 
@@ -826,34 +826,34 @@
 
    "Well, in the first place there is some very direct evidence. A revolver with one discharged chamber and a calibre which
    corresponded with the bullet was found on the floor of her wardrobe." His eyes fixed and he repeated in broken words,
-   "On --- the --- floor --- of --- her --- wardrobe." Then he sank into silence, and I saw that some train of thought had
+   "On  -  the  -  floor  -  of  -  her  -  wardrobe." Then he sank into silence, and I saw that some train of thought had
    been set moving which I should be foolish to interrupt. Suddenly with a start he emerged into brisk life once more.
    "Yes, Watson, it was found. Pretty damning, eh? So the two juries thought. Then the dead woman had a note upon her
    making an appointment at that very place and signed by the governess. How's that? Finally there is the motive. Senator
    Gibson is an attractive person. If his wife dies, who more likely to succeed her than the young lady who had already by
    all accounts received pressing attentions from her employer? Love, fortune, power, all depending upon one middleaged
-   life. Ugly, Watson --- very ugly!"
+   life. Ugly, Watson  -  very ugly!"
 
    "Yes, indeed, Holmes."
 
-   "Nor could she prove an alibi. On the contrary, she had to admit that she was down near Thor Bridge --- that was the
-   scene of the tragedy --- about that hour. She couldn't deny it, for some passing villager had seen her there."
+   "Nor could she prove an alibi. On the contrary, she had to admit that she was down near Thor Bridge  -  that was the
+   scene of the tragedy  -  about that hour. She couldn't deny it, for some passing villager had seen her there."
 
    "That really seems final."
 
-   "And yet, Watson --- and yet! This bridge --- a single broad span of stone with balustraded sides --- carries the drive
+   "And yet, Watson  -  and yet! This bridge  -  a single broad span of stone with balustraded sides  -  carries the drive
    over the narrowest part of a long, deep, reed-girt sheet of water. Thor Mere it is called. In the mouth of the bridge
    lay the dead woman. Such are the main facts. But here, if I mistake not, is our client, considerably before his time."
 
    Billy had opened the door, but the name which he announced was an unexpected one. Mr. Marlow Bates was a stranger to
-   both of us. He was a thin, nervous wisp of a man with frightened eyes and a twitching, hesitating manner --- a man whom
+   both of us. He was a thin, nervous wisp of a man with frightened eyes and a twitching, hesitating manner  -  a man whom
    my own professional eye would judge to be on the brink of an absolute nervous breakdown.
 
    "You seem agitated, Mr. Bates," said Holmes. "Pray sit down. I fear I can only give you a short time, for I have an
    appointment at eleven."
 
    "I know you have," our visitor gasped, shooting out short sentences like a man who is out of breath. "Mr. Gibson is
-   coming. Mr. Gibson is my employer. I am manager of his estate. Mr. Holmes, he is a villain --- an infernal villain."
+   coming. Mr. Gibson is my employer. I am manager of his estate. Mr. Holmes, he is a villain  -  an infernal villain."
 
    "Strong language, Mr. Bates."
 
@@ -865,13 +865,13 @@
 
    "I have given him notice. In a couple of weeks I shall have shaken off his accursed slavery. A hard man, Mr. Holmes,
    hard to all about him. Those public charities are a screen to cover his private iniquities. But his wife was his chief
-   victim. He was brutal to her --- yes, sir, brutal! How she came by her death I do not know, but I am sure that he had
+   victim. He was brutal to her  -  yes, sir, brutal! How she came by her death I do not know, but I am sure that he had
    made her life a misery to her. She was a creature of the tropics, a Brazilian by birth, as no doubt you know."
 
    "No, it had escaped me."
 
    "Tropical by birth and tropical by nature. A child of the sun and of passion. She had loved him as such women can love,
-   but when her own physical charms had faded --- I am told that they once were great --- there was nothing to hold him. We
+   but when her own physical charms had faded  -  I am told that they once were great  -  there was nothing to hold him. We
    all liked her and felt for her and hated him for the way that he treated her. But he is plausible and cunning. That is
    all I have to say to you. Don't take him at his face value. There is more behind. Now I'll go. No, no, don't detain me!
    He is almost due."
@@ -916,7 +916,7 @@
 
    The Gold King gave a violent start and half rose from his chair. Then his massive calm came back to him.
 
-   "I suppose you are within your rights --- and maybe doing your duty --- in asking such a question, Mr. Holmes."
+   "I suppose you are within your rights  -  and maybe doing your duty  -  in asking such a question, Mr. Holmes."
 
    "We will agree to suppose so," said Holmes.
 
@@ -967,7 +967,7 @@
 
    "Well, Holmes, I must confess that when I consider that this is a man who would certainly brush any obstacle from his
    path, and when I remember that his wife may have been an obstacle and an object of dislike, as that man Bates plainly
-   told us, it seems to me ---"
+   told us, it seems to me  - "
 
    "Exactly. And to me also."
 
@@ -1000,7 +1000,7 @@
    facts of his case."
 
    "That may be so, but you will admit, Mr. Holmes, that most men would shy off a bit when they are asked point-blank what
-   their relations with a woman may be --- if there is really some serious feeling in the case. I guess most men have a
+   their relations with a woman may be  -  if there is really some serious feeling in the case. I guess most men have a
    little private reserve of their own in some corner of their souls where they don't welcome intruders. And you burst
    suddenly into it. But the object excuses you, since it was to try and save her. Well, the stakes are down and the
    reserve open, and you can explore where you will. What is it you want?"
@@ -1016,7 +1016,7 @@
    but even now, as I look back with colder blood and a more critical eye, I can see that she was rare and wonderful in her
    beauty. It was a deep rich nature, too, passionate, whole-hearted, tropical, ill-balanced, very different from the
    American women whom I had known. Well, to make a long story short, I loved her and I married her. It was only when the
-   romance had passed --- and it lingered for years --- that I realized that we had nothing --- absolutely nothing --- in
+   romance had passed  -  and it lingered for years  -  that I realized that we had nothing  -  absolutely nothing  -  in
    common. My love faded. If hers had faded also it might have been easier. But you know the wonderful way of women! Do
    what I might, nothing could turn her from me. If I have been harsh to her, even brutal as some have said, it has been
    because I knew that if I could kill her love, or if it turned to hate, it would be easier for both of us. But nothing
@@ -1060,20 +1060,20 @@
    "Why did she not?"
 
    "Well, in the first place, others were dependent upon her, and it was no light matter for her to let them all down by
-   sacrificing her living. When I had sworn --- as I did --- that she should never be molested again, she consented to
+   sacrificing her living. When I had sworn  -  as I did  -  that she should never be molested again, she consented to
    remain. But there was another reason. She knew the influence she had over me, and that it was stronger than any other
    influence in the world. She wanted to use it for good."
 
    "How?"
 
-   "Well, she knew something of my affairs. They are large, Mr. Holmes --- large beyond the belief of an ordinary man. I
-   can make or break --- and it is usually break. It wasn't individuals only. It was communities, cities, even nations.
+   "Well, she knew something of my affairs. They are large, Mr. Holmes  -  large beyond the belief of an ordinary man. I
+   can make or break  -  and it is usually break. It wasn't individuals only. It was communities, cities, even nations.
    Business is a hard game, and the weak go to the wall. I played the game for all it was worth. I never squealed myself,
    and I never cared if the other fellow squealed. But she saw it different. I guess she was right. She believed and said
    that a fortune for one man that was more than he needed should not be built on ten thousand ruined men who were left
    without the means of life. That was how she saw it, and I guess she could see past the dollars to something that was
    more lasting. She found that I listened to what she said, and she believed she was serving the world by influencing my
-   actions. So she stayed --- and then this came along."
+   actions. So she stayed  -  and then this came along."
 
    "Can you throw any light upon that?"
 
@@ -1083,10 +1083,10 @@
    a man. At first I was so rattled and taken aback that I was ready to think she had been led away in some extraordinary
    fashion that was clean against her usual nature. One explanation came into my head. I give it to you, Mr. Holmes, for
    what it is worth. There is no doubt that my wife was bitterly jealous. There is a soul-jealousy that can be as frantic
-   as any body-jealousy, and though my wife had no cause --- and I think she understood this --- for the latter, she was
+   as any body-jealousy, and though my wife had no cause  -  and I think she understood this  -  for the latter, she was
    aware that this English girl exerted an influence upon my mind and my acts that she herself never had. It was an
    influence for good, but that did not mend the matter. She was crazy with hatred and the heat of the Amazon was always in
-   her blood. She might have planned to murder Miss Dunbar --- or we will say to threaten her with a gun and so frighten
+   her blood. She might have planned to murder Miss Dunbar  -  or we will say to threaten her with a gun and so frighten
    her into leaving us. Then there might have been a scuffle and the gun gone off and shot the woman who held it."
 
    "That possibility had already occurred to me," said Holmes. "Indeed, it is the only obvious alternative to deliberate
@@ -1094,7 +1094,7 @@
 
    "But she utterly denies it."
 
-   "Well, that is not final --- is it? One can understand that a woman placed in so awful a position might hurry home still
+   "Well, that is not final  -  is it? One can understand that a woman placed in so awful a position might hurry home still
    in her bewilderment holding the revolver. She might even throw it down among her clothes, hardly knowing what she was
    doing, and when it was found she might try to lie her way out by a total denial, since all explanation was impossible.
    What is against such a supposition?"
@@ -1136,7 +1136,7 @@
 
    "One of a pair? Where is the other?"
 
-   "Well, the gentleman has a lot of firearms of one sort and another. We never quite matched that particular pistol ---
+   "Well, the gentleman has a lot of firearms of one sort and another. We never quite matched that particular pistol  - 
    but the box was made for two."
 
    "If it was one of a pair you should surely be able to match it."
@@ -1207,7 +1207,7 @@
 
    Holmes shook his head.
 
-   "Granting that the letter is genuine and was really written, it was certainly received some time before --- say one hour
+   "Granting that the letter is genuine and was really written, it was certainly received some time before  -  say one hour
    or two. Why, then, was this lady still clasping it in her left hand? Why should she carry it so carefully? She did not
    need to refer to it in the interview. Does it not seem remarkable?"
 
@@ -1248,7 +1248,7 @@
 
    "Did you ever witness physical violence towards her?"
 
-   "No, I cannot say that. But I have heard words which were nearly as bad --- words of cold, cutting contempt, even before
+   "No, I cannot say that. But I have heard words which were nearly as bad  -  words of cold, cutting contempt, even before
    the servants."
 
    "Our millionaire does not seem to shine in private life," remarked Holmes as we made our way to the station. "Well,
@@ -1299,7 +1299,7 @@
    the company of Mr. Joyce Cummings, the rising barrister who was entrusted with the defence, we were allowed to see the
    young lady in her cell. I had expected from all that we had heard to see a beautiful woman, but I can never forget the
    effect which Miss Dunbar produced upon me. It was no wonder that even the masterful millionaire had found in her
-   something more powerful than himself --- something which could control and guide him. One felt, too, as one looked at
+   something more powerful than himself  -  something which could control and guide him. One felt, too, as one looked at
    the strong, clear-cut, and yet sensitive face, that even should she be capable of some impetuous deed, none the less
    there was an innate nobility of character which would make her influence always for the good. She was a brunette, tall,
    with a noble figure and commanding presence, but her dark eyes had in them the appealing, helpless expression of the
@@ -1337,7 +1337,7 @@
    "Now, Miss Dunbar," said Holmes, "I beg you to tell us exactly what occurred that evening."
 
    "I can tell you the truth so far as I know it, Mr. Holmes, but I am in a position to prove nothing, and there are points
-   --- the most vital points --- which I can neither explain nor can I imagine any explanation."
+    -  the most vital points  -  which I can neither explain nor can I imagine any explanation."
 
    "If you will find the facts, perhaps others may find the explanation."
 
@@ -1356,10 +1356,10 @@
    "Well, what happened then?"
 
    "I went down as I had promised. When I reached the bridge she was waiting for me. Never did I realize till that moment
-   how this poor creature hated me. She was like a mad woman --- indeed, I think she was a mad woman, subtly mad with the
+   how this poor creature hated me. She was like a mad woman  -  indeed, I think she was a mad woman, subtly mad with the
    deep power of deception which insane people may have. How else could she have met me with unconcern every day and yet
    had so raging a hatred of me in her heart? I will not say what she said. She poured her whole wild fury out in burning
-   and horrible words. I did not even answer --- I could not. It was dreadful to see her. I put my hands to my ears and
+   and horrible words. I did not even answer  -  I could not. It was dreadful to see her. I put my hands to my ears and
    rushed away. When I left her she was standing, still shrieking out her curses at me, in the mouth of the bridge."
 
    "Where she was afterwards found?"
@@ -1420,7 +1420,7 @@
 
    "I can think of none."
 
-   "There was some sign of violence on the stonework of the bridge --- a perfectly fresh chip just opposite the body. Could
+   "There was some sign of violence on the stonework of the bridge  -  a perfectly fresh chip just opposite the body. Could
    you suggest any possible explanation of that?"
 
    "Surely it must be a mere coincidence."
@@ -1445,7 +1445,7 @@
    It was not a long journey from Winchester to Thor Place, but it was long to me in my impatience, while for Holmes it was
    evident that it seemed endless; for, in his nervous restlessness he could not sit still, but paced the carriage or
    drummed with his long, sensitive fingers upon the cushions beside him. Suddenly, however, as we neared our destination
-   he seated himself opposite to me --- we had a first-class carriage to ourselves --- and laying a hand upon each of my
+   he seated himself opposite to me  -  we had a first-class carriage to ourselves  -  and laying a hand upon each of my
    knees he looked into my eyes with the peculiarly mischievous gaze which was charactenstic of his more imp-like moods.
 
    "Watson," said he, "I have some recollection that you go armed upon these excursions of ours."
@@ -1458,7 +1458,7 @@
    I produced it from my hip-pocket, a short, handy, but very serviceable little weapon. He undid the catch, shook out the
    cartridges, and examined it with care.
 
-   "It's heavy --- remarkably heavy," said he.
+   "It's heavy  -  remarkably heavy," said he.
 
    "Yes, it is a solid bit of work."
 
@@ -1495,7 +1495,7 @@
    "Yes," he said in answer to my remark, "you have seen me miss my mark before, Watson. I have an instinct for such
    things, and yet it has sometimes played me false. It seemed a certainty when first it flashed across my mind in the cell
    at Winchester, but one drawback of an active mind is that one can always conceive alternative explanations which would
-   make our scent a false one. And yet --- and yet --- Well, Watson, we can but try."
+   make our scent a false one. And yet  -  and yet  -  Well, Watson, we can but try."
 
    As he walked he had firmly tied one end of the string to the handle of the revolver. We had now reached the scene of the
    tragedy. With great care he marked out under the guidance of the policeman the exact spot where the body had been
@@ -1542,7 +1542,7 @@
    should be discovered she somewhat overdid it by holding it in her hand to the last. This alone should have excited my
    suspicions earlier than it did.
 
-   "Then she took one of her husband's revolvers --- there was, as you saw, an arsenal in the house --- and kept it for her
+   "Then she took one of her husband's revolvers  -  there was, as you saw, an arsenal in the house  -  and kept it for her
    own use. A similar one she concealed that morning in Miss Dunbar's wardrobe after discharging one barrel, which she
    could easily do in the woods without attracting attention. She then went down to the bridge where she had contrived this
    exceedingly ingenious method for getting rid of her weapon. When Miss Dunbar appeared she used her last breath in
@@ -1565,7 +1565,7 @@
 
    It was one Sunday evening early in September of the year 1903 that I received one of Holmes's laconic messages:
 
-   Come at once if convenient --- if inconvenient come all the
+   Come at once if convenient  -  if inconvenient come all the
 
    same. S. H.
 
@@ -1573,8 +1573,8 @@
    I had become one of them. As an institution I was like the violin, the shag tobacco, the old black pipe, the index
    books, and others perhaps less excusable. When it was a case of active work and a comrade was needed upon whose nerve he
    could place some reliance, my role was obvious. But apart from this I had uses. I was a whetstone for his mind. I
-   stimulated him. He liked to think aloud in my presence. His remarks could hardly be said to be made to me --- many of
-   them would have been as appropriately addressed to his bedstead --- but none the less, having formed the habit, it had
+   stimulated him. He liked to think aloud in my presence. His remarks could hardly be said to be made to me  -  many of
+   them would have been as appropriately addressed to his bedstead  -  but none the less, having formed the habit, it had
    become in some way helpful that I should register and interject. If I irritated him by a certain methodical slowness in
    my mentality, that irritation served only to make his own flame-like intuitions and impressions flash up the more
    vividly and swiftly. Such was my humble role in our alliance.
@@ -1589,7 +1589,7 @@
    within the last twenty-four hours, and they in turn have given rise to some speculations of a more general character. I
    have serious thoughts of writing a small monograph upon the uses of dogs in the work of the detective."
 
-   "But surely, Holmes, this has been explored," said I. "Bloodhounds --- sleuth-hounds ---"
+   "But surely, Holmes, this has been explored," said I. "Bloodhounds  -  sleuth-hounds  - "
 
    "No, no, Watson, that side of the matter is, of course, obvious. But there is another which is far more subtle. You may
    recollect that in the case which you, in your sensational way, coupled with the Copper Beeches, I was able, by watching
@@ -1613,14 +1613,14 @@
    my work? Holmes glanced across at me.
 
    "The same old Watson!" said he. "You never learn that the gravest issues may depend upon the smallest things. But is it
-   not on the face of it strange that a staid, elderly philosopher --- you've heard of Presbury, of course, the famous
+   not on the face of it strange that a staid, elderly philosopher  -  you've heard of Presbury, of course, the famous
    Camford physiologist? -that such a man, whose friend has been his devoted wolfhound, should now have been twice attacked
    by his own dog? What do you make of it?"
 
    "The dog is ill."
 
    "Well, that has to be considered. But he attacks no one else, nor does he apparently molest his master, save on very
-   special occasions. Curious, Watson --- very curious. But young Mr. Bennett is before his time if that is his ring. I had
+   special occasions. Curious, Watson  -  very curious. But young Mr. Bennett is before his time if that is his ring. I had
    hoped to have a longer chat with you before he came."
 
    There was a quick step on the stairs, a sharp tap at the door and a moment later the new client presented himself. He
@@ -1677,7 +1677,7 @@
    had darkened his higher qualities. His intellect was not affected. His lectures were as brilliant as ever. But always
    there was something new, something sinister and unexpected. His daughter, who was devoted to him, tried again and again
    to resume the old relations and to penetrate this mask which her father seemed to have put on. You, sir, as I
-   understand, did the same --- but all was in vain. And now, Mr. Bennett, tell in your own words the incident of the
+   understand, did the same  -  but all was in vain. And now, Mr. Bennett, tell in your own words the incident of the
    letters."
 
    "You must understand, Dr. Watson, that the professor had no secrets from me. If I were his son or his younger brother I
@@ -1704,7 +1704,7 @@
    felt that it was my duty to study his case. Thus I have it here that it was on that very day, July 2d, that Roy attacked
    the professor as he came from his study into the hall. Again, on July 11th, there was a scene of the same sort, and then
    I have a note of yet another upon July 20th. After that we had to banish Roy to the stables. He was a dear, affectionate
-   animal --- but I fear I weary you."
+   animal  -  but I fear I weary you."
 
    Mr. Bennett spoke in a tone of reproach, for it was very clear that Holmes was not listening. His face was rigid and his
    eyes gazed abstractedly at the ceiling. With an effort he recovered himself.
@@ -1715,13 +1715,13 @@
    The pleasant, open face of our visitor clouded over, shadowed by some grim remembrance. "What I speak of occurred the
    night before last," said he. "I was lying awake about two in the morning, when I was aware of a dull muffled sound
    coming from the passage. I opened my door and peeped out. I should explain that the professor sleeps at the end of the
-   passage ---"
+   passage  - "
 
    "The date being?" asked Holmes.
 
    Our visitor was clearly annoyed at so irrelevant an interruption.
 
-   "I have said, sir, that it was the night before last --- that is, September 4th."
+   "I have said, sir, that it was the night before last  -  that is, September 4th."
 
    Holmes nodded and smiled.
 
@@ -1731,7 +1731,7 @@
    terrifying experience, Mr. Holmes. I think that I am as strong-nerved as my neighbours, but I was shaken by what I saw.
    The passage was dark save that one window halfway along it threw a patch of light. I could see that something was coming
    along the passage, something dark and crouching. Then suddenly it emerged into the light, and I saw that it was he. He
-   was crawling, Mr. Holmes --- crawling! He was not quite on his hands and knees. I should rather say on his hands and
+   was crawling, Mr. Holmes  -  crawling! He was not quite on his hands and knees. I should rather say on his hands and
    feet, with his face sunk between his hands. Yet he seemed to move with ease. I was so paralyzed by the sight that it was
    not until he had reached my door that I was able to step forward and ask if I could assist him. His answer was
    extraordinary. He sprang up, spat out some atrocious word at me, and hurried on past me, and down the staircase. I
@@ -1747,18 +1747,18 @@
 
    "He was never better in health," said Bennett. "In fact, he is stronger than I have known him for years. But there are
    the facts, Mr. Holmes. It is not a case in which we can consult the police, and yet we are utterly at our wit's end as
-   to what to do, and we feel in some strange way that we are drifting towards disaster. Edith --- Miss Presbury --- feels
+   to what to do, and we feel in some strange way that we are drifting towards disaster. Edith  -  Miss Presbury  -  feels
    as I do, that we cannot wait passively any longer."
 
    "It is certainly a very curious and suggestive case. What do you think, Watson?"
 
    "Speaking as a medical man," said I, "it appears to be a case for an alienist. The old gentleman's cerebral processes
    were disturbed by the love affair. He made a journey abroad in the hope of breaking himself of the passion. His letters
-   and the box may be connected with some other private transaction --- a loan, perhaps, or share cenificates, which are in
+   and the box may be connected with some other private transaction  -  a loan, perhaps, or share cenificates, which are in
    the box."
 
    "And the wolfhound no doubt disapproved of the financial bargain. No, no, Watson, there is more in it than this. Now, I
-   can only suggest ---"
+   can only suggest  - "
 
    What Sherlock Holmes was about to suggest will never be known, for at this moment the door opened and a young lady was
    shown into the room. As she appeared Mr. Bennett sprang up with a cry and ran forward with his hands out to meet those
@@ -1789,13 +1789,13 @@
    "Tell me what happened."
 
    "I was awakened in the night by the dog barking most furiously. Poor Roy, he is chained now near the stable. I may say
-   that I always sleep with my door locked; for, as Jack --- as Mr. Bennett --- will tell you, we all have a feeling of
+   that I always sleep with my door locked; for, as Jack  -  as Mr. Bennett  -  will tell you, we all have a feeling of
    impending danger. My room is on the second floor. It happened that the blind was up in my window, and there was bright
    moonlight outside. As I lay with my eyes fixed upon the square of light, listening to the frenzied barkings of the dog,
    I was amazed to see my father's face looking in at me. Mr. Holmes, I nearly died of surprise and horror. There it was
    pressed against the windowpane, and one hand seemed to be raised as if to push up the window. If that window had opened,
    I think I should have gone mad. It was no delusion, Mr. Holmes. Don't deceive yourself by thinking so. I dare say it was
-   twenty seconds or so that I lay paralyzed and watched the face. Then it vanished, but I could not --- I could not spring
+   twenty seconds or so that I lay paralyzed and watched the face. Then it vanished, but I could not  -  I could not spring
    out of bed and look out after it. I lay cold and shivering till morning. At breakfast he was sharp and fierce in manner,
    and made no allusion to the adventure of the night. Neither did I, but I gave an excuse for coming to town -and here I
    am."
@@ -1804,7 +1804,7 @@
 
    "My dear young lady, you say that your room is on the second floor. Is there a long ladder in the garden?"
 
-   "No, Mr. Holmes, that is the amazing part of it. There is no possible way of reaching the window --- and yet he was
+   "No, Mr. Holmes, that is the amazing part of it. There is no possible way of reaching the window  -  and yet he was
    there."
 
    "The date being September 5th," said Holmes. "That certainly complicates matters."
@@ -1812,24 +1812,24 @@
    It was the young lady's turn to look surprised. "This is the second time that you have alluded to the date, Mr. Holmes,"
    said Bennett. "Is it possible that it has any bearing upon the case?"
 
-   "It is possible --- very possible --- and yet I have not my full material at present."
+   "It is possible  -  very possible  -  and yet I have not my full material at present."
 
    "Possibly you are thinking of the connection between insanity and phases of the moon?"
 
    "No, I assure you. It was quite a different line of thought. Possibly you can leave your notebook with me, and I will
-   check the dates. Now I think, Watson, that our line of action is perfectly clear. This young lady has informed us ---
-   and I have the greatest confidence in her intuition --- that her father remembers little or nothing which occurs upon
+   check the dates. Now I think, Watson, that our line of action is perfectly clear. This young lady has informed us  - 
+   and I have the greatest confidence in her intuition  -  that her father remembers little or nothing which occurs upon
    certain dates. We will therefore call upon him as if he had given us an appointment upon such a date. He will put it
    down to his own lack of memory. Thus we will open our campaign by having a good close view of him."
 
    "That is excellent," said Mr. Bennett. "I warn you, however, that the professor is irascible and violent at times."
 
-   Holmes smiled. "There are reasons why we should come at once --- very cogent reasons if my theories hold good.
+   Holmes smiled. "There are reasons why we should come at once  -  very cogent reasons if my theories hold good.
    To-morrow, Mr. Bennett, will certainly see us in Camford. There is, if I remember right, an inn called the Chequers
    where the port used to be above mediocrity and the linen was above reproach. I think, Watson, that our lot for the next
    few days might lie in less pleasant places."
 
-   Monday morning found us on our way to the famous university town --- an easy effort on the part of Holmes, who had no
+   Monday morning found us on our way to the famous university town  -  an easy effort on the part of Holmes, who had no
    roots to pull up, but one which involved frantic planning and hurrying on my part, as my practice was by this time not
    inconsiderable. Holmes made no allusion to the case until after we had deposited our suitcases at the ancient hostel of
    which he had spoken.
@@ -1847,7 +1847,7 @@
 
    "We can but try."
 
-   "Excellent, Watson! Compound of the Busy Bee and Excelsior. We can but try --- the motto of the firm. A friendly native
+   "Excellent, Watson! Compound of the Busy Bee and Excelsior. We can but try  -  the motto of the firm. A friendly native
    will surely guide us."
 
    Such a one on the back of a smart hansom swept us past a row of ancient colleges and, finally turning into a tree-lined
@@ -1895,8 +1895,8 @@
 
    "No, sir," Bennett answered with a flush.
 
-   "That is conclusive," said the professor, glaring angrily at my companion. "Now, sir" --- he leaned forward with his two
-   hands upon the table ---" it seems to me that your position is a very questionable one."
+   "That is conclusive," said the professor, glaring angrily at my companion. "Now, sir"  -  he leaned forward with his two
+   hands upon the table  - " it seems to me that your position is a very questionable one."
 
    Holmes shrugged his shoulders.
 
@@ -1910,7 +1910,7 @@
    "My dear Professor," he cried, "consider your position! Consider the scandal at the university! Mr. Holmes is a
    wellknown man. You cannot possibly treat him with such discourtesy."
 
-   Sulkily our host --- if I may call him so --- cleared the path to the door. We were glad to find ourselves outside the
+   Sulkily our host  -  if I may call him so  -  cleared the path to the door. We were glad to find ourselves outside the
    house and in the quiet of the tree-lined drive. Holmes seemed greatly amused by the episode.
 
    "Our learned friend's nerves are somewhat out of order," said he. "Perhaps our intrusion was a little crude, and yet we
@@ -1947,7 +1947,7 @@
 
    Holmes glanced at the paper and put it into his pocket.
 
-   "Dorak --- a curious name. Slavonic, I imagine. Well, it is an important link in the chain. We return to London this
+   "Dorak  -  a curious name. Slavonic, I imagine. Well, it is an important link in the chain. We return to London this
    afternoon, Mr. Bennett. I see no good purpose to be served by our remaining. We cannot arrest the professor because he
    has done no crime, nor can we place him under constraint, for he cannot be proved to be mad. No action is as yet
    possible."
@@ -2015,7 +2015,7 @@
    with him. Without exactly accusing him of being responsible for our presence, the professor had been very rough and rude
    in his speech, and evidently felt some strong grievance. This morning he was quite himself again, however, and had
    delivered his usual brilliant lecture to a crowded class. "Apart from his queer fits," said Bennett, "he has actually
-   more energy and vitality than I can ever remember, nor was his brain ever clearer. But it's not he --- it's never the
+   more energy and vitality than I can ever remember, nor was his brain ever clearer. But it's not he  -  it's never the
    man whom we have known."
 
    "I don't think you have anything to fear now for a week at least," Holmes answered. "I am a busy man, and Dr. Watson has
@@ -2047,7 +2047,7 @@
 
    "Over the stables."
 
-   "We might possibly want him. Well, we can do no more until we see how things develop, Good-bye --- but I expect that we
+   "We might possibly want him. Well, we can do no more until we see how things develop, Good-bye  -  but I expect that we
    shall see you before morning."
 
    It was nearly midnight before we took our station among some bushes immediately opposite the hall door of the professor.
@@ -2066,7 +2066,7 @@
    I had to confess that I did not.
 
    "Thick and horny in a way which is quite new in my experience. Always look at the hands first, Watson. Then cuffs,
-   trouserknees, and boots. Very curious knuckles which can only be explained by the mode of progression observed by ---"
+   trouserknees, and boots. Very curious knuckles which can only be explained by the mode of progression observed by  - "
    Holmes paused and suddenly clapped his hand to his forehead. "Oh, Watson, Watson, what a fool I have been! It seems
    incredible, and yet it must be true. All points in one direction. How could I miss seeing the connection of ideas? Those
    knuckles how could I have passed those knuckles? And the dog! And the ivy! It's surely time that I disappeared into that
@@ -2122,7 +2122,7 @@
    recurrence now that we have a free hand. The key from the watch-chain, Mr. Bennett. Macphail will guard the patient and
    let us know if there is any change. Let us see what we can find in the professor's mysterious box."
 
-   There was not much, but there was enough --- an empty phial, another nearly full, a hypodermic syringe, several letters
+   There was not much, but there was enough  -  an empty phial, another nearly full, a hypodermic syringe, several letters
    in a crabbed, foreign hand. The marks on the envelopes showed that they were those which had disturbed the routine of
    the secretary, and each was dated from the Commercial Road and signed "A. Dorak." They were mere invoices to say that a
    fresh bottle was being sent to Professor Presbury, or receipt to acknowledge money. There was one other envelope,
@@ -2175,7 +2175,7 @@
    liable to fall below it. The highest type of man may revert to the animal if he leaves the straight road of destiny." He
    sat musing for a little with the phial in his hand, looking at the clear liquid within. "When I have written to this man
    and told him that I hold him criminally responsible for the poisons which he circulates, we will have no more trouble.
-   But it may recur. Others may find a better way. There is danger there --- a very real danger to humanity. Consider,
+   But it may recur. Others may find a better way. There is danger there  -  a very real danger to humanity. Consider,
    Watson, that the material, the sensual, the worldly would all prolong their worthless lives. The spiritual would not
    avoid the call to something higher. It would be the survival of the least fit. What sort of cesspool may not our poor
    world become?" Suddenly the dreamer disappeared, and Holmes, the man of action, sprang from his chair. "I think there is
@@ -2265,7 +2265,7 @@
    "Not very far, eh? And Cheeseman's?"
 
    "I know that country, Holmes. It is full of old houses which are named after the men who built them centuries ago. You
-   get Odley's and Harvey's and Carriton's --- the folk are forgotten but their names live in their houses."
+   get Odley's and Harvey's and Carriton's  -  the folk are forgotten but their names live in their houses."
 
    "Precisely," said Holmes coldly. It was one of the peculiarities of his proud, self-contained nature that though he
    docketed any fresh information very quietly and accurately in his brain, he seldom made any acknowledgment to the giver.
@@ -2306,7 +2306,7 @@
 
    understand. This was the more painful as she was as loving
 
-   a wife as a man could have --- to all appearance absolutely
+   a wife as a man could have  -  to all appearance absolutely
 
    devoted.
 
@@ -2414,7 +2414,7 @@
 
    horror, he turned his wife's face to the light and saw blood
 
-   all round her lips. It was she --- she beyond all question ---
+   all round her lips. It was she  -  she beyond all question  - 
 
    who had drunk the poor baby's blood.
 
@@ -2426,7 +2426,7 @@
 
    the name. We had thought it was some wild tale of foreign
 
-   parts. And yet here in the very heart of the English Sussex ---
+   parts. And yet here in the very heart of the English Sussex  - 
 
    well, all this can be discussed with you in the morning. Will
 
@@ -2483,7 +2483,7 @@
    soul, she loves me. She was cut to the heart that I should have discovered this horrible, this incredible, secret. She
    would not even speak. She gave no answer to my reproaches, save to gaze at me with a sort of wild, despairing look in
    her eyes. Then she rushed to her room and locked herself in. Since then she has refused to see me. She has a maid who
-   was with her before her marriage, Dolores by name --- a friend rather than a servant. She takes her food to her."
+   was with her before her marriage, Dolores by name  -  a friend rather than a servant. She takes her food to her."
 
    "Then the child is in no immediate danger?"
 
@@ -2540,9 +2540,9 @@
 
    "Well, that is not unknown among stepmothers. A posthumous jealousy, we will say. Is the lady jealous by nature?"
 
-   "Yes, she is very jealous --- jealous with all the strength of her fiery tropical love."
+   "Yes, she is very jealous  -  jealous with all the strength of her fiery tropical love."
 
-   "But the boy --- he is fifteen, I understand, and probably very developed in mind, since his body has been circumscribed
+   "But the boy  -  he is fifteen, I understand, and probably very developed in mind, since his body has been circumscribed
    in action. Did he give you no explanation of these assaults?"
 
    "No, he declared there was no reason."
@@ -2609,7 +2609,7 @@
    "The dog. What's the matter with it?"
 
    "That's what puzzled the vet. A sort of paralysis. Spinal meningitis, he thought. But it is passing. He'll be all right
-   soon --- won't you, Carlo?"
+   soon  -  won't you, Carlo?"
 
    A shiver of assent passed through the drooping tail. The dog's mournful eyes passed from one of us to the other. He knew
    that we were discussing his case.
@@ -2629,7 +2629,7 @@
    "A confirmation of what I had already thought."
 
    "For God's sake, what do you think, Mr. Holmes? It may be a mere intellectual puzzle to you, but it is life and death to
-   me! My wife a would-be murderer --- my child in constant danger! Don't play with me, Mr. Holmes. It is too terribly
+   me! My wife a would-be murderer  -  my child in constant danger! Don't play with me, Mr. Holmes. It is too terribly
    serious."
 
    The big Rugby three-quarter was trembling all over. Holmes put his hand soothingly upon his arm.
@@ -2692,7 +2692,7 @@
    Again she turned on me those glorious eyes.
 
    "He loves me. Yes. But do I not love him? Do I not love him even to sacrifice myself rather than break his dear heart?
-   That is how I love him. And yet he could think of me --- he could speak of me so."
+   That is how I love him. And yet he could think of me  -  he could speak of me so."
 
    "He is full of grief, but he cannot understand."
 
@@ -2920,7 +2920,7 @@
 
    "Why?"
 
-   "Ah, that's a long story --- rather a whimsical one, too. I don't think in all our explorations of human complexities we
+   "Ah, that's a long story  -  rather a whimsical one, too. I don't think in all our explorations of human complexities we
    have ever come upon anything more singular. The fellow will be here presently for cross-examination, so I won't open the
    matter up till he comes. But, meanwhile, that's the name we want."
 
@@ -2964,7 +2964,7 @@
    Mr. Garrideb forced a laugh. "I've read of your tricks, Mr. Holmes, but I never thought I would be the subject of them.
    Where do you read that?"
 
-   "The shoulder cut of your coat, the toes of your boots --- could anyone doubt it?"
+   "The shoulder cut of your coat, the toes of your boots  -  could anyone doubt it?"
 
    "Well, well, I had no idea I was so obvious a Britisher. But business brought me over here some time ago, and so, as you
    say, my outfit is nearly all London. However, I guess your time is of value, and we did not meet to talk about the cut
@@ -2981,7 +2981,7 @@
    detective! I saw him this morning, and he told me this fool-trick he had played me, and that's why I am here. But I feel
    bad about it, all the same."
 
-   "There was no reflection upon you, Mr. Garrideb. It was simply zeal upon his part to gain your end --- an end which is,
+   "There was no reflection upon you, Mr. Garrideb. It was simply zeal upon his part to gain your end  -  an end which is,
    I understand, equally vital for both of you. He knew that I had means of getting information, and, therefore, it was
    very natural that he should apply to me."
 
@@ -3006,7 +3006,7 @@
    counties, lying along the Arkansas River, west of Fort Dodge. It's grazing-land and lumber-land and arable-land and
    mineralized-land, and just every sort of land that brings dollars to the man that owns it.
 
-   "He had no kith nor kin --- or, if he had, I never heard of it. But he took a kind of pride in the queerness of his
+   "He had no kith nor kin  -  or, if he had, I never heard of it. But he took a kind of pride in the queerness of his
    name. That was what brought us together. I was in the law at Topeka, and one day I had a visit from the old man, and he
    was tickled to death to meet another man with his own name. It was his pet fad, and he was dead set to find out if there
    were any more Garridebs in the world. 'Find me another!' said he. I told him I was a busy man and could not spend my
@@ -3032,7 +3032,7 @@
    "I have done that, Mr. Holmes. No replies."
 
    "Dear me! Well, it is certainly a most curious little problem. I may take a glance at it in my leisure. By the way, it
-   is curious that you should have come from Topeka. I used to have a correspondent --- he is dead now --- old Dr. Lysander
+   is curious that you should have come from Topeka. I used to have a correspondent  -  he is dead now  -  old Dr. Lysander
    Starr, who was mayor in 1890."
 
    "Good old Dr. Starr!" said our visitor. "His name is still honoured. Well, Mr. Holmes, I suppose all we can do is to
@@ -3043,14 +3043,14 @@
 
    "Well?" I asked at last.
 
-   "I am wondering, Watson --- just wondering!"
+   "I am wondering, Watson  -  just wondering!"
 
    "At what?"
 
    Holmes took his pipe from his lips.
 
    "I was wondering, Watson, what on earth could be the object of this man in telling us such a rigmarole of lies. I nearly
-   asked him so --- for there are times when a brutal frontal attack is the best policy --- but I judged it better to let
+   asked him so  -  for there are times when a brutal frontal attack is the best policy  -  but I judged it better to let
    him think he had fooled us. Here is a man with an English coat frayed at the elbow and trousers bagged at the knee with
    a year's wear, and yet by this document and by his own account he is a provincial American lately landed in London.
    There have been no advertisements in the agony columns. You know that I miss nothing there. They are my favourite covert
@@ -3099,9 +3099,9 @@
    "Cro-Magnon" printed beneath them. It was clear that he was a student of many subjects. As he stood in front of us now,
    he held a piece of chamois leather in his right hand with which he was polishing a coin.
 
-   "Syracusan --- of the best period," he explained, holding it up. "They degenerated greatly towards the end. At their
+   "Syracusan  -  of the best period," he explained, holding it up. "They degenerated greatly towards the end. At their
    best I hold them supreme, though some prefer the Alexandrian school. You will find a chair here, Mr. Holmes. Pray allow
-   me to clear these bones. And you, sir --- ah, yes, Dr. Watson --- if you would have the goodness to put the Japanese
+   me to clear these bones. And you, sir  -  ah, yes, Dr. Watson  -  if you would have the goodness to put the Japanese
    vase to one side. You see round me my little interests in life. My doctor lectures me about never going out, but why
    should I go out when I have so much to hold me here? I can assure you that the adequate cataloguing of one of those
    cabinets would take me three good months."
@@ -3111,7 +3111,7 @@
    "But do you tell me that you never go out?" he said.
 
    "Now and again I drive down to Sotheby's or Christie's. Otherwise I very seldom leave my room. I am not too strong, and
-   my researches are very absorbing. But you can imagine, Mr. Holmes, what a terrific shock --- pleasant but terrific ---
+   my researches are very absorbing. But you can imagine, Mr. Holmes, what a terrific shock  -  pleasant but terrific  - 
    it was for me when I heard of this unparalleled good fortune. It only needs one more Garrideb to complete the matter,
    and surely we can find one. I had a brother, but he is dead, and female relatives are disqualified. But there must
    surely be others in the world. I had heard that you handled strange cases, and that was why I sent to you. Of course,
@@ -3280,7 +3280,7 @@
 
    "Well, there are alternative explanations. Anyhow, he wanted to get this good old fossil up to Birmingham. That is very
    clear. I might have told him that he was clearly going on a wild-goose chase, but, on second thoughts, it seemed better
-   to clear the stage by letting him go. To-morrow, Watson --- well, to-morrow will speak for itself."
+   to clear the stage by letting him go. To-morrow, Watson  -  well, to-morrow will speak for itself."
 
    Holmes was up and out early. When he returned at lunchtime I noticed that his face was very grave.
 
@@ -3306,7 +3306,7 @@
    Road in January, 1895. Man died, but he was shown to have been the aggressor in the row. Dead man was identified as
    Rodger Prescott, famous as forger and coiner in Chicago. Killer Evans released in 1901. Has been under police
    supervision since, but so far as known has led an honest life. Very dangerous man, usually carries arms and is prepared
-   to use them. That is our bird, Watson --- a sporting bird, as you must admit."
+   to use them. That is our bird, Watson  -  a sporting bird, as you must admit."
 
    "But what is his game?"
 
@@ -3334,7 +3334,7 @@
    cupboard in a dark corner which stood out a little from the wall. It was behind this that we eventually crouched while
    Holmes in a whisper outlined his intentions.
 
-   "He wanted to get our amiable friend out of his room --- that is very clear, and, as the collector never went out, it
+   "He wanted to get our amiable friend out of his room  -  that is very clear, and, as the collector never went out, it
    took some planning to do it. The whole of this Garrideb invention was apparently for no other end. I must say, Watson,
    that there is a certain devilish ingenuity about it, even if the queer name of the tenant did give him an opening which
    he could hardly have expected. He wove his plot with remarkable cunning.
@@ -3342,9 +3342,9 @@
    "But what did he want?"
 
    "Well, that is what we are here to find out. It has nothing whatever to do with our client, so far as I can read the
-   situation. It is something connected with the man he murdered --- the man who may have been his confederate in crime.
+   situation. It is something connected with the man he murdered  -  the man who may have been his confederate in crime.
    There is some guilty secret in the room. That is how I read it. At first I thought our friend might have something in
-   his collection more valuable than he knew --- something worth the attention of a big criminal. But the fact that Rodger
+   his collection more valuable than he knew  -  something worth the attention of a big criminal. But the fact that Rodger
    Prescott of evil memory inhabited these rooms points to some deeper reason. Well, Watson, we can but possess our souls
    in patience and see what the hour may bring."
 
@@ -3363,7 +3363,7 @@
 
    "Well, well!" said he coolly as he scrambled to the surface. "I guess you have been one too many for me, Mr. Holmes. Saw
    through my game, I suppose, and played me for a sucker from the first. Well, sir, I hand it to you; you have me beat and
-   ---"
+    - "
 
    In an instant he had whisked out a revolver from his breast and had fired two shots. I felt a sudden hot sear as if a
    red-hot iron had been pressed to my thigh. There was a crash as Holmes's pistol came down on the man's head. I had a
@@ -3372,7 +3372,7 @@
 
    "You're not hurt, Watson? For God's sake, say that you are not hurt!"
 
-   It was worth a wound --- it was worth many wounds --- to know the depth of loyalty and love which lay behind that cold
+   It was worth a wound  -  it was worth many wounds  -  to know the depth of loyalty and love which lay behind that cold
    mask. The clear, hard eyes were dimmed for a moment, and the firm lips were shaking. For the one and only time I caught
    a glimpse of a great heart as well as of a great brain. All my years of humble but single-minded service culminated in
    that moment of revelation.
@@ -3390,7 +3390,7 @@
    taken down with him. Our eyes fell upon a mass of rusted machinery, great rolls of paper, a litter of bottles, and,
    neatly arranged upon a small table, a number of neat little bundles.
 
-   "A printing press --- a counterfeiter's outfit," said Holmes.
+   "A printing press  -  a counterfeiter's outfit," said Holmes.
 
    "Yes, sir," said our prisoner, staggering slowly to his feet and then sinking into the chair. "The greatest
    counterfeiter London ever saw. That's Prescott's machine, and those bundles on the table are two thousand of Prescott's
@@ -3401,7 +3401,7 @@
    "We don't do things like that, Mr. Evans. There is no bolthole for you in this country. You shot this man Prescott, did
    you not?"
 
-   "Yes, sir, and got five years for it, though it was he who pulled on me. Five years --- when I should have had a medal
+   "Yes, sir, and got five years for it, though it was he who pulled on me. Five years  -  when I should have had a medal
    the size of a soup plate. No living man could tell a Prescott from a Bank of England, and if I hadn't put him out he
    would have flooded London with them. I was the only one in the world who knew where he made them. Can you wonder that I
    wanted to get to the place? And can you wonder that when I found this crazy boob of a bug-hunter with the queer name
@@ -3462,7 +3462,7 @@
 
    "I shall be honoured."
 
-   "Then you have the hour --- 4:30. Until then we can put the matter out of our heads."
+   "Then you have the hour  -  4:30. Until then we can put the matter out of our heads."
 
    I was living in my own rooms in Queen Anne Street at the time, but I was round at Baker Street before the time named.
    Sharp to the half-hour, Colonel Sir James Damery was announced. It is hardly necessary to describe him, for many will
@@ -3528,7 +3528,7 @@
 
    "Baron Gruner has some hold over her, then?"
 
-   "The strongest of all holds where a woman is concerned --- the hold of love. The fellow is, as you may have heard,
+   "The strongest of all holds where a woman is concerned  -  the hold of love. The fellow is, as you may have heard,
    extraordinarily handsome, with a most fascinating manner. a gentle voice and that air of romance and mystery which means
    so much to a woman. He is said to have the whole sex at his mercy and to have made ample use of the fact."
 
@@ -3622,7 +3622,7 @@
    purpose?"
 
    "Who knows, Watson? Woman's heart and mind are insoluble puzzles to the male. Murder might be condoned or explained, and
-   yet some smaller offence might rankle. Baron Gruner remarked to me ---"
+   yet some smaller offence might rankle. Baron Gruner remarked to me  - "
 
    "He remarked to you!"
 
@@ -3633,7 +3633,7 @@
    "Did he recognize you?"
 
    "There was no difficulty about that, for I simply sent in my card. He is an excellent antagonist, cool as ice, silky
-   voiced and soothing as one of your fashionable consultants, and poisonous as a cobra. He has breeding in him --- a real
+   voiced and soothing as one of your fashionable consultants, and poisonous as a cobra. He has breeding in him  -  a real
    aristocrat of crime with a superficial suggestion of afternoon tea and all the cruelty of the grave behind it. Yes, I am
    glad to have had my attention called to Baron Adelbert Gruner."
 
@@ -3668,11 +3668,11 @@
 
    " 'So I know. Iet me make the thing clear to you, for my own hand is so strong that I can afford to show it. I have been
    fortunate enough to win the entire affection of this lady. This was given to me in spite of the fact that I told her
-   very clearly of all the unhappy incidents in my past life. I also told her that certain wicked and designing persons ---
-   I hope you recognize yourself --- would come to her and tell her these things. and I warned her how to treat them. You
+   very clearly of all the unhappy incidents in my past life. I also told her that certain wicked and designing persons  - 
+   I hope you recognize yourself  -  would come to her and tell her these things. and I warned her how to treat them. You
    have heard of post-hypnotic suggestion. Mr. Holmes ' Well you will see how it works for a man of personality can use
    hypnotism without any vulgar passes or tomfoolery. So she is ready for you and, I have no doubt, would give you an
-   appointment, for she is quite amenable to her father's will --- save only in the one little matter.'
+   appointment, for she is quite amenable to her father's will  -  save only in the one little matter.'
 
    "Well, Watson, there seemed to be no more to say, so I took my leave with as much cold dignity as I could summon, but,
    as I had my hand on the door-handle, he stopped me.
@@ -3707,7 +3707,7 @@
    intense face, youthful, and yet so worn with s v½? in and sorrow that one read the terrible years which had left their
    leprous mark upon her.
 
-   "This is Miss Kitty Winter," said Shinwell Johnson, waving his fat hand as an introduction. "What she don't know ---
+   "This is Miss Kitty Winter," said Shinwell Johnson, waving his fat hand as an introduction. "What she don't know  - 
    well, there, she'll speak for herself. Put my hand right on her, Mr. Holmes, within an hour of your message."
 
    "I'm easy to find," said the young woman. "Hell, London, gets me every time. Same address for Porky Shinwell. We're old
@@ -3743,7 +3743,7 @@
 
    "Well, can you help us do so?"
 
-   "Ain't I a proof myself? If I stood before her and told her how he used me ---"
+   "Ain't I a proof myself? If I stood before her and told her how he used me  - "
 
    "Would you do this?"
 
@@ -3756,7 +3756,7 @@
    such a fuss. He would speak of someone in his velvet way and then look at me with a steady eye and say: 'He died within
    a month.' It wasn't hot air, either. But I took little notice -you see, I loved him myself at that time. Whatever he did
    went with me, same as with this poor fool! There was just one thing that shook me. Yes, by cripes! if it had not been
-   for his poisonous, lying tongue that explains and soothes. I'd have left him that very night. It's a book he has --- a
+   for his poisonous, lying tongue that explains and soothes. I'd have left him that very night. It's a book he has  -  a
    brown leather book with a lock, and his arms in gold on the outside. I think he was a bit drunk that night, or he would
    not have shown it to me."
 
@@ -3764,7 +3764,7 @@
 
    "I tell you. Mr. Holmes. this man collects women, and takes a pride in his collection. as some men collect moths or
    butterflies. He had it all in that book. Snapshot photographs. names, details, everything about them. It was a beastly
-   book --- a book no man, even if he had come from the gutter, could have put together. But it was Adelbert Gruner's book
+   book  -  a book no man, even if he had come from the gutter, could have put together. But it was Adelbert Gruner's book
    all the same. 'Souls I have ruined.' He could have put that on the outside if he had been so minded. However, that's
    neither here nor there, for the book would not serve you, and, if it would, you can't get it."
 
@@ -3777,23 +3777,23 @@
    "I've been in the study," said Holmes.
 
    "Have you. though? You haven't been slow on the job if you only started this morning. Maybe dear Adelbert has met his
-   match this time. The outer study is the one with the Chinese crockery in it --- big glass cupboard between the windows.
-   Then behind his desk is the door that leads to the inner study --- a small room where he keeps papers and things."
+   match this time. The outer study is the one with the Chinese crockery in it  -  big glass cupboard between the windows.
+   Then behind his desk is the door that leads to the inner study  -  a small room where he keeps papers and things."
 
    "Is he not afraid of burglars?"
 
    "Adelbert is no coward. His worst enemy couldn't say that of him. He can look after himself. There's a burglar alarm at
-   night. Besides, what is there for a burglar --- unless they got away with all this fancy crockery?"
+   night. Besides, what is there for a burglar  -  unless they got away with all this fancy crockery?"
 
    "No good," said Shinwell Johnson with the decided voice of the expert. "No fence wants stuff of that sort that you can
    neither melt nor sell."
 
    "Quite so," said Holmes. "Well, now, Miss Winter. if you would call here tomorrow evening at five. I would consider in
    the meanwhile whether your suggestion of seeing this lady personally may not be arranged. I am exceedingly obliged to
-   you lor vour cooperation. I need not say that my clients will consider liberally ---"
+   you lor vour cooperation. I need not say that my clients will consider liberally  - "
 
    "None of that, Mr. Holmes," cried the young woman. "I am not out for money. Let me see this man in the mud, and I've got
-   all I've worked for --- in the mud with my foot on his cursed face. That's my price. I'm with you tomorrow or any other
+   all I've worked for  -  in the mud with my foot on his cursed face. That's my price. I'm with you tomorrow or any other
    day so long as you are on his track. Porky here can tell you always where to find me."
 
    I did not see Holmes again until the following evening when we dined once more at our Strand restaurant. He shrugged his
@@ -3803,7 +3803,7 @@
    "There was no difficulty at all about the appointment," said Holmes, "for the girl glories in showing abject filial
    obedience in all secondary things in an attempt to atone for her flagrant breach of it in her engagement. The General
    phoned that all was ready, and the fiery Miss W. turned up according to schedule, so that at half-past five a cab
-   deposited us outside 104 Berkeley Square, where the old soldier resides --- one of those awful gray London castles which
+   deposited us outside 104 Berkeley Square, where the old soldier resides  -  one of those awful gray London castles which
    would make a church seem frivolous. A footman showed us into a great yellow-curtained drawing-room, and there was the
    lady awaiting us, demure, pale, self-contained, as inflexible and remote as a snow image on a mountain.
 
@@ -3813,7 +3813,7 @@
    laid his vile paws upon such a being of the beyond I cannot imagine. You may have noticed how extremes call to each
    other, the spiritual to the animal, the cave-man to the angel. You never saw a worse case than this.
 
-   "She knew what we had come for, of course --- that villain had lost no time in poisoning her mind against us. Miss
+   "She knew what we had come for, of course  -  that villain had lost no time in poisoning her mind against us. Miss
    Winter's advent rather amazed her, I think, but she waved us into our respective chairs like a reverend abbess receiving
    two rather leprous mendicants. If your head is inclined to swell. my dear Watson, take a course of Miss Violet de
    Merville.
@@ -3825,7 +3825,7 @@
    "I was sorry for her, Watson. I thought of her for the moment as I would have thought of a daughter of my own. I am not
    often eloquent. I use my head, not my heart. But I really did plead with her with all the warmth of words that I could
    find in my nature. I pictured to her the awful position of the woman who only wakes to a man's character after she is
-   his wife --- a woman who has to submit to be caressed by bloody hands and lecherous lips. I spared her nothing --- the
+   his wife  -  a woman who has to submit to be caressed by bloody hands and lecherous lips. I spared her nothing  -  the
    shame, the fear, the agony, the hopelessness of it all. All my hot words could not bring one tinge of colour to those
    ivory cheeks or one gleam of emotion to those abstracted eyes. I thought of what the rascal had said about a
    post-hypnotic influence. One could really believe that she was living above the earth in some ecstatic dream. Yet there
@@ -3837,13 +3837,13 @@
    I learn that you are a paid agent who would have been equally willing to act for the Baron as against him. But in any
    case I wish you to understand once for all that I love him and that he loves me, and that the opinion of all the world
    is no more to me than the twitter of those birds outside the window. If his noble nature has ever for an instant fallen,
-   it may be that I have been specially sent to raise it to its true and lofty level. I am not clear' --- here she turned
-   eyes upon my companion --- 'who this young lady may be.'
+   it may be that I have been specially sent to raise it to its true and lofty level. I am not clear'  -  here she turned
+   eyes upon my companion  -  'who this young lady may be.'
 
    "I was about to answer when the girl broke in like a whirlwind. If ever you saw flame and ice face to face, it was those
    two women.
 
-   " 'I'll tell you who I am,' she cried, springing out of her chair, her mouth all twisted with passion --- 'I am his last
+   " 'I'll tell you who I am,' she cried, springing out of her chair, her mouth all twisted with passion  -  'I am his last
    mistress. I am one of a hundred that he has tempted and used and ruined and thrown into the refuse heap, as he will you
    also. Your refuse heap is more likely to be a grave, and maybe that's the best. I tell you, you foolish woman, if you
    marry this man he'll be the death of you. It may be a broken heart or it may be a broken neck, but he'll have you one
@@ -3868,7 +3868,7 @@
    I'll keep in touch with you, Watson, for it is more than likely that you will have your part to play, though it is just
    possible that the next move may lie with them rather than with us."
 
-   And it did. Their blow fell --- or his blow rather, for never could I believe that the lady was privy to it. I think I
+   And it did. Their blow fell  -  or his blow rather, for never could I believe that the lady was privy to it. I think I
    could show you the very paving-stone upon which I stood when my eyes fell upon the placard, and a pang of horror passed
    through my very soul. It was between the Grand Hotel and Charing Cross Station, where a one-legged news-vender displayed
    his evening papers. The date was just two days after the last conversation. There, black upon yellow, was the terrible
@@ -3931,7 +3931,7 @@
 
    "Good old Watson! No, we can do nothing there unless the police lay their hands on the men. But their get-away had been
    well prepared. We may be sure of that. Wait a little. I have my plans. The first thing is to exaggerate my injuries.
-   They'll come to you for news. Put it on thick, Watson. Lucky if I live the week out concussion delirium --- what you
+   They'll come to you for news. Put it on thick, Watson. Lucky if I live the week out concussion delirium  -  what you
    like! You can't overdo it."
 
    "But Sir Leslie Oakshott?"
@@ -3946,7 +3946,7 @@
 
    "I'll go now. Anything more?"
 
-   "Put my pipe on the table --- and the tobacco-slipper. Right! Come in each morning and we will plan our campaign."
+   "Put my pipe on the table  -  and the tobacco-slipper. Right! Come in each morning and we will plan our campaign."
 
    I arranged with Johnson that evening to take Miss Winter to a quiet suburb and see that she lay low until the danger was
    past.
@@ -4003,7 +4003,7 @@
    disclosed a delicate little saucer of the most beautiful deep-blue colour.
 
    "It needs careful handling, Watson. This is the real egg-shell pottery of the Ming dynasty. No finer piece ever passed
-   through Christie's. A complete set of this would be worth a king's ransom --- in fact, it is doubtful if there is a
+   through Christie's. A complete set of this would be worth a king's ransom  -  in fact, it is doubtful if there is a
    complete set outside the imperial palace of Peking. The sight of this would drive a real connoisseur wild."
 
    "What am I to do with it?"
@@ -4029,7 +4029,7 @@
 
    "But if he won't see me?"
 
-   "Oh, yes, he will see you. He has the collection mania in its most acute form --- and especially on this subject, on
+   "Oh, yes, he will see you. He has the collection mania in its most acute form  -  and especially on this subject, on
    which he is an acknowledged authority. Sit down, Watson, and I will dictate the letter. No answer needed. You will
    merely say that you are coming, and why."
 
@@ -4059,12 +4059,12 @@
    more than of middle size, but was built upon graceful and active lines. His face was swarthy, almost Oriental, with
    large, dark, languorous eyes which might easily hold an irresistible fascination for women. His hair and moustache were
    raven black, the latter short, pointed, and carefully waxed. His features were regular and pleasing, save only his
-   straight, thin-lipped mouth. If ever I saw a murderer's mouth it was there --- a cruel, hard gash in the face,
+   straight, thin-lipped mouth. If ever I saw a murderer's mouth it was there  -  a cruel, hard gash in the face,
    compressed, inexorable, and terrible. He was ill-advised to train his moustache away from it, for it was Nature's
    danger-signal, set as a warning to his victims. His voice was engaging and his manners perfect. In age I should have put
    him at little over thirty, though his record afterwards showed that he was forty-two.
 
-   "Very fine --- very fine indeed!" he said at last. "And you say you have a set of six to correspond. What puzzles me is
+   "Very fine  -  very fine indeed!" he said at last. "And you say you have a set of six to correspond. What puzzles me is
    that I should not have heard of such magnificent specimens. I only know of one in England to match this, and it is
    certainly not likely to be in the market. Would it be indiscreet if I were to ask you, Dr. Hill Barton, how you obtained
    this?"
@@ -4075,7 +4075,7 @@
 
    "Very mysterious," said he with a quick, suspicious flash of his dark eyes. "In dealing with objects of such value, one
    naturally wishes to know all about the transaction. That the piece is genuine is certain. I have no doubts at all about
-   that. But suppose --- I am bound to take every possibility into account --- that it should prove afterwards that you had
+   that. But suppose  -  I am bound to take every possibility into account  -  that it should prove afterwards that you had
    no right to sell?"
 
    "I would guarantee you against any claim of the son."
@@ -4108,7 +4108,7 @@
 
    "So I am."
 
-   "Might I ask you a few questions to test you? I am obliged to tell you, Doctor --- if you are indeed a doctor --- that
+   "Might I ask you a few questions to test you? I am obliged to tell you, Doctor  -  if you are indeed a doctor  -  that
    the incident becomes more and more suspicious. I would ask you what do you know of the Emperor Shomu and how do you
    associate him with the Shoso-in near Nara? Dear me, does that puzzle you? Tell me a little about the Nonhern Wei dynasty
    and its place in the history of ceramics."
@@ -4138,8 +4138,8 @@
    face drawn and white, stood Sherlock Holmes. The next instant he was through the gap, and I heard the crash of his body
    among the laurel bushes outside. With a howl of rage the master of the house rushed after him to the open window.
 
-   And then! It was done in an instant, and yet I clearly saw it. An arm --- a woman's arm --- shot out from among the
-   leaves. At the same instant the Baron uttered a horrible cry --- a yell which will always ring in my memory. He clapped
+   And then! It was done in an instant, and yet I clearly saw it. An arm  -  a woman's arm  -  shot out from among the
+   leaves. At the same instant the Baron uttered a horrible cry  -  a yell which will always ring in my memory. He clapped
    his two hands to his face and rushed round the room, beating his head horribly against the walls. Then he fell upon the
    carpet, rolling and writhing, while scream after scream resounded through the house.
 
@@ -4169,7 +4169,7 @@
    Holmes was seated in his familiar chair, looking very pale and exhausted. Apart from his injuries, even his iron nerves
    had been shocked by the events of the evening, and he listened with horror to my account of the Baron's transformation.
 
-   "The wages of sin, Watson --- the wages of sin!" said he. "Sooner or later it will always come. God knows, there was sin
+   "The wages of sin, Watson  -  the wages of sin!" said he. "Sooner or later it will always come. God knows, there was sin
    enough," he added, taking up a brown volume from the table. "Here is the book the woman talked of. If this will not
    break off the marriage, nothing ever could. But it will, Watson. It must. No self-respecting woman could stand it."
 
@@ -4195,14 +4195,14 @@
    Our courtly friend had appeared in answer to a previous summons. He listened with the deepest attention to Holmes's
    account of what had occurred.
 
-   "You have done wonders --- wonders!" he cried when he had heard the narrative. "But if these injuries are as terrible as
+   "You have done wonders  -  wonders!" he cried when he had heard the narrative. "But if these injuries are as terrible as
    Dr. Watson describes, then surely our purpose of thwarting the marriage is sufficiently gained without the use of this
    horrible book."
 
    Holmes shook his head.
 
    "Women of the De Merville type do not act like that. She would love him the more as a disfigured martyr. No, no. It is
-   his moral side, not his physical, which we have to destroy. That book will bring her back to earth --- and I know
+   his moral side, not his physical, which we have to destroy. That book will bring her back to earth  -  and I know
    nothing else that could. It is in his own writing. She cannot get past it."
 
    Sir James carried away both it and the precious saucer. As I was myself overdue, I went down with him into the street. A
@@ -4210,7 +4210,7 @@
    flung his overcoat half out of the window to cover the armorial bearings upon the panel, but I had seen them in the
    glare of our fanlight none the less. I gasped with surprise. Then I turned back and ascended the stair to Holmes's room.
 
-   "I have found out who our client is," I cried, bursting with my great news. "Why, Holmes, it is ---"
+   "I have found out who our client is," I cried, bursting with my great news. "Why, Holmes, it is  - "
 
    "It is a loyal friend and a chivalrous gentleman," said Holmes, holding up a restraining hand. "Let that now and forever
    be enough for us."
@@ -4259,7 +4259,7 @@
    It may have been the icy coolness of my friend, or it may have been the slight clatter which I made as I picked up the
    poker. In any case, our visitor's manner became less flamboyant.
 
-   "Well, I've given you fair warnin'," said he. "I've a friend that's interested out Harrow way --- you know what I'm
+   "Well, I've given you fair warnin'," said he. "I've a friend that's interested out Harrow way  -  you know what I'm
    meaning -and he don't intend to have no buttin' in by you. Got that? You ain't the law, and I ain't the law either, and
    if you come in I'll be on hand also. Don't you forget it."
 
@@ -4269,15 +4269,15 @@
    "That's my name, Masser Holmes, and you'll get put through it for sure if you give me any lip."
 
    "It is certainly the last thing you need," said Holmes, staring at our visitor's hideous mouth. "But it was the killing
-   of young Perkins outside the Holborn --- Bar What! you're not going?"
+   of young Perkins outside the Holborn  -  Bar What! you're not going?"
 
    The negro had sprung back, and his face was leaden. "I won't listen to no such talk," said he. "What have I to do with
    this 'ere Perkins, Masser Holmes? I was trainin' at the Bull Ring in Birmingham when this boy done gone get into
    trouble."
 
-   "Yes, you'll tell the magistrate about it, Steve," said Holmes. "I've been watching you and Barney Stockdale ---"
+   "Yes, you'll tell the magistrate about it, Steve," said Holmes. "I've been watching you and Barney Stockdale  - "
 
-   "So help me the Lord! Masser Holmes ---"
+   "So help me the Lord! Masser Holmes  - "
 
    "That's enough. Get out of it. I'll pick you up when I want you."
 
@@ -4352,11 +4352,11 @@
    "I am sorry. One could not connect death with such a man. I have never known anyone so vitally alive. He lived intensely
    -every fibre of him!"
 
-   "Too intensely, Mr. Holmes. That was the ruin of him. You remember him as he was --- debonair and splendid. You did not
+   "Too intensely, Mr. Holmes. That was the ruin of him. You remember him as he was  -  debonair and splendid. You did not
    see the moody, morose, brooding creature into which he developed. His heart was broken. In a single month I seemed to
    see my gallant boy turn into a worn-out cynical man."
 
-   "A love affair --- a woman?"
+   "A love affair  -  a woman?"
 
    "Or a fiend. Well, it was not to talk of my poor lad that I asked you to come, Mr. Holmes."
 
@@ -4374,7 +4374,7 @@
 
    "Yesterday the man arrived with the agreement all drawn out. Luckily I showed it to Mr. Sutro, my lawyer, who lives in
    Harrow. He said to me, 'This is a very strange document. Are you aware that if you sign it you could not legally take
-   anything out of the house --- not even your own private possessions?' When the man came again in the evening I pointed
+   anything out of the house  -  not even your own private possessions?' When the man came again in the evening I pointed
    this out, and I said that I meant only to sell the furniture.
 
    " 'No, no, everything,' said he.
@@ -4386,7 +4386,7 @@
    him.'
 
    " 'Then it must be nothing,' said I. And there the matter was left, but the whole thing seemed to me to be so unusual
-   that I thought ---"
+   that I thought  - "
 
    Here we had a very extraordinary interruption.
 
@@ -4436,7 +4436,7 @@
 
    "Someone that could lay down a thousand pounds for every ten you have in the world."
 
-   "So, a rich man? No; you smiled --- a rich woman. Now we have got so far, you may as well give the name and earn the
+   "So, a rich man? No; you smiled  -  a rich woman. Now we have got so far, you may as well give the name and earn the
    tenner."
 
    "I'll see you in hell first."
@@ -4448,7 +4448,7 @@
    "Good-bye, Susan. Paregoric is the stuff... . Now," he continued, turning suddenly from lively to severe when the door
    had closed behind the flushed and angry woman, "this gang means business. Look how close they play the game. Your letter
    to me had the 10 P.M. postmark. And yet Susan passes the word to Barney. Barney has time to go to his employer and get
-   instructions; he or she --- I incline to the latter from Susan's grin when she thought I had blundered --- forms a plan.
+   instructions; he or she  -  I incline to the latter from Susan's grin when she thought I had blundered  -  forms a plan.
    Black Steve is called in, and I am warned off by eleven o'clock next morning. That's quick work, you know."
 
    "But what do they want?"
@@ -4524,7 +4524,7 @@
 
    "They arrived last week."
 
-   "But you said --- why, surely this might be the missing link. How do we know that there is not something of value
+   "But you said  -  why, surely this might be the missing link. How do we know that there is not something of value
    there?"
 
    "There could not possibly be, Mr. Holmes. Poor Douglas had only his pay and a small annuity. What could he have of
@@ -4598,11 +4598,11 @@
    "I am sure the case is in very good hands," said Holmes. "Merely a common burglary, you say?"
 
    "Quite so. We know pretty well who the men are and where to find them. It is that gang of Barney Stockdale, with the big
-   nigger in it --- they've been seen about here."
+   nigger in it  -  they've been seen about here."
 
    "Excellent! What did they get?"
 
-   "Well, they don't seem to have got much. Mrs. Maberley was chloroformed and the house was --- Ah! here is the lady
+   "Well, they don't seem to have got much. Mrs. Maberley was chloroformed and the house was  -  Ah! here is the lady
    herself."
 
    Our friend of yesterday, looking very pale and ill, had entered the room, leaning upon a little maidservant.
@@ -4618,7 +4618,7 @@
 
    "It is all here," said the inspector, tapping a bulky notebook.
 
-   "Still, if the lady is not too exhausted ---"
+   "Still, if the lady is not too exhausted  - "
 
    "There is really so little to tell. I have no doubt that wicked Susan had planned an entrance for them. They must have
    known the house to an inch. I was conscious for a moment of the chloroform rag which was thrust over my mouth, but I
@@ -4640,7 +4640,7 @@
    "There was one sheet of paper which I may have torn from the man that I grasped. It was lying all crumpled on the floor.
    It is in my son's handwriting."
 
-   "Which means that it is not of much use," said the inspector. "Now if it had been in the burglar's ---"
+   "Which means that it is not of much use," said the inspector. "Now if it had been in the burglar's  - "
 
    "Exactly," said Holmes. "What rugged common sense! None the less, I should be curious to see it."
 
@@ -4682,7 +4682,7 @@
 
    sacrifice his very life, looking out at his agony and humilia-
 
-   tion. She smiled --- yes, by Heaven! she smiled, like the
+   tion. She smiled  -  yes, by Heaven! she smiled, like the
 
    heartless fiend she was, as he looked up at her. It was at
 
@@ -4705,7 +4705,7 @@
 
    "It has always been my dream, Mr. Holmes."
 
-   "Where would you like to go --- Cairo, Madeira, the Riviera?"
+   "Where would you like to go  -  Cairo, Madeira, the Riviera?"
 
    "Oh if I had the money I would go round the world."
 
@@ -4733,10 +4733,10 @@
    expected all. But she is the 'belle dame sans merci' of fiction. When her caprice is satisfied the matter is ended, and
    if the other party in the matter can't take her word for it she knows how to bring it home to him."
 
-   "Then that was his own story ---"
+   "Then that was his own story  - "
 
    "Ah! you are piecing it together now. I hear that she is about to marry the young Duke of Lomond, who might almost be
-   her son. His Grace's ma might overlook the age, but a big scandal would be a different matter, so it is imperative ---
+   her son. His Grace's ma might overlook the age, but a big scandal would be a different matter, so it is imperative  - 
    Ah! here we are."
 
    It was one of the finest corner-houses of the West End. A machine-like footman took up our cards and returned with word
@@ -4754,14 +4754,14 @@
 
    "I simply wrote: 'Shall it be the police, then?' I think that should pass us in."
 
-   It did --- with amazing celerity. A minute later we were in an Arabian Nights drawing-room, vast and wonderful, in a
+   It did  -  with amazing celerity. A minute later we were in an Arabian Nights drawing-room, vast and wonderful, in a
    half gloom, picked out with an occasional pink electric light. The lady had come, I felt, to that time of life when even
    the proudest beauty finds the half light more welcome. She rose from a settee as we entered: tall, queenly, a perfect
    figure, a lovely mask-like face, with two wonderful Spanish eyes which looked murder at us both.
 
-   "What is this intrusion --- and this insulting message?" she asked, holding up the slip of paper.
+   "What is this intrusion  -  and this insulting message?" she asked, holding up the slip of paper.
 
-   "I need not explain, madame. I have too much respect for your intelligence to do so --- though I confess that
+   "I need not explain, madame. I have too much respect for your intelligence to do so  -  though I confess that
    intelligence has been surprisingly at fault of late."
 
    "How so, sir?"
@@ -4794,7 +4794,7 @@
    or give you away."
 
    "No, no! I am not so simple. Since I have promised to be frank, I may say that no one, save Barney Stockdale and Susan,
-   his wife, have the least idea who their employer is. As to them, well, it is not the first ---" She smiled and nodded
+   his wife, have the least idea who their employer is. As to them, well, it is not the first  - " She smiled and nodded
    with a charming coquettish intimacy.
 
    "l see. You've tested them before."
@@ -4832,7 +4832,7 @@
    "The original sin was yours."
 
    "Yes, yes! I admit it. He was a dear boy, Douglas, but it so chanced that he could not fit into my plans. He wanted
-   marriage -marriage, Mr. Holmes --- with a penniless commoner. Nothing less would serve him. Then he became pertinacious.
+   marriage -marriage, Mr. Holmes  -  with a penniless commoner. Nothing less would serve him. Then he became pertinacious.
    Because I had given he seemed to think that I still must give, and to him only. It was intolerable. At last I had to
    make him realize it."
 
@@ -4846,7 +4846,7 @@
    "Well, he was within his rights."
 
    "It was as if the air of Italy had got into his blood and brought with it the old cruel Italian spirit. He wrote to me
-   and sent me a copy of his book that I might have the torture of anticipation. There were two copies, he said --- one for
+   and sent me a copy of his book that I might have the torture of anticipation. There were two copies, he said  -  one for
    me, one for his publisher."
 
    "How did you know the publisher's had not reached him?"
@@ -4856,7 +4856,7 @@
    must be among his effects, and these would be returned to his mother. I set the gang at work. One of them got into the
    house as servant. I wanted to do the thing honestly. I really and truly did. I was ready to buy the house and everything
    in it. I offered any price she cared to ask. I only tried the other way when everything else had failed. Now, Mr.
-   Holmes, granting that I was too hard on Douglas --- and, God knows, I am sorry for it! --- what else could I do with my
+   Holmes, granting that I was too hard on Douglas  -  and, God knows, I am sorry for it!  -  what else could I do with my
    whole future at stake?"
 
    Sherlock Holmes shrugged his shoulders.
@@ -4871,7 +4871,7 @@
    "Well, I should think so, indeed!"
 
    "Very good. I think you will sign me a check for that, and I will see that it comes to Mrs. Maberley. You owe her a
-   little change of air. Meantime, lady" --- he wagged a cautionary forefinger --- "have a care! Have a care! You can't
+   little change of air. Meantime, lady"  -  he wagged a cautionary forefinger  -  "have a care! Have a care! You can't
    play with edged tools forever without cutting those dainty hands."
 
 ** Chapter 8 The Adventure of the Blanched Soldier
@@ -4922,13 +4922,13 @@
    "I see no more than you, but I have trained myself to notice what I see. However, Mr. Dodd, it was not to discuss the
    science of observation that you called upon me this morning. What has been happening at Tuxbury Old Park?"
 
-   "Mr. Holmes ---!"
+   "Mr. Holmes  - !"
 
    "My dear sir, there is no mystery. Your letter came with that heading, and as you fixed this appointment in very
    pressing terms it was clear that something sudden and important had occurred."
 
    "Yes, indeed. But the letter was written in the afternoon, and a good deal has happened since then. If Colonel Emsworth
-   had not kicked me out ---"
+   had not kicked me out  - "
 
    "Kicked you out!"
 
@@ -4945,13 +4945,13 @@
    facts, and I hope to God that you will be able to tell me what they mean. I've been awake all night puzzling my brain,
    and the more I think the more incredible does it become.
 
-   "When I joined up in January, 1901 --- just two years ago --- young Godfrey Emsworth had joined the same squadron. He
-   was Colonel Emsworth's only son --- Emsworth the Crimean V. C. --- and he had the fighting blood in him, so it is no
-   wonder he volunteered. There was not a finer lad in the regiment. We formed a friendship --- the sort of friendship
-   which can only be made when one lives the same life and shares the same joys and sorrows. He was my mate --- and that
+   "When I joined up in January, 1901  -  just two years ago  -  young Godfrey Emsworth had joined the same squadron. He
+   was Colonel Emsworth's only son  -  Emsworth the Crimean V. C.  -  and he had the fighting blood in him, so it is no
+   wonder he volunteered. There was not a finer lad in the regiment. We formed a friendship  -  the sort of friendship
+   which can only be made when one lives the same life and shares the same joys and sorrows. He was my mate  -  and that
    means a good deal in the Army. We took the rough and the smooth together for a year of hard fighting. Then he was hit
    with a bullet from an elephant gun in the action near Diamond Hill outside-Pretoria. I got one letter from the hospital
-   at Cape Town and one from Southampton. Since then not a word --- not one word, Mr. Holmes, for six months and more, and
+   at Cape Town and one from Southampton. Since then not a word  -  not one word, Mr. Holmes, for six months and more, and
    he my closest pal.
 
    "Well, when the war was over, and we all got back, I wrote to his father and asked where Godfrey was. No answer. I
@@ -4972,18 +4972,18 @@
    "Well, what have you done?" I asked.
 
    "My first move was to get down to his home, Tuxbury Old Park, near Bedford, and to see for myself how the ground lay. I
-   wrote to the mother, therefore --- I had had quite enough of the curmudgeon of a father --- and I made a clean frontal
+   wrote to the mother, therefore  -  I had had quite enough of the curmudgeon of a father  -  and I made a clean frontal
    attack: Godfrey was my chum, I had a great deal of interest which I might tell her of our common experiences, I should
    be in the neighbourhood, would there be any objection, et cetera? In reply I had quite an amiable answer from her and an
    offer to put me up for the night. That was what took me down on Monday.
 
-   "Tuxbury Old Hall is inaccessible --- five miles from anywhere. There was no trap at the station, so I had to walk,
+   "Tuxbury Old Hall is inaccessible  -  five miles from anywhere. There was no trap at the station, so I had to walk,
    carrying my suitcase, and it was nearly dark before I arrived. It is a great wandering house, standing in a considerable
    park. I should judge it was of all sorts of ages and styles, starting on a half-timbered Elizabethan foundation and
    ending in a Victorian portico. Inside it was all panelling and tapestry and half-effaced old pictures, a house of
    shadows and mystery. There was a butler, old Ralph, who seemed about the same age as the house, and there was his wife,
    who might have been older. She had been Godfrey's nurse, and I had heard him speak of her as second only to his mother
-   in his affections, so I was drawn to her in spite of her queer appearance. The mother I liked also --- a gentle little
+   in his affections, so I was drawn to her in spite of her queer appearance. The mother I liked also  -  a gentle little
    white mouse of a woman. It was only the colonel himself whom I barred.
 
    "We had a bit of barney right away, and I should have walked back to the station if I had not felt that it might be
@@ -5057,7 +5057,7 @@
    "The old butler rubbed his skinny hands.
 
    " 'Yes, sir, yes, that is Master Godfrey all over. He was always courageous. There's not a tree in the park, sir, that
-   he has not climbed. Nothing would stop him. He was a fine boy --- and oh, sir, he was a fine man.'
+   he has not climbed. Nothing would stop him. He was a fine boy  -  and oh, sir, he was a fine man.'
 
    "I sprang to my feet.
 
@@ -5092,12 +5092,12 @@
 
    "He was outside the window, Mr. Holmes, with his face pressed against the glass. I have told you that I looked out at
    the night. When I did so I left the curtains partly open. His figure was framed in this gap. The window came down to the
-   ground and I could see the whole length of it, but it was his face which held my gaze. He was deadly pale --- never have
+   ground and I could see the whole length of it, but it was his face which held my gaze. He was deadly pale  -  never have
    I seen a man so white. I reckon ghosts may look like that; but his eyes met mine, and they were the eyes of a living
    man. He sprang back when he saw that I was looking at him, and he vanished into the darkness.
 
    "There was something shocking about the man, Mr. Holmes. It wasn't merely that ghastly face glimmering as white as
-   cheese in the darkness. It was more subtle than that --- something slinking, something furtive, something guilty ---
+   cheese in the darkness. It was more subtle than that  -  something slinking, something furtive, something guilty  - 
    something very unlike the frank, manly lad that I had known. It left a feeling of horror in my mind.
 
    "But when a man has been soldiering for a year or two with brother Boer as a playmate, he keeps his nerve and acts
@@ -5124,10 +5124,10 @@
    must explore the garden and see what I could find. There was no difficulty in the way, for the old people were busy in
    their own fashion and left me to my own devices.
 
-   "There were several small outhouses, but at the end of the garden there was a detached building of some size --- large
+   "There were several small outhouses, but at the end of the garden there was a detached building of some size  -  large
    enough for a gardener's or a gamekeeper's residence. Could this be the place whence the sound of that shutting door had
    come? I approached it in a careless fashion as though I were strolling aimlessly round the grounds. As I did so, a
-   small, brisk, bearded man in a black coat and bowler hat --- not at all the gardener type --- came out of the door. To
+   small, brisk, bearded man in a black coat and bowler hat  -  not at all the gardener type  -  came out of the door. To
    my surprise, he locked it after him and put the key in his pocket. Then he looked at me with some surprise on his face.
 
    " 'Are you a visitor here?' he asked.
@@ -5252,7 +5252,7 @@
 
    "But you say he was changed?"
 
-   "Only in colour. His face was --- how shall I describe it? --- it was of a fish-belly whiteness. It was bleached."
+   "Only in colour. His face was  -  how shall I describe it?  -  it was of a fish-belly whiteness. It was bleached."
 
    "Was it equally pale all over?"
 
@@ -5351,8 +5351,8 @@
 
    "Yes, I heard that but I never got particulars."
 
-   "Three of us got separated from the others. It was very broken country, you may remember. There was Simpson --- the
-   fellow we called Baldy Simpson --- and Anderson, and I. We were clearing brother Boer, but he lay low and got the three
+   "Three of us got separated from the others. It was very broken country, you may remember. There was Simpson  -  the
+   fellow we called Baldy Simpson  -  and Anderson, and I. We were clearing brother Boer, but he lay low and got the three
    of us. The other two were killed. I got an elephant bullet through my shoulder. I stuck on to my horse, however, and he
    galloped several miles before I fainted and rolled off the saddle.
 
@@ -5394,10 +5394,10 @@
    "So there you have my tragedy. I hoped against hope, but it was not until I had reached home that the terrible signs
    which you see upon my face told me that I had not escaped. What was I to do? I was in this lonely house. We had two
    servants whom we could utterly trust. There was a house where I could live. Under pledge of secrecy, Mr. Kent, who is a
-   surgeon, was prepared to stay with me. It seemed simple enough on those lines. The alternative was a dreadful one ---
+   surgeon, was prepared to stay with me. It seemed simple enough on those lines. The alternative was a dreadful one  - 
    segregation for life among strangers with never a hope of release. But absolute secrecy was necessary, or even in this
    quiet countryside there would have been an outcry, and I should have been dragged to my horrible doom. Even you, Jimmie
-   --- even you had to be kept in the dark. Why my father has relented I cannot imagine."
+    -  even you had to be kept in the dark. Why my father has relented I cannot imagine."
 
    Colonel Emsworth pointed to me.
 
@@ -5462,7 +5462,7 @@
    prevent rumours from getting about and subsequent interference by the authorities. A devoted medical man, if
    sufficiently paid, would easily be found to take charge of the sufferer. There would be no reason why the latter should
    not be allowed freedom after dark. Bleaching of the skin is a common result of the disease. The case was a strong one
-   --- so strong that I determined to act as if it were actually proved. When on arriving here I noticed that Ralph, who
+    -  so strong that I determined to act as if it were actually proved. When on arriving here I noticed that Ralph, who
    carries out the meals, had gloves which are impregnated with disinfectants, my last doubts were removed. A single word
    showed you, sir, that your secret was discovered, and if I wrote rather than said it, it was to prove to you that my
    discretion was to be trusted."
@@ -5480,7 +5480,7 @@
    possibly curable, and certainly noninfective. Yes, Mr. Holmes, the coincidence is a remarkable one. But is it
    coincidence? Are there not subtle forces at work of which we know little? Are we assured that the apprehension from
    which this young man has no doubt suffered terribly since his exposure to its contagion may not produce a physical
-   effect which simulates that which it fears? At any rate, I pledge my professional reputation --- But the lady has
+   effect which simulates that which it fears? At any rate, I pledge my professional reputation  -  But the lady has
    fainted! I think that Mr. Kent had better be with her until she recovers from this joyous shock."
 
 ** Chapter 9 The Adventure of the Lion's Mane
@@ -5528,7 +5528,7 @@
 
    At this moment we saw the man himself. His head showed above the edge of the cliff where the path ends. Then his whole
    figure appeared at the top, staggering like a drunken man. The next instant he threw up his hands and, with a terrible
-   cry, fell upon his face. Stackhurst and I rushed forward --- it may have been fifty yards --- and turned him on his
+   cry, fell upon his face. Stackhurst and I rushed forward  -  it may have been fifty yards  -  and turned him on his
    back. He was obviously dying. Those glazed sunken eyes and dreadful livid cheeks could mean nothing else. One glimmer of
    life came into his face for an instant, and he uttered two or three words with an eager air of warning. They were
    slurred and indistinct, but to my ear the last of them, which burst in a shriek from his lips, were "the Lion's Mane."
@@ -5578,10 +5578,10 @@
    canvas shoe, and also of his naked foot, could be seen. The latter fact proved that he had made all ready to bathe,
    though the towel indicated that he had not actually done so.
 
-   And here was the problem clearly defined --- as strange a one as had ever confronted me. The man had not been on the
+   And here was the problem clearly defined  -  as strange a one as had ever confronted me. The man had not been on the
    beach more than a quarter of an hour at the most. Stackhurst had followed him from The Gables, so there could be no
    doubt about that. He had gone to bathe and had stripped, as the naked footsteps showed. Then he had suddenly huddled on
-   his clothes again --- they were all dishevelled and unfastened --- and he had returned without bathing, or at any rate
+   his clothes again  -  they were all dishevelled and unfastened  -  and he had returned without bathing, or at any rate
    without drying himself. And the reason for his change of purpose had been that he had been scourged in some savage,
    inhuman fashion, tortured until he bit his lip through in his agony, and was left with only strength enough to crawl
    away and to die. Who had done this barbarous deed? There were, it is true, small grottos and caves in the base of the
@@ -5593,7 +5593,7 @@
 
    When I at last returned to the body I found that a little group of wondering folk had gathered round it. Stackhurst was,
    of course, still there, and Ian Murdoch had just arrived with Anderson, the village constable, a big, ginger-moustached
-   man of the slow, solid Sussex breed --- a breed which covers much good sense under a heavy, silent exterior. He listened
+   man of the slow, solid Sussex breed  -  a breed which covers much good sense under a heavy, silent exterior. He listened
    to everything, took note of all we said, and finally drew me aside.
 
    "I'd be glad of your advice, Mr. Holmes. This is a big thing for me to handle, and I'll hear of it from Lewes if I go
@@ -5672,7 +5672,7 @@
    hamlet several modern houses have been built upon the rising ground. It was to one of these that Stackhurst guided me.
 
    "That's The Haven, as Bellamy called it. The one with the corner tower and slate roof. Not bad for a man who started
-   with nothing but --- By Jove, look at that!"
+   with nothing but  -  By Jove, look at that!"
 
    The garden gate of The Haven had opened and a man had emerged. There was no mistaking that tall, angular, straggling
    figure. It was Ian Murdoch, the mathematician. A moment later we confronted him upon the road.
@@ -5709,9 +5709,9 @@
    was soon as florid as his hair.
 
    "No, sir, I do not desire any particulars. My son here" -indicating a powerful young man, with a heavy, sullen face, in
-   the corner of the sitting-room --- "is of one mind with me that Mr. McPherson's attentions to Maud were insulting. Yes,
+   the corner of the sitting-room  -  "is of one mind with me that Mr. McPherson's attentions to Maud were insulting. Yes,
    sir, the word 'marriage' was never mentioned, and yet there were letters and meetings, and a great deal more of which
-   neither of us could approve. She has no mother, and we are her only guardians. We are determined ---"
+   neither of us could approve. She has no mother, and we are her only guardians. We are determined  - "
 
    But the words were taken from his mouth by the appearance of the lady herself. There was no gainsaying that she would
    have graced any assembly in the world. Who could have imagined that so rare a flower would grow from such a root and in
@@ -5764,8 +5764,8 @@
 
    "I object to my girl picking up with men outside her own station."
 
-   "It was your prejudice against him which prevented us from telling you. As to this appointment" --- she fumbled in her
-   dress and produced a crumpled note --- "it was in answer to this."
+   "It was your prejudice against him which prevented us from telling you. As to this appointment"  -  she fumbled in her
+   dress and produced a crumpled note  -  "it was in answer to this."
 
    DEAREST [ran the message]:
 
@@ -5816,13 +5816,13 @@
    "Who told you this?"
 
    "Why, sir, everyone is talking of it. It took on terrible, and has eaten nothing for a week. Then to-day two of the
-   young gentlemen from The Gables found it dead --- down on the beach, sir, at the very place where its master met his
+   young gentlemen from The Gables found it dead  -  down on the beach, sir, at the very place where its master met his
    end."
 
    "At the very place." The words stood out clear in my memory. Some dim perception that the matter was vital rose in my
    mind. That the dog should die was after the beautiful, faithful nature of dogs. But "in the very place"! Why should this
    lonely beach be fatal to it? Was it possible that it also had been sacrificed to some revengeful feud? Was it possible
-   ---? Yes, the perception was dim, but already something was building up in my mind. In a few minutes I was on my way to
+    - ? Yes, the perception was dim, but already something was building up in my mind. In a few minutes I was on my way to
    The Gables, where I found Stackhurst in his study. At my request he sent for Sudbury and Blount, the two students who
    had found the dog.
 
@@ -5843,7 +5843,7 @@
    I had just reached the top of the path when it came to me. Like a flash, I remembered the thing for which I had so
    eagerly and vainly grasped. You will know, or Watson has written in vain, that I hold a vast store of out-of-the-way
    knowledge without scientific system, but very available for the needs of my work. My mind is like a crowded box-room
-   with packets of all sorts stowed away therein --- so many that I may well have but a vague perception of what was there.
+   with packets of all sorts stowed away therein  -  so many that I may well have but a vague perception of what was there.
    I had known that there was something which might bear upon this matter. It was still vague, but at least I knew how I
    could make it clear. It was monstrous, incredible, and yet it was always a possibility. I would test it to the full.
 
@@ -5854,7 +5854,7 @@
    the morrow.
 
    But that work met with an annoying interruption. I had hardly swallowed my early cup of tea and was starting for the
-   beach when_ I had a call from Inspector Bardle of the Sussex Constabulary --- a steady, solid, bovine man with
+   beach when_ I had a call from Inspector Bardle of the Sussex Constabulary  -  a steady, solid, bovine man with
    thoughtful eyes, which looked at me now with a very troubled expression.
 
    "I know your immense experience, sir," said he. "This is quite unofficial, of course, and need go no farther. But I am
@@ -5915,11 +5915,11 @@
    "By Jove, Mr. Holmes, I think you have hit it."
 
    "Or there may be some very different cause, Mr. Bardle. But your case is far too weak for an arrest. Besides, we have
-   those last words --- the 'Lion's Mane.' "
+   those last words  -  the 'Lion's Mane.' "
 
-   "I have wondered whether Ian ---"
+   "I have wondered whether Ian  - "
 
-   "Yes, I have considered that. If the second word had borne any resemblance to Murdoch --- but it did not. He gave it
+   "Yes, I have considered that. If the second word had borne any resemblance to Murdoch  -  but it did not. He gave it
    almost in a shriek. I am sure that it was 'Mane.' "
 
    "Have you no alternative, Mr. Holmes?"
@@ -5928,7 +5928,7 @@
 
    "And when will that be?"
 
-   "In an hour --- possibly less."
+   "In an hour  -  possibly less."
 
    The inspector rubbed his chin and looked at me with dubious eyes.
 
@@ -5940,7 +5940,7 @@
    a mischief?"
 
    "No, no, you won't draw me until I am ready," said I with a smile. "Now, Inspector, we each have our own work to do.
-   Perhaps if you were to meet me here at midday ---"
+   Perhaps if you were to meet me here at midday  - "
 
    So far we had got when there came the tremendous interruption which was the beginning of the end.
 
@@ -6091,7 +6091,7 @@
 
    I was forced to shake my head. To accept such praise was to lower one's own standards.
 
-   "I was slow at the outset --- culpably slow. Had the body been found in the water I could hardly have missed it. It was
+   "I was slow at the outset  -  culpably slow. Had the body been found in the water I could hardly have missed it. It was
    the towel which misled me. The poor fellow had never thought to dry himself, and so I in turn was led to believe that he
    had never been in the water. Why, then, should the attack of any water creature suggest itself to me? That was where I
    went astray. Well, well, Inspector, I often ventured to chaff you gentlemen of the police force, but Cyanea capillata
@@ -6115,7 +6115,7 @@
    "A pathetic, futile, broken creature."
 
    "Exactly, Watson. Pathetic and futile. But is not all life pathetic and futile? Is not his story a microcosm of the
-   whole? We reach. We grasp. And what is left in our hands at the end? A shadow. Or worse than a shadow --- misery."
+   whole? We reach. We grasp. And what is left in our hands at the end? A shadow. Or worse than a shadow  -  misery."
 
    "Is he one of your clients?"
 
@@ -6134,8 +6134,8 @@
 
    Holmes glanced over some notes which he had scribbled upon the back of an envelope.
 
-   "Retired in 1896, Watson. Early in 1897 he married a woman twenty years younger than himself --- a good-looking woman,
-   too. if the photograph does not flatter. A competence, a wife, leisure --- it seemed a straight road which lay before
+   "Retired in 1896, Watson. Early in 1897 he married a woman twenty years younger than himself  -  a good-looking woman,
+   too. if the photograph does not flatter. A competence, a wife, leisure  -  it seemed a straight road which lay before
    him. And yet within two years he is, as you have seen, as broken and miserable a creature as crawls beneath the sun."
 
    "But what has happened?"
@@ -6144,13 +6144,13 @@
    it is chess. Not far from him at Lewisham there lives a young doctor who is also a chess-player. I have noted his name
    as Dr. Ray Ernest. Ernest was frequently in the house, and an intimacy between him and Mrs. Amberley was a natural
    sequence, for you must admit that our unfortunate client has few outward graces, whatever his inner virtues may be. The
-   couple went off together last week --- destination untraced. What is more, the faithless spouse carried off the old
+   couple went off together last week  -  destination untraced. What is more, the faithless spouse carried off the old
    man's deed-box as her personal luggage with a good part of his life's savings within. Can we find the lady? Can we save
    the money? A commonplace problem so far as it has developed, and yet a vital one for Josiah Amberley."
 
    "What will you do about it?"
 
-   "Well, the immediate question, my dear Watson, happens to be, What will you do? --- if you will be good enough to
+   "Well, the immediate question, my dear Watson, happens to be, What will you do?  -  if you will be good enough to
    understudy me. You know that I am preoccupied with this case of the two Coptic Patriarchs, which should come to a head
    to-day. I really have not time to go out to Lewisham, and yet evidence taken on the spot has a special value. The old
    fellow was quite insistent that I should go, but I explained my difficulty. He is prepared to meet a representative."
@@ -6168,7 +6168,7 @@
    some penurious patrician who has sunk into the company of his inferiors. You know that particular quarter, the
    monotonous brick streets, the weary suburban highways. Right in the middle of them, a little island of ancient culture
    and comfort, lies this old home, surrounded by a high sun-baked wall mottled with lichens and topped with moss, the sort
-   of wall ---"
+   of wall  - "
 
    "Cut out the poetry, Watson," said Holmes severely. "I note that it was a high brick wall."
 
@@ -6209,9 +6209,9 @@
    loss, could obtain the complete attention of so famous a man as Mr. Sherlock Holmes.'
 
    "I assured him that the financial question did not arise. 'No of course, it is art for art's sake with him,' said he,
-   'but even on the artistic side of crime he might have found something here to study. And human nature, Dr. Watson ---
+   'but even on the artistic side of crime he might have found something here to study. And human nature, Dr. Watson  - 
    the black ingratitude of it all! When did I ever refuse one of her requests? Was ever a woman so pampered? And that
-   young man --- he might have been my own son. He had the run of my house. And yet see how they have treated me! Oh, Dr.
+   young man  -  he might have been my own son. He had the run of my house. And yet see how they have treated me! Oh, Dr.
    Watson, it is a dreadful, dreadful world!'
 
    "That was the burden of his song for an hour or more. He had, it seems, no suspicion of an intrigue. They lived alone
@@ -6220,7 +6220,7 @@
    complained of a headache and had refused to go. He had gone alone. There seemed to be no doubt about the fact, for he
    produced the unused ticket which he had taken for his wife."
 
-   "That is remarkable --- most remarkable," said Holmes, whose interest in the case seemed to be rising. "Pray continue,
+   "That is remarkable  -  most remarkable," said Holmes, whose interest in the case seemed to be rising. "Pray continue,
    Watson. I find your narrative most arresting. Did you personally examine this ticket? You did not, perchance, take the
    number?"
 
@@ -6233,8 +6233,8 @@
 
    "That is most satisfactory. What else did he tell you?"
 
-   "He showed me his strong-room, as he called it. It really is a strong-room --- like a bank --- with iron door and
-   shutter --- burglarproof, as he claimed. However, the woman seems to have had a duplicate key, and between them they had
+   "He showed me his strong-room, as he called it. It really is a strong-room  -  like a bank  -  with iron door and
+   shutter  -  burglarproof, as he claimed. However, the woman seems to have had a duplicate key, and between them they had
    carried off some seven thousand pounds' worth of cash and securities."
 
    "Securities! How could they dispose of those?"
@@ -6252,7 +6252,7 @@
    "Does it not strike you as a strange occupation in the circumstances?"
 
    " 'One must do something to ease an aching heart.' That was his own explanation. It was eccentric, no doubt, but he is
-   clearly an eccentric man. He tore up one of his wife's photographs in my presence --- tore it up furiously in a tempest
+   clearly an eccentric man. He tore up one of his wife's photographs in my presence  -  tore it up furiously in a tempest
    of passion. 'I never wish to see her damned face again,' he shrieked."
 
    "Anything more, Watson?"
@@ -6290,7 +6290,7 @@
    this room. As a matter of fact, my information confirms the man's story. He has the local repute of being a miser as
    well as a harsh and exacting husband. That he had a large sum of money in that strong-room of his is certain. So also is
    it that young Dr. Ernest, an unmarried man, played chess with Amberley, and probably played the fool with his wife. All
-   this seems plain sailing, and one would think that there was no more to be said --- and yet! -and yet!"
+   this seems plain sailing, and one would think that there was no more to be said  -  and yet! -and yet!"
 
    "Where lies the difficulty?"
 
@@ -6306,7 +6306,7 @@
 
    wish to establish with Mr. Josiah Amberley. When I have
 
-   done so we can dismiss the case --- or not. I would only ask
+   done so we can dismiss the case  -  or not. I would only ask
 
    you to be on hand about three o'clock, as I conceive it
 
@@ -6363,7 +6363,7 @@
    Our client seemed horrified at the suggestion.
 
    "Why, of course I shall go if you look at it in that way," said he. "On the face of it, it seems absurd to suppose that
-   this parson knows anything, but if you think ---"
+   this parson knows anything, but if you think  - "
 
    "I do think," said Holmes with emphasis, and so we were launched upon our journey. Holmes took me aside before we left
    the room and gave me one word of counsel, which showed that he considered the matter to be of importance. "Whatever you
@@ -6400,8 +6400,8 @@
    and by it I got into touch with Holmes, who shared in our amazement at the result of our journey.
 
    "Most singular!" said the distant voice. "Most remarkable! I much fear, my dear Watson, that there is no return train
-   to-night. I have unwittingly condemned you to the horrors of a country inn. However, there is always Nature, Watson ---
-   Nature and Josiah Amberley --- you can be in close commune with both." I heard his dry chuckle as he turned away.
+   to-night. I have unwittingly condemned you to the horrors of a country inn. However, there is always Nature, Watson  - 
+   Nature and Josiah Amberley  -  you can be in close commune with both." I heard his dry chuckle as he turned away.
 
    It was soon apparent to me that my companion's reputation as a miser was not undeserved. He had grumbled at the expense
    of the journey, had insisted upon travelling third-class, and was now clamorous in his objections to the hotel bill.
@@ -6486,11 +6486,11 @@
 
    "I'll show you first how it was done, and then I will give the explanation which is due to you, and even more to my
    longsuffering friend here, who has been invaluable throughout. But, first, I would give you an insight into this man's
-   mentality. It is a very unusual one --- so much so that I think his destination is more likely to be Broadmoor than the
+   mentality. It is a very unusual one  -  so much so that I think his destination is more likely to be Broadmoor than the
    scaffold. He has, to a high degree, the sort of mind which one associates with the mediaeval Italian nature rather than
    with the modern Briton. He was a miserable miser who made his wife so wretched by his niggardly ways that she was a
    ready prey for any adventurer. Such a one came upon the scene in the person of this chess-playing doctor. Amberley
-   excelled at chess --- one mark, Watson, of a scheming mind. Like all misers, he was a jealous man, and his jealousy
+   excelled at chess  -  one mark, Watson, of a scheming mind. Like all misers, he was a jealous man, and his jealousy
    became a frantic mania. Rightly or wrongly, he suspected an intrigue. He determined to have his revenge, and he planned
    it with diabolical cleverness. Come here!"
 
@@ -6501,11 +6501,11 @@
 
    "That was our first clue," said Holmes. "You can thank Dr. Watson's observation for that, though he failed to draw the
    inference. It set my foot upon the trail. Why should this man at such a time be filling his house with strong odours?
-   Obviously, to cover some other smell which he wisfhed to conceal --- some guilty smell which would suggest suspicions.
-   Then came the idea of a room such as you see here with iron door and shutter --- a hermetically sealed room. Put those
+   Obviously, to cover some other smell which he wisfhed to conceal  -  some guilty smell which would suggest suspicions.
+   Then came the idea of a room such as you see here with iron door and shutter  -  a hermetically sealed room. Put those
    two facts together, and whither do they lead? I could only determine that by examining the house myself. I was already
-   certain that the case was serious, for I had examined the box-office chart at the Haymarket Theatre --- another of Dr.
-   Watson's bull's-eyes --- and ascertained that neither B thirty nor thirty-two of the upper circle had been occupied that
+   certain that the case was serious, for I had examined the box-office chart at the Haymarket Theatre  -  another of Dr.
+   Watson's bull's-eyes  -  and ascertained that neither B thirty nor thirty-two of the upper circle had been occupied that
    night. Therefore, Amberley had not been to the theatre, and his alibi fell to the ground. He made a bad slip when he
    allowed my astute friend to notice the number of the seat taken for his wife. The question now arose how I might be able
    to examine the house. I sent an agent to the most impossible village I could think of, and summoned my man to it at such
@@ -6524,7 +6524,7 @@
    once inside the door they were at his mercy."
 
    The inspector examined the pipe with interest. "One of our officers mentioned the smell of gas," said he, "but of course
-   the window and door were open then, and the paint --- or some of it --- was already about. He had begun the work of
+   the window and door were open then, and the paint  -  or some of it  -  was already about. He had begun the work of
    painting the day before, according to his story. But what next, Mr. Holmes?"
 
    "Well, then came an incident which was rather unexpected to myself. I was slipping through the pantry window in the
@@ -6560,7 +6560,7 @@
 
    "Exactly. You would like to tell people how you died. No use writing on paper. That would be seen. If you wrote on the
    wall someone might rest upon it. Now, look here! Just above the skirting is scribbled with a purple indelible pencil:
-   'We we ---' That's all.
+   'We we  - ' That's all.
 
    "What do you make of that?"
 
@@ -6569,7 +6569,7 @@
 
    "He was writing, 'We were murdered.' "
 
-   "That's how I read it. If you find an indelible pencil on the body ---"
+   "That's how I read it. If you find an indelible pencil on the body  - "
 
    "We'll look out for it, you may be sure. But those securities? Clearly there was no robbery at all. And yet he did
    possess those bonds. We verified that."
@@ -6632,7 +6632,7 @@
    those cases which brought him the fewest personal opportunities, and it is one of these which I now desire to record. In
    telling it, I have made a slight change of name and place, but otherwise the facts are as stated.
 
-   One forenoon --- it was late in 1896 --- I received a hurried note from Holmes asking for my attendance. When I arrived
+   One forenoon  -  it was late in 1896  -  I received a hurried note from Holmes asking for my attendance. When I arrived
    I found him seated in a smoke-laden atmosphere, with an elderly, motherly woman of the buxom landlady type in the
    corresponding chair in front of him.
 
@@ -6640,7 +6640,7 @@
    tobacco, Watson, if you wish to indulge your filthy habits. Mrs. Merrilow has an interesting story to tell which may
    well lead to further developments in which your presence may be useful."
 
-   "Anything I can do ---"
+   "Anything I can do  - "
 
    "You will understand, Mrs. Merrilow, that if I come to Mrs. Ronder I should prefer to have a witness. You will make her
    understand that before we arrive."
@@ -6658,7 +6658,7 @@
 
    "Well, Mr. Holmes, you would hardly say it was a face at all. That's how it looked. Our milkman got a glimpse of her
    once peeping out of the upper window, and he dropped his tin and the milk all over the front garden. That is the kind of
-   face it is. When I saw her --- I happened on her unawares --- she covered up quick, and then she said, 'Now, Mrs.
+   face it is. When I saw her  -  I happened on her unawares  -  she covered up quick, and then she said, 'Now, Mrs.
    Merrilow, you know at last why it is that I never raise my veil.' "
 
    "Do you know anything about her history?"
@@ -6698,8 +6698,8 @@
    "And it will, too," remarked Holmes. "Very good, Mrs. Merrilow. I should like to have a little chat with Dr. Watson.
    That will carry us till lunch-time. About three o'clock you may expect to see us at your house in Brixton."
 
-   Our visitor had no sooner waddled out of the room --- no other verb can describe Mrs. Merrilow's method of progression
-   --- than Sherlock Holmes threw himself with fierce energy upon the pile of commonplace books in the corner. For a few
+   Our visitor had no sooner waddled out of the room  -  no other verb can describe Mrs. Merrilow's method of progression
+    -  than Sherlock Holmes threw himself with fierce energy upon the pile of commonplace books in the corner. For a few
    minutes there was a constant swish of the leaves, and then with a grunt of satisfaction he came upon what he sought. So
    excited was he that he did not rise, but sat upon the floor like some strange Buddha, with crossed legs, the huge books
    all round him, and one open upon his knees.
@@ -6758,7 +6758,7 @@
 
    "Well, we were both worried. It was so deucedly difficult to reconstruct the affair. Look at it from the lion's point of
    view. He is liberated. What does he do? He takes half a dozen bounds forward, which brings him to Ronder. Ronder turns
-   to fly --- the claw-marks were on the back of his head --- but the lion strikes him down. Then, instead of bounding on
+   to fly  -  the claw-marks were on the back of his head  -  but the lion strikes him down. Then, instead of bounding on
    and escaping, he returns to the woman, who was close to the cage, and he knocks her over and chews her face up. Then,
    again, those cries of hers would seem to imply that her husband had in some way failed her. What could the poor devil
    have done to help her? You see the difficulty?"
@@ -6826,7 +6826,7 @@
    "It is usually wiser to tell the truth. But why did you lie to him?"
 
    "Because the fate of someone else depended upon it. I know that he was a very worthless being, and yet I would not have
-   his destruction upon my conscience. We had been so close --- so close!"
+   his destruction upon my conscience. We had been so close  -  so close!"
 
    "But has this impediment been removed?"
 
@@ -6850,17 +6850,17 @@
 
    The woman rose and took from a drawer the photograph of a man. He was clearly a professional acrobat, a man of
    magnificent physique, taken with his huge arms folded across his swollen chest and a smile breaking from under his heavy
-   moustache --- the self-satisfied smile of the man of many conquests.
+   moustache  -  the self-satisfied smile of the man of many conquests.
 
    "That is Leonardo," she said.
 
    "Leonardo, the strong man, who gave evidence?"
 
-   "The same. And this --- this is my husband."
+   "The same. And this  -  this is my husband."
 
-   It was a dreadful face --- a human pig, or rather a human wild boar, for it was formidable in its bestiality. One could
+   It was a dreadful face  -  a human pig, or rather a human wild boar, for it was formidable in its bestiality. One could
    imagine that vile mouth champing and foaming in its rage, and one could conceive those small, vicious eyes darting pure
-   malignancy as they looked forth upon the world. Ruffian, bully, beast --- it was all written on that heavy-jowled face.
+   malignancy as they looked forth upon the world. Ruffian, bully, beast  -  it was all written on that heavy-jowled face.
 
    "Those two pictures will help you, gentlemen, to understand the story. I was a poor circus girl brought up on the
    sawdust, and doing springs through the hoop before I was ten. When I became a woman this man loved me, if such lust as
@@ -6869,20 +6869,20 @@
    and lashed me with his ridingwhip when I complained. They all pitied me and they all loathed him, but what could they
    do? They feared him, one and all. For he was terrible at all times, and murderous when he was drunk. Again and again he
    was had up for assault, and for cruelty to the beasts, but he had plenty of money and the fines were nothing to him. The
-   best men all left us, and the show began to go downhill. It was only Leonardo and I who kept it up --- with little Jimmy
+   best men all left us, and the show began to go downhill. It was only Leonardo and I who kept it up  -  with little Jimmy
    Griggs, the clown. Poor devil, he had not much to be funny about, but he did what he could to hold things together.
 
    "Then Leonardo came more and more into my life. You see what he was like. I know now the poor spirit that was hidden in
    that splendid body, but compared to my husband he seemed like the angel Gabriel. He pitied me and helped me, till at
-   last our intimacy turned to love --- deep, deep, passionate love, such love as I had dreamed of but never hoped to feel.
+   last our intimacy turned to love  -  deep, deep, passionate love, such love as I had dreamed of but never hoped to feel.
    My husband suspected it, but I think that he was a coward as well as a bully, and that Leonardo was the one man that he
    was afraid of. He took revenge in his own way by torturing me more than ever. One night my cries brought Leonardo to the
    door of our van. We were near tragedy that night, and soon my lover and I understood that it could not be avoided. My
    husband was not fit to live. We planned that he should die.
 
    "Leonardo had a clever, scheming brain. It was he who planned it. I do not say that to blame him, for I was ready to go
-   with him every inch of the way. But I should never have had the wit to think of such a plan. We made a club --- Leonardo
-   made it --- and in the leaden head he fastened five long steel nails, the points outward, with just such a spread as the
+   with him every inch of the way. But I should never have had the wit to think of such a plan. We made a club  -  Leonardo
+   made it  -  and in the leaden head he fastened five long steel nails, the points outward, with just such a spread as the
    lion's paw. This was to give my husband his death-blow, and yet to leave the evidence that it was the lion which we
    would loose who had done the deed.
 
@@ -6900,11 +6900,11 @@
    poisoned me and I was hardly conscious of pain. With the palms of my hands I tried to push the great steaming,
    blood-stained jaws away from me, and I screamed for help. I was conscious that the camp was stirring, and then dimly I
    remembered a group of men. Leonardo, Griggs, and others, dragging me from under the creature's paws. That was my last
-   memory, Mr. Holmes, for many a weary month. When I came to myself and saw myself in the mirror, I cursed that lion ---
-   oh, how I cursed him! --- not because he had torn away my beauty but because he had not torn away my life. I had but one
+   memory, Mr. Holmes, for many a weary month. When I came to myself and saw myself in the mirror, I cursed that lion  - 
+   oh, how I cursed him!  -  not because he had torn away my beauty but because he had not torn away my life. I had but one
    desire, Mr. Holmes, and I had enough money to gratify it. It was that I should cover myself so that my poor face should
    be seen by none, and that I should dwell where none whom I had ever known should find me. That was all that was left to
-   me to do --- and that is what I have done. A poor wounded beast that has crawled into its hole to die --- that is the
+   me to do  -  and that is what I have done. A poor wounded beast that has crawled into its hole to die  -  that is the
    end of Eugenia Ronder."
 
    We sat in silence for some time after the unhappy woman had told her story. Then Holmes stretched out his long arm and
@@ -6926,7 +6926,7 @@
    "And what did he do with this five-clawed club, which is the most singular and ingenious part of all your story?"
 
    "I cannot tell, Mr. Holmes. There is a chalk-pit by the camp, with a deep green pool at the base of it. Perhaps in the
-   depths of that pool ---"
+   depths of that pool  - "
 
    "Well, well, it is of little consequence now. The case is closed."
 
@@ -6996,9 +6996,9 @@
 
    "Ah, he sounds interesting! Does he often indulge in that way?"
 
-   "Well, he has the name of being a dangerous man. He is about the most daredevil rider in England --- second in the Grand
+   "Well, he has the name of being a dangerous man. He is about the most daredevil rider in England  -  second in the Grand
    National a few years back. He is one of those men who have overshot their true generation. He should have been a buck in
-   the days of the Regency --- a boxer, an athlete, a plunger. on the turf, a lover of fair ladies, and, by all account, so
+   the days of the Regency  -  a boxer, an athlete, a plunger. on the turf, a lover of fair ladies, and, by all account, so
    far down Queer Street that he may never find his way back again."
 
    "Capital, Watson! A thumb-nail sketch. I seem to know the man. Now, can you give me some idea of Shoscombe Old Place?"
@@ -7071,7 +7071,7 @@
    "Ah! What is that?"
 
    "They have always been the best of friends. They had the same tastes, the two of them, and she loved the horses as much
-   as he did. Every day at the same hour she would drive down to see them --- and, above all, she loved the Prince. He
+   as he did. Every day at the same hour she would drive down to see them  -  and, above all, she loved the Prince. He
    would prick up his ears when he heard the wheels on the gravel, and he would trot out each morning to the carriage to
    get his lump of sugar. But that's all over now."
 
@@ -7089,7 +7089,7 @@
 
    "Of course, with her weak heart and dropsy one couldn't expect that she could get about with him, but he spent two hours
    every evening in her room. He might well do what he could, for she has been a rare good friend to him. But that's all
-   over, too. He never goes near her. And she takes it to heart. She is brooding and sulky and drinking, Mr. Holmes ---
+   over, too. He never goes near her. And she takes it to heart. She is brooding and sulky and drinking, Mr. Holmes  - 
    drinking like a fish."
 
    "Did she drink before this estrangement?"
@@ -7122,17 +7122,17 @@
 
    "How can you say that?"
 
-   "Because I have seen him, Mr. Holmes. It was on that second night. Sir Robert turned and passed us --- me and Stephens,
+   "Because I have seen him, Mr. Holmes. It was on that second night. Sir Robert turned and passed us  -  me and Stephens,
    quaking in the bushes like two bunny-rabbits, for there was a bit of moon that night. But we could hear the other moving
    about behind. We were not afraid of him. So we up when Sir Robert was gone and pretended we were just having a walk like
    in the moonlight, and so we came right on him as casual and innocent as you please. 'Hullo, mate! who may you be?' says
    I. I guess he had not heard us coming, so he looked over his shoulder with a face as if he had seen the devil coming out
-   of hell. He let out a yell, and away he went as hard as he could lick it in the darkness. He could run! --- I'll give
+   of hell. He let out a yell, and away he went as hard as he could lick it in the darkness. He could run!  -  I'll give
    him that. In a minute he was out of sight and hearing, and who he was, or what he was, we never found."
 
    "But you saw him clearly in the moonlight?"
 
-   "Yes, I would swear to his yellow face --- a mean dog, I should say. What could he have in common with Sir Robert?"
+   "Yes, I would swear to his yellow face  -  a mean dog, I should say. What could he have in common with Sir Robert?"
 
    Holmes sat for some time lost in thought.
 
@@ -7160,7 +7160,7 @@
    enforcing her will. The hated maid is still tied to her. The lady refuses to speak, sulks, takes to drink. Sir Robert in
    his anger takes her pet spaniel away from her. Does not all this hang together?"
 
-   "Well, it might do --- so far as it goes."
+   "Well, it might do  -  so far as it goes."
 
    "Exactly! As far as it goes. How would all that bear upon the visits by night to the old crypt? We can't fit that into
    our plot."
@@ -7169,7 +7169,7 @@
 
    Holmes sat up abruptly.
 
-   "We only found it out yesterday --- after I had written to you. Yesterday Sir Robert had gone to London, so Stephens and
+   "We only found it out yesterday  -  after I had written to you. Yesterday Sir Robert had gone to London, so Stephens and
    I went down to the crypt. It was all in order, sir, except that in one corner was a bit of a human body."
 
    "You informed the police, I suppose?"
@@ -7210,7 +7210,7 @@
    "There is a central heating furnace in the cellar under Lady Beatrice's room. It's been off for some time, but Sir
    Robert complained of cold and had it on again.
 
-   Harvey runs it --- he's one of my lads. This very morning he came to me with this which he found raking out the cinders.
+   Harvey runs it  -  he's one of my lads. This very morning he came to me with this which he found raking out the cinders.
    He didn't like the look of it."
 
    "Nor do I," said Holmes. "What do you make of it, Watson?"
@@ -7273,7 +7273,7 @@
    "I've heard he has a horse entered for the Derby."
 
    "Yes, and a good colt, too. He carries all our money for the race, and all Sir Robert's into the bargain. By the way"
-   --- he looked at us with thoughtful eyes --- "I suppose you ain't on the turf yourselves?"
+    -  he looked at us with thoughtful eyes  -  "I suppose you ain't on the turf yourselves?"
 
    "No, indeed. Just two weary Londoners who badly need some good Berkshire air."
 
@@ -7305,7 +7305,7 @@
 
    "Nothing but the brother's spite."
 
-   "Well, it might be so. Or --- well, there is an alternative. Now to continue our review of the situation from the time
+   "Well, it might be so. Or  -  well, there is an alternative. Now to continue our review of the situation from the time
    that the quarrel, if there is a quarrel, began. The lady keeps her room, alters her habits, is not seen save when she
    drives out with her maid, refuses to stop at the stables to greet her favourite horse and apparently takes to drink.
    That covers the case, does it not?"
@@ -7324,8 +7324,8 @@
 
    "But the crypt?"
 
-   "Ah, yes, the crypt! Let us suppose, Watson --- it is merely a scandalous supposition, a hypothesis put forward for
-   argument's sake --- that Sir Robert has done away with his sister."
+   "Ah, yes, the crypt! Let us suppose, Watson  -  it is merely a scandalous supposition, a hypothesis put forward for
+   argument's sake  -  that Sir Robert has done away with his sister."
 
    "My dear Holmes, it is out of the question."
 
@@ -7396,7 +7396,7 @@
    It was pitch-dark and without a moon, but Mason led us over the grass-lands until a dark mass loomed up in front of us
    which proved to be the ancient chapel. We entered the broken gap which was once the porch, and our guide, stumbling
    among heaps of loose masonry, picked his way to the corner of the building, where a steep stair led down into the crypt.
-   Striking a match, he illuminated the melancholy place --- dismal and evil-smelling, with ancient crumbling walls of
+   Striking a match, he illuminated the melancholy place  -  dismal and evil-smelling, with ancient crumbling walls of
    rough-hewn stone, and piles of coffins, some of lead and some of stone, extending upon one side right up to the arched
    and groined roof which lost itself in the shadows above our heads. Holmes had lit his lantern, which shot a tiny tunnel
    of vivid yellow light upon the mournful scene. Its rays were reflected back from the coffin-plates, many of them adorned
@@ -7449,7 +7449,7 @@
    yours?"
 
    "My name is Sherlock Holmes," said my companion. "Possibly it is familiar to you. In any case, my business is that of
-   every other good citizen --- to uphold the law. It seems to me that you have much to answer for."
+   every other good citizen  -  to uphold the law. It seems to me that you have much to answer for."
 
    Sir Robert glared for a moment, but Holmes's quiet voice and cool, assured manner had their effect.
 
@@ -7481,19 +7481,19 @@
 
    "You have clearly gone pretty deeply into my affairs or I should not have found you where I did. Therefore, you know
    already, in all probability, that I am running a dark horse for the Derby and that everything depends upon my success.
-   If I win, all is easy. If I lose --- well, I dare not think of that!"
+   If I win, all is easy. If I lose  -  well, I dare not think of that!"
 
    "I understand the position," said Holmes.
 
    "I am dependent upon my sister, Lady Beatrice, for everything. But it is well known that her interest in the estate is
    for her own life only. For myself, I am deeply in the hands of the Jews. I have always known that if my sister were to
-   die my creditors would be on to my estate like a flock of vultures. Everything would be seized --- my stables, my horses
-   --- everything. Well, Mr. Holmes, my sister did die just a week ago."
+   die my creditors would be on to my estate like a flock of vultures. Everything would be seized  -  my stables, my horses
+    -  everything. Well, Mr. Holmes, my sister did die just a week ago."
 
    "And you told no one!"
 
    "What could I do? Absolute ruin faced me. If I could stave things off for three weeks all would be well. Her maid's
-   husband --- this man here --- is an actor. It came into our heads --- it came into my head --- that he could for that
+   husband  -  this man here  -  is an actor. It came into our heads  -  it came into my head  -  that he could for that
    short period personate my sister. It was but a case of appearing daily in the carriage, for no one need enter her room
    save the maid. It was not difficult to arrange. My sister died of the dropsy which had long afflicted her."
 
@@ -7524,7 +7524,7 @@
    the future, would hold good even if your creditors seized your estate."
 
    "The horse would be part of the estate. What do they care for my bets? As likely as not they would not run him at all.
-   My chief creditor is, unhappily, my most bitter enemy --- a rascally fellow, Sam Brewer, whom I was once compelled to
+   My chief creditor is, unhappily, my most bitter enemy  -  a rascally fellow, Sam Brewer, whom I was once compelled to
    horsewhip on Newmarket Heath. Do you suppose that he would try to save me?"
 
    "Well, Sir Robert," said Holmes, rising, "this matter must, of course, be referred to the police. It was my duty to

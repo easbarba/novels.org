@@ -5,7 +5,7 @@
    *Source:* Wikisource
 
    *About Doyle:*
-   Sir Arthur Ignatius Conan Doyle, DL (22 May 1859 -- 7 July 1930) was a Scottish author most noted for his stories about
+   Sir Arthur Ignatius Conan Doyle, DL (22 May 1859 - 7 July 1930) was a Scottish author most noted for his stories about
    the detective Sherlock Holmes, which are generally considered a major innovation in the field of crime fiction, and the
    adventures of Professor Challenger. He was a prolific writer whose other works include science fiction stories,
    historical novels, plays and romances, poetry, and non-fiction. Conan was originally a given name, but Doyle used it as
@@ -41,7 +41,7 @@
     jetty, with my health irretrievably ruined, but with permission from a paternal government to spend the next nine months
     in attempting to improve it.
 
-    I had neither kith nor kin in England, and was therefore as free as air --- or as free as an income of eleven shillings
+    I had neither kith nor kin in England, and was therefore as free as air  -  or as free as an income of eleven shillings
     and sixpence a day will permit a man to be. Under such circumstances, I naturally gravitated to London, that great
     cesspool into which all the loungers and idlers of the Empire are irresistibly drained. There I stayed for some time at
     a private hotel in the Strand, leading a comfortless, meaningless existence, and spending such money as I had,
@@ -83,12 +83,12 @@
 
     "Why, what is there against him?"
 
-    "Oh, I didn't say there was anything against him. He is a little queer in his ideas --- an enthusiast in some branches
+    "Oh, I didn't say there was anything against him. He is a little queer in his ideas  -  an enthusiast in some branches
     of science. As far as I know he is a decent fellow enough."
 
     "A medical student, I suppose?" said I.
 
-    "No --- I have no idea what he intends to go in for. I believe he is well up in anatomy, and he is a first-class
+    "No  -  I have no idea what he intends to go in for. I believe he is well up in anatomy, and he is a first-class
     chemist; but, as far as I know, he has never taken out any systematic medical classes. His studies are very desultory
     and eccentric, but he has amassed a lot of out-of-the way knowledge which would astonish his professors."
 
@@ -116,7 +116,7 @@
     what is it? Don't be mealy-mouthed about it."
 
     "It is not easy to express the inexpressible," he answered with a laugh. "Holmes is a little too scientific for my
-    tastes --- it approaches to cold-bloodedness. I could imagine his giving a friend a little pinch of the latest vegetable
+    tastes  -  it approaches to cold-bloodedness. I could imagine his giving a friend a little pinch of the latest vegetable
     alkaloid, not out of malevolence, you understand, but simply out of a spirit of inquiry in order to have an accurate
     idea of the effects. To do him justice, I think that he would take it himself with the same readiness. He appears to
     have a passion for definite and exact knowledge."
@@ -155,7 +155,7 @@
     "Never mind," said he, chuckling to himself. "The question now is about hæmoglobin. No doubt you see the significance of
     this discovery of mine?"
 
-    "It is interesting, chemically, no doubt," I answered, "but practically ---"
+    "It is interesting, chemically, no doubt," I answered, "but practically  - "
 
     "Why, man, it is the most practical medico-legal discovery for years. Don't you see that it gives us an infallible test
     for blood stains. Come over here now!" He seized me by the coat-sleeve in his eagerness, and drew me over to the table
@@ -213,7 +213,7 @@
 
     "By no means."
 
-    "Let me see --- what are my other shortcomings. I get in the dumps at times, and don't open my mouth for days on end.
+    "Let me see  -  what are my other shortcomings. I get in the dumps at times, and don't open my mouth for days on end.
     You must not think I am sulky when I do that. Just let me alone, and I'll soon be right. What have you to confess now?
     It's just as well for two fellows to know the worst of one another before they begin to live together."
 
@@ -223,16 +223,16 @@
 
     "Do you include violin-playing in your category of rows?" he asked, anxiously.
 
-    "It depends on the player," I answered. "A well-played violin is a treat for the gods --- a badly-played one ---"
+    "It depends on the player," I answered. "A well-played violin is a treat for the gods  -  a badly-played one  - "
 
-    "Oh, that's all right," he cried, with a merry laugh. "I think we may consider the thing as settled --- that is, if the
+    "Oh, that's all right," he cried, with a merry laugh. "I think we may consider the thing as settled  -  that is, if the
     rooms are agreeable to you."
 
     "When shall we see them?"
 
     "Call for me here at noon to-morrow, and we'll go together and settle everything," he answered.
 
-    "All right --- noon exactly," said I, shaking his hand.
+    "All right  -  noon exactly," said I, shaking his hand.
 
     We left him working among his chemicals, and we walked together towards my hotel.
 
@@ -322,28 +322,28 @@
     said that he would acquire no knowledge which did not bear upon his object. Therefore all the knowledge which he
     possessed was such as would be useful to him. I enumerated in my own mind all the various points upon which he had shown
     me that he was exceptionally well-informed. I even took a pencil and jotted them down. I could not help smiling at the
-    document when I had completed it. It ran in this way ---
+    document when I had completed it. It ran in this way  - 
 
-    SHERLOCK HOLMES --- his limits.
+    SHERLOCK HOLMES  -  his limits.
 
-    1. Knowledge of Literature. --- Nil.
+    1. Knowledge of Literature.  -  Nil.
 
-    2. Philosophy. --- Nil.
+    2. Philosophy.  -  Nil.
 
-    3. Astronomy. --- Nil.
+    3. Astronomy.  -  Nil.
 
-    4. Politics. --- Feeble.
+    4. Politics.  -  Feeble.
 
-    5. Botany. --- Variable. Well up in belladonna, opium, and poisons generally. Knows nothing of practical gardening.
+    5. Botany.  -  Variable. Well up in belladonna, opium, and poisons generally. Knows nothing of practical gardening.
 
-    6. Geology. --- Practical, but limited. Tells at a glance different soils from each other. After walks has shown me
+    6. Geology.  -  Practical, but limited. Tells at a glance different soils from each other. After walks has shown me
     splashes upon his trousers, and told me by their colour and consistence in what part of London he had received them.
 
-    7. Chemistry. --- Profound.
+    7. Chemistry.  -  Profound.
 
-    8. Anatomy. --- Accurate, but unsystematic.
+    8. Anatomy.  -  Accurate, but unsystematic.
 
-    9. Sensational Literature. --- Immense. He appears to know every detail of every horror perpetrated in the century.
+    9. Sensational Literature.  -  Immense. He appears to know every detail of every horror perpetrated in the century.
 
     10. Plays the violin well.
 
@@ -404,7 +404,7 @@
     history of the man, and the trade or profession to which he belongs. Puerile as such an exercise may seem, it sharpens
     the faculties of observation, and teaches one where to look and what to look for. By a man's finger nails, by his
     coat-sleeve, by his boot, by his trouser knees, by the callosities of his forefinger and thumb, by his expression, by
-    his shirt cuffs --- by each of these things a man's calling is plainly revealed. That all united should fail to
+    his shirt cuffs  -  by each of these things a man's calling is plainly revealed. That all united should fail to
     enlighten the competent enquirer in any case is almost inconceivable."
 
     "What ineffable twaddle!" I cried, slapping the magazine down on the table, "I never read such rubbish in my life."
@@ -422,7 +422,7 @@
     "You!"
 
     "Yes, I have a turn both for observation and for deduction. The theories which I have expressed there, and which appear
-    to you to be so chimerical are really extremely practical --- so practical that I depend upon them for my bread and
+    to you to be so chimerical are really extremely practical  -  so practical that I depend upon them for my bread and
     cheese."
 
     "And how?" I asked involuntarily.
@@ -535,19 +535,19 @@
     anchor tattooed on the back of the fellow's hand. That smacked of the sea. He had a military carriage, however, and
     regulation side whiskers. There we have the marine. He was a man with some amount of self-importance and a certain air
     of command. You must have observed the way in which he held his head and swung his cane. A steady, respectable,
-    middle-aged man, too, on the face of him --- all facts which led me to believe that he had been a sergeant."
+    middle-aged man, too, on the face of him  -  all facts which led me to believe that he had been a sergeant."
 
     "Wonderful!" I ejaculated.
 
     "Commonplace," said Holmes, though I thought from his expression that he was pleased at my evident surprise and
-    admiration. "I said just now that there were no criminals. It appears that I am wrong --- look at this!" He threw me
+    admiration. "I said just now that there were no criminals. It appears that I am wrong  -  look at this!" He threw me
     over the note which the commissionaire had brought."
 
     "Why," I cried, as I cast my eye over it, "this is terrible!"
 
     "It does seem to be a little out of the common," he remarked, calmly. "Would you mind reading it to me aloud?"
 
-    This is the letter which I read to him ---
+    This is the letter which I read to him  - 
 
     "MY DEAR MR. SHERLOCK HOLMES:
 
@@ -566,14 +566,14 @@
     "TOBIAS GREGSON."
 
     "Gregson is the smartest of the Scotland Yarders," my friend remarked; "he and Lestrade are the pick of a bad lot. They
-    are both quick and energetic, but conventional --- shockingly so. They have their knives into one another, too. They are
+    are both quick and energetic, but conventional  -  shockingly so. They have their knives into one another, too. They are
     as jealous as a pair of professional beauties. There will be some fun over this case if they are both put upon the
     scent."
 
     I was amazed at the calm way in which he rippled on. "Surely there is not a moment to be lost," I cried, "shall I go and
     order you a cab?"
 
-    "I'm not sure about whether I shall go. I am the most incurably lazy devil that ever stood in shoe leather --- that is,
+    "I'm not sure about whether I shall go. I am the most incurably lazy devil that ever stood in shoe leather  -  that is,
     when the fit is on me, for I can be spry enough at times."
 
     "Why, it is just such a chance as you have been longing for."
@@ -697,13 +697,13 @@
 
     "Positive!" cried both detectives.
 
-    "Then, of course, this blood belongs to a second individual --- presumably the murderer, if murder has been committed.
+    "Then, of course, this blood belongs to a second individual  -  presumably the murderer, if murder has been committed.
     It reminds me of the circumstances attendant on the death of Van Jansen, in Utrecht, in the year '34. Do you remember
     the case, Gregson?"
 
     "No, sir."
 
-    "Read it up --- you really should. There is nothing new under the sun. It has all been done before."
+    "Read it up  -  you really should. There is nothing new under the sun. It has all been done before."
 
     As he spoke, his nimble fingers were flying here, there, and everywhere, feeling, pressing, unbuttoning, examining,
     while his eyes wore the same far-away expression which I have already remarked upon. So swiftly was the examination
@@ -732,14 +732,14 @@
 
     "We have it all here," said Gregson, pointing to a litter of objects upon one of the bottom steps of the stairs. "A gold
     watch, No. 97163, by Barraud, of London. Gold Albert chain, very heavy and solid. Gold ring, with masonic device. Gold
-    pin --- bull-dog's head, with rubies as eyes. Russian leather card-case, with cards of Enoch J. Drebber of Cleveland,
+    pin  -  bull-dog's head, with rubies as eyes. Russian leather card-case, with cards of Enoch J. Drebber of Cleveland,
     corresponding with the E. J. D. upon the linen. No purse, but loose money to the extent of seven pounds thirteen. Pocket
-    edition of Boccaccio's 'Decameron,' with name of Joseph Stangerson upon the fly-leaf. Two letters --- one addressed to
+    edition of Boccaccio's 'Decameron,' with name of Joseph Stangerson upon the fly-leaf. Two letters  -  one addressed to
     E. J. Drebber and one to Joseph Stangerson."
 
     "At what address?"
 
-    "American Exchange, Strand --- to be left till called for. They are both from the Guion Steamship Company, and refer to
+    "American Exchange, Strand  -  to be left till called for. They are both from the Guion Steamship Company, and refer to
     the sailing of their boats from Liverpool. It is clear that this unfortunate man was about to return to New York."
 
     "Have you made any inquiries as to this man, Stangerson?"
@@ -782,7 +782,7 @@
 
     I have remarked that the paper had fallen away in parts. In this particular corner of the room a large piece had peeled
     off, leaving a yellow square of coarse plastering. Across this bare space there was scrawled in blood-red letters a
-    single word ---
+    single word  - 
 
     RACHE.
 
@@ -868,8 +868,8 @@
     had made two ruts with its wheels close to the curb. Now, up to last night, we have had no rain for a week, so that
     those wheels which left such a deep impression must have been there during the night. There were the marks of the
     horse's hoofs, too, the outline of one of which was far more clearly cut than that of the other three, showing that that
-    was a new shoe. Since the cab was there after the rain began, and was not there at any time during the morning --- I
-    have Gregson's word for that --- it follows that it must have been there during the night, and, therefore, that it
+    was a new shoe. Since the cab was there after the rain began, and was not there at any time during the morning  -  I
+    have Gregson's word for that  -  it follows that it must have been there during the night, and, therefore, that it
     brought those two individuals to the house."
 
     "That seems simple enough," said I; "but how about the other man's height?"
@@ -892,8 +892,8 @@
 
     "The writing on the wall was done with a man's forefinger dipped in blood. My glass allowed me to observe that the
     plaster was slightly scratched in doing it, which would not have been the case if the man's nail had been trimmed. I
-    gathered up some scattered ash from the floor. It was dark in colour and flakey --- such an ash as is only made by a
-    Trichinopoly. I have made a special study of cigar ashes --- in fact, I have written a monograph upon the subject. I
+    gathered up some scattered ash from the floor. It was dark in colour and flakey  -  such an ash as is only made by a
+    Trichinopoly. I have made a special study of cigar ashes  -  in fact, I have written a monograph upon the subject. I
     flatter myself that I can distinguish at a glance the ash of any known brand, either of cigar or of tobacco. It is just
     in such details that the skilled detective differs from the Gregson and Lestrade type."
 
@@ -903,7 +903,7 @@
     of the affair."
 
     I passed my hand over my brow. "My head is in a whirl," I remarked; "the more one thinks of it the more mysterious it
-    grows. How came these two men --- if there were two men --- into an empty house? What has become of the cabman who drove
+    grows. How came these two men  -  if there were two men  -  into an empty house? What has become of the cabman who drove
     them? How could one man compel another to take poison? Where did the blood come from? What was the object of the
     murderer, since robbery had no part in it? How came the woman's ring there? Above all, why should the second man write
     up the German word RACHE before decamping? I confess that I cannot see any possible way of reconciling all these facts."
@@ -926,8 +926,8 @@
     that he was as sensitive to flattery on the score of his art as any girl could be of her beauty.
 
     "I'll tell you one other thing," he said. "Patent leathers and Square-toes came in the same cab, and they walked down
-    the pathway together as friendly as possible --- arm-in-arm, in all probability. When they got inside they walked up and
-    down the room --- or rather, Patent-leathers stood still while Square-toes walked up and down. I could read all that in
+    the pathway together as friendly as possible  -  arm-in-arm, in all probability. When they got inside they walked up and
+    down the room  -  or rather, Patent-leathers stood still while Square-toes walked up and down. I could read all that in
     the dust; and I could read that as he walked he grew more and more excited. That is shown by the increased length of his
     strides. He was talking all the while, and working himself up, no doubt, into a fury. Then the tragedy occurred. I've
     told you all I know myself now, for the rest is mere surmise and conjecture. We have a good working basis, however, on
@@ -956,14 +956,14 @@
 
     "I'll tell it ye from the beginning," he said. "My time is from ten at night to six in the morning. At eleven there was
     a fight at the 'White Hart'; but bar that all was quiet enough on the beat. At one o'clock it began to rain, and I met
-    Harry Murcher --- him who has the Holland Grove beat --- and we stood together at the corner of Henrietta Street
-    a-talkin'. Presently --- maybe about two or a little after --- I thought I would take a look round and see that all was
+    Harry Murcher  -  him who has the Holland Grove beat  -  and we stood together at the corner of Henrietta Street
+    a-talkin'. Presently  -  maybe about two or a little after  -  I thought I would take a look round and see that all was
     right down the Brixton Road. It was precious dirty and lonely. Not a soul did I meet all the way down, though a cab or
     two went past me. I was a strollin' down, thinkin' between ourselves how uncommon handy a four of gin hot would be, when
     suddenly the glint of a light caught my eye in the window of that same house. Now, I knew that them two houses in
     Lauriston Gardens was empty on account of him that owns them who won't have the drains seed to, though the very last
     tenant what lived in one of them died o' typhoid fever. I was knocked all in a heap therefore at seeing a light in the
-    window, and I suspected as something was wrong. When I got to the door ---"
+    window, and I suspected as something was wrong. When I got to the door  - "
 
     "You stopped, and then walked back to the garden gate," my companion interrupted. "What did you do that for?"
 
@@ -979,10 +979,10 @@
 
     "Not a livin' soul, sir, nor as much as a dog. Then I pulled myself together and went back and pushed the door open. All
     was quiet inside, so I went into the room where the light was a-burnin'. There was a candle flickerin' on the
-    mantelpiece --- a red wax one --- and by its light I saw ---"
+    mantelpiece  -  a red wax one  -  and by its light I saw  - "
 
     "Yes, I know all that you saw. You walked round the room several times, and you knelt down by the body, and then you
-    walked through and tried the kitchen door, and then ---"
+    walked through and tried the kitchen door, and then  - "
 
     John Rance sprang to his feet with a frightened face and suspicion in his eyes. "Where was you hid to see all that?" he
     cried. "It seems to me that you knows a deal more than you should."
@@ -1009,10 +1009,10 @@
     John Rance appeared to be somewhat irritated at this digression. "He was an uncommon drunk sort o' man," he said. "He'd
     ha' found hisself in the station if we hadn't been so took up."
 
-    "His face --- his dress --- didn't you notice them?" Holmes broke in impatiently.
+    "His face  -  his dress  -  didn't you notice them?" Holmes broke in impatiently.
 
-    "I should think I did notice them, seeing that I had to prop him up --- me and Murcher between us. He was a long chap,
-    with a red face, the lower part muffled round ---"
+    "I should think I did notice them, seeing that I had to prop him up  -  me and Murcher between us. He was a long chap,
+    with a red face, the lower part muffled round  - "
 
     "That will do," cried Holmes. "What became of him?"
 
@@ -1025,7 +1025,7 @@
 
     "Had he a whip in his hand?"
 
-    "A whip --- no."
+    "A whip  -  no."
 
     "He must have left it behind," muttered my companion. "You didn't happen to see or hear a cab after that?"
 
@@ -1045,7 +1045,7 @@
     in this mystery. But why should he come back to the house after leaving it? That is not the way of criminals."
 
     "The ring, man, the ring: that was what he came back for. If we have no other way of catching him, we can always bait
-    our line with the ring. I shall have him, Doctor --- I'll lay you two to one that I have him. I must thank you for it
+    our line with the ring. I shall have him, Doctor  -  I'll lay you two to one that I have him. I must thank you for it
     all. I might not have gone but for you, and so have missed the finest study I ever came across: a study in scarlet, eh?
     Why shouldn't we use a little art jargon. There's the scarlet thread of murder running through the colourless skein of
     life, and our duty is to unravel it, and isolate it, and expose every inch of it. And now for lunch, and then for Norman
@@ -1075,7 +1075,7 @@
     convinced me that he had already formed a theory which explained all the facts, though what it was I could not for an
     instant conjecture.
 
-    He was very late in returning --- so late, that I knew that the concert could not have detained him all the time. Dinner
+    He was very late in returning  -  so late, that I knew that the concert could not have detained him all the time. Dinner
     was on the table before he appeared.
 
     "It was magnificent," he said, as he took his seat. "Do you remember what Darwin says about music? He claims that the
@@ -1116,7 +1116,7 @@
 
     "And who do you expect will answer this advertisement."
 
-    "Why, the man in the brown coat --- our florid friend with the square toes. If he does not come himself he will send an
+    "Why, the man in the brown coat  -  our florid friend with the square toes. If he does not come himself he will send an
     accomplice."
 
     "Would he not consider it as too dangerous?"
@@ -1155,7 +1155,7 @@
     "It is eight o'clock now," I said, glancing at my watch.
 
     "Yes. He will probably be here in a few minutes. Open the door slightly. That will do. Now put the key on the inside.
-    Thank you! This is a queer old book I picked up at a stall yesterday --- 'De Jure inter Gentes' --- published in Latin
+    Thank you! This is a queer old book I picked up at a stall yesterday  -  'De Jure inter Gentes'  -  published in Latin
     at Liege in the Lowlands, in 1642. Charles' head was still firm on his shoulders when this little brown-backed volume
     was struck off."
 
@@ -1184,7 +1184,7 @@
     gentlemen," she said, dropping another curtsey; "a gold wedding ring in the Brixton Road. It belongs to my girl Sally,
     as was married only this time twelvemonth, which her husband is steward aboard a Union boat, and what he'd say if he
     come 'ome and found her without her ring is more than I can think, he being short enough at the best o' times, but more
-    especially when he has the drink. If it please you, she went to the circus last night along with ---"
+    especially when he has the drink. If it please you, she went to the circus last night along with  - "
 
     "Is that her ring?" I asked.
 
@@ -1199,11 +1199,11 @@
     The old woman faced round and looked keenly at him from her little red-rimmed eyes. "The gentleman asked me for my
     address," she said. "Sally lives in lodgings at 3, Mayfield Place, Peckham."
 
-    "And your name is ---?"
+    "And your name is  - ?"
 
-    "My name is Sawyer --- her's is Dennis, which Tom Dennis married her --- and a smart, clean lad, too, as long as he's at
+    "My name is Sawyer  -  her's is Dennis, which Tom Dennis married her  -  and a smart, clean lad, too, as long as he's at
     sea, and no steward in the company more thought of; but when on shore, what with the women and what with liquor shops
-    ---"
+     - "
 
     "Here is your ring, Mrs. Sawyer," I interrupted, in obedience to a sign from my companion; "it clearly belongs to your
     daughter, and I am glad to be able to restore it to the rightful owner."
@@ -1260,7 +1260,7 @@
 
     The papers next day were full of the "Brixton Mystery," as they termed it. Each had a long account of the affair, and
     some had leaders upon it in addition. There was some information in them which was new to me. I still retain in my
-    scrap-book numerous clippings and extracts bearing upon the case. Here is a condensation of a few of them:---
+    scrap-book numerous clippings and extracts bearing upon the case. Here is a condensation of a few of them: - 
 
     The Daily Telegraph remarked that in the history of crime there had seldom been a tragedy which presented stranger
     features. The German name of the victim, the absence of all other motive, and the sinister inscription on the wall, all
@@ -1287,7 +1287,7 @@
     might have made excellent citizens were they not soured by the recollection of all that they had undergone. Among these
     men there was a stringent code of honour, any infringement of which was punished by death. Every effort should be made
     to find the secretary, Stangerson, and to ascertain some particulars of the habits of the deceased. A great step had
-    been gained by the discovery of the address of the house at which he had boarded --- a result which was entirely due to
+    been gained by the discovery of the address of the house at which he had boarded  -  a result which was entirely due to
     the acuteness and energy of Mr. Gregson of Scotland Yard.
 
     Sherlock Holmes and I read these notices over together at breakfast, and they appeared to afford him considerable
@@ -1389,12 +1389,12 @@
     and came on it at once. He had sent the hat to a Mr. Drebber, residing at Charpentier's Boarding Establishment, Torquay
     Terrace. Thus I got at his address."
 
-    "Smart --- very smart!" murmured Sherlock Holmes.
+    "Smart  -  very smart!" murmured Sherlock Holmes.
 
     "I next called upon Madame Charpentier," continued the detective. "I found her very pale and distressed. Her daughter
-    was in the room, too --- an uncommonly fine girl she is, too; she was looking red about the eyes and her lips trembled
+    was in the room, too  -  an uncommonly fine girl she is, too; she was looking red about the eyes and her lips trembled
     as I spoke to her. That didn't escape my notice. I began to smell a rat. You know the feeling, Mr. Sherlock Holmes, when
-    you come upon the right scent --- a kind of thrill in your nerves. 'Have you heard of the mysterious death of your late
+    you come upon the right scent  -  a kind of thrill in your nerves. 'Have you heard of the mysterious death of your late
     boarder Mr. Enoch J. Drebber, of Cleveland?' I asked.
 
     "The mother nodded. She didn't seem able to get out a word. The daughter burst into tears. I felt more than ever that
@@ -1403,12 +1403,12 @@
     "'At what o'clock did Mr. Drebber leave your house for the train?' I asked.
 
     "'At eight o'clock,' she said, gulping in her throat to keep down her agitation. 'His secretary, Mr. Stangerson, said
-    that there were two trains --- one at 9.15 and one at 11. He was to catch the first.
+    that there were two trains  -  one at 9.15 and one at 11. He was to catch the first.
 
     "'And was that the last which you saw of him?'
 
     "A terrible change came over the woman's face as I asked the question. Her features turned perfectly livid. It was some
-    seconds before she could get out the single word 'Yes' --- and when it did come it was in a husky unnatural tone.
+    seconds before she could get out the single word 'Yes'  -  and when it did come it was in a husky unnatural tone.
 
     "There was silence for a moment, and then the daughter spoke in a calm clear voice.
 
@@ -1445,13 +1445,13 @@
     after twelve o'clock in the day he could hardly ever be said to be sober. His manners towards the maid-servants were
     disgustingly free and familiar. Worst of all, he speedily assumed the same attitude towards my daughter, Alice, and
     spoke to her more than once in a way which, fortunately, she is too innocent to understand. On one occasion he actually
-    seized her in his arms and embraced her --- an outrage which caused his own secretary to reproach him for his unmanly
+    seized her in his arms and embraced her  -  an outrage which caused his own secretary to reproach him for his unmanly
     conduct.'
 
     "'But why did you stand all this,' I asked. 'I suppose that you can get rid of your boarders when you wish.'
 
     "Mrs. Charpentier blushed at my pertinent question. 'Would to God that I had given him notice on the very day that he
-    came,' she said. 'But it was a sore temptation. They were paying a pound a day each --- fourteen pounds a week, and this
+    came,' she said. 'But it was a sore temptation. They were paying a pound a day each  -  fourteen pounds a week, and this
     is the slack season. I am a widow, and my boy in the Navy has cost me much. I grudged to lose the money. I acted for the
     best. This last was too much, however, and I gave him notice to leave on account of it. That was the reason of his
     going.'
@@ -1540,7 +1540,7 @@
     troubled, while his clothes were disarranged and untidy. He had evidently come with the intention of consulting with
     Sherlock Holmes, for on perceiving his colleague he appeared to be embarrassed and put out. He stood in the centre of
     the room, fumbling nervously with his hat and uncertain what to do. "This is a most extraordinary case," he said at last
-    --- "a most incomprehensible affair."
+     -  "a most incomprehensible affair."
 
     "Ah, you find it so, Mr. Lestrade!" cried Gregson, triumphantly. "I thought you would come to that conclusion. Have you
     managed to find the Secretary, Mr. Joseph Stangerson?"
@@ -1559,7 +1559,7 @@
     "It was quite thick enough before," grumbled Lestrade, taking a chair. "I seem to have dropped into a sort of council of
     war."
 
-    "Are you --- are you sure of this piece of intelligence?" stammered Gregson.
+    "Are you  -  are you sure of this piece of intelligence?" stammered Gregson.
 
     "I have just come from his room," said Lestrade. "I was the first to discover what had occurred."
 
@@ -1767,7 +1767,7 @@
     "Gentlemen," he cried, with flashing eyes, "let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber
     and of Joseph Stangerson."
 
-    The whole thing occurred in a moment --- so quickly that I had no time to realize it. I have a vivid recollection of
+    The whole thing occurred in a moment  -  so quickly that I had no time to realize it. I have a vivid recollection of
     that instant, of Holmes' triumphant expression and the ring of his voice, of the cabman's dazed, savage face, as he
     glared at the glittering handcuffs, which had appeared as if by magic upon his wrists. For a second or two we might have
     been a group of statues. Then, with an inarticulate roar of fury, the prisoner wrenched himself free from Holmes's
@@ -1805,9 +1805,9 @@
     the eye can reach stretches the great flat plain-land, all dusted over with patches of alkali, and intersected by clumps
     of the dwarfish chaparral bushes. On the extreme verge of the horizon lie a long chain of mountain peaks, with their
     rugged summits flecked with snow. In this great stretch of country there is no sign of life, nor of anything
-    appertaining to life. There is no bird in the steel-blue heaven, no movement upon the dull, grey earth --- above all,
+    appertaining to life. There is no bird in the steel-blue heaven, no movement upon the dull, grey earth  -  above all,
     there is absolute silence. Listen as one may, there is no shadow of a sound in all that mighty wilderness; nothing but
-    silence --- complete and heart-subduing silence.
+    silence  -  complete and heart-subduing silence.
 
     It has been said there is nothing appertaining to life upon the broad plain. That is hardly true. Looking down from the
     Sierra Blanco, one sees a pathway traced out across the desert, which winds away and is lost in the extreme distance. It
@@ -1825,7 +1825,7 @@
     his rifle was hardly more fleshy than that of a skeleton. As he stood, he leaned upon his weapon for support, and yet
     his tall figure and the massive framework of his bones suggested a wiry and vigorous constitution. His gaunt face,
     however, and his clothes, which hung so baggily over his shrivelled limbs, proclaimed what it was that gave him that
-    senile and decrepit appearance. The man was dying --- dying from hunger and from thirst.
+    senile and decrepit appearance. The man was dying  -  dying from hunger and from thirst.
 
     He had toiled painfully down the ravine, and on to this little elevation, in the vain hope of seeing some signs of
     water. Now the great salt plain stretched before his eyes, and the distant belt of savage mountains, without a sign
@@ -1867,12 +1867,12 @@
     we goes back to home I'll give them to brother Bob."
 
     "You'll see prettier things than them soon," said the man confidently. "You just wait a bit. I was going to tell you
-    though --- you remember when we left the river?"
+    though  -  you remember when we left the river?"
 
     "Oh, yes."
 
     "Well, we reckoned we'd strike another river soon, d'ye see. But there was somethin' wrong; compasses, or map, or
-    somethin', and it didn't turn up. Water ran out. Just except a little drop for the likes of you and --- and ---"
+    somethin', and it didn't turn up. Water ran out. Just except a little drop for the likes of you and  -  and  - "
 
     "And you couldn't wash yourself," interrupted his companion gravely, staring up at his grimy visage.
 
@@ -1898,7 +1898,7 @@
     of water, and a lot of buckwheat cakes, hot, and toasted on both sides, like Bob and me was fond of. How long will it be
     first?"
 
-    "I don't know --- not very long." The man's eyes were fixed upon the northern horizon. In the blue vault of the heaven
+    "I don't know  -  not very long." The man's eyes were fixed upon the northern horizon. In the blue vault of the heaven
     there had appeared three little specks which increased in size every moment, so rapidly did they approach. They speedily
     resolved themselves into three large brown birds, which circled over the heads of the two wanderers, and then settled
     upon some rocks which overlooked them. They were buzzards, the vultures of the west, whose coming is the forerunner of
@@ -1930,7 +1930,7 @@
     It was a strange sight had there been anything but the buzzards to see it. Side by side on the narrow shawl knelt the
     two wanderers, the little prattling child and the reckless, hardened adventurer. Her chubby face, and his haggard,
     angular visage were both turned up to the cloudless heaven in heartfelt entreaty to that dread being with whom they were
-    face to face, while the two voices --- the one thin and clear, the other deep and harsh --- united in the entreaty for
+    face to face, while the two voices  -  the one thin and clear, the other deep and harsh  -  united in the entreaty for
     mercy and forgiveness. The prayer finished, they resumed their seat in the shadow of the boulder until the child fell
     asleep, nestling upon the broad breast of her protector. He watched over her slumber for some time, but Nature proved to
     be too strong for him. For three days and three nights he had allowed himself neither rest nor repose. Slowly the
@@ -1959,7 +1959,7 @@
 
     "The wells are to the right, my brothers," said one, a hard-lipped, clean-shaven man with grizzly hair.
 
-    "To the right of the Sierra Blanco --- so we shall reach the Rio Grande," said another.
+    "To the right of the Sierra Blanco  -  so we shall reach the Rio Grande," said another.
 
     "Fear not for water," cried a third. "He who could draw it from the rocks will not now abandon His own chosen people."
 
@@ -2012,7 +2012,7 @@
     Lucy Ferrier from this day on. Who are you, though?" he continued, glancing with curiosity at his stalwart, sunburned
     rescuers; "there seems to be a powerful lot of ye."
 
-    "Nigh upon ten thousand," said one of the young men; "we are the persecuted children of God --- the chosen of the Angel
+    "Nigh upon ten thousand," said one of the young men; "we are the persecuted children of God  -  the chosen of the Angel
     Merona."
 
     "I never heard tell on him," said the wanderer. "He appears to have chosen a fair crowd of ye."
@@ -2031,7 +2031,7 @@
     "We do not know. The hand of God is leading us under the person of our Prophet. You must come before him. He shall say
     what is to be done with you."
 
-    They had reached the base of the hill by this time, and were surrounded by crowds of the pilgrims --- pale-faced
+    They had reached the base of the hill by this time, and were surrounded by crowds of the pilgrims  -  pale-faced
     meek-looking women, strong laughing children, and anxious earnest-eyed men. Many were the cries of astonishment and of
     commiseration which arose from them when they perceived the youth of one of the strangers and the destitution of the
     other. Their escort did not halt, however, but pushed on, followed by a great crowd of Mormons, until they reached a
@@ -2065,7 +2065,7 @@
     This is not the place to commemorate the trials and privations endured by the immigrant Mormons before they came to
     their final haven. From the shores of the Mississippi to the western slopes of the Rocky Mountains they had struggled on
     with a constancy almost unparalleled in history. The savage man, and the savage beast, hunger, thirst, fatigue, and
-    disease --- every impediment which Nature could place in the way, had all been overcome with Anglo-Saxon tenacity. Yet
+    disease  -  every impediment which Nature could place in the way, had all been overcome with Anglo-Saxon tenacity. Yet
     the long journey and the accumulated terrors had shaken the hearts of the stoutest among them. There was not one who did
     not sink upon his knees in heartfelt prayer when they saw the broad valley of Utah bathed in the sunlight beneath them,
     and learned from the lips of their leader that this was the promised land, and that these virgin acres were to be theirs
@@ -2222,7 +2222,7 @@
     against his broad breast.
 
     "Thank God!" he said, hoarsely, stooping and kissing her. "It is settled, then. The longer I stay, the harder it will be
-    to go. They are waiting for me at the canon. Good-bye, my own darling --- good-bye. In two months you shall see me."
+    to go. They are waiting for me at the canon. Good-bye, my own darling  -  good-bye. In two months you shall see me."
 
     He tore himself from her as he spoke, and, flinging himself upon his horse, galloped furiously away, never even looking
     round, as though afraid that his resolution might fail him if he took one glance at what he was leaving. She stood at
@@ -2239,7 +2239,7 @@
     doctrines, upon that one point he was inflexible. He had to seal his mouth on the subject, however, for to express an
     unorthodox opinion was a dangerous matter in those days in the Land of the Saints.
 
-    Yes, a dangerous matter --- so dangerous that even the most saintly dared only whisper their religious opinions with
+    Yes, a dangerous matter  -  so dangerous that even the most saintly dared only whisper their religious opinions with
     bated breath, lest something which fell from their lips might be misconstrued, and bring down a swift retribution upon
     them. The victims of persecution had now turned persecutors on their own account, and persecutors of the most terrible
     description. Not the Inquisition of Seville, nor the German Vehm-gericht, nor the Secret Societies of Italy, were ever
@@ -2256,8 +2256,8 @@
     At first this vague and terrible power was exercised only upon the recalcitrants who, having embraced the Mormon faith,
     wished afterwards to pervert or to abandon it. Soon, however, it took a wider range. The supply of adult women was
     running short, and polygamy without a female population on which to draw was a barren doctrine indeed. Strange rumours
-    began to be bandied about --- rumours of murdered immigrants and rifled camps in regions where Indians had never been
-    seen. Fresh women appeared in the harems of the Elders --- women who pined and wept, and bore upon their faces the
+    began to be bandied about  -  rumours of murdered immigrants and rifled camps in regions where Indians had never been
+    seen. Fresh women appeared in the harems of the Elders  -  women who pined and wept, and bore upon their faces the
     traces of an unextinguishable horror. Belated wanderers upon the mountains spoke of gangs of armed men, masked,
     stealthy, and noiseless, who flitted by them in the darkness. These tales and rumours took substance and shape, and were
     corroborated and re-corroborated, until they resolved themselves into a definite name. To this day, in the lonely
@@ -2272,8 +2272,8 @@
 
     One fine morning, John Ferrier was about to set out to his wheatfields, when he heard the click of the latch, and,
     looking through the window, saw a stout, sandy-haired, middle-aged man coming up the pathway. His heart leapt to his
-    mouth, for this was none other than the great Brigham Young himself. Full of trepidation --- for he knew that such a
-    visit boded him little good --- Ferrier ran to the door to greet the Mormon chief. The latter, however, received his
+    mouth, for this was none other than the great Brigham Young himself. Full of trepidation  -  for he knew that such a
+    visit boded him little good  -  Ferrier ran to the door to greet the Mormon chief. The latter, however, received his
     salutations coldly, and followed him with a stern face into the sitting-room.
 
     "Brother Ferrier," he said, taking a seat, and eyeing the farmer keenly from under his light-coloured eyelashes, "the
@@ -2287,7 +2287,7 @@
     every way to its usages. This you promised to do, and this, if common report says truly, you have neglected."
 
     "And how have I neglected it?" asked Ferrier, throwing out his hands in expostulation. "Have I not given to the common
-    fund? Have I not attended at the Temple? Have I not ---?"
+    fund? Have I not attended at the Temple? Have I not  - ?"
 
     "Where are your wives?" asked Young, looking round him. "Call them in, that I may greet them."
 
@@ -2299,14 +2299,14 @@
 
     John Ferrier groaned internally.
 
-    "There are stories of her which I would fain disbelieve --- stories that she is sealed to some Gentile. This must be the
+    "There are stories of her which I would fain disbelieve  -  stories that she is sealed to some Gentile. This must be the
     gossip of idle tongues. What is the thirteenth rule in the code of the sainted Joseph Smith? 'Let every maiden of the
     true faith marry one of the elect; for if she wed a Gentile, she commits a grievous sin.' This being so, it is
     impossible that you, who profess the holy creed, should suffer your daughter to violate it."
 
     John Ferrier made no answer, but he played nervously with his riding-whip.
 
-    "Upon this one point your whole faith shall be tested --- so it has been decided in the Sacred Council of Four. The girl
+    "Upon this one point your whole faith shall be tested  -  so it has been decided in the Sacred Council of Four. The girl
     is young, and we would not have her wed grey hairs, neither would we deprive her of all choice. We Elders have many
     heifers, * but our children must also be provided. Stangerson has a son, and Drebber has a son, and either of them would
     gladly welcome your daughter to their house. Let her choose between them. They are young and rich, and of the true
@@ -2314,7 +2314,7 @@
 
     Ferrier remained silent for some little time with his brows knitted.
 
-    "You will give us time," he said at last. "My daughter is very young --- she is scarce of an age to marry."
+    "You will give us time," he said at last. "My daughter is very young  -  she is scarce of an age to marry."
 
     "She shall have a month to choose," said Young, rising from his seat. "At the end of that time she shall give her
     answer."
@@ -2345,7 +2345,7 @@
 
     Lucy laughed through her tears at her father's description.
 
-    "When he comes, he will advise us for the best. But it is for you that I am frightened, dear. One hears --- one hears
+    "When he comes, he will advise us for the best. But it is for you that I am frightened, dear. One hears  -  one hears
     such dreadful stories about those who oppose the Prophet: something terrible always happens to them."
 
     "But we haven't opposed him yet," her father answered. "It will be time to look out for squalls when we do. We have a
@@ -2450,9 +2450,9 @@
 
     He expected that he would receive some message or remonstrance from Young as to his conduct, and he was not mistaken,
     though it came in an unlooked-for manner. Upon rising next morning he found, to his surprise, a small square of paper
-    pinned on to the coverlet of his bed just over his chest. On it was printed, in bold straggling letters:---
+    pinned on to the coverlet of his bed just over his chest. On it was printed, in bold straggling letters: - 
 
-    "Twenty-nine days are given you for amendment, and then ---"
+    "Twenty-nine days are given you for amendment, and then  - "
 
     The dash was more fear-inspiring than any threat could have been. How this warning came into his room puzzled John
     Ferrier sorely, for his servants slept in an outhouse, and the doors and windows had all been secured. He crumpled the
@@ -2485,11 +2485,11 @@
 
     He was sitting alone one evening pondering deeply over his troubles, and searching vainly for some way out of them. That
     morning had shown the figure 2 upon the wall of his house, and the next day would be the last of the allotted time. What
-    was to happen then? All manner of vague and terrible fancies filled his imagination. And his daughter --- what was to
+    was to happen then? All manner of vague and terrible fancies filled his imagination. And his daughter  -  what was to
     become of her after he was gone? Was there no escape from the invisible network which was drawn all round them. He sank
     his head upon the table and sobbed at the thought of his own impotence.
 
-    What was that? In the silence he heard a gentle scratching sound --- low, but very distinct in the quiet of the night.
+    What was that? In the silence he heard a gentle scratching sound  -  low, but very distinct in the quiet of the night.
     It came from the door of the house. Ferrier crept into the hall and listened intently. There was a pause for a few
     moments, and then the low insidious sound was repeated. Someone was evidently tapping very gently upon one of the panels
     of the door. Was it some midnight assassin who had come to carry out the murderous orders of the secret tribunal? Or was
@@ -2664,7 +2664,7 @@
     hours' fruitless search, he was thinking of turning back in despair, when casting his eyes upwards he saw a sight which
     sent a thrill of pleasure through his heart. On the edge of a jutting pinnacle, three or four hundred feet above him,
     there stood a creature somewhat resembling a sheep in appearance, but armed with a pair of gigantic horns. The big-horn
-    --- for so it is called --- was acting, probably, as a guardian over a flock which were invisible to the hunter; but
+     -  for so it is called  -  was acting, probably, as a guardian over a flock which were invisible to the hunter; but
     fortunately it was heading in the opposite direction, and had not perceived him. Lying on his face, he rested his rifle
     upon a rock, and took a long and steady aim before drawing the trigger. The animal sprang into the air, tottered for a
     moment upon the edge of the precipice, and then came crashing down into the valley beneath.
@@ -2694,7 +2694,7 @@
     of wood ashes there, but it had evidently not been tended since his departure. The same dead silence still reigned all
     round. With his fears all changed to convictions, he hurried on. There was no living creature near the remains of the
     fire: animals, man, maiden, all were gone. It was only too clear that some sudden and terrible disaster had occurred
-    during his absence --- a disaster which had embraced them all, and yet had left no traces behind it.
+    during his absence  -  a disaster which had embraced them all, and yet had left no traces behind it.
 
     Bewildered and stunned by this blow, Jefferson Hope felt his head spin round, and had to lean upon his rifle to save
     himself from falling. He was essentially a man of action, however, and speedily recovered from his temporary impotence.
@@ -2741,7 +2741,7 @@
 
     "I am Jefferson Hope," he said. "You remember me."
 
-    The Mormon looked at him with undisguised astonishment --- indeed, it was difficult to recognize in this tattered,
+    The Mormon looked at him with undisguised astonishment  -  indeed, it was difficult to recognize in this tattered,
     unkempt wanderer, with ghastly white face and fierce, wild eyes, the spruce young hunter of former days. Having,
     however, at last, satisfied himself as to his identity, the man's surprise changed to consternation.
 
@@ -2761,7 +2761,7 @@
     "Don't mind me," said Hope faintly. He was white to the very lips, and had sunk down on the stone against which he had
     been leaning. "Married, you say?"
 
-    "Married yesterday --- that's what those flags are for on the Endowment House. There was some words between young
+    "Married yesterday  -  that's what those flags are for on the Endowment House. There was some words between young
     Drebber and young Stangerson as to which was to have her. They'd both been in the party that followed them, and
     Stangerson had shot her father, which seemed to give him the best claim; but when they argued it out in council,
     Drebber's party was the stronger, so the Prophet gave her over to him. No one won't have her very long though, for I saw
@@ -2914,7 +2914,7 @@
     exactly as they were uttered.
 
     "It don't much matter to you why I hated these men," he said; "it's enough that they were guilty of the death of two
-    human beings --- a father and a daughter --- and that they had, therefore, forfeited their own lives. After the lapse of
+    human beings  -  a father and a daughter  -  and that they had, therefore, forfeited their own lives. After the lapse of
     time that has passed since their crime, it was impossible for me to secure a conviction against them in any court. I
     knew of their guilt though, and I determined that I should be judge, jury, and executioner all rolled into one. You'd
     have done the same, if you have any manhood in you, if you had been in my place.
@@ -3013,7 +3013,7 @@
     always my pill boxes about with me, and the time had now come when I was to use them.
 
     "It was nearer one than twelve, and a wild, bleak night, blowing hard and raining in torrents. Dismal as it was outside,
-    I was glad within --- so glad that I could have shouted out from pure exultation. If any of you gentlemen have ever
+    I was glad within  -  so glad that I could have shouted out from pure exultation. If any of you gentlemen have ever
     pined for a thing, and longed for it during twenty long years, and then suddenly found it within your reach, you would
     understand my feelings. I lit a cigar, and puffed at it to steady my nerves, but my hands were trembling, and my temples
     throbbing with excitement. As I drove, I could see old John Ferrier and sweet Lucy looking at me out of the darkness and
@@ -3079,7 +3079,7 @@
     I had driven some distance when I put my hand into the pocket in which I usually kept Lucy's ring, and found that it was
     not there. I was thunderstruck at this, for it was the only memento that I had of her. Thinking that I might have
     dropped it when I stooped over Drebber's body, I drove back, and leaving my cab in a side street, I went boldly up to
-    the house --- for I was ready to dare anything rather than lose the ring. When I arrived there, I walked right into the
+    the house  -  for I was ready to dare anything rather than lose the ring. When I arrived there, I walked right into the
     arms of a police-officer who was coming out, and only managed to disarm his suspicions by pretending to be hopelessly
     drunk.
 
@@ -3257,6 +3257,6 @@
     Scarlet: to get them a testimonial!"
 
     "Never mind," I answered, "I have all the facts in my journal, and the public shall know them. In the meantime you must
-    make yourself contented by the consciousness of success, like the Roman miser ---
+    make yourself contented by the consciousness of success, like the Roman miser  - 
 
     "'Populus me sibilat, at mihi plaudo Ipse domi simul ac nummos contemplar in arca.'"

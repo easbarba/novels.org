@@ -26,8 +26,8 @@
      travelled from the regions towards which I am advancing, gives me a foretaste of those icy climes. Inspirited by this
      wind of promise, my daydreams become more fervent and vivid. I try in vain to be persuaded that the pole is the seat of
      frost and desolation; it ever presents itself to my imagination as the region of beauty and delight. There, Margaret,
-     the sun is forever visible, its broad disk just skirting the horizon and diffusing a perpetual splendour. There---for
-     with your leave, my sister, I will put some trust in preceding navigators---there snow and frost are banished; and,
+     the sun is forever visible, its broad disk just skirting the horizon and diffusing a perpetual splendour. There - for
+     with your leave, my sister, I will put some trust in preceding navigators - there snow and frost are banished; and,
      sailing over a calm sea, we may be wafted to a land surpassing in wonders and in beauty every region hitherto discovered
      on the habitable globe. Its productions and features may be without example, as the phenomena of the heavenly bodies
      undoubtedly are in those undiscovered solitudes. What may not be expected in a country of eternal light? I may there
@@ -42,7 +42,7 @@
      if at all possible, can only be effected by an undertaking such as mine.
 
      These reflections have dispelled the agitation with which I began my letter, and I feel my heart glow with an enthusiasm
-     which elevates me to heaven, for nothing contributes so much to tranquillize the mind as a steady purpose---a point on
+     which elevates me to heaven, for nothing contributes so much to tranquillize the mind as a steady purpose - a point on
      which the soul may fix its intellectual eye. This expedition has been the favourite dream of my early years. I have read
      with ardour the accounts of the various voyages which have been made in the prospect of arriving at the North Pacific
      Ocean through the seas which surround the pole. You may remember that a history of all the voyages made for purposes of
@@ -73,7 +73,7 @@
 
      This is the most favourable period for travelling in Russia. They fly quickly over the snow in their sledges; the motion
      is pleasant, and, in my opinion, far more agreeable than that of an English stagecoach. The cold is not excessive, if
-     you are wrapped in furs---a dress which I have already adopted, for there is a great difference between walking the deck
+     you are wrapped in furs - a dress which I have already adopted, for there is a great difference between walking the deck
      and remaining seated motionless for hours, when no exercise prevents the blood from actually freezing in your veins. I
      have no ambition to lose my life on the post-road between St. Petersburgh and Archangel. I shall depart for the latter
      town in a fortnight or three weeks; and my intention is to hire a ship there, which can easily be done by paying the
@@ -152,8 +152,8 @@
      for my safety or if I should come back to you as worn and woeful as the "Ancient Mariner." You will smile at my
      allusion, but I will disclose a secret. I have often attributed my attachment to, my passionate enthusiasm for, the
      dangerous mysteries of ocean to that production of the most imaginative of modern poets. There is something at work in
-     my soul which I do not understand. I am practically industrious---painstaking, a workman to execute with perseverance
-     and labour---but besides this there is a love for the marvellous, a belief in the marvellous, intertwined in all my
+     my soul which I do not understand. I am practically industrious - painstaking, a workman to execute with perseverance
+     and labour - but besides this there is a love for the marvellous, a belief in the marvellous, intertwined in all my
      projects, which hurries me out of the common pathways of men, even to the wild sea and unvisited regions I am about to
      explore. But to return to dearer considerations. Shall I meet you again, after having traversed immense seas, and
      returned by the most southern cape of Africa or America? I dare not expect such success, yet I cannot bear to look on
@@ -173,7 +173,7 @@
 
      My dear Sister,
 
-     I write a few lines in haste to say that I am safe---and well advanced on my voyage. This letter will reach England by a
+     I write a few lines in haste to say that I am safe - and well advanced on my voyage. This letter will reach England by a
      merchantman now on its homeward voyage from Archangel; more fortunate than I, who may not see my native land, perhaps,
      for many years. I am, however, in good spirits: my men are bold and apparently firm of purpose, nor do the floating
      sheets of ice that continually pass us, indicating the dangers of the region towards which we are advancing, appear to
@@ -320,9 +320,9 @@
      desire of finding a friend, of my thirst for a more intimate sympathy with a fellow mind than had ever fallen to my lot,
      and expressed my conviction that a man could boast of little happiness who did not enjoy this blessing. "I agree with
      you," replied the stranger; "we are unfashioned creatures, but half made up, if one wiser, better, dearer than
-     ourselves---such a friend ought to be---do not lend his aid to perfectionate our weak and faulty natures. I once had a
+     ourselves - such a friend ought to be - do not lend his aid to perfectionate our weak and faulty natures. I once had a
      friend, the most noble of human creatures, and am entitled, therefore, to judge respecting friendship. You have hope,
-     and the world before you, and have no cause for despair. But I---I have lost everything and cannot begin life anew."
+     and the world before you, and have no cause for despair. But I - I have lost everything and cannot begin life anew."
 
      As he said this his countenance became expressive of a calm, settled grief that touched me to the heart. But he was
      silent and presently retired to his cabin.
@@ -369,12 +369,12 @@
      the warmest thanks. I have resolved every night, when I am not imperatively occupied by my duties, to record, as nearly
      as possible in his own words, what he has related during the day. If I should be engaged, I will at least make notes.
      This manuscript will doubtless afford you the greatest pleasure; but to me, who know him, and who hear it from his own
-     lips---with what interest and sympathy shall I read it in some future day! Even now, as I commence my task, his
+     lips - with what interest and sympathy shall I read it in some future day! Even now, as I commence my task, his
      full-toned voice swells in my ears; his lustrous eyes dwell on me with all their melancholy sweetness; I see his thin
      hand raised in animation, while the lineaments of his face are irradiated by the soul within.
 
      Strange and harrowing must be his story, frightful the storm which embraced the gallant vessel on its course and wrecked
-     it---thus!
+     it - thus!
 
 ** Part 2 - Story
 *** Chapter 1
@@ -432,7 +432,7 @@
     in their rambles. I remained for several years their only child. Much as they were attached to each other, they seemed
     to draw inexhaustible stores of affection from a very mine of love to bestow them upon me. My mother's tender caresses
     and my father's smile of benevolent pleasure while regarding me are my first recollections. I was their plaything and
-    their idol, and something better---their child, the innocent and helpless creature bestowed on them by heaven, whom to
+    their idol, and something better - their child, the innocent and helpless creature bestowed on them by heaven, whom to
     bring up to good, and whose future lot it was in their hands to direct to happiness or misery, according as they
     fulfilled their duties towards me. With this deep consciousness of what they owed towards the being to which they had
     given life, added to the active spirit of tenderness that animated both, it may be imagined that while during every hour
@@ -442,8 +442,8 @@
     For a long time I was their only care. My mother had much desired to have a daughter, but I continued their single
     offspring. When I was about five years old, while making an excursion beyond the frontiers of Italy, they passed a week
     on the shores of the Lake of Como. Their benevolent disposition often made them enter the cottages of the poor. This, to
-    my mother, was more than a duty; it was a necessity, a passion---remembering what she had suffered, and how she had been
-    relieved---for her to act in her turn the guardian angel to the afflicted. During one of their walks a poor cot in the
+    my mother, was more than a duty; it was a necessity, a passion - remembering what she had suffered, and how she had been
+    relieved - for her to act in her turn the guardian angel to the afflicted. During one of their walks a poor cot in the
     foldings of a vale attracted their notice as being singularly disconsolate, while the number of half-clothed children
     gathered about it spoke of penury in its worst shape. One day, when my father had gone by himself to Milan, my mother,
     accompanied by me, visited this abode. She found a peasant and his wife, hard working, bent down by care and labour,
@@ -458,26 +458,26 @@
     communicated her history. She was not her child, but the daughter of a Milanese nobleman. Her mother was a German and
     had died on giving her birth. The infant had been placed with these good people to nurse: they were better off then.
     They had not been long married, and their eldest child was but just born. The father of their charge was one of those
-    Italians nursed in the memory of the antique glory of Italy---one among the schiavi ognor frementi, who exerted himself
+    Italians nursed in the memory of the antique glory of Italy - one among the schiavi ognor frementi, who exerted himself
     to obtain the liberty of his country. He became the victim of its weakness. Whether he had died or still lingered in the
     dungeons of Austria was not known. His property was confiscated; his child became an orphan and a beggar. She continued
     with her foster parents and bloomed in their rude abode, fairer than a garden rose among dark-leaved brambles.
 
     When my father returned from Milan, he found playing with me in the hall of our villa a child fairer than a pictured
-    cherub---a creature who seemed to shed radiance from her looks and whose form and motions were lighter than the chamois
+    cherub - a creature who seemed to shed radiance from her looks and whose form and motions were lighter than the chamois
     of the hills. The apparition was soon explained. With his permission my mother prevailed on her rustic guardians to
     yield their charge to her. They were fond of the sweet orphan. Her presence had seemed a blessing to them, but it would
     be unfair to her to keep her in poverty and want when Providence afforded her such powerful protection. They consulted
-    their village priest, and the result was that Elizabeth Lavenza became the inmate of my parents' house---my more than
-    sister---the beautiful and adored companion of all my occupations and my pleasures.
+    their village priest, and the result was that Elizabeth Lavenza became the inmate of my parents' house - my more than
+    sister - the beautiful and adored companion of all my occupations and my pleasures.
 
     Everyone loved Elizabeth. The passionate and almost reverential attachment with which all regarded her became, while I
     shared it, my pride and my delight. On the evening previous to her being brought to my home, my mother had said
-    playfully, "I have a pretty present for my Victor---tomorrow he shall have it." And when, on the morrow, she presented
+    playfully, "I have a pretty present for my Victor - tomorrow he shall have it." And when, on the morrow, she presented
     Elizabeth to me as her promised gift, I, with childish seriousness, interpreted her words literally and looked upon
-    Elizabeth as mine---mine to protect, love, and cherish. All praises bestowed on her I received as made to a possession
+    Elizabeth as mine - mine to protect, love, and cherish. All praises bestowed on her I received as made to a possession
     of my own. We called each other familiarly by the name of cousin. No word, no expression could body forth the kind of
-    relation in which she stood to me---my more than sister, since till death she was to be mine only.
+    relation in which she stood to me - my more than sister, since till death she was to be mine only.
 
 *** Chapter 2
 
@@ -486,8 +486,8 @@
     subsisted in our characters drew us nearer together. Elizabeth was of a calmer and more concentrated disposition; but,
     with all my ardour, I was capable of a more intense application and was more deeply smitten with the thirst for
     knowledge. She busied herself with following the aerial creations of the poets; and in the majestic and wondrous scenes
-    which surrounded our Swiss home---the sublime shapes of the mountains, the changes of the seasons, tempest and calm, the
-    silence of winter, and the life and turbulence of our Alpine summers---she found ample scope for admiration and delight.
+    which surrounded our Swiss home - the sublime shapes of the mountains, the changes of the seasons, tempest and calm, the
+    silence of winter, and the life and turbulence of our Alpine summers - she found ample scope for admiration and delight.
     While my companion contemplated with a serious and satisfied spirit the magnificent appearances of things, I delighted
     in investigating their causes. The world was to me a secret which I desired to divine. Curiosity, earnest research to
     learn the hidden laws of nature, gladness akin to rapture, as they were unfolded to me, are among the earliest
@@ -523,7 +523,7 @@
     like a shrine-dedicated lamp in our peaceful home. Her sympathy was ours; her smile, her soft voice, the sweet glance of
     her celestial eyes, were ever there to bless and animate us. She was the living spirit of love to soften and attract; I
     might have become sullen in my study, through the ardour of my nature, but that she was there to subdue me to a
-    semblance of her own gentleness. And Clerval---could aught ill entrench on the noble spirit of Clerval? Yet he might not
+    semblance of her own gentleness. And Clerval - could aught ill entrench on the noble spirit of Clerval? Yet he might not
     have been so perfectly humane, so thoughtful in his generosity, so full of kindness and tenderness amidst his passion
     for adventurous exploit, had she not unfolded to him the real loveliness of beneficence and made the doing good the end
     and aim of his soaring ambition.
@@ -605,7 +605,7 @@
 
     Thus strangely are our souls constructed, and by such slight ligaments are we bound to prosperity or ruin. When I look
     back, it seems to me as if this almost miraculous change of inclination and will was the immediate suggestion of the
-    guardian angel of my life---the last effort made by the spirit of preservation to avert the storm that was even then
+    guardian angel of my life - the last effort made by the spirit of preservation to avert the storm that was even then
     hanging in the stars and ready to envelop me. Her victory was announced by an unusual tranquillity and gladness of soul
     which followed the relinquishing of my ancient and latterly tormenting studies. It was thus that I was to be taught to
     associate evil with their prosecution, happiness with their disregard.
@@ -619,12 +619,12 @@
     Ingolstadt. I had hitherto attended the schools of Geneva, but my father thought it necessary for the completion of my
     education that I should be made acquainted with other customs than those of my native country. My departure was
     therefore fixed at an early date, but before the day solved upon could arrive, the first misfortune of my life
-    occurred---an omen, as it were, of my future misery.
+    occurred - an omen, as it were, of my future misery.
 
     Elizabeth had caught the scarlet fever; her illness was severe, and she was in the greatest danger. During her illness
     many arguments had been urged to persuade my mother to refrain from attending upon her. She had at first yielded to our
     entreaties, but when she heard that the life of her favourite was menaced, she could no longer control her anxiety. She
-    attended her sickbed; her watchful attentions triumphed over the malignity of the distemper---Elizabeth was saved, but
+    attended her sickbed; her watchful attentions triumphed over the malignity of the distemper - Elizabeth was saved, but
     the consequences of this imprudence were fatal to her preserver. On the third day my mother sickened; her fever was
     accompanied by the most alarming symptoms, and the looks of her medical attendants prognosticated the worst event. On
     her deathbed the fortitude and benignity of this best of women did not desert her. She joined the hands of Elizabeth and
@@ -637,7 +637,7 @@
     She died calmly, and her countenance expressed affection even in death. I need not describe the feelings of those whose
     dearest ties are rent by that most irreparable evil, the void that presents itself to the soul, and the despair that is
     exhibited on the countenance. It is so long before the mind can persuade itself that she whom we saw every day and whose
-    very existence appeared a part of our own can have departed forever---that the brightness of a beloved eye can have been
+    very existence appeared a part of our own can have departed forever - that the brightness of a beloved eye can have been
     extinguished and the sound of a voice so familiar and dear to the ear can be hushed, never more to be heard. These are
     the reflections of the first days; but when the lapse of time proves the reality of the evil, then the actual bitterness
     of grief commences. Yet from whom has not that rude hand rent away some dear connection? And why should I describe a
@@ -664,12 +664,12 @@
 
     We sat late. We could not tear ourselves away from each other nor persuade ourselves to say the word "Farewell!" It was
     said, and we retired under the pretence of seeking repose, each fancying that the other was deceived; but when at
-    morning's dawn I descended to the carriage which was to convey me away, they were all there---my father again to bless
+    morning's dawn I descended to the carriage which was to convey me away, they were all there - my father again to bless
     me, Clerval to press my hand once more, my Elizabeth to renew her entreaties that I would write often and to bestow the
     last feminine attentions on her playmate and friend.
 
     I threw myself into the chaise that was to convey me away and indulged in the most melancholy reflections. I, who had
-    ever been surrounded by amiable companions, continually engaged in endeavouring to bestow mutual pleasure---I was now
+    ever been surrounded by amiable companions, continually engaged in endeavouring to bestow mutual pleasure - I was now
     alone. In the university whither I was going I must form my own friends and be my own protector. My life had hitherto
     been remarkably secluded and domestic, and this had given me invincible repugnance to new countenances. I loved my
     brothers, Elizabeth, and Clerval; these were "old familiar faces," but I believed myself totally unfitted for the
@@ -683,8 +683,8 @@
     apartment to spend the evening as I pleased.
 
     The next morning I delivered my letters of introduction and paid a visit to some of the principal professors.
-    Chance---or rather the evil influence, the Angel of Destruction, which asserted omnipotent sway over me from the moment
-    I turned my reluctant steps from my father's door---led me first to M. Krempe, professor of natural philosophy. He was
+    Chance - or rather the evil influence, the Angel of Destruction, which asserted omnipotent sway over me from the moment
+    I turned my reluctant steps from my father's door - led me first to M. Krempe, professor of natural philosophy. He was
     an uncouth man, but deeply imbued in the secrets of his science. He asked me several questions concerning my progress in
     the different branches of science appertaining to natural philosophy. I replied carelessly, and partly in contempt,
     mentioned the names of my alchemists as the principal authors I had studied. The professor stared. "Have you," he said,
@@ -728,7 +728,7 @@
     recapitulation of the history of chemistry and the various improvements made by different men of learning, pronouncing
     with fervour the names of the most distinguished discoverers. He then took a cursory view of the present state of the
     science and explained many of its elementary terms. After having made a few preparatory experiments, he concluded with a
-    panegyric upon modern chemistry, the terms of which I shall never forget:---
+    panegyric upon modern chemistry, the terms of which I shall never forget: - 
 
     "The ancient teachers of this science," said he, "promised impossibilities and performed nothing. The modern masters
     promise very little; they know that metals cannot be transmuted and that the elixir of life is a chimera but these
@@ -738,10 +738,10 @@
     acquired new and almost unlimited powers; they can command the thunders of heaven, mimic the earthquake, and even mock
     the invisible world with its own shadows."
 
-    Such were the professor's words---rather let me say such the words of the fate---enounced to destroy me. As he went on I
+    Such were the professor's words - rather let me say such the words of the fate - enounced to destroy me. As he went on I
     felt as if my soul were grappling with a palpable enemy; one by one the various keys were touched which formed the
     mechanism of my being; chord after chord was sounded, and soon my mind was filled with one thought, one conception, one
-    purpose. So much has been done, exclaimed the soul of Frankenstein---more, far more, will I achieve; treading in the
+    purpose. So much has been done, exclaimed the soul of Frankenstein - more, far more, will I achieve; treading in the
     steps already marked, I will pioneer a new way, explore unknown powers, and unfold to the world the deepest mysteries of
     creation.
 
@@ -821,7 +821,7 @@
     every object the most insupportable to the delicacy of the human feelings. I saw how the fine form of man was degraded
     and wasted; I beheld the corruption of death succeed to the blooming cheek of life; I saw how the worm inherited the
     wonders of the eye and brain. I paused, examining and analysing all the minutiae of causation, as exemplified in the
-    change from life to death, and death to life, until from the midst of this darkness a sudden light broke in upon me---a
+    change from life to death, and death to life, until from the midst of this darkness a sudden light broke in upon me - a
     light so brilliant and wondrous, yet so simple, that while I became dizzy with the immensity of the prospect which it
     illustrated, I was surprised that among so many men of genius who had directed their inquiries towards the same science,
     that I alone should be reserved to discover so astonishing a secret.
@@ -912,7 +912,7 @@
 
     My father made no reproach in his letters and only took notice of my science by inquiring into my occupations more
     particularly than before. Winter, spring, and summer passed away during my labours; but I did not watch the blossom or
-    the expanding leaves---sights which before always yielded me supreme delight---so deeply was I engrossed in my
+    the expanding leaves - sights which before always yielded me supreme delight - so deeply was I engrossed in my
     occupation. The leaves of that year had withered before my work drew near to a close, and now every day showed me more
     plainly how well I had succeeded. But my enthusiasm was checked by my anxiety, and I appeared rather like one doomed by
     slavery to toil in the mines, or any other unwholesome trade than an artist occupied by his favourite employment. Every
@@ -950,7 +950,7 @@
     appeared to change, and I thought that I held the corpse of my dead mother in my arms; a shroud enveloped her form, and
     I saw the grave-worms crawling in the folds of the flannel. I started from my sleep with horror; a cold dew covered my
     forehead, my teeth chattered, and every limb became convulsed; when, by the dim and yellow light of the moon, as it
-    forced its way through the window shutters, I beheld the wretch---the miserable monster whom I had created. He held up
+    forced its way through the window shutters, I beheld the wretch - the miserable monster whom I had created. He held up
     the curtain of the bed; and his eyes, if eyes they may be called, were fixed on me. His jaws opened, and he muttered
     some inarticulate sounds, while a grin wrinkled his cheeks. He might have spoken, but I did not hear; one hand was
     stretched out, seemingly to detain me, but I escaped and rushed downstairs. I took refuge in the courtyard belonging to
@@ -1010,7 +1010,7 @@
     "It gives me the greatest delight to see you; but tell me how you left my father, brothers, and Elizabeth."
 
     "Very well, and very happy, only a little uneasy that they hear from you so seldom. By the by, I mean to lecture you a
-    little upon their account myself.---But, my dear Frankenstein, continued he, stopping short and gazing full in my face,
+    little upon their account myself. - But, my dear Frankenstein, continued he, stopping short and gazing full in my face,
     "I did not before remark how very ill you appear; so thin and pale; you look as if you had been watching for several
     nights."
 
@@ -1087,12 +1087,12 @@
 *** Chapter 6
 
 
-    Clerval then put the following letter into my hands. It was from my own Elizabeth:---
+    Clerval then put the following letter into my hands. It was from my own Elizabeth: - 
 
     My dearest Cousin,
 
     You have been ill, very ill, and even the constant letters of dear kind Henry are not sufficient to reassure me on your
-    account. You are forbidden to write---to hold a pen; yet one word from you, dear Victor, is necessary to calm our
+    account. You are forbidden to write - to hold a pen; yet one word from you, dear Victor, is necessary to calm our
     apprehensions. For a long time I have thought that each post would bring this line, and my persuasions have restrained
     my uncle from undertaking a journey to Ingolstadt. I have prevented his encountering the inconveniences and perhaps
     dangers of so long a journey, yet how often have I regretted not being able to perform it myself! I figure to myself
@@ -1100,7 +1100,7 @@
     nor minister to them with the care and affection of your poor cousin. Yet that is over now: Clerval writes that indeed
     you are getting better. I eagerly hope that you will confirm this intelligence soon in your own handwriting.
 
-    Get well---and return to us. You will find a happy, cheerful home and friends who love you dearly. Your father's health
+    Get well - and return to us. You will find a happy, cheerful home and friends who love you dearly. Your father's health
     is vigorous, and he asks but to see you, but to be assured that you are well; and not a care will ever cloud his
     benevolent countenance. How pleased you would be to remark the improvement of our Ernest! He is now sixteen and full of
     activity and spirit. He is desirous to be a true Swiss and to enter into foreign service, but we cannot part with him,
@@ -1110,7 +1110,7 @@
     and permit him to enter on the profession which he has selected.
 
     Little alteration, except the growth of our dear children, has taken place since you left us. The blue lake and
-    snow-clad mountains---they never change; and I think our placid home and our contented hearts are regulated by the same
+    snow-clad mountains - they never change; and I think our placid home and our contented hearts are regulated by the same
     immutable laws. My trifling occupations take up my time and amuse me, and I am rewarded for any exertions by seeing none
     but happy, kind faces around me. Since you left us, but one change has taken place in our little household. Do you
     remember on what occasion Justine Moritz entered our family? Probably you do not; I will relate her history, therefore
@@ -1126,7 +1126,7 @@
 
     Justine, you may remember, was a great favourite of yours; and I recollect you once remarked that if you were in an ill
     humour, one glance from Justine could dissipate it, for the same reason that Ariosto gives concerning the beauty of
-    Angelica ---she looked so frank-hearted and happy. My aunt conceived a great attachment for her, by which she was
+    Angelica  - she looked so frank-hearted and happy. My aunt conceived a great attachment for her, by which she was
     induced to give her an education superior to that which she had at first intended. This benefit was fully repaid;
     Justine was the most grateful little creature in the world: I do not mean that she made any professions I never heard
     one pass her lips, but you could see by her eyes that she almost adored her protectress. Although her disposition was
@@ -1165,12 +1165,12 @@
     widow, and much older than Manoir; but she is very much admired, and a favourite with everybody.
 
     I have written myself into better spirits, dear cousin; but my anxiety returns upon me as I conclude. Write, dearest
-    Victor---one line---one word will be a blessing to us. Ten thousand thanks to Henry for his kindness, his affection, and
+    Victor - one line - one word will be a blessing to us. Ten thousand thanks to Henry for his kindness, his affection, and
     his many letters; we are sincerely grateful. Adieu! my cousin; take care of your self; and, I entreat you, write!
 
     Elizabeth Lavenza.
 
-    Geneva, March 18, 17---,
+    Geneva, March 18, 17 - ,
 
     "Dear, dear Elizabeth!" I exclaimed, when I had read her letter: "I will write instantly and relieve them from the
     anxiety they must feel." I wrote, and this exertion greatly fatigued me; but my convalescence had commenced, and
@@ -1196,10 +1196,10 @@
     detail to another would only impress more deeply.
 
     M. Krempe was not equally docile; and in my condition at that time, of almost insupportable sensitiveness, his harsh
-    blunt encomiums gave me even more pain than the benevolent approbation of M. Waldman. "D---n the fellow!" cried he;
+    blunt encomiums gave me even more pain than the benevolent approbation of M. Waldman. "D - n the fellow!" cried he;
     "why, M. Clerval, I assure you he has outstript us all. Ay, stare if you please; but it is nevertheless true. A
     youngster who, but a few years ago, believed in Cornelius Agrippa as firmly as in the gospel, has now set himself at the
-    head of the university; and if he is not soon pulled down, we shall all be out of countenance.---Ay, ay," continued he,
+    head of the university; and if he is not soon pulled down, we shall all be out of countenance. - Ay, ay," continued he,
     observing my face expressive of suffering, "M. Frankenstein is modest; an excellent quality in a young man. Young men
     should be diffident of themselves, you know, M. Clerval: I was myself when young; but that wears out in a very short
     time."
@@ -1217,7 +1217,7 @@
     orientalists. I did not, like him, attempt a critical knowledge of their dialects, for I did not contemplate making any
     other use of them than temporary amusement. I read merely to understand their meaning, and they well repaid my labours.
     Their melancholy is soothing, and their joy elevating, to a degree I never experienced in studying the authors of any
-    other country. When you read their writings, life appears to consist in a warm sun and a garden of roses,---in the
+    other country. When you read their writings, life appears to consist in a warm sun and a garden of roses, - in the
     smiles and frowns of a fair enemy, and the fire that consumes your own heart. How different from the manly and heroical
     poetry of Greece and Rome!
 
@@ -1257,7 +1257,7 @@
 *** Chapter 7
 
 
-    On my return, I found the following letter from my father:---
+    On my return, I found the following letter from my father: - 
 
     "My dear Victor,
 
@@ -1269,7 +1269,7 @@
     but I know it is impossible; even now your eye skims over the page to seek the words which are to convey to you the
     horrible tidings.
 
-    "William is dead!---that sweet child, whose smiles delighted and warmed my heart, who was so gentle, yet so gay! Victor,
+    "William is dead! - that sweet child, whose smiles delighted and warmed my heart, who was so gentle, yet so gay! Victor,
     he is murdered!
 
     "I will not attempt to console you; but will simply relate the circumstances of the transaction.
@@ -1309,7 +1309,7 @@
 
     "Alphonse Frankenstein.
 
-    "Geneva, May 12th, 17---."
+    "Geneva, May 12th, 17 - ."
 
     Clerval, who had watched my countenance as I read this letter, was surprised to observe the despair that succeeded the
     joy I at first expressed on receiving new from my friends. I threw the letter on the table, and covered my face with my
@@ -1426,7 +1426,7 @@
     Ernest entered: he had heard me arrive, and hastened to welcome me: "Welcome, my dearest Victor," said he. "Ah! I wish
     you had come three months ago, and then you would have found us all joyous and delighted. You come to us now to share a
     misery which nothing can alleviate; yet you presence will, I hope, revive our father, who seems sinking under his
-    misfortune; and your persuasions will induce poor Elizabeth to cease her vain and tormenting self- accusations.---Poor
+    misfortune; and your persuasions will induce poor Elizabeth to cease her vain and tormenting self- accusations. - Poor
     William! he was our darling and our pride!"
 
     Tears, unrestrained, fell from my brother's eyes; a sense of mortal agony crept over my frame. Before, I had only
@@ -1434,7 +1434,7 @@
     tried to calm Ernest; I enquired more minutely concerning my father, and her I named my cousin.
 
     "She most of all," said Ernest, "requires consolation; she accused herself of having caused the death of my brother, and
-    that made her very wretched. But since the murderer has been discovered---"
+    that made her very wretched. But since the murderer has been discovered - "
 
     "The murderer discovered! Good God! how can that be? who could attempt to pursue him? It is impossible; one might as
     well try to overtake the winds, or confine a mountain-stream with a straw. I saw him too; he was free last night!"
@@ -1690,7 +1690,7 @@
     hands! Ye weep, unhappy ones, but these are not your last tears! Again shall you raise the funeral wail, and the sound
     of your lamentations shall again and again be heard! Frankenstein, your son, your kinsman, your early, much-loved
     friend; he who would spend each vital drop of blood for your sakes, who has no thought nor sense of joy except as it is
-    mirrored also in your dear countenances, who would fill the air with blessings and spend his life in serving you---he
+    mirrored also in your dear countenances, who would fill the air with blessings and spend his life in serving you - he
     bids you weep, to shed countless tears; happy beyond his hopes, if thus inexorable fate be satisfied, and if the
     destruction pause before the peace of the grave have succeeded to your sad torments!
 
@@ -1713,12 +1713,12 @@
 
     This state of mind preyed upon my health, which had perhaps never entirely recovered from the first shock it had
     sustained. I shunned the face of man; all sound of joy or complacency was torture to me; solitude was my only
-    consolation---deep, dark, deathlike solitude.
+    consolation - deep, dark, deathlike solitude.
 
     My father observed with pain the alteration perceptible in my disposition and habits and endeavoured by arguments
     deduced from the feelings of his serene conscience and guiltless life to inspire me with fortitude and awaken in me the
     courage to dispel the dark cloud which brooded over me. "Do you think, Victor," said he, "that I do not suffer also? No
-    one could love a child more than I loved your brother"---tears came into his eyes as he spoke---"but is it not a duty to
+    one could love a child more than I loved your brother" - tears came into his eyes as he spoke - "but is it not a duty to
     the survivors that we should refrain from augmenting their unhappiness by an appearance of immoderate grief? It is also
     a duty owed to yourself, for excessive sorrow prevents improvement or enjoyment, or even the discharge of daily
     usefulness, without which no man is fit for society."
@@ -1733,8 +1733,8 @@
     night, I took the boat and passed many hours upon the water. Sometimes, with my sails set, I was carried by the wind;
     and sometimes, after rowing into the middle of the lake, I left the boat to pursue its own course and gave way to my own
     miserable reflections. I was often tempted, when all was at peace around me, and I the only unquiet thing that wandered
-    restless in a scene so beautiful and heavenly---if I except some bat, or the frogs, whose harsh and interrupted croaking
-    was heard only when I approached the shore---often, I say, I was tempted to plunge into the silent lake, that the waters
+    restless in a scene so beautiful and heavenly - if I except some bat, or the frogs, whose harsh and interrupted croaking
+    was heard only when I approached the shore - often, I say, I was tempted to plunge into the silent lake, that the waters
     might close over me and my calamities forever. But I was restrained, when I thought of the heroic and suffering
     Elizabeth, whom I tenderly loved, and whose existence was bound up in mine. I thought also of my father and surviving
     brother; should I by my base desertion leave them exposed and unprotected to the malice of the fiend whom I had let
@@ -1778,7 +1778,7 @@
     and sometimes of revenge, in your countenance that makes me tremble. Dear Victor, banish these dark passions. Remember
     the friends around you, who centre all their hopes in you. Have we lost the power of rendering you happy? Ah! While we
     love, while we are true to each other, here in this land of peace and beauty, your native country, we may reap every
-    tranquil blessing---what can disturb our peace?"
+    tranquil blessing - what can disturb our peace?"
 
     And could not such words from her whom I fondly prized before every other gift of fortune suffice to chase away the
     fiend that lurked in my heart? Even as she spoke I drew near to her, as if in terror, lest at that very moment the
@@ -1801,7 +1801,7 @@
     nearly two months after the death of Justine, that miserable epoch from which I dated all my woe. The weight upon my
     spirit was sensibly lightened as I plunged yet deeper in the ravine of Arve. The immense mountains and precipices that
     overhung me on every side, the sound of the river raging among the rocks, and the dashing of the waterfalls around spoke
-    of a power mighty as Omnipotence---and I ceased to fear or to bend before any being less almighty than that which had
+    of a power mighty as Omnipotence - and I ceased to fear or to bend before any being less almighty than that which had
     created and ruled the elements, here displayed in their most terrific guise. Still, as I ascended higher, the valley
     assumed a more magnificent and astonishing character. Ruined castles hanging on the precipices of piny mountains, the
     impetuous Arve, and cottages every here and there peeping forth from among the trees formed a scene of singular beauty.
@@ -1818,8 +1818,8 @@
     A tingling long-lost sense of pleasure often came across me during this journey. Some turn in the road, some new object
     suddenly perceived and recognized, reminded me of days gone by, and were associated with the lighthearted gaiety of
     boyhood. The very winds whispered in soothing accents, and maternal Nature bade me weep no more. Then again the kindly
-    influence ceased to act---I found myself fettered again to grief and indulging in all the misery of reflection. Then I
-    spurred on my animal, striving so to forget the world, my fears, and more than all, myself---or, in a more desperate
+    influence ceased to act - I found myself fettered again to grief and indulging in all the misery of reflection. Then I
+    spurred on my animal, striving so to forget the world, my fears, and more than all, myself - or, in a more desperate
     fashion, I alighted and threw myself on the grass, weighed down by horror and despair.
 
     At length I arrived at the village of Chamounix. Exhaustion succeeded to the extreme fatigue both of body and of mind
@@ -1843,7 +1843,7 @@
     which it had brooded for the last month. I retired to rest at night; my slumbers, as it were, waited on and ministered
     to by the assemblance of grand shapes which I had contemplated during the day. They congregated round me; the unstained
     snowy mountaintop, the glittering pinnacle, the pine woods, and ragged bare ravine, the eagle, soaring amidst the
-    clouds---they all gathered round me and bade me be at peace.
+    clouds - they all gathered round me and bade me be at peace.
 
     Where had they fled when the next morning I awoke? All of soul- inspiriting fled with sleep, and dark melancholy clouded
     every thought. The rain was pouring in torrents, and thick mists hid the summits of the mountains, so that I even saw
@@ -2220,7 +2220,7 @@
     their language, which knowledge might enable me to make them overlook the deformity of my figure, for with this also the
     contrast perpetually presented to my eyes had made me acquainted.
 
-    "I had admired the perfect forms of my cottagers---their grace, beauty, and delicate complexions; but how was I
+    "I had admired the perfect forms of my cottagers - their grace, beauty, and delicate complexions; but how was I
     terrified when I viewed myself in a transparent pool! At first I started back, unable to believe that it was indeed I
     who was reflected in the mirror; and when I became fully convinced that I was in reality the monster that I am, I was
     filled with the bitterest sensations of despondence and mortification. Alas! I did not yet entirely know the fatal
@@ -2274,8 +2274,8 @@
     and gloomy should now bloom with the most beautiful flowers and verdure. My senses were gratified and refreshed by a
     thousand scents of delight and a thousand sights of beauty.
 
-    "It was on one of these days, when my cottagers periodically rested from labour---the old man played on his guitar, and
-    the children listened to him---that I observed the countenance of Felix was melancholy beyond expression; he sighed
+    "It was on one of these days, when my cottagers periodically rested from labour - the old man played on his guitar, and
+    the children listened to him - that I observed the countenance of Felix was melancholy beyond expression; he sighed
     frequently, and once his father paused in his music, and I conjectured by his manner that he inquired the cause of his
     son's sorrow. Felix replied in a cheerful accent, and the old man was recommencing his music when someone tapped at the
     door.
@@ -2344,8 +2344,8 @@
     declamatory style was framed in imitation of the Eastern authors. Through this work I obtained a cursory knowledge of
     history and a view of the several empires at present existing in the world; it gave me an insight into the manners,
     governments, and religions of the different nations of the earth. I heard of the slothful Asiatics, of the stupendous
-    genius and mental activity of the Grecians, of the wars and wonderful virtue of the early Romans---of their subsequent
-    degenerating---of the decline of that mighty empire, of chivalry, Christianity, and kings. I heard of the discovery of
+    genius and mental activity of the Grecians, of the wars and wonderful virtue of the early Romans - of their subsequent
+    degenerating - of the decline of that mighty empire, of chivalry, Christianity, and kings. I heard of the discovery of
     the American hemisphere and wept with Safie over the hapless fate of its original inhabitants.
 
     "These wonderful narrations inspired me with strange feelings. Was man, indeed, at once so powerful, so virtuous and
@@ -2376,7 +2376,7 @@
 
     "Of what a strange nature is knowledge! It clings to the mind when it has once seized on it like a lichen on the rock. I
     wished sometimes to shake off all thought and feeling, but I learned that there was but one means to overcome the
-    sensation of pain, and that was death---a state which I feared yet did not understand. I admired virtue and good
+    sensation of pain, and that was death - a state which I feared yet did not understand. I admired virtue and good
     feelings and loved the gentle manners and amiable qualities of my cottagers, but I was shut out from intercourse with
     them, except through means which I obtained by stealth, when I was unseen and unknown, and which rather increased than
     satisfied the desire I had of becoming one among my fellows. The gentle words of Agatha and the animated smiles of the
@@ -2672,7 +2672,7 @@
     self-interest, are full of brotherly love and charity. Rely, therefore, on your hopes; and if these friends are good and
     amiable, do not despair.'
 
-    "`They are kind---they are the most excellent creatures in the world; but, unfortunately, they are prejudiced against
+    "`They are kind - they are the most excellent creatures in the world; but, unfortunately, they are prejudiced against
     me. I have good dispositions; my life has been hitherto harmless and in some degree beneficial; but a fatal prejudice
     clouds their eyes, and where they ought to see a feeling and kind friend, they behold only a detestable monster.'
 
@@ -2859,7 +2859,7 @@
     "For some weeks I led a miserable life in the woods, endeavouring to cure the wound which I had received. The ball had
     entered my shoulder, and I knew not whether it had remained there or passed through; at any rate I had no means of
     extracting it. My sufferings were augmented also by the oppressive sense of the injustice and ingratitude of their
-    infliction. My daily vows rose for revenge---a deep and deadly revenge, such as would alone compensate for the outrages
+    infliction. My daily vows rose for revenge - a deep and deadly revenge, such as would alone compensate for the outrages
     and anguish I had endured.
 
     "After some weeks my wound healed, and I continued my journey. The labours I endured were no longer to be alleviated by
@@ -2887,9 +2887,9 @@
 
     "`Boy, you will never see your father again; you must come with me.'
 
-    "`Hideous monster! Let me go. My papa is a syndic---he is M. Frankenstein---he will punish you. You dare not keep me.'
+    "`Hideous monster! Let me go. My papa is a syndic - he is M. Frankenstein - he will punish you. You dare not keep me.'
 
-    "`Frankenstein! you belong then to my enemy---to him towards whom I have sworn eternal revenge; you shall be my first
+    "`Frankenstein! you belong then to my enemy - to him towards whom I have sworn eternal revenge; you shall be my first
     victim.'
 
     "The child still struggled and loaded me with epithets which carried despair to my heart; I grasped his throat to
@@ -2912,12 +2912,12 @@
     hiding-place, I entered a barn which had appeared to me to be empty. A woman was sleeping on some straw; she was young,
     not indeed so beautiful as her whose portrait I held, but of an agreeable aspect and blooming in the loveliness of youth
     and health. Here, I thought, is one of those whose joy-imparting smiles are bestowed on all but me. And then I bent over
-    her and whispered, `Awake, fairest, thy lover is near---he who would give his life but to obtain one look of affection
+    her and whispered, `Awake, fairest, thy lover is near - he who would give his life but to obtain one look of affection
     from thine eyes; my beloved, awake!'
 
     "The sleeper stirred; a thrill of terror ran through me. Should she indeed awake, and see me, and curse me, and denounce
     the murderer? Thus would she assuredly act if her darkened eyes opened and she beheld me. The thought was madness; it
-    stirred the fiend within me---not I, but she, shall suffer; the murder I have committed because I am forever robbed of
+    stirred the fiend within me - not I, but she, shall suffer; the murder I have committed because I am forever robbed of
     all that she could give me, she shall atone. The crime had its source in her; be hers the punishment! Thanks to the
     lessons of Felix and the sanguinary laws of man, I had learned now to work mischief. I bent over her and placed the
     portrait securely in one of the folds of her dress. She moved again, and I fled.
@@ -2957,7 +2957,7 @@
     birth."
 
     A fiendish rage animated him as he said this; his face was wrinkled into contortions too horrible for human eyes to
-    behold; but presently he calmed himself and proceeded---
+    behold; but presently he calmed himself and proceeded - 
 
     "I intended to reason. This passion is detrimental to me, for you do not reflect that YOU are the cause of its excess.
     If any being felt emotions of benevolence towards me, I should return them a hundred and a hundredfold; for that one
@@ -3039,10 +3039,10 @@
     me and how I listened to every blast of wind as if it were a dull ugly siroc on its way to consume me.
 
     Morning dawned before I arrived at the village of Chamounix; I took no rest, but returned immediately to Geneva. Even in
-    my own heart I could give no expression to my sensations---they weighed on me with a mountain's weight and their excess
+    my own heart I could give no expression to my sensations - they weighed on me with a mountain's weight and their excess
     destroyed my agony beneath them. Thus I returned home, and entering the house, presented myself to the family. My
     haggard and wild appearance awoke intense alarm, but I answered no question, scarcely did I speak. I felt as if I were
-    placed under a ban---as if I had no right to claim their sympathies---as if never more might I enjoy companionship with
+    placed under a ban - as if I had no right to claim their sympathies - as if never more might I enjoy companionship with
     them. Yet even thus I loved them to adoration; and to save them, I resolved to dedicate myself to my most abhorred task.
     The prospect of such an occupation made every other circumstance of existence pass before me like a dream, and that
     thought only had to me the reality of life.
@@ -3072,7 +3072,7 @@
     this, but yesterday an idea struck me, and if it is well founded, I conjure you to avow it. Reserve on such a point
     would be not only useless, but draw down treble misery on us all."
 
-    I trembled violently at his exordium, and my father continued---"I confess, my son, that I have always looked forward to
+    I trembled violently at his exordium, and my father continued - "I confess, my son, that I have always looked forward to
     your marriage with our dear Elizabeth as the tie of our domestic comfort and the stay of my declining years. You were
     attached to each other from your earliest infancy; you studied together, and appeared, in dispositions and tastes,
     entirely suited to one another. But so blind is the experience of man that what I conceived to be the best assistants to
@@ -3129,7 +3129,7 @@
 
     To England, therefore, I was bound, and it was understood that my union with Elizabeth should take place immediately on
     my return. My father's age rendered him extremely averse to delay. For myself, there was one reward I promised myself
-    from my detested toils---one consolation for my unparalleled sufferings; it was the prospect of that day when,
+    from my detested toils - one consolation for my unparalleled sufferings; it was the prospect of that day when,
     enfranchised from my miserable slavery, I might claim Elizabeth and forget the past in my union with her.
 
     I now made arrangements for my journey, but one feeling haunted me which filled me with fear and agitation. During my
@@ -3143,7 +3143,7 @@
 
     It was in the latter end of September that I again quitted my native country. My journey had been my own suggestion, and
     Elizabeth therefore acquiesced, but she was filled with disquiet at the idea of my suffering, away from her, the inroads
-    of misery and grief. It had been her care which provided me a companion in Clerval---and yet a man is blind to a
+    of misery and grief. It had been her care which provided me a companion in Clerval - and yet a man is blind to a
     thousand minute circumstances which call forth a woman's sedulous attention. She longed to bid me hasten my return; a
     thousand conflicting emotions rendered her mute as she bade me a tearful, silent farewell.
 
@@ -3194,16 +3194,16 @@
     chastened by the sensibility of his heart. His soul overflowed with ardent affections, and his friendship was of that
     devoted and wondrous nature that the world-minded teach us to look for only in the imagination. But even human
     sympathies were not sufficient to satisfy his eager mind. The scenery of external nature, which others regard only with
-    admiration, he loved with ardour:---
+    admiration, he loved with ardour: - 
 
-    ---The sounding cataract Haunted him like a passion: the tall rock, The mountain, and the deep and gloomy wood, Their
+     - The sounding cataract Haunted him like a passion: the tall rock, The mountain, and the deep and gloomy wood, Their
     colours and their forms, were then to him An appetite; a feeling, and a love, That had no need of a remoter charm, By
     thought supplied, or any interest Unborrow'd from the eye.
 
     [Wordsworth's "Tintern Abbey".]
 
     And where does he now exist? Is this gentle and lovely being lost forever? Has this mind, so replete with ideas,
-    imaginations fanciful and magnificent, which formed a world, whose existence depended on the life of its creator;---has
+    imaginations fanciful and magnificent, which formed a world, whose existence depended on the life of its creator; - has
     this mind perished? Does it now only exist in my memory? No, it is not thus; your form so divinely wrought, and beaming
     with beauty, has decayed, but your spirit still visits and consoles your unhappy friend.
 
@@ -3215,7 +3215,7 @@
     scenery, but we arrived in a few days at Rotterdam, whence we proceeded by sea to England. It was on a clear morning, in
     the latter days of December, that I first saw the white cliffs of Britain. The banks of the Thames presented a new
     scene; they were flat but fertile, and almost every town was marked by the remembrance of some story. We saw Tilbury
-    Fort and remembered the Spanish Armada, Gravesend, Woolwich, and Greenwich---places which I had heard of even in my
+    Fort and remembered the Spanish Armada, Gravesend, Woolwich, and Greenwich - places which I had heard of even in my
     country.
 
     At length we saw the numerous steeples of London, St. Paul's towering above all, and the Tower famed in English history.
@@ -3279,7 +3279,7 @@
     future. I was formed for peaceful happiness. During my youthful days discontent never visited my mind, and if I was ever
     overcome by ennui, the sight of what is beautiful in nature or the study of what is excellent and sublime in the
     productions of man could always interest my heart and communicate elasticity to my spirits. But I am a blasted tree; the
-    bolt has entered my soul; and I felt then that I should survive to exhibit what I shall soon cease to be---a miserable
+    bolt has entered my soul; and I felt then that I should survive to exhibit what I shall soon cease to be - a miserable
     spectacle of wrecked humanity, pitiable to others and intolerable to myself.
 
     We passed a considerable period at Oxford, rambling among its environs and endeavouring to identify every spot which
@@ -3447,7 +3447,7 @@
     "find a wife for his bosom, and each beast have his mate, and I be alone? I had feelings of affection, and they were
     requited by detestation and scorn. Man! You may hate, but beware! Your hours will pass in dread and misery, and soon the
     bolt will fall which must ravish from you your happiness forever. Are you to be happy while I grovel in the intensity of
-    my wretchedness? You can blast my other passions, but revenge remains---revenge, henceforth dearer than light or food! I
+    my wretchedness? You can blast my other passions, but revenge remains - revenge, henceforth dearer than light or food! I
     may die, but first you, my tyrant and tormentor, shall curse the sun that gazes on your misery. Beware, for I am
     fearless and therefore powerful. I will watch with the wiliness of a snake, that I may sting with its venom. Man, you
     shall repent of the injuries you inflict."
@@ -3466,7 +3466,7 @@
     precipitate him into the ocean. I walked up and down my room hastily and perturbed, while my imagination conjured up a
     thousand images to torment and sting me. Why had I not followed him and closed with him in mortal strife? But I had
     suffered him to depart, and he had directed his course towards the mainland. I shuddered to think who might be the next
-    victim sacrificed to his insatiate revenge. And then I thought again of his words---"I WILL BE WITH YOU ON YOUR
+    victim sacrificed to his insatiate revenge. And then I thought again of his words - "I WILL BE WITH YOU ON YOUR
     WEDDING-NIGHT." That, then, was the period fixed for the fulfillment of my destiny. In that hour I should die and at
     once satisfy and extinguish his malice. The prospect did not move me to fear; yet when I thought of my beloved
     Elizabeth, of her tears and endless sorrow, when she should find her lover so barbarously snatched from her, tears, the
@@ -3536,7 +3536,7 @@
     me. I had already been out many hours and felt the torment of a burning thirst, a prelude to my other sufferings. I
     looked on the heavens, which were covered by clouds that flew before the wind, only to be replaced by others; I looked
     upon the sea; it was to be my grave. "Fiend," I exclaimed, "your task is already fulfilled!" I thought of Elizabeth, of
-    my father, and of Clerval---all left behind, on whom the monster might satisfy his sanguinary and merciless passions.
+    my father, and of Clerval - all left behind, on whom the monster might satisfy his sanguinary and merciless passions.
     This idea plunged me into a reverie so despairing and frightful that even now, when the scene is on the point of closing
     before me forever, I shudder to reflect on it.
 
@@ -3631,7 +3631,7 @@
     during the night, it was very probable that I had beaten about for many hours and had been obliged to return nearly to
     the same spot from which I had departed. Besides, they observed that it appeared that I had brought the body from
     another place, and it was likely that as I did not appear to know the shore, I might have put into the harbour ignorant
-    of the distance of the town of ------ from the place where I had deposited the corpse.
+    of the distance of the town of  -  -  from the place where I had deposited the corpse.
 
     Mr. Kirwin, on hearing this evidence, desired that I should be taken into the room where the body lay for interment,
     that it might be observed what effect the sight of it would produce upon me. This idea was probably suggested by the
@@ -3644,7 +3644,7 @@
     the presence of the magistrate and witnesses, passed like a dream from my memory when I saw the lifeless form of Henry
     Clerval stretched before me. I gasped for breath, and throwing myself on the body, I exclaimed, "Have my murderous
     machinations deprived you also, my dearest Henry, of life? Two I have already destroyed; other victims await their
-    destiny; but you, Clerval, my friend, my benefactor---"
+    destiny; but you, Clerval, my friend, my benefactor - "
 
     The human frame could no longer support the agonies that I endured, and I was carried out of the room in strong
     convulsions. A fever succeeded to this. I lay for two months on the point of death; my ravings, as I afterwards heard,
@@ -3744,12 +3744,12 @@
     in a moment my father entered it.
 
     Nothing, at this moment, could have given me greater pleasure than the arrival of my father. I stretched out my hand to
-    him and cried, "Are you, then, safe---and Elizabeth---and Ernest?" My father calmed me with assurances of their welfare
+    him and cried, "Are you, then, safe - and Elizabeth - and Ernest?" My father calmed me with assurances of their welfare
     and endeavoured, by dwelling on these subjects so interesting to my heart, to raise my desponding spirits; but he soon
     felt that a prison cannot be the abode of cheerfulness.
 
     "What a place is this that you inhabit, my son!" said he, looking mournfully at the barred windows and wretched
-    appearance of the room. "You travelled to seek happiness, but a fatality seems to pursue you. And poor Clerval---"
+    appearance of the room. "You travelled to seek happiness, but a fatality seems to pursue you. And poor Clerval - "
 
     The name of my unfortunate and murdered friend was an agitation too great to be endured in my weak state; I shed tears.
     "Alas! Yes, my father," replied I; "some destiny of the most horrible kind hangs over me, and I must live to fulfil it,
@@ -3797,7 +3797,7 @@
     the murderer, that if any chance led me to the place of his concealment, or if he dared again to blast me by his
     presence, I might, with unfailing aim, put an end to the existence of the monstrous image which I had endued with the
     mockery of a soul still more monstrous. My father still desired to delay our departure, fearful that I could not sustain
-    the fatigues of a journey, for I was a shattered wreck---the shadow of a human being. My strength was gone. I was a mere
+    the fatigues of a journey, for I was a shattered wreck - the shadow of a human being. My strength was gone. I was a mere
     skeleton, and fever night and day preyed upon my wasted frame. Still, as I urged our leaving Ireland with such
     inquietude and impatience, my father thought it best to yield. We took our passage on board a vessel bound for
     Havre-de-Grace and sailed with a fair wind from the Irish shores. It was midnight. I lay on the deck looking at the
@@ -3805,7 +3805,7 @@
     beat with a feverish joy when I reflected that I should soon see Geneva. The past appeared to me in the light of a
     frightful dream; yet the vessel in which I was, the wind that blew me from the detested shore of Ireland, and the sea
     which surrounded me told me too forcibly that I was deceived by no vision and that Clerval, my friend and dearest
-    companion, had fallen a victim to me and the monster of my creation. I repassed, in my memory, my whole life---my quiet
+    companion, had fallen a victim to me and the monster of my creation. I repassed, in my memory, my whole life - my quiet
     happiness while residing with my family in Geneva, the death of my mother, and my departure for Ingolstadt. I
     remembered, shuddering, the mad enthusiasm that hurried me on to the creation of my hideous enemy, and I called to mind
     the night in which he first lived. I was unable to pursue the train of thought; a thousand feelings pressed upon me, and
@@ -3836,7 +3836,7 @@
 
     "Alas! My father," said I, "how little do you know me. Human beings, their feelings and passions, would indeed be
     degraded if such a wretch as I felt pride. Justine, poor unhappy Justine, was as innocent as I, and she suffered the
-    same charge; she died for it; and I am the cause of this---I murdered her. William, Justine, and Henry---they all died
+    same charge; she died for it; and I am the cause of this - I murdered her. William, Justine, and Henry - they all died
     by my hands."
 
     My father had often, during my imprisonment, heard me make the same assertion; when I thus accused myself, he sometimes
@@ -3889,7 +3889,7 @@
     this when young, and taught to look forward to it as an event that would certainly take place. We were affectionate
     playfellows during childhood, and, I believe, dear and valued friends to one another as we grew older. But as brother
     and sister often entertain a lively affection towards each other without desiring a more intimate union, may not such
-    also be our case? Tell me, dearest Victor. Answer me, I conjure you by our mutual happiness, with simple truth---Do you
+    also be our case? Tell me, dearest Victor. Answer me, I conjure you by our mutual happiness, with simple truth - Do you
     not love another?
 
     You have travelled; you have spent several years of your life at Ingolstadt; and I confess to you, my friend, that when
@@ -3913,7 +3913,7 @@
 
     Geneva, May 18th, 17-
 
-    This letter revived in my memory what I had before forgotten, the threat of the fiend---"I WILL BE WITH YOU ON YOUR
+    This letter revived in my memory what I had before forgotten, the threat of the fiend - "I WILL BE WITH YOU ON YOUR
     WEDDING-NIGHT!" Such was my sentence, and on that night would the daemon employ every art to destroy me and tear me from
     the glimpse of happiness which promised partly to console my sufferings. On that night he had determined to consummate
     his crimes by my death. Well, be it so; a deadly struggle would then assuredly take place, in which if he were
@@ -4070,7 +4070,7 @@
     tingling in the extremities of my limbs. This state lasted but for an instant; the scream was repeated, and I rushed
     into the room. Great God! Why did I not then expire! Why am I here to relate the destruction of the best hope and the
     purest creature on earth? She was there, lifeless and inanimate, thrown across the bed, her head hanging down and her
-    pale and distorted features half covered by her hair. Everywhere I turn I see the same figure---her bloodless arms and
+    pale and distorted features half covered by her hair. Everywhere I turn I see the same figure - her bloodless arms and
     relaxed form flung by the murderer on its bridal bier. Could I behold this and live? Alas! Life is obstinate and clings
     closest where it is most hated. For a moment only did I lose recollection; I fell senseless on the ground.
 
@@ -4121,7 +4121,7 @@
     now relate can but be tedious to you. Know that, one by one, my friends were snatched away; I was left desolate. My own
     strength is exhausted, and I must tell, in a few words, what remains of my hideous narration. I arrived at Geneva. My
     father and Ernest yet lived, but the former sunk under the tidings that I bore. I see him now, excellent and venerable
-    old man! His eyes wandered in vacancy, for they had lost their charm and their delight---his Elizabeth, his more than
+    old man! His eyes wandered in vacancy, for they had lost their charm and their delight - his Elizabeth, his more than
     daughter, whom he doted on with all that affection which a man feels, who in the decline of life, having few affections,
     clings more earnestly to those that remain. Cursed, cursed be the fiend that brought misery on his grey hairs and doomed
     him to waste in wretchedness! He could not live under the horrors that were accumulated around him; the springs of
@@ -4134,7 +4134,7 @@
     a solitary cell had been my habitation.
 
     Liberty, however, had been a useless gift to me, had I not, as I awakened to reason, at the same time awakened to
-    revenge. As the memory of past misfortunes pressed upon me, I began to reflect on their cause---the monster whom I had
+    revenge. As the memory of past misfortunes pressed upon me, I began to reflect on their cause - the monster whom I had
     created, the miserable daemon whom I had sent abroad into the world for my destruction. I was possessed by a maddening
     rage when I thought of him, and desired and ardently prayed that I might have him within my grasp to wreak a great and
     signal revenge on his cursed head.
@@ -4265,8 +4265,8 @@
      vengeance, that burned within me, died in my heart, and I pursued my path towards the destruction of the daemon more as
      a task enjoined by heaven, as the mechanical impulse of some power of which I was unconscious, than as the ardent desire
      of my soul. What his feelings were whom I pursued I cannot know. Sometimes, indeed, he left marks in writing on the
-     barks of the trees or cut in stone that guided me and instigated my fury. "My reign is not yet over"---these words were
-     legible in one of these inscriptions---"you live, and my power is complete. Follow me; I seek the everlasting ices of
+     barks of the trees or cut in stone that guided me and instigated my fury. "My reign is not yet over" - these words were
+     legible in one of these inscriptions - "you live, and my power is complete. Follow me; I seek the everlasting ices of
      the north, where you will feel the misery of cold and frost, to which I am impassive. You will find near this place, if
      you follow not too tardily, a dead hare; eat and be refreshed. Come on, my enemy; we have yet to wrestle for our lives,
      but many hard and miserable hours must you endure until that period shall arrive."
@@ -4351,7 +4351,7 @@
      he yet live? If I do, swear to me, Walton, that he shall not escape, that you will seek him and satisfy my vengeance in
      his death. And do I dare to ask of you to undertake my pilgrimage, to endure the hardships that I have undergone? No; I
      am not so selfish. Yet, when I am dead, if he should appear, if the ministers of vengeance should conduct him to you,
-     swear that he shall not live---swear that he shall not triumph over my accumulated woes and survive to add to the list
+     swear that he shall not live - swear that he shall not triumph over my accumulated woes and survive to add to the list
      of his dark crimes. He is eloquent and persuasive, and once his words had even power over my heart; but trust him not.
      His soul is as hellish as his form, full of treachery and fiendlike malice. Hear him not; call on the names of William,
      Justine, Clerval, Elizabeth, my father, and of the wretched Victor, and thrust your sword into his heart. I will hover
@@ -4459,7 +4459,7 @@
      to any exertion, he speedily sinks again into apparent lifelessness.
 
      I mentioned in my last letter the fears I entertained of a mutiny. This morning, as I sat watching the wan countenance
-     of my friend---his eyes half closed and his limbs hanging listlessly---I was roused by half a dozen of the sailors, who
+     of my friend - his eyes half closed and his limbs hanging listlessly - I was roused by half a dozen of the sailors, who
      demanded admission into the cabin. They entered, and their leader addressed me. He told me that he and his companions
      had been chosen by the other sailors to come in deputation to me to make me a requisition which, in justice, I could not
      refuse. We were immured in ice and should probably never escape, but they feared that if, as was possible, the ice
@@ -4570,7 +4570,7 @@
      Great God! what a scene has just taken place! I am yet dizzy with the remembrance of it. I hardly know whether I shall
      have the power to detail it; yet the tale which I have recorded would be incomplete without this final and wonderful
      catastrophe. I entered the cabin where lay the remains of my ill-fated and admirable friend. Over him hung a form which
-     I cannot find words to describe---gigantic in stature, yet uncouth and distorted in its proportions. As he hung over the
+     I cannot find words to describe - gigantic in stature, yet uncouth and distorted in its proportions. As he hung over the
      coffin, his face was concealed by long locks of ragged hair; but one vast hand was extended, in colour and apparent
      texture like that of a mummy. When he heard the sound of my approach, he ceased to utter exclamations of grief and
      horror and sprung towards the window. Never did I behold a vision so horrible as his face, of such loathsome yet
@@ -4618,7 +4618,7 @@
      your accursed vengeance. It is not pity that you feel; you lament only because the victim of your malignity is withdrawn
      from your power."
 
-     "Oh, it is not thus---not thus," interrupted the being. "Yet such must be the impression conveyed to you by what appears
+     "Oh, it is not thus - not thus," interrupted the being. "Yet such must be the impression conveyed to you by what appears
      to be the purport of my actions. Yet I seek not a fellow feeling in my misery. No sympathy may I ever find. When I first
      sought it, it was the love of virtue, the feelings of happiness and affection with which my whole being overflowed, that
      I wished to be participated. But now that virtue has become to me a shadow, and that happiness and affection are turned
