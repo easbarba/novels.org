@@ -3359,7 +3359,7 @@
      it."
 
      "And if I can ever be of help again, at any future time, long after the memory of my presumption and my folly is
-     forgotten ... "
+     forgotten ... "
 
      I could add no more. My voice faltered, my eyes moistened in spite of me.
 
@@ -17091,7 +17091,7 @@
     #+BEGIN_QUOTE
     (Count of the Holy Roman Empire, Knight Grand Cross of the Order of the Brazen Crown, Perpetual Arch-Master of the
     Rosicrucian Masons of Mesopotamia; Attached (in Honorary Capacities) to Societies Musical, Societies Medical,
-    Societies Philosophical, and Societies General Benevolent, throughout Europe; etc.  etc.  etc.)
+    Societies Philosophical, and Societies General Benevolent, throughout Europe; etc.  etc.  etc.)
     #+END_QUOTE
 
 **** 1. The Count's Narrative

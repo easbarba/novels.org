@@ -801,7 +801,7 @@
     meant -  - 
 
     'The Manor Court and the Methods of Open-field Agriculture... The Cistercians and Sheep-farming... The Crusades... The
-    University ... The House of Commons... The Hundred Years' War... The Wars of the Roses... The Renaissance Scholars...
+    University ... The House of Commons... The Hundred Years' War... The Wars of the Roses... The Renaissance Scholars...
     The Dissolution of the Monasteries... Agrarian and Religious Strife... The Origin of English Sea-power... The Armada...
     ' and so on. Occasionally an individual woman is mentioned, an Elizabeth, or a Mary; a queen or a great lady. But by no
     possible means could middle-class women with nothing but brains and character at their command have taken part in any
@@ -1092,7 +1092,7 @@
     Faintly the inimitable rose.
     #+END_QUOTE
 
-     - they are rightly praised by Mr Murry, and Pope, it is thought, remembered and appropriated those others:
+    - they are rightly praised by Mr Murry, and Pope, it is thought, remembered and appropriated those others:
 
     #+BEGIN_QUOTE
     Now the jonquille o'ercomes the feeble brain;

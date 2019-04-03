@@ -1802,15 +1802,15 @@
    fancy what their feelings would be!
 
    "But these young men didn't think of these things; they were led on by a golden vision. They made all their
-   arrangements, and they chartered the brig /Fanny/ to take them to California.
+   arrangements, and they chartered the brig /Fanny/ to take them to California.
 
-   "The captain of the /Fanny/ is the hero of my story. His name was Alan Dunbar, and he was young and handsome. Heroes
+   "The captain of the /Fanny/ is the hero of my story. His name was Alan Dunbar, and he was young and handsome. Heroes
    always are, you know, but Aunt Louisa says he really was. And he was in love - wildly in love, - with Margaret Grant.
    Margaret was as beautiful as a dream, with soft blue eyes and clouds of golden hair; and she loved Alan Dunbar just as
    much as he loved her. But her parents were bitterly opposed to him, and they had forbidden Margaret to see him or speak
    to him. They hadn't anything against him as a MAN, but they didn't want her to throw herself away on a sailor.
 
-   "Well, when Alan Dunbar knew that he must go to California in the /Fanny/ he was in despair. He felt that he could NEVER
+   "Well, when Alan Dunbar knew that he must go to California in the /Fanny/ he was in despair. He felt that he could NEVER
    go so far away for so long and leave his Margaret behind. And Margaret felt that she could never let him go. I know
    EXACTLY how she felt."
 
@@ -1823,10 +1823,10 @@
    Peter, crushed but not convinced, subsided, and the Story Girl went on.
 
    "Finally, Margaret ran away with Alan, and they were married in Charlottetown. Alan intended to take his wife with him
-   to California in the /Fanny/. If it was a hard journey for a man it was harder still for a woman, but Margaret would
+   to California in the /Fanny/. If it was a hard journey for a man it was harder still for a woman, but Margaret would
    have dared anything for Alan's sake. They had three days - ONLY three days - of happiness, and then the blow fell. The
-   crew and the passengers of the /Fanny/ refused to let Captain Dunbar take his wife with him. They told him he must leave
-   her behind. And all his prayers were of no avail. They say he stood on the deck of the /Fanny/ and pleaded with the men
+   crew and the passengers of the /Fanny/ refused to let Captain Dunbar take his wife with him. They told him he must leave
+   her behind. And all his prayers were of no avail. They say he stood on the deck of the /Fanny/ and pleaded with the men
    while the tears ran down his face; but they would not yield, and he had to leave Margaret behind. Oh, what a parting it
    was!"
 
@@ -3927,7 +3927,7 @@
 
    "Felix King, what has scared you?"
 
-   Felix held out the newspaper - it was the Charlottetown /Daily Enterprise/.
+   Felix held out the newspaper - it was the Charlottetown /Daily Enterprise/.
 
    "It's there," he gasped. "Look - read - oh, do you - think it's - true? The - end of - the world - is coming
    to-morrow - at two - o'clock - in the afternoon!"
@@ -3950,7 +3950,7 @@
    I laugh at the remembrance now - until I recall the real horror of fear that enwrapped us in that sunny orchard that
    August morning of long ago; and then I laugh no more. We were only children, be it remembered, with a very firm and
    simple faith that grown people knew much more than we did, and a rooted conviction that whatever you read in a newspaper
-   must be true. If the /Daily Enterprise/ said that August twelfth was to be the Judgment Day how were you going to get
+   must be true. If the /Daily Enterprise/ said that August twelfth was to be the Judgment Day how were you going to get
    around it?
 
    "Do you believe it, Sara Stanley?" persisted Felicity. "DO you?"
@@ -3969,11 +3969,11 @@
 
    "But it tells you another thing in the Bible, too," said Cecily eagerly. "It says nobody knows when the Judgment Day is
    to come - not even the angels in heaven. Now, if the angels in heaven don't know it, do you suppose the editor of
-   the /Enterprise/ can know it - and him a Grit, too?"
+   the /Enterprise/ can know it - and him a Grit, too?"
 
    "I guess he knows as much about it as a Tory would," retorted the Story Girl. Uncle Roger was a Liberal and Uncle Alec a
    Conservative, and the girls held fast to the political traditions of their respective households. "But it isn't really
-   the /Enterprise/ editor at all who is saying it - it's a man in the States who claims to be a prophet. If he IS a
+   the /Enterprise/ editor at all who is saying it - it's a man in the States who claims to be a prophet. If he IS a
    prophet perhaps he has found out somehow."
 
    "And it's in the paper, too, and that's printed as well as the Bible," said Dan.
@@ -4040,7 +4040,7 @@
    "I suppose the minister would know, but he's away on his vacation" said Felicity. "Anyhow, I'll go and ask mother what
    she thinks of it."
 
-   Felicity picked up the /Enterprise/ and betook herself to the house. We awaited her return in dire suspense.
+   Felicity picked up the /Enterprise/ and betook herself to the house. We awaited her return in dire suspense.
 
    "Well, what does she say?" asked Cecily tremulously.
 
@@ -4054,16 +4054,16 @@
    "Let's all go over and ask Uncle Roger," said Felix desperately.
 
    That we should make Uncle Roger a court of last resort indicated all too clearly the state of our minds. But we went.
-   Uncle Roger was in his barn-yard, hitching his black mare into the buggy. His copy of the /Enterprise/ was sticking out
+   Uncle Roger was in his barn-yard, hitching his black mare into the buggy. His copy of the /Enterprise/ was sticking out
    of his pocket. He looked, as we saw with sinking hearts, unusually grave and preoccupied. There was not a glimmer of a
    smile about his face.
 
    "You ask him," said Felicity, nudging the Story Girl.
 
-   "Uncle Roger," said the Story Girl, the golden notes of her voice threaded with fear and appeal, "the /Enterprise/ says
+   "Uncle Roger," said the Story Girl, the golden notes of her voice threaded with fear and appeal, "the /Enterprise/ says
    that to-morrow is the Judgment Day? IS it? Do YOU think it is?"
 
-   "I'm afraid so," said Uncle Roger gravely. "The /Enterprise/ is always very careful to print only reliable news."
+   "I'm afraid so," said Uncle Roger gravely. "The /Enterprise/ is always very careful to print only reliable news."
 
    "But mother doesn't believe it," cried Felicity.
 
@@ -4090,7 +4090,7 @@
    "We could depend on father if he was here," said Dan stoutly. "HE'D tell us the truth."
 
    "He would tell us what he THOUGHT was true, Dan, but he couldn't KNOW. He's not such a well-educated man as the editor
-   of the /Enterprise/. No, there's nothing to do but wait and see."
+   of the /Enterprise/. No, there's nothing to do but wait and see."
 
    "Let us go into the house and read just what the Bible does say about it," suggested Cecily.
 
@@ -4164,7 +4164,7 @@
    With the gathering shades of night our plight became pitiful. In the daylight, surrounded by homely, familiar sights and
    sounds, it was not so difficult to fortify our souls with a cheering incredulity. But now, in this time of shadows,
    dread belief clutched us and wrung us with terror. If there had been one wise older friend to tell us, in serious
-   fashion, that we need not be afraid, that the /Enterprise/ paragraph was naught save the idle report of a deluded
+   fashion, that we need not be afraid, that the /Enterprise/ paragraph was naught save the idle report of a deluded
    fanatic, it would have been well for us. But there was not. Our grown-ups, instead, considered our terror an exquisite
    jest. At that very moment, Aunt Olivia, who had recovered from her headache, and Aunt Janet were laughing in the kitchen
    over the state the children were in because they were afraid the end of the world was close at hand. Aunt Janet's
@@ -4269,7 +4269,7 @@
    it was the Judgment Day. Nevertheless, we dressed ourselves carefully, and the girls put on their white dresses.
 
    Sara Ray came up, still crying, of course. She increased our uneasiness by saying that her mother believed
-   the /Enterprise/ paragraph, and was afraid that the end of the world was really at hand.
+   the /Enterprise/ paragraph, and was afraid that the end of the world was really at hand.
 
    "That's why she let me come up," she sobbed. "If she hadn't been afraid I don't believe she would have let me come up.
    But I'd have died if I couldn't have come. And she wasn't a bit cross when I told her I had gone to the magic lantern
@@ -4462,7 +4462,7 @@
    "My Aunt Jane used to say it wasn't polite to chew gum anywhere," said Peter rather ruefully.
 
    "I don't suppose your Aunt Jane knew all the rules of etiquette," said Felicity, designing to crush Peter with a big
-   word, borrowed from the /Family Guide/. But Peter was not to be so crushed. He had in him a certain toughness of fibre,
+   word, borrowed from the /Family Guide/. But Peter was not to be so crushed. He had in him a certain toughness of fibre,
    that would have been proof against a whole dictionary.
 
    "She did, too," he retorted. "My Aunt Jane was a real lady, even if she was only a Craig. She knew all those rules and
@@ -4511,8 +4511,8 @@
 
    "It wouldn't be ladylike to ask any one to marry you, you know," argued Cecily.
 
-   "I don't suppose the /Family Guide/ would think so," agreed the Story Girl lazily, with some sarcasm in her voice. The
-   Story Girl never held the /Family Guide/ in such reverence as did Felicity and Cecily. They pored over the "etiquette
+   "I don't suppose the /Family Guide/ would think so," agreed the Story Girl lazily, with some sarcasm in her voice. The
+   Story Girl never held the /Family Guide/ in such reverence as did Felicity and Cecily. They pored over the "etiquette
    column" every week, and could have told you on demand, just exactly what kind of gloves should be worn at a wedding,
    what you should say when introducing or being introduced, and how you ought to look when your best young man came to see
    you.
@@ -4528,7 +4528,7 @@
    " - And she was very stubborn. Soon after she was married she and her husband quarrelled about an apple tree they had
    planted in their orchard. The label was lost. He said it was a Fameuse and she declared it was a Yellow Transparent.
    They fought over it till the neighbours came out to listen. Finally he got so angry that he told her to shut up. They
-   didn't have any /Family Guide/ in those days, so he didn't know it wasn't polite to say shut up to your wife. I suppose
+   didn't have any /Family Guide/ in those days, so he didn't know it wasn't polite to say shut up to your wife. I suppose
    she thought she would teach him manners, for would you believe it? That woman did shut up, and never spoke one single
    word to her husband for five years. And then, in five years' time, the tree bore apples, and they WERE Yellow
    Transparents. And then she spoke at last. She said, 'I told you so.'"
@@ -4597,7 +4597,7 @@
 
    On the cover is pasted a lady's visiting card, on which is written, "The Dream Book of Beverley King." Cecily had a
    packet of visiting cards which she was hoarding against the day when she would be grown up and could put the calling
-   etiquette of the /Family Guide/ into practice; but she generously gave us all one apiece for the covers of our dream
+   etiquette of the /Family Guide/ into practice; but she generously gave us all one apiece for the covers of our dream
    books.
 
    As I turn the pages and glance over the ( -  - ) records, each one beginning, "Last night I dreamed," the past comes
@@ -5702,7 +5702,7 @@
    "I've come now to the second head of my sermon - what the bad place is like."
 
    He proceeded to describe the bad place. Later on we discovered that he had found his material in an illustrated
-   translation of Dante's /Inferno/ which had once been given to his Aunt Jane as a school prize. But at the time we
+   translation of Dante's /Inferno/ which had once been given to his Aunt Jane as a school prize. But at the time we
    supposed he must be drawing from Biblical sources. Peter had been reading the Bible steadily ever since what we always
    referred to as "the Judgment Sunday," and he was by now almost through it. None of the rest of us had ever read the
    Bible completely through, and we thought Peter must have found his description of the world of the lost in some portion
@@ -6643,7 +6643,7 @@
 
    #+BEGIN_QUOTE
    "P.S. The Story Girl peeked over my shoulder and says I ought to have signed it 'yours affeckshunately,' but I know
-   better, because the /Family Guide/ has told lots of times how you should sign yourself when you are writing to a young
+   better, because the /Family Guide/ has told lots of times how you should sign yourself when you are writing to a young
    man who is only a friend. F. K."
    #+END_QUOTE
 
@@ -6815,7 +6815,7 @@
 
    "I'm glad you are still praying for me, Cecily, for you can't trust the measles. And I'm glad you're keeping you know
    what for me. I don't believe anything will happen to you if you do take the measles; but if anything does I'd like
-   that little red book of yours, /The Safe Compass/, just to remember you by. It's such a good book to read on Sundays.
+   that little red book of yours, /The Safe Compass/, just to remember you by. It's such a good book to read on Sundays.
    It is interesting and religious, too. So is the Bible. I hadn't quite finished the Bible before I took the measles,
    but ma is reading the last chapters to me. There's an awful lot in that book. I can't understand the whole of it,
    since I'm only a hired boy, but some parts are real easy.

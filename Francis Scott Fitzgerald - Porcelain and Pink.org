@@ -16,7 +16,7 @@
 
 ** Porcelain and Pink
    
-   A /room in the down-stairs of a summer cottage. High around the wall runs an art frieze of a fisherman with a pile of
+   A /room in the down-stairs of a summer cottage. High around the wall runs an art frieze of a fisherman with a pile of
    nets at his feet and a ship on a crimson ocean, a fisherman with a pile of nets at his feet and a ship on a crimson
    ocean, a fisherman with a pile of nets at his feet and so on. In one place on the frieze there is an overlapping - here
    we have half a fisherman with half a pile of nets at his foot, crowded damply against half a ship on half a crimson
@@ -31,7 +31,7 @@
    engrossed in wondering if she really is playing the game fairly and hasn't any clothes on or whether it is being cheated
    and she is dressed./
 
-   /The girl's name is/ JULIE MARVIS. /From the proud way she sits up in the bath-tub we deduce that she is not very tall
+   /The girl's name is/ JULIE MARVIS. /From the proud way she sits up in the bath-tub we deduce that she is not very tall
    and that she carries herself well. When she smiles, her upper tip rolls a little and reminds you of an Easter Bunny, She
    is within whispering distance of twenty years old./
 
@@ -43,20 +43,20 @@
 
    JULIE: (/In an airy sophrano - enthusiastico/)
 
-      When Caesar did the Chicago
-        He was a graceful child,
-          Those sacred chickens
-          Just raised the dickens
-        The Vestal Virgins went wild.
-      Whenever the Nervii got nervy
-        He gave them an awful razz
-          They shook is their shoes
-          With the Consular blues
-        The Imperial Roman Jazz
+   When Caesar did the Chicago
+   He was a graceful child,
+   Those sacred chickens
+   Just raised the dickens
+   The Vestal Virgins went wild.
+   Whenever the Nervii got nervy
+   He gave them an awful razz
+   They shook is their shoes
+   With the Consular blues
+   The Imperial Roman Jazz
 
-   (/During the wild applause that follows/ JULIE /modestly moves her arms and makes waves on the surface of the water - at
-   least we suppose she does. Then the door on the left opens and/ LOIS MARVIS /enters, dressed but carrying garments and
-   towels./ LOIS /is a year older than/ JULIE /and is nearly her double in face and voice, but in her clothes and
+   (/During the wild applause that follows/ JULIE /modestly moves her arms and makes waves on the surface of the water - at
+   least we suppose she does. Then the door on the left opens and/ LOIS MARVIS /enters, dressed but carrying garments and
+   towels./ LOIS /is a year older than/ JULIE /and is nearly her double in face and voice, but in her clothes and
    expression are the marks of the conservative. Yes, you've guessed it. Mistaken identity is the old rusty pivot upon
    which the plot turns./)
 
@@ -72,7 +72,7 @@
 
    JULIE: I thought you picked the lock, dearest.
 
-   LOIS: You're /so/ careless.
+   LOIS: You're /so/ careless.
 
    JULIE: No. I'm happy as a garbage-man's dog and I'm giving a little concert.
 
@@ -206,13 +206,13 @@
 
    JULIE: I dreamt last night that one Sunday in church a small boy brought in a magnet that attracted cloth. He attracted
    the clothes right off of everybody; put them in an awful state; people were crying and shrieking and carrying on as if
-   they'd just discovered their skins for the first time. Only /I/ didn't care. So I just laughed. I had to pass the
+   they'd just discovered their skins for the first time. Only /I/ didn't care. So I just laughed. I had to pass the
    collection plate because nobody else would.
 
    LOIS: (/Who has turned a deaf ear to this speech/) Do you mean to tell me that if I hadn't come you'd have run back to
    your room - un - unclothed?
 
-   JULIE: /Au naturel/ is so much nicer.
+   JULIE: /Au naturel/ is so much nicer.
 
    LOIS: Suppose there had been some one in the living-room.
 
@@ -241,17 +241,17 @@
 
    LOIS: (/Haughtily/) Huh!
 
-   (JULIE /turns on the cold water and with her finger directs a parabolic stream at LOIS. LOIS retires quickly, slamming
+   (JULIE /turns on the cold water and with her finger directs a parabolic stream at LOIS. LOIS retires quickly, slamming
    the door after her. JULIE laughs and turns off the water/)
 
    JULIE: (Singing)
 
-     When the Arrow-collar man
-        Meets the D'jer-kiss girl
-      On the smokeless Sante Fé
-        Her Pebeco smile
-        Her Lucile style
-      De dum da-de-dum one day - 
+   When the Arrow-collar man
+   Meets the D'jer-kiss girl
+   On the smokeless Sante Fé
+   Her Pebeco smile
+   Her Lucile style
+   De dum da-de-dum one day - 
 
    (/She changes to a whistle and leans forward to turn on the taps, but is startled by three loud banging noises in the
    pipes. Silence for a moment - then she puts her mouth down near the spigot as if it were a telephone/)
@@ -259,7 +259,7 @@
    JULIE: Hello! (/No answer/) Are you a plumber? (/No answer/) Are you the water department? (/One loud, hollow bang/)
    What do you want? (/No answer/) I believe you're a ghost. Are you? (/No answer/) Well, then, stop banging. (/She reaches
    out and turns on the warm tap. No water flows. Again she puts her mouth down close to the spigot/) If you're the plumber
-   that's a mean trick. Turn it on for a fellow. (/Two loud, hollow bangs/) Don't argue! I want water - water! /Water/!
+   that's a mean trick. Turn it on for a fellow. (/Two loud, hollow bangs/) Don't argue! I want water - water! /Water/!
 
    (/A young man's head appears in the window - a head decorated with a slim mustache and sympathetic eyes. These last
    stare, and though they can see nothing but many fishermen with nets and much crimson ocean, they decide him to speak/)
@@ -350,10 +350,10 @@
 
    JULIE: I'm a low-brow. But I can remember my first poem. It had one verse:
 
-      Parker and Davis
-      Sittin' on a fence
-      Tryne to make a dollar
-      Outa fif-teen cents.
+   Parker and Davis
+   Sittin' on a fence
+   Tryne to make a dollar
+   Outa fif-teen cents.
 
    THE YOUNG MAN: (/Eagerly/) Are you growing fond of literature?
 
@@ -390,7 +390,7 @@
 
    JULIE: The Man with the Iron Mask and the fella who says "ug uh-glug uh-glug uh-glug" when the line is busy.
 
-   THE YOUNG MAN: You /are/ mysterious, I love you. You're beautiful, intelligent, and virtuous, and that's the rarest
+   THE YOUNG MAN: You /are/ mysterious, I love you. You're beautiful, intelligent, and virtuous, and that's the rarest
    known combination.
 
    JULIE: You're a historian. Tell me if there are any bath-tubs in history. I think they've been frightfully neglected.
@@ -429,18 +429,18 @@
 
    THE YOUNG MAN: Lois I - Lois I - 
 
-   (/He stops as Lois opens the door, comes in, and bangs it behind her. She looks peevishly at/ JULIE /and then suddenly
+   (/He stops as Lois opens the door, comes in, and bangs it behind her. She looks peevishly at/ JULIE /and then suddenly
    catches sight of the young man in the window/)
 
    LOIS: (/In horror/) Mr. Calkins!
 
    THE YOUNG MAN: (/Surprised/) Why I thought you said you were wearing pinkish white!
 
-   (/After one despairing stare/ LOIS /shrieks, throws up her hands in surrender, and sinks to the floor./)
+   (/After one despairing stare/ LOIS /shrieks, throws up her hands in surrender, and sinks to the floor./)
 
    THE YOUNG MAN: (/In great alarm/) Good Lord! She's fainted! I'll be right in.
 
-   (JULIE'S /eyes light on the towel which has slipped from/ LOIS'S /inert hand./)
+   (JULIE'S /eyes light on the towel which has slipped from/ LOIS'S /inert hand./)
 
    JULIE: In that case I'll be right out.
 

@@ -1894,7 +1894,7 @@
      *BOTTOM*
 
      #+BEGIN_QUOTE
-      - odours savours sweet:
+     - odours savours sweet:
      So hath thy breath, my dearest Thisby dear.
      But hark, a voice! stay thou but here awhile,
      And by and by I will to thee appear.
@@ -3863,7 +3863,7 @@
      *QUINCE*
 
      #+BEGIN_QUOTE
-     Have you sent to Bottom's house ? is he come home yet?
+     Have you sent to Bottom's house ? is he come home yet?
      #+END_QUOTE
 
      *STARVELING*

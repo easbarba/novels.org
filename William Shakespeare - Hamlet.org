@@ -593,7 +593,7 @@
     Farewell, and let your haste commend your duty.
     #+END_QUOTE
 
-    *CORNELIUS* *VOLTIMAND*
+    *CORNELIUS* *VOLTIMAND*
 
     #+BEGIN_QUOTE
     In that and all things will we show our duty.
@@ -1034,7 +1034,7 @@
     Hold you the watch to-night?
     #+END_QUOTE
 
-    *MARCELLUS* *BERNARDO*
+    *MARCELLUS* *BERNARDO*
 
     #+BEGIN_QUOTE
     We do, my lord.
@@ -1046,7 +1046,7 @@
     Arm'd, say you?
     #+END_QUOTE
 
-    *MARCELLUS* *BERNARDO*
+    *MARCELLUS* *BERNARDO*
 
     #+BEGIN_QUOTE
     Arm'd, my lord.
@@ -1058,7 +1058,7 @@
     From top to toe?
     #+END_QUOTE
 
-    *MARCELLUS* *BERNARDO*
+    *MARCELLUS* *BERNARDO*
 
     #+BEGIN_QUOTE
     My lord, from head to foot.
@@ -1136,7 +1136,7 @@
     While one with moderate haste might tell a hundred.
     #+END_QUOTE
 
-    *MARCELLUS* *BERNARDO*
+    *MARCELLUS* *BERNARDO*
 
     #+BEGIN_QUOTE
     Longer, longer.
@@ -1971,7 +1971,7 @@
     I have sworn 't.
     #+END_QUOTE
 
-    *MARCELLUS* *HORATIO*
+    *MARCELLUS* *HORATIO*
 
     #+BEGIN_QUOTE
     [Within] My lord, my lord, - 
@@ -2058,7 +2058,7 @@
     But you'll be secret?
     #+END_QUOTE
 
-    *HORATIO* *MARCELLUS*
+    *HORATIO* *MARCELLUS*
 
     #+BEGIN_QUOTE
     Ay, by heaven, my lord.
@@ -2133,7 +2133,7 @@
     Never make known what you have seen to-night.
     #+END_QUOTE
 
-    *HORATIO* *MARCELLUS*
+    *HORATIO* *MARCELLUS*
 
     #+BEGIN_QUOTE
     My lord, we will not.
@@ -3375,7 +3375,7 @@
     to the court? for, by my fay, I cannot reason.
     #+END_QUOTE
 
-    *ROSENCRANTZ* *GUILDENSTERN*
+    *ROSENCRANTZ* *GUILDENSTERN*
 
     #+BEGIN_QUOTE
     We'll wait upon you.
@@ -4661,7 +4661,7 @@
     Will you two help to hasten them?
     #+END_QUOTE
 
-    *ROSENCRANTZ* *GUILDENSTERN*
+    *ROSENCRANTZ* *GUILDENSTERN*
 
     #+BEGIN_QUOTE
     We will, my lord.
@@ -5775,7 +5775,7 @@
     Which now goes too free-footed.
     #+END_QUOTE
 
-    *ROSENCRANTZ* *GUILDENSTERN*
+    *ROSENCRANTZ* *GUILDENSTERN*
 
     #+BEGIN_QUOTE
     We will haste us.
@@ -6538,7 +6538,7 @@
     Safely stowed.
     #+END_QUOTE
 
-    *ROSENCRANTZ:* *GUILDENSTERN:*
+    *ROSENCRANTZ:* *GUILDENSTERN:*
 
     #+BEGIN_QUOTE
     [Within] Hamlet! Lord Hamlet!

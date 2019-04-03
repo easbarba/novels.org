@@ -31,8 +31,8 @@
     object or creature in question, its unprecedented speed of movement, its startling locomotive power, and the unique
     vitality with which it seemed to be gifted. If it was a cetacean, it exceeded in bulk any whale previously classified by
     science. No naturalist, neither Cuvier nor Lacépède,
-    neither [[http://en.wikipedia.org/wiki/Auguste_Dum%C3%A9ril][Professor
-    Dumeril]] nor [[http://en.wikipedia.org/wiki/Jean_Louis_Armand_de_Quatrefages_de_Br%C3%A9au][Professor de Quatrefages]],
+    neither [[http://en.wikipedia.org/wiki/Auguste_Dum%C3%A9ril][Professor
+    Dumeril]] nor [[http://en.wikipedia.org/wiki/Jean_Louis_Armand_de_Quatrefages_de_Br%C3%A9au][Professor de Quatrefages]],
     would have accepted the existence of such a monster sight unseen -  specifically, unseen by their own scientific eyes.
 
     Striking an average of observations taken at different times -  rejecting those timid estimates that gave the object a
@@ -79,7 +79,7 @@
     "[[http://en.wikisource.org/wiki/Moby-Dick][Moby Dick]]," that dreadful white whale from the High Arctic regions, to the
     stupendous kraken whose tentacles could entwine a 500-ton craft and drag it into the ocean depths. They even reprinted
     reports from ancient times: the views
-    of [[http://en.wikisource.org/wiki/Author:Aristotle][Aristotle]] and [[http://en.wikipedia.org/wiki/Pliny_the_Elder][Pliny]] accepting
+    of [[http://en.wikisource.org/wiki/Author:Aristotle][Aristotle]] and [[http://en.wikipedia.org/wiki/Pliny_the_Elder][Pliny]] accepting
     the existence of such monsters, then the Norwegian stories of Bishop Pontoppidan, the narratives of Paul Egede, and
     finally the reports of Captain Harrington -  whose good faith is above suspicion - in which he claims he saw, while
     aboard the Castilian in 1857, one of those enormous serpents that, until then, had frequented only the seas of France's
@@ -125,7 +125,7 @@
     this new ramming, and thanks to the reputation of the company to which this ship belonged, the event caused an immense
     uproar.
 
-    No one is unaware of the name of that famous English shipowner, [[http://en.wikipedia.org/wiki/Samuel_Cunard][Cunard]].
+    No one is unaware of the name of that famous English shipowner, [[http://en.wikipedia.org/wiki/Samuel_Cunard][Cunard]].
     In 1840 this shrewd industrialist founded a postal service between Liverpool and Halifax, featuring three wooden ships
     with 400-horsepower paddle wheels and a burden of 1,162 metric tons. Eight years later, the company's assets were
     increased by four 650-horsepower ships at 1,820 metric tons, and in two more years, by two other vessels of still
@@ -431,7 +431,7 @@
 
     "Then we aren't returning to Paris?" Conseil asked.
 
-    "Yes, we are ... certainly ... ," I replied evasively, "but after we make a detour."
+    "Yes, we are ... certainly ... ," I replied evasively, "but after we make a detour."
 
     "Whatever detour master wishes."
 
@@ -629,7 +629,7 @@
 
     "Listen to me, Ned - "
 
-    "No, no, professor. I'll go along with anything you want except that. Some gigantic devilfish maybe ...  ?"
+    "No, no, professor. I'll go along with anything you want except that. Some gigantic devilfish maybe ...  ?"
 
     "Even less likely, Ned. The devilfish is merely a mollusk, and even this name hints at its semiliquid flesh, because
     it's Latin meaning soft one. The devilfish doesn't belong to the vertebrate branch, and even if it were 500 feet long,
@@ -637,7 +637,7 @@
     or other monsters of that ilk must be relegated to the realm of fiction."
 
     "So, Mr. Naturalist," Ned Land continued in a bantering tone, "you'll just keep on believing in the existence of some
-    enormous cetacean ...  ?"
+    enormous cetacean ...  ?"
 
     "Yes, Ned, I repeat it with a conviction backed by factual logic. I believe in the existence of a mammal with a powerful
     constitution, belonging to the vertebrate branch like baleen whales, sperm whales, or dolphins, and armed with a tusk
@@ -703,7 +703,7 @@
     "Right, Ned, and then picture the damage such a mass could inflict if it were launched with the speed of an express
     train against a ship's hull."
 
-    "Yes ... indeed ... maybe," the Canadian replied, staggered by these figures but still not willing to give in.
+    "Yes ... indeed ... maybe," the Canadian replied, staggered by these figures but still not willing to give in.
 
     "Well, have I convinced you?"
 
@@ -712,11 +712,11 @@
 
     "But if they don't exist, my stubborn harpooner, how do you explain the accident that happened to the Scotia?"
 
-    "It's maybe ... ," Ned said, hesitating.
+    "It's maybe ... ," Ned said, hesitating.
 
     "Go on!"
 
-    "Because ... it just couldn't be true!" the Canadian replied, unconsciously echoing a famous catchphrase of the
+    "Because ... it just couldn't be true!" the Canadian replied, unconsciously echoing a famous catchphrase of the
     scientist Arago.
 
     But this reply proved nothing, other than how bullheaded the harpooner could be. That day I pressed him no further. The
@@ -882,7 +882,7 @@
 
     "Quite so, Conseil, and what's more, I imagine that people will soon be poking fun at us!"
 
-    "To be sure," Conseil replied serenely, "I do think they'll have fun at master's expense. And must it be said ...  ?"
+    "To be sure," Conseil replied serenely, "I do think they'll have fun at master's expense. And must it be said ...  ?"
 
     "It must be said, Conseil."
 
@@ -918,7 +918,7 @@
     "It's only a cluster of phosphorescent particles!" exclaimed one of the officers.
 
     "No, sir," I answered with conviction. "Not even angel-wing clams or salps have ever given off such a powerful light.
-    That glow is basically electric in nature. Besides ... look, look! It's shifting! It's moving back and forth! It's
+    That glow is basically electric in nature. Besides ... look, look! It's shifting! It's moving back and forth! It's
     darting at us!"
 
     A universal shout went up from the frigate.
@@ -1030,7 +1030,7 @@
 
     While I was observing this phenomenal creature, two jets of steam and water sprang from its blowholes and rose to an
     altitude of forty meters, which settled for me its mode of breathing. From this I finally concluded that it belonged to
-    the branch Vertebrata, class Mammalia, subclass Monodelphia, group Pisciforma, order Cetacea, family ... but here I
+    the branch Vertebrata, class Mammalia, subclass Monodelphia, group Pisciforma, order Cetacea, family ... but here I
     couldn't make up my mind. The order Cetacea consists of three families, baleen whales, sperm whales, dolphins, and it's
     in this last group that narwhales are placed. Each of these families is divided into several genera, each genus into
     species, each species into varieties. So I was still missing variety, species, genus, and family, but no doubt I would
@@ -1089,7 +1089,7 @@
 
     "Aye, sir," the engineer replied.
 
-    "And your valves are charged to ...  ?"
+    "And your valves are charged to ...  ?"
 
     "To six and a half atmospheres."
 
@@ -1212,7 +1212,7 @@
     "Help! Help!" I shouted, swimming desperately toward the Abraham Lincoln.
 
     My clothes were weighing me down. The water glued them to my body, they were paralyzing my movements. I was sinking! I
-    was suffocating ...  !
+    was suffocating ...  !
 
     "Help!"
 
@@ -1325,10 +1325,10 @@
 
     "What did you see?"
 
-    "I saw ... ," he muttered, "I saw ... but we mustn't talk ... save our strength ...  !"
+    "I saw ... ," he muttered, "I saw ... but we mustn't talk ... save our strength ...  !"
 
-    What had he seen? Then, lord knows why, the thought of the monster came into my head for the first time ...  ! But even
-    so, that voice ...  ? Gone are the days when Jonahs took refuge in the bellies of whales!
+    What had he seen? Then, lord knows why, the thought of the monster came into my head for the first time ...  ! But even
+    so, that voice ...  ? Gone are the days when Jonahs took refuge in the bellies of whales!
 
     Nevertheless, Conseil kept towing me. Sometimes he looked up, stared straight ahead, and shouted a request for
     directions, which was answered by a voice that was getting closer and closer. I could barely hear it. I was at the end
@@ -1527,7 +1527,7 @@
     stranger focused his gaze on an object, his eyebrow lines gathered into a frown, his heavy eyelids closed around his
     pupils to contract his huge field of vision, and he looked! What a look - as if he could magnify objects shrinking into
     the distance; as if he could probe your very soul; as if he could pierce those sheets of water so opaque to our eyes and
-    scan the deepest seas ...  ! Wearing caps made of sea--otter fur, and shod in sealskin fishing boots, these two
+    scan the deepest seas ...  ! Wearing caps made of sea--otter fur, and shod in sealskin fishing boots, these two
     strangers were dressed in clothing made from some unique fabric that flattered the figure and allowed great freedom of
     movement. The taller of the two - apparently the leader on board - examined us with the greatest care but without
     pronouncing a word. Then, turning to his companion, he conversed with him in a language I didn't recognize. It was a
@@ -1577,7 +1577,7 @@
     language they've invented just to cause despair in decent people who ask for a little dinner! Why, in every country on
     earth, when you open your mouth, snap your jaws, smack your lips and teeth, isn't that the world's most understandable
     message? From Quebec to the Tuamotu Islands, from Paris to the Antipodes, doesn't it mean: I'm hungry, give me a bite to
-    eat!" "Oh," Conseil put in, "there are some people so unintelligent by nature ... " As he was saying these words, the
+    eat!" "Oh," Conseil put in, "there are some people so unintelligent by nature ... " As he was saying these words, the
     door opened. A steward entered. He brought us some clothes, jackets and sailor's
     pants, made out of a fabric whose nature I didn't recognize. I hurried to change into them, and my companions followed
     suit. Meanwhile our silent steward, perhaps a deaf--mute, set the table and laid three place settings. "There's
@@ -1604,7 +1604,7 @@
     open! Where were we? What strange power was carrying us along? I felt - or at least I thought I did - the submersible
     sinking toward the sea's lower strata. Intense nightmares besieged me. In these mysterious marine sanctuaries, I
     envisioned hosts of unknown animals, and this underwater boat seemed to be a blood relation of theirs: living,
-    breathing, just as fearsome ...  ! Then my mind grew calmer, my imagination melted into hazy drowsiness, and I soon fell
+    breathing, just as fearsome ...  ! Then my mind grew calmer, my imagination melted into hazy drowsiness, and I soon fell
     into an uneasy slumber.
 
 *** Chapter 9 The Tantrums of Ned Land
@@ -2060,7 +2060,7 @@
 
     "Nor I, sir," Captain Nemo answered me. "I never touch the flesh of land animals."
 
-    "Nevertheless, this ... ," I went on, pointing to a dish where some slices of loin were still left.
+    "Nevertheless, this ... ," I went on, pointing to a dish where some slices of loin were still left.
 
     "What you believe to be red meat, professor, is nothing other than loin of sea turtle. Similarly, here are some dolphin
     livers you might mistake for stewed pork. My chef is a skillful food processor who excels at pickling and preserving
@@ -2120,7 +2120,7 @@
     "Where could one find greater silence or solitude, professor?" Captain Nemo replied. "Did your study at the museum
     afford you such a perfect retreat?"
 
-    "No, sir, and I might add that it's quite a humble one next to yours. You own 6,000 or 7,000 volumes here ... "
+    "No, sir, and I might add that it's quite a humble one next to yours. You own 6,000 or 7,000 volumes here ... "
 
     "12,000, Professor Aronnax. They're my sole remaining ties with dry land. But I was done with the shore the day my
     Nautilus submerged for the first time under the waters. That day I purchased my last volumes, my last pamphlets, my last
@@ -2248,7 +2248,7 @@
     describe completely. Among these exhibits I'll mention, just for the record: an elegant royal hammer shell from the
     Indian Ocean, whose evenly spaced white spots stood out sharply against a base of red and brown; an imperial spiny
     oyster, brightly colored, bristling with thorns, a specimen rare to European museums, whose value I estimated
-    at ?20,000; a common hammer shell from the seas near Queensland, very hard to come by; exotic cockles from Senegal,
+    at ?20,000; a common hammer shell from the seas near Queensland, very hard to come by; exotic cockles from Senegal,
     fragile white bivalve shells that a single breath could pop like a soap bubble; several varieties of watering--pot shell
     from Java, a sort of limestone tube fringed with leafy folds and much fought over by collectors; a whole series of
     top--shell snails - greenish yellow ones fished up from American seas, others colored reddish brown that patronize the
@@ -2268,7 +2268,7 @@
     rainbow abalone; yellow, blue, and black pearls, the unusual handiwork of various mollusks from every ocean and of
     certain mussels from rivers up north; in short, several specimens of incalculable worth that had been oozed by the
     rarest of shellfish. Some of these pearls were bigger than a pigeon egg; they more than equaled the one that the
-    explorer Tavernier sold the Shah of Persia for ?3,000,000, and they surpassed that other pearl owned by the Imam of
+    explorer Tavernier sold the Shah of Persia for ?3,000,000, and they surpassed that other pearl owned by the Imam of
     Muscat, which I had believed to be unrivaled in the entire world.
 
     Consequently, to calculate the value of this collection was, I should say, impossible. Captain Nemo must have spent
@@ -2421,8 +2421,8 @@
     "That's perfect."
 
     "Another use for electricity: that dial hanging before our eyes indicates how fast the Nautilus is going. An electric
-    wire puts it in contact with the patent log; this needle shows me the actual speed of my submersible. And ... hold
-    on ... just now we're proceeding at the moderate pace of fifteen miles per hour."
+    wire puts it in contact with the patent log; this needle shows me the actual speed of my submersible. And ... hold
+    on ... just now we're proceeding at the moderate pace of fifteen miles per hour."
 
     "It's marvelous," I replied, "and I truly see, Captain, how right you are to use this force; it's sure to take the place
     of wind, water, and steam."
@@ -2648,7 +2648,7 @@
     "Entirely accidental, sir. I was navigating two meters beneath the surface of the water when the collision occurred.
     However, I could see that it had no dire consequences."
 
-    "None, sir. But as for your encounter with the Abraham Lincoln ...  ?"
+    "None, sir. But as for your encounter with the Abraham Lincoln ...  ?"
 
     "Professor, that troubled me, because it's one of the best ships in the gallant American navy, but they attacked me and
     I had to defend myself! All the same, I was content simply to put the frigate in a condition where it could do me no
@@ -2694,8 +2694,8 @@
 
     "From all this, may I assume that such a boat costs a fortune?"
 
-    "An iron ship, Professor Aronnax, runs ?1,125 per metric ton. Now then, the Nautilus has a burden of 1,500 metric tons.
-    Consequently, it cost ?1,687,000, hence ?2,000,000 including its accommodations, and ?4,000,000 or ?5,000,000 with all
+    "An iron ship, Professor Aronnax, runs ?1,125 per metric ton. Now then, the Nautilus has a burden of 1,500 metric tons.
+    Consequently, it cost ?1,687,000, hence ?2,000,000 including its accommodations, and ?4,000,000 or ?5,000,000 with all
     the collections and works of art it contains."
 
     "One last question, Captain Nemo."
@@ -3501,7 +3501,7 @@
     It was a magnificent sea otter from the genus Enhydra, the only exclusively marine quadruped. One and a half meters
     long, this otter had to be worth a good high price. Its coat, chestnut brown above and silver below, would have made one
     of those wonderful fur pieces so much in demand in the Russian and Chinese markets; the fineness and luster of its pelt
-    guaranteed that it would go for at least ?2,000. I was full of wonderment at this unusual mammal, with its circular head
+    guaranteed that it would go for at least ?2,000. I was full of wonderment at this unusual mammal, with its circular head
     adorned by short ears, its round eyes, its white whiskers like those on a cat, its webbed and clawed feet, its bushy
     tail. Hunted and trapped by fishermen, this valuable carnivore has become extremely rare, and it takes refuge chiefly in
     the northernmost parts of the Pacific, where in all likelihood its species will soon be facing extinction.
@@ -3650,7 +3650,7 @@
 
     "There," he added, "out there lies true existence! And I can imagine the founding of nautical towns, clusters of
     underwater households that, like the Nautilus, would return to the surface of the sea to breathe each morning, free
-    towns if ever there were, independent cities! Then again, who knows whether some tyrant ... "
+    towns if ever there were, independent cities! Then again, who knows whether some tyrant ... "
 
     Captain Nemo finished his sentence with a vehement gesture. Then, addressing me directly, as if to drive away an ugly
     thought:
@@ -3820,7 +3820,7 @@
     In reply to a question Conseil asked me about the growth rate of these colossal barriers, I thoroughly amazed him by
     saying that scientists put it at an eighth of an inch per biennium.
 
-    "Therefore," he said to me, "to build these walls, it took ...  ?"
+    "Therefore," he said to me, "to build these walls, it took ...  ?"
 
     "192,000 years, my gallant Conseil, which significantly extends the biblical Days of Creation. What's more, the
     formation of coal - in other words, the petrification of forests swallowed by floods - and the cooling of basaltic rocks
@@ -5482,7 +5482,7 @@
     Sheer chance had placed me in the presence of the most valuable specimens of this zoophyte. This coral was the equal of
     those fished up from the Mediterranean off the Barbary Coast or the shores of France and Italy. With its bright colors,
     it lived up to those poetic names of blood flower and blood foam that the industry confers on its finest exhibits. Coral
-    sells for as much as ?500 per kilogram, and in this locality the liquid strata hid enough to make the fortunes of a
+    sells for as much as ?500 per kilogram, and in this locality the liquid strata hid enough to make the fortunes of a
     whole host of coral fishermen. This valuable substance often merges with other polyparies, forming compact, hopelessly
     tangled units known as "macciota," and I noted some wonderful pink samples of this coral.
 
@@ -6064,14 +6064,14 @@
 
     "Francs!" Conseil rebuked.
 
-    "Yes, francs! ?3,000,000!" I went on. "But I don't think these fisheries bring in the returns they once did. Similarly,
-    the Central American fisheries used to make an annual profit of ?4,000,000 during the reign of King Charles V, but now
-    they bring in only two--thirds of that amount. All in all, it's estimated that ?9,000,000 is the current yearly return
+    "Yes, francs! ?3,000,000!" I went on. "But I don't think these fisheries bring in the returns they once did. Similarly,
+    the Central American fisheries used to make an annual profit of ?4,000,000 during the reign of King Charles V, but now
+    they bring in only two--thirds of that amount. All in all, it's estimated that ?9,000,000 is the current yearly return
     for the whole pearl--harvesting industry."
 
     "But," Conseil asked, "haven't certain famous pearls been quoted at extremely high prices?"
 
-    "Yes, my boy. They say Julius Caesar gave Servilia a pearl worth ?120,000 in our currency."
+    "Yes, my boy. They say Julius Caesar gave Servilia a pearl worth ?120,000 in our currency."
 
     "I've even heard stories," the Canadian said, "about some lady in ancient times who drank pearls in vinegar."
 
@@ -6079,7 +6079,7 @@
 
     "It must have tasted pretty bad," Ned Land added.
 
-    "Abominable, Ned my friend," Conseil replied. "But when a little glass of vinegar is worth ?1,500,000, its taste is a
+    "Abominable, Ned my friend," Conseil replied. "But when a little glass of vinegar is worth ?1,500,000, its taste is a
     small price to pay."
 
     "I'm sorry I didn't marry the gal," the Canadian said, throwing up his hands with an air of discouragement.
@@ -6106,7 +6106,7 @@
 
     "This one?" Conseil said, pointing to a magnificent jewel in its glass case.
 
-    "Exactly. And I'm certainly not far off when I estimate its value at 2,000,000 ... uh ... "
+    "Exactly. And I'm certainly not far off when I estimate its value at 2,000,000 ... uh ... "
 
     "Francs!" Conseil said quickly.
 
@@ -6143,7 +6143,7 @@
     "It isn't an issue," I said, "of fishing for them with a swivel hook, hoisting them onto the deck of a ship, chopping
     off the tail with a sweep of the ax, opening the belly, ripping out the heart, and tossing it into the sea."
 
-    "So it's an issue of ...  ?"
+    "So it's an issue of ...  ?"
 
     "Yes, precisely."
 
@@ -6152,7 +6152,7 @@
     "In the water."
 
     "Ye gods, just give me a good harpoon! You see, sir, these sharks are badly designed. They have to roll their bellies
-    over to snap you up, and in the meantime ... "
+    over to snap you up, and in the meantime ... "
 
     Ned Land had a way of pronouncing the word "snap" that sent chills down the spine.
 
@@ -6356,7 +6356,7 @@
     transfer it one day to his dearly beloved museum. Perhaps, following the examples of oyster farmers in China and India,
     he had even predetermined the creation of this pearl by sticking under the mollusk's folds some piece of glass or metal
     that was gradually covered with mother--of--pearl. In any case, comparing this pearl to others I already knew about, and
-    to those shimmering in the captain's collection, I estimated that it was worth at least ?10,000,000. It was a superb
+    to those shimmering in the captain's collection, I estimated that it was worth at least ?10,000,000. It was a superb
     natural curiosity rather than a luxurious piece of jewelry, because I don't know of any female ear that could handle it.
 
     Our visit to this opulent giant clam came to an end. Captain Nemo left the cave, and we climbed back up the bank of
@@ -6626,7 +6626,7 @@
     The class Spongiaria contains about 300 species that are encountered in a large number of seas and even in certain
     streams, where they've been given the name freshwater sponges. But their waters of choice are the Red Sea and the
     Mediterranean near the Greek Islands or the coast of Syria. These waters witness the reproduction and growth of soft,
-    delicate bath sponges whose prices run as high as ?150 apiece: the yellow sponge from Syria, the horn sponge from
+    delicate bath sponges whose prices run as high as ?150 apiece: the yellow sponge from Syria, the horn sponge from
     Barbary, etc. But since I had no hope of studying these zoophytes in the seaports of the Levant, from which we were
     separated by the insuperable Isthmus of Suez, I had to be content with observing them in the waters of the Red Sea.
 
@@ -6757,7 +6757,7 @@
     "It's because that same locality where Moses crossed with all his people is now so clogged with sand, camels can barely
     get their legs wet. You can understand that my Nautilus wouldn't have enough water for itself."
 
-    "And that locality is ...  ?" I asked.
+    "And that locality is ...  ?" I asked.
 
     "That locality lies a little above Suez in a sound that used to form a deep estuary when the Red Sea stretched as far as
     the Bitter Lakes. Now, whether or not their crossing was literally miraculous, the Israelites did cross there in
@@ -7162,7 +7162,7 @@
 
     "We're floating on its surface, Ned my friend."
 
-    "What!" Conseil put in. "Last night ...  ?"
+    "What!" Conseil put in. "Last night ...  ?"
 
     "Yes, last night, in a matter of minutes, we cleared that insuperable isthmus."
 
@@ -7327,7 +7327,7 @@
 
     Est in Carpathio Neptuni gurgite vates
 
-    Caeruleus Proteus ...  {verse It was indeed that bygone abode of Proteus, the
+    Caeruleus Proteus ...  {verse It was indeed that bygone abode of Proteus, the
     old shepherd of King Neptune's flocks: an island located between Rhodes and Crete, which Greeks now call Karpathos,
     Italians Scarpanto. Through the lounge window I could see only its granite bedrock. The next day, February 14, I decided
     to spend a few hours studying the fish of this island group; but for whatever reason, the panels remained hermetically
@@ -7370,7 +7370,7 @@
     ingots. And they represented an enormous sum of money. Where had this precious metal come from? How had the captain
     amassed this gold, and what was he about to do with it? I didn't pronounce a word. I gaped. Captain Nemo took out the
     ingots one by one and arranged them methodically inside the chest, filling it to the top. At which point I estimate that
-    it held more than 1,000 kilograms of gold, in other words, close to ?5,000,000. After securely fastening the chest,
+    it held more than 1,000 kilograms of gold, in other words, close to ?5,000,000. After securely fastening the chest,
     Captain Nemo wrote an address on its lid in characters that must have been modern Greek. This done, the captain pressed
     a button whose wiring was in communication with the crew's quarters. Four men appeared and, not without difficulty,
     pushed the chest out of the lounge. Then I heard them hoist it up the iron companionway by means of pulleys. Just then
@@ -7752,7 +7752,7 @@
     Victor Hugo's pencil has so terrifyingly depicted. What was the bond between these heroic souls and the soul of Captain
     Nemo? From this collection of portraits could I finally unravel the mystery of his existence? Was he a fighter for
     oppressed peoples, a liberator of enslaved races? Had he figured in the recent political or social upheavals of this
-    century? Was he a hero of that dreadful civil war in America, a war lamentable yet forever glorious ...  ? Suddenly the
+    century? Was he a hero of that dreadful civil war in America, a war lamentable yet forever glorious ...  ? Suddenly the
     clock struck eight. The first stroke of its hammer on the chime snapped me out of my musings. I shuddered as if some
     invisible eye had plunged into my innermost thoughts, and I rushed outside the stateroom. There my eyes fell on the
     compass. Our heading was still northerly. The log indicated a moderate speed, the pressure gauge a depth of about sixty
@@ -7823,7 +7823,7 @@
     understand, Captain. Nevertheless, allow me to inform you that by harvesting this very Bay of Vigo, you're simply
     forestalling the efforts of a rival organization." "What organization?" "A company chartered by the Spanish government
     to search for these sunken galleons. The company's investors were lured by the bait of enormous gains, because this
-    scuttled treasure is estimated to be worth ?500,000,000." "It was 500,000,000 francs," Captain Nemo replied, "but no
+    scuttled treasure is estimated to be worth ?500,000,000." "It was 500,000,000 francs," Captain Nemo replied, "but no
     more!" "Right," I said. "Hence a timely warning to those investors would be an act of charity. Yet who knows if it would
     be well received? Usually what gamblers regret the most isn't the loss of their money so much as the loss of their
     insane hopes. But ultimately I feel less sorry for them than for the thousands of unfortunate people who would have
@@ -7831,7 +7831,7 @@
     this regret than I felt it must have wounded Captain Nemo. "No help!" he replied with growing animation. "Sir, what
     makes you assume this wealth goes to waste when I'm the one amassing it? Do you think I toil to gather this treasure out
     of selfishness? Who says I don't put it to good use? Do you think I'm unaware of the suffering beings and oppressed
-    races living on this earth, poor people to comfort, victims to avenge? Don't you understand ...  ?" Captain Nemo stopped
+    races living on this earth, poor people to comfort, victims to avenge? Don't you understand ...  ?" Captain Nemo stopped
     on these last words, perhaps sorry that he had said too much. But I had guessed. Whatever motives had driven him to seek
     independence under the seas, he remained a human being before all else! His heart still throbbed for suffering humanity,
     and his immense philanthropy went out both to downtrodden races and to individuals! And now I knew where Captain Nemo
@@ -7860,7 +7860,7 @@
     across the Vigo battlefield on his own behalf.
 
     "Anyhow," he said, "it's not over yet! My first harpoon missed, that's all! We'll succeed the next time, and as soon as
-    this evening, if need be ... "
+    this evening, if need be ... "
 
     "What's the Nautilus's heading?" I asked.
 
@@ -8462,7 +8462,7 @@
 
     The name Sargasso comes from the Spanish word sargazo, meaning gulfweed. This gulfweed, the swimming gulfweed or berry
     carrier, is the chief substance making up this immense shoal. And here's why these water plants collect in this placid
-    Atlantic basin, according to the expert on the subject, [[http://en.wikipedia.org/wiki/Matthew_Fontaine_Maury][Commander
+    Atlantic basin, according to the expert on the subject, [[http://en.wikipedia.org/wiki/Matthew_Fontaine_Maury][Commander
     Maury]], author of The Physical Geography of the Sea.
 
     The explanation he gives seems to entail a set of conditions that everybody knows: "Now," Maury says, "if bits of cork
@@ -8713,7 +8713,7 @@
 
     "By calculating it. Master is familiar with the ship's capacity, hence the amount of air it contains; on the other hand,
     Master knows how much air each man consumes in the act of breathing, and he can compare this data with the fact that the
-    Nautilus must rise to the surface every twenty--four hours ... "
+    Nautilus must rise to the surface every twenty--four hours ... "
 
     Conseil didn't finish his sentence, but I could easily see what he was driving at.
 
@@ -8728,7 +8728,7 @@
     "Precisely," Conseil said.
 
     "Now then," I went on, "the Nautilus's capacity is 1,500 metric tons, and that of a ton is 1,000 liters, so the Nautilus
-    holds 1,500,000 liters of air, which, divided by 2,400 ... "
+    holds 1,500,000 liters of air, which, divided by 2,400 ... "
 
     I did a quick pencil calculation.
 
@@ -9168,7 +9168,7 @@
 
     So the Nautilus had to halt in its venturesome course among these tracts of ice.
 
-    "Sir," Ned Land told me that day, "if your captain goes any farther ... "
+    "Sir," Ned Land told me that day, "if your captain goes any farther ... "
 
     "Yes?"
 
@@ -9304,7 +9304,7 @@
     against my plan, you're now crushing me under arguments in its favor."
 
     Captain Nemo was right. I was outdoing him in daring! It was I who was sweeping him to the pole. I was leading the way,
-    I was out in front ... but no, you silly fool! Captain Nemo already knew the pros and cons of this question, and it
+    I was out in front ... but no, you silly fool! Captain Nemo already knew the pros and cons of this question, and it
     amused him to see you flying off into impossible fantasies!
 
     Nevertheless, he didn't waste an instant. At his signal, the chief officer appeared. The two men held a quick exchange
@@ -9518,7 +9518,7 @@
     from harpooning some of these magnificent cetaceans. Which would be an affront to Captain Nemo, since he hates to slay
     harmless beasts needlessly." "He's right." "Certainly, Conseil. But tell me, haven't you finished classifying these
     superb specimens of marine fauna?" "Master is well aware," Conseil replied, "that I'm not seasoned in practical
-    application. When master has told me these animals' names ... " "They're seals and walruses." "Two genera," our
+    application. When master has told me these animals' names ... " "They're seals and walruses." "Two genera," our
     scholarly Conseil hastened to say, "that belong to the family Pinnipedia, order Carnivora, group Unguiculata, subclass
     Monodelphia, class Mammalia, branch Vertebrata." "Very nice, Conseil," I replied, "but these two genera of seals and
     walruses are each divided into species, and if I'm not mistaken, we now have a chance to actually look at them. Let's."
@@ -9586,7 +9586,7 @@
     it isn't mathematically exact proof, because the equinox needn't fall precisely at noon." "No doubt, sir, but the error
     will be under 100 meters, and that's close enough for us. Until tomorrow then." Captain Nemo went back on board. Conseil
     and I stayed behind until five o'clock, surveying the beach, observing and studying. The only unusual object I picked up
-    was an auk's egg of remarkable size, for which a collector would have paid more than ?1,000. Its cream--colored tint,
+    was an auk's egg of remarkable size, for which a collector would have paid more than ?1,000. Its cream--colored tint,
     plus the streaks and markings that decorated it like so many hieroglyphics, made it a rare trinket. I placed it in
     Conseil's hands, and holding it like precious porcelain from China, that cautious, sure--footed lad got it back to the
     Nautilus in one piece. There I put this rare egg inside one of the glass cases in the museum. I ate supper, feasting
@@ -9747,7 +9747,7 @@
 
     "Yes."
 
-    "And this accident came about ...  ?"
+    "And this accident came about ...  ?"
 
     "Through nature's unpredictability not man's incapacity. No errors were committed in our maneuvers. Nevertheless, we
     can't prevent a loss of balance from taking its toll. One may defy human laws, but no one can withstand the laws of
@@ -9875,7 +9875,7 @@
 
     "Yes," I replied. "Apparently the tunnel has no way out at this end."
 
-    "And so ...  ?"
+    "And so ...  ?"
 
     "So," I said, "our maneuvers are quite simple. We'll return in our tracks and go out the southern opening. That's all."
 
@@ -11018,7 +11018,7 @@
 
     "I will follow you."
 
-    "But," continued the Canadian, "if I am surprised, I will defend myself ; I will force them to kill me."
+    "But," continued the Canadian, "if I am surprised, I will defend myself ; I will force them to kill me."
 
     "We will die together, friend Ned."
 

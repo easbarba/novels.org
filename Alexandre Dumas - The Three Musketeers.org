@@ -336,7 +336,7 @@
    "What the devil!" said the host to himself. "Can he be afraid of this boy?" But an imperious glance from the stranger
    stopped him short; he bowed humbly and retired.
 
-   "It is not necessary for Milady to be seen by this fellow," continued the
+   "It is not necessary for Milady to be seen by this fellow," continued the
    stranger. "She will soon pass; she is already late. I had better get on horseback, and go and meet her. I should like,
    however, to know what this letter addressed to Treville contains."
 
@@ -838,7 +838,7 @@
 
    "The Guards of the cardinal! And why so?" asked Porthos, warmly.
 
-   "Because he plainly perceives that his piquette stands in need of being enlivened
+   "Because he plainly perceives that his piquette stands in need of being enlivened
    by a mixture of good wine."
 
    The two Musketeers reddened to the whites of their eyes. d'Artagnan did not know where he was, and wished himself a
@@ -18754,9 +18754,9 @@
 
    #+BEGIN_QUOTE
    "For all my tears, my cares,
-     My exile, and my chains,
+   My exile, and my chains,
    I have my youth, my prayers,
-     And God, who counts my pains."
+   And God, who counts my pains."
    #+END_QUOTE
 
    Her voice, of immense power and sublime expression, gave to the rude, unpolished poetry of these psalms a magic and an

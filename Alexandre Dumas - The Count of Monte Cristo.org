@@ -6018,10 +6018,10 @@
    "And now," said the abbe, "read this other paper;" and he presented to Dantes a second leaf with fragments of lines
    written on it, which Edmond read as follows: -
 
-   "... ing invited to dine by his Holiness ... content with making me pay for my hat, ... serves for me the fate of
-   Cardinals Caprara ... I declare to my nephew, Guido Spada ... ried in a place he knows ... the caves of the small ...
-   essed of ingots, gold, money, ... know of the existence of this treasure, which ... lions of Roman crowns, and which
-   he ... ck from the small ... ings have been made ... ngle in the second; ... tire to him ... ar Spada."
+   "... ing invited to dine by his Holiness ... content with making me pay for my hat, ... serves for me the fate of
+   Cardinals Caprara ... I declare to my nephew, Guido Spada ... ried in a place he knows ... the caves of the small ...
+   essed of ingots, gold, money, ... know of the existence of this treasure, which ... lions of Roman crowns, and which
+   he ... ck from the small ... ings have been made ... ngle in the second; ... tire to him ... ar Spada."
 
    Faria followed him with an excited look. "and now," he said, when he saw that Dantes had read the last line, "put the
    two fragments together, and judge for yourself." Dantes obeyed, and the conjointed pieces gave the following: -
@@ -15476,7 +15476,7 @@
 
    "Go on, I am curious to know two things."
 
-   "What are they, your excellency ?"
+   "What are they, your excellency ?"
 
    "What became of this little boy? for I think you told me it was a boy, M. Bertuccio."
 
@@ -18402,7 +18402,7 @@
    the fresh arrivals, while nothing is heard but the noise of opening and shutting doors, and the buzz of conversation.
    "Surely," said Albert, as the door of a box on the first circle opened, "that must be the Countess G-."
 
-   "And who is the Countess G- ?" inquired Chateau-Renaud.
+   "And who is the Countess G- ?" inquired Chateau-Renaud.
 
    "What a question! Now, do you know, baron, I have a great mind to pick a quarrel with you for asking it; as if all the
    world did not know who the Countess G- was."
@@ -25904,7 +25904,7 @@
    "Valentine," said Morrel with a trembling voice, "I had waited since half-past eight, and did not see you come; I became
    uneasy, leaped the wall, found my way through the garden, when voices conversing about the fatal event" -
 
-   "What voices ?" asked Valentine. Morrel shuddered as he thought of the conversation of the doctor and M. de Villefort,
+   "What voices ?" asked Valentine. Morrel shuddered as he thought of the conversation of the doctor and M. de Villefort,
    and he thought he could see through the sheet the extended hands, the stiff neck, and the purple lips.
 
    "Your servants," said he, "who were repeating the whole of the sorrowful story; from them I learned it all."
@@ -29227,7 +29227,7 @@
    plan." Caderousse's plans alarmed Andrea still more than his ideas; ideas were but the germ, the plan was reality. "Let
    me see your plan; I dare say it is a pretty one."
 
-   "Why not? Who formed the plan by which we left the establishment of M - ! eh? was it not I? and it was no bad one I
+   "Why not? Who formed the plan by which we left the establishment of M - ! eh? was it not I? and it was no bad one I
    believe, since here we are!"
 
    "I do not say," replied Andrea, "that you never make a good one; but let us see your plan."
@@ -36405,10 +36405,10 @@
    take your place in the coupe to Chalons. You see, mother, I treat you handsomely for thirty-five francs." Albert then
    took a pen, and wrote: -
 
-   Frs. Coupe, thirty-five francs ... ... ... ... ... ... ... ... ... . 35 From Chalons to Lyons you will go on by the
-   steamboat - six francs ... ... ... ... ... ... ... ... ... ... ... ... ... .. 6 From Lyons to Avignon (still by
-   steamboat), sixteen francs ... ... ... ... ... ... ... ... ... ... ... ... ... 16 From Avignon to Marseilles, seven
-   franc... ... ... ... ... . 7 Expenses on the road, about fifty francs ... ... ... ... . 50 Total... ... ... ... ... ...
+   Frs. Coupe, thirty-five francs ... ... ... ... ... ... ... ... ... . 35 From Chalons to Lyons you will go on by the
+   steamboat - six francs ... ... ... ... ... ... ... ... ... ... ... ... ... .. 6 From Lyons to Avignon (still by
+   steamboat), sixteen francs ... ... ... ... ... ... ... ... ... ... ... ... ... 16 From Avignon to Marseilles, seven
+   franc... ... ... ... ... . 7 Expenses on the road, about fifty francs ... ... ... ... . 50 Total... ... ... ... ... ...
    ... ... ... ... ... ... ... ... ... ... 114 frs.
 
    "Let us put down 120," added Albert, smiling. "You see I am generous, am I not, mother?"

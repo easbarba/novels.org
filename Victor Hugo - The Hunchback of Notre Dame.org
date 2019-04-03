@@ -19,27 +19,27 @@
 
 *** PREFACE
 
-    A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an
-    obscure nook of one of the towers, the following word, engraved by hand upon the wall:-
+    A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an
+    obscure nook of one of the towers, the following word, engraved by hand upon the wall:-
 
-    These Greek capitals, black with age, and quite deeply graven in the stone, with I know not what signs peculiar to
-    Gothic caligraphy imprinted upon their forms and upon their attitudes, as though with the purpose of revealing that it
-    had been a hand of the Middle Ages which had inscribed them there, and especially the fatal and melancholy
-    meaning contained in them, struck the author deeply.
+    These Greek capitals, black with age, and quite deeply graven in the stone, with I know not what signs peculiar to
+    Gothic caligraphy imprinted upon their forms and upon their attitudes, as though with the purpose of revealing that it
+    had been a hand of the Middle Ages which had inscribed them there, and especially the fatal and melancholy
+    meaning contained in them, struck the author deeply.
 
-    He questioned himself; he sought to divine who could have been that soul in torment which had not been willing to
-    quit this world without leaving this stigma of crime or unhappiness upon the brow of the ancient church.
+    He questioned himself; he sought to divine who could have been that soul in torment which had not been willing to
+    quit this world without leaving this stigma of crime or unhappiness upon the brow of the ancient church.
 
-    Afterwards, the wall was whitewashed or scraped down, I know not which, and the inscription disappeared. For it is thus
-    that people have been in the habit of proceeding with the marvellous churches of the Middle Ages for the last
-    two hundred years. Mutilations come to them from every quarter, from within as well as from without. The priest
-    whitewashes them, the archdeacon scrapes them down; then the populace arrives and demolishes them.
+    Afterwards, the wall was whitewashed or scraped down, I know not which, and the inscription disappeared. For it is thus
+    that people have been in the habit of proceeding with the marvellous churches of the Middle Ages for the last
+    two hundred years. Mutilations come to them from every quarter, from within as well as from without. The priest
+    whitewashes them, the archdeacon scrapes them down; then the populace arrives and demolishes them.
 
-    Thus, with the exception of the fragile memory which the author of this book here consecrates to it, there
-    remains to-day nothing whatever of the mysterious word engraved within the gloomy tower of Notre-Dame,- nothing of
-    the destiny which it so sadly summed up. The man who wrote that word upon the wall disappeared from the midst of
-    the generations of man many centuries ago; the word, in its turn, has been effaced from the wall of the church; the
-    church will, perhaps, itself soon disappear from the face of the earth.
+    Thus, with the exception of the fragile memory which the author of this book here consecrates to it, there
+    remains to-day nothing whatever of the mysterious word engraved within the gloomy tower of Notre-Dame,- nothing of
+    the destiny which it so sadly summed up. The man who wrote that word upon the wall disappeared from the midst of
+    the generations of man many centuries ago; the word, in its turn, has been effaced from the wall of the church; the
+    church will, perhaps, itself soon disappear from the face of the earth.
 
     It is upon this word that this book is founded.
 
@@ -88,14 +88,14 @@
      into which five or six streets, like so many mouths of rivers, discharged every moment fresh floods of heads. The waves
      of this crowd, augmented incessantly, dashed against the angles of the houses which projected here and there, like so
      many promontories, into the irregular basin of the place. In the centre of the lofty
-     Gothic façade of the palace, the grand staircase, incessantly ascended and
+     Gothic façade of the palace, the grand staircase, incessantly ascended and
      descended by a double current, which, after parting on the intermediate landing-place, flowed in broad waves along its
      lateral slopes,- the grand staircase, I say, trickled incessantly into the place, like a cascade into a lake. The
      cries, the laughter, the trampling of those thousands of feet, produced a great noise and a great clamor. From time to
      time, this noise and clamor redoubled; the current which drove the crowd towards the grand staircase flowed backwards,
      became troubled, formed whirlpools. This was produced by the buffet of an archer, or the horse of one of the provost's
      sergeants, which kicked to restore order; an admirable tradition which the provostship has bequeathed to the
-     constablery, the constablery to the /maréchaussée/, the /maréchaussée/ to our /gendarmeri/ of Paris.
+     constablery, the constablery to the /maréchaussée/, the /maréchaussée/ to our /gendarmeri/ of Paris.
 
      Thousands of good, calm, bourgeois faces thronged the windows, the doors, the dormer windows, the roofs, gazing at the
      palace, gazing at the populace, and asking nothing more; for many Parisians content themselves with the spectacle of the
@@ -237,7 +237,7 @@
      Saint John, the king should have inquired whether Monsieur Saint John likes Latin droned out in a Provençal accent.”
 
      “He did it for the sake of employing those accursed singers of the King of Sicily!” cried an old woman sharply from
-     among the crowd beneath the window. “I just put it to you! A thousand /livres parisi/ for a mass! and out of the tax on
+     among the crowd beneath the window. “I just put it to you! A thousand /livres parisi/ for a mass! and out of the tax on
      sea fish in the markets of Paris, to boot!”
 
      “Peace, old crone,” said a tall, grave person, stopping up his nose on the side towards the fishwife; “a mass had to be
@@ -346,16 +346,16 @@
 
      “How he trots along on his mule! her ears are not so long as his!”
 
-     “Holà hé! good day, monsieur lé recteur Thibaut! /Tybalde aleator/! Old fool! old gambler!”
+     “Holà hé! good day, monsieur lé recteur Thibaut! /Tybalde aleator/! Old fool! old gambler!”
 
      “God preserve you! Did you throw double six often last night?”
 
      “Oh! what a decrepit face, livid and haggard and drawn with the love of gambling and of dice!”
 
-     “Where are you bound for in that fashion, Thibaut, /Tybalde ad dados/, with your back turned to the university, and
+     “Where are you bound for in that fashion, Thibaut, /Tybalde ad dados/, with your back turned to the university, and
      trotting towards the town?”
 
-     “He is on his way, no doubt, to seek a lodging in the Rue Thibautodé?" cried Jehan
+     “He is on his way, no doubt, to seek a lodging in the Rue Thibautodé?" cried Jehan
      du M. Moulin.
 
      The entire band repeated this quip in a voice of thunder, clapping their hands furiously.
@@ -369,7 +369,7 @@
 
      “Tell me, Robin Pouissepain, who is that yonder?”
 
-     “He is Gilbert de Suilly, /Gilbertus de Soliaco/, the chancellor of the College of Autun.”
+     “He is Gilbert de Suilly, /Gilbertus de Soliaco/, the chancellor of the College of Autun.”
 
      “Hold on, here's my shoe; you are better placed than I, fling it in his face.”
 
@@ -393,7 +393,7 @@
 
      “May the devil stifle the procurator of the German nation!”
 
-     “And the chaplains of the Sainte-Chapelle, with their gray /amices; cum tunices grisis/!”
+     “And the chaplains of the Sainte-Chapelle, with their gray /amices; cum tunices grisis/!”
 
      “/Seu de pellibus grisis fourratis/!”
 
@@ -412,7 +412,7 @@
      “She is in the Rue de Glatigny.”
 
      “She is making the bed of the king of the debauchees.” She is paying her four
-     deniers /quatuor denarios/.”
+     deniers /quatuor denarios/.”
 
      “/Aut unum bombum/.”
 
@@ -491,7 +491,7 @@
      In the meanwhile, tranquillity had gradually been restored. A1l that remained was that slight murmur which always rises
      above the silence of a crowd.
 
-     “Messieurs the bourgeois,” said he, “and mesdemoiselles the /bourgeoises/, we shall have the honor of declaiming and
+     “Messieurs the bourgeois,” said he, “and mesdemoiselles the /bourgeoises/, we shall have the honor of declaiming and
      representing, before his eminence, monsieur the cardinal, a very beautiful morality which has for its title, 'The Good
      Judgment of Madame the Virgin Mary.' I am to play Jupiter. His eminence is, at this moment, escorting the very honorable
      embassy of the Duke of Austria; which is detained, at present, listening to the harangue of monsieur the rector of the
@@ -499,7 +499,7 @@
 
      It is certain, that nothing less than the intervention of Jupiter was required to save the four unfortunate sergeants of
      the bailiff of the courts. If we had the happiness of having invented this very veracious tale, and of being, in
-     consequence, responsible for it before our Lady Criticism, it is not against us that the classic precept, /Nec deus
+     consequence, responsible for it before our Lady Criticism, it is not against us that the classic precept, /Nec deus
      intersit/, could be invoked. Moreover, the costume of Seigneur Jupiter, was very handsome, and contributed not a little
      towards calming the crowd, by attracting all its attention. Jupiter was clad in a coat of mail, covered with black
      velvet, with gilt nails; and had it not been for the rouge, and the huge red beard, each of which covered one-half of
@@ -725,7 +725,7 @@
      Labor was wedded to Merchandise, and Clergy to Nobility, and that the two happy couples possessed in common a
      magnificent golden dolphin, which they desired to adjudge to the fairest only. So they were roaming about the world
      seeking and searching for this beauty, and, after having successively rejected the Queen of Golconda, the Princess of
-     Trebizonde, the daughter of the Grand Khan of Tartary, /etc/., Labor and Clergy, Nobility and Merchandise, had come to
+     Trebizonde, the daughter of the Grand Khan of Tartary, /etc/., Labor and Clergy, Nobility and Merchandise, had come to
      rest upon the marble table of the Palais de Justice, and to utter, in the presence of the honest audience, as many
      sentences and maxims as could then be dispensed at the Faculty of Arts, at examinations, sophisms, determinances,
      figures, and acts, where the masters took their degrees.
@@ -848,7 +848,7 @@
      finds them in all ages, ever the same; that is to say, always according to all times. And, without reckoning our Pierre
      Gringoire, who may represent them in the fifteenth century if we succeed in bestowing upon him the distinction which he
      deserves, it certainly was their spirit which animated Father du Breul, when he wrote, in the sixteenth, these naively
-     sublime words, worthy of all centuries: “I am a Parisian by nation, and a Parrhisian in language, for /parrhisia/ in
+     sublime words, worthy of all centuries: “I am a Parisian by nation, and a Parrhisian in language, for /parrhisia/ in
      Greek signifies liberty of speech; of which I have made use even towards messeigneurs the cardinals, uncle and brother
      to Monsieur the Prince de Conty, always with respect to their greatness, and without offending any one of their suite,
      which is much to say.”
@@ -866,7 +866,7 @@
      as though stifled, that imperceptible molecule of which we have just remarked upon in the constitution of poets; a
      precious ingredient, by the way, a ballast of reality and humanity, without which they would not touch the earth.
      Gringoire enjoyed seeing, feeling, fingering, so to speak an entire assembly (of knaves, it is true, but what matters
-     that ?) stupefied, petrified, and as though asphyxiated in the presence of the incommensurable tirades which welled up
+     that ?) stupefied, petrified, and as though asphyxiated in the presence of the incommensurable tirades which welled up
      every instant from all parts of his bridal song. I affirm that he shared the general beatitude, and that, quite the
      reverse of La Fontaine, who, at the presentation of his comedy of the “Florentine,” asked, “Who is the ill-bred lout who
      made that rhapsody?” Gringoire would gladly have inquired of his neighbor, “Whose masterpiece is this?”
@@ -961,8 +961,8 @@
      tossed names and titles pell-mell and mutilated to the crowd below. There were Master Loys Roelof, alderman of the city
      of Louvain; Messire Clays d'Etuelde, alderman of Brussels; Messire Paul de Baeust, Sieur de Voirmizelle, President of
      Flanders; Master Jehan Coleghens, burgomaster of the city of Antwerp; Master George de la Moere, first alderman of the
-     kuere of the city of Ghent; Master Gheldolf van der Hage, first alderman of the /parchous/ of the said town; and the
-     Sieur de Bierbecque, and Jehan Pinnock, and Jehan Dymaerzelle, /etc/., /etc/., /etc/.; bailiffs, aldermen, burgomasters;
+     kuere of the city of Ghent; Master Gheldolf van der Hage, first alderman of the /parchous/ of the said town; and the
+     Sieur de Bierbecque, and Jehan Pinnock, and Jehan Dymaerzelle, /etc/., /etc/., /etc/.; bailiffs, aldermen, burgomasters;
      burgomasters, aldermen, bailiffs- all stiff, affectedly grave, formal, dressed out in velvet and damask, hooded with
      caps of black velvet, with great tufts of Cyprus gold thread; good Flemish heads, after all, severe and worthy faces, of
      the family which Rembrandt makes to stand out so strong and grave from the black background of his “Night Patrol “;
@@ -1015,7 +1015,7 @@
 
      “No, cross of God?” he exclaimed, in his voice of thunder, “Jacques Coppenole, hosier. Do you hear, usher? Nothing more,
      nothing less. Cross of God! hosier; that's fine enough. Monsieur the Archduke has more than once sought
-     his /gant/ in my hose.”
+     his /gant/ in my hose.”
 
      Laughter and applause burst forth. A jest is always understood in Paris, and, consequently, always applauded.
 
@@ -1071,7 +1071,7 @@
      bit his lips. He bent towards his neighbor, the Abbé of Saint Geneviéve, and said to him in a low tone,- “Fine
      ambassadors monsieur the archduke sends here, to announce to us Madame Marguerite!”
 
-     “Your eminence,” replied the abbé, “wastes your politeness on these Flemish swine. /Margaritas ante porcos/, pearls
+     “Your eminence,” replied the abbé, “wastes your politeness on these Flemish swine. /Margaritas ante porcos/, pearls
      before swine.”
 
      “Say rather,” retorted the cardinal, with a smile, “/Porcos ante Margaritam/, swine before the pearl.”
@@ -1184,7 +1184,7 @@
      “Messire Louis de Graville, chevalier, councillor, and chamberlain of the king, admiral of France, keeper of the Forest
      of Vincennes!”
 
-     “Master Denis lé Mercier, guardian of the house of the blind at Paris!” /etc/., /etc/., /etc/.
+     “Master Denis lé Mercier, guardian of the house of the blind at Paris!” /etc/., /etc/., /etc/.
 
      This was becoming unbearable.
 
@@ -1308,7 +1308,7 @@
 
     “I'm stifling!”
 
-    “There's a fellow whose ears won't go through!” /Etc/., /etc/.
+    “There's a fellow whose ears won't go through!” /Etc/., /etc/.
 
     But we must do justice to our friend Jehan. In the midst of this witches' sabbath, he was still to be seen on the top of
     his pillar, like the cabin-boy on the topmast. He floundered about with incredible fury. His mouth was wide open, and
@@ -1317,7 +1317,7 @@
     thousand of Biot.
 
     As for Gringoire, the first moment of depression having passed, he had regained his composure. He had hardened himself
-    against adversity.--- “Continue!” he had said for the third time, to his comedians, speaking machines; then as he was
+    against adversity. -  “Continue!” he had said for the third time, to his comedians, speaking machines; then as he was
     marching with great strides in front of the marble table, a fancy seized him to go and appear in his turn at the
     aperture of the chapel, were it only for the pleasure of making a grimace at that ungrateful populace.- “But no, that
     would not be worthy of us; no, vengeance! let us combat until the end,” he repeated to himself; “the power of poetry
@@ -1352,7 +1352,7 @@
     Gringoire was forced to content himself with this eulogy; for a thunder of applause, mingled with a prodigious
     acclamation, cut their conversation short. The Pope of the Fools had been elected.
 
-    “Noel! Noel! Noel!" shouted the people on all sides. That was, in fact, a
+    “Noel! Noel! Noel!" shouted the people on all sides. That was, in fact, a
     marvellous grimace which was beaming at that moment through the aperture in the rose window. After all the pentagonal,
     hexagonal, and whimsical faces, which had succeeded each other at that hole without realizing the ideal of the grotesque
     which their imaginations, excited by the orgy, had constructed, nothing less was needed to win their suffrages than the
@@ -1559,7 +1559,7 @@
      furnish, on occasion, a very excellent pillow for a mendicant or a poet. He thanked Providence for having sent this
      happy idea to him; but, as he was preparing to cross the Place, in order to reach the tortuous labyrinth of the city,
      where meander all those old sister streets, the Rues de la Barillerie, de la Vielle-Draperie, de la Savaterie, de la
-     Juiverie, /etc/., still extant to-day, with their nine-story houses, he saw the procession of the Pope of the Fools,
+     Juiverie, /etc/., still extant to-day, with their nine-story houses, he saw the procession of the Pope of the Fools,
      which was also emerging from the court house, and rushing across the courtyard, with great cries, a great flashing of
      torches, and the music which belonged to him, Gringoire. This sight revived the pain of his self-love; he fled. In the
      bitterness of his dramatic misadventure, everything which reminded him of the festival of that day irritated his wound
@@ -1638,8 +1638,8 @@
      House of the Dauphin,” because Charles V., when Dauphin, had inhabited it; “The Marchandise,” because it had served as
      town hall; and “The Pillared House” (/domus ad piloria/), because of a series of large pillars which sustained the three
      stories. The city found there all that is required for a city like Paris; a chapel in which to pray to God;
-     a /plaidoyer/, or pleading room, in which to hold hearings, and to repel, at need, the King's people; and under the
-     roof, an /arsenac/ full of artillery. For the bourgeois of Paris were aware that it is not sufficient to pray in every
+     a /plaidoyer/, or pleading room, in which to hold hearings, and to repel, at need, the King's people; and under the
+     roof, an /arsenac/ full of artillery. For the bourgeois of Paris were aware that it is not sufficient to pray in every
      conjuncture, and to plead for the franchises of the city, and they had always in reserve, in the garret of the town
      hall, a few good rusty arquebuses. The Grève had then that sinister aspect which it preserves to-day from the execrable
      ideas which it awakens, and from the sombre town hall of Dominique Bocador, which has replaced the Pillared House. It
@@ -1779,7 +1779,7 @@
      which appeared to be familiar to her, executed a pirouette on her heel, and set about collecting in her tambourine the
      gifts of the multitude.
 
-     Big blanks, little blanks, targes and eagle liards showered into it.
+     Big blanks, little blanks, targes and eagle liards showered into it.
 
      All at once, she passed in front of Gringoire. Gringoire put his hand so recklessly into his pocket that she halted.
      “The devil!” said the poet, finding at the bottom of his pocket the reality, that is, to say, a void. In the meantime,
@@ -1806,7 +1806,7 @@
 
      In the meanwhile, Gringoire had taken advantage of the dancer's embarrassment, to disappear. The children's shouts had
      reminded him that he, also, had not supped, so he ran to the public buffet. But the little rascals had better legs than
-     he; when he arrived, they had stripped the table. There remained not so much as a miserable /camichon/ at five sous the
+     he; when he arrived, they had stripped the table. There remained not so much as a miserable /camichon/ at five sous the
      pound. Nothing remained upon the wall but slender fleurs-de-lis, mingled with rose bushes, painted in 1434 by Mathieu
      Biterne. It was a meagre supper.
 
@@ -1833,18 +1833,18 @@
 
      #+BEGIN_QUOTE
      /Un cofre de gran riqueza
-       Hallaron dentro un pilar,
+     Hallaron dentro un pilar,
      Dentro del, nuevas banderas
-      Con figuras de espantar/.
+     Con figuras de espantar/.
      #+END_QUOTE
 
      And an instant afterwards, at the accents which she imparted to this stanza,-
 
      #+BEGIN_QUOTE
      /Alarabes de cavallo
-      Sin poderse menear,
+     Sin poderse menear,
      Con espadas, y los cuellos,
-      Ballestas de buen echar/,
+     Ballestas de buen echar/,
      #+END_QUOTE
 
      Gringoire felt the tears start to his eyes. Nevertheless, her song breathed joy, most of all, and she seemed to sing
@@ -1877,7 +1877,7 @@
      duke, counts, and populace- in rags and tatters. Then came the Kingdom of Argot; that is to say, all the thieves of
      France, arranged according to the order of their dignity; the minor people walking first. Thus defiled by fours, with
      the divers insignia of their grades, in that strange faculty, most of them lame, some cripples, others one-armed, shop
-     clerks, pilgrim, /hubins/, bootblacks, thimble-riggers, street arabs, beggars, the blear-eyed beggars, thieves, the
+     clerks, pilgrim, /hubins/, bootblacks, thimble-riggers, street arabs, beggars, the blear-eyed beggars, thieves, the
      weakly, vagabonds, merchants, sham soldiers, goldsmiths, passed masters of pickpockets, isolated thieves. A catalogue
      that would weary Homer. In the centre of the conclave of the passed masters of pickpockets, one had some difficulty in
      distinguishing the King of Argot, the grand coësre, so called, crouching in a little cart drawn by two big dogs. After
@@ -1893,7 +1893,7 @@
      Each section of this grotesque procession had its own music. The Egyptians made their drums and African tambourines
      resound. The slang men, not a very musical race, still clung to the goat's horn trumpet and the Gothic rubebbe of the
      twelfth century. The Empire of Galilee was not much more advanced; among its music one could hardly distinguish some
-     miserable rebec, from the infancy of the art, still imprisoned in the /re-la-mi/. But it was around the Pope of the
+     miserable rebec, from the infancy of the art, still imprisoned in the /re-la-mi/. But it was around the Pope of the
      Fools that all the musical riches of the epoch were displayed in a magnificent discord. It was nothing but soprano
      rebecs, counter-tenor rebecs, and tenor rebecs, not to reckon the flutes and brass instruments. Alas! our readers will
      remember that this was Gringoire's orchestra.
@@ -2133,7 +2133,7 @@
      brook, began to be established in rough fashion.
 
      Quite a different annoyance suddenly assailed him. A group of children, those little bare-footed savages who have always
-     roamed the pavements of Paris under the eternal name of /gamins/, and who, when we were also children ourselves, threw
+     roamed the pavements of Paris under the eternal name of /gamins/, and who, when we were also children ourselves, threw
      stones at all of us in the afternoon, when we came out of school, because our trousers were not torn- a swarm of these
      young scamps rushed towards the square where Gringoire lay, with shouts and laughter which seemed to pay but little heed
      to the sleep of the neighbors. They were dragging after them some sort of hideous sack; and the noise of their wooden
@@ -2168,7 +2168,7 @@
      After having run for some time at the top of his speed, without knowing whither, knocking his head against many a street
      corner, leaping many a gutter, traversing many an alley, many a court, many a square, seeking flight and passage through
      all the meanderings of the ancient passages of the Halles, exploring in his panic terror what the fine Latin of the maps
-     calls /tota via, cheminum et viaria/, our poet suddenly halted for lack of breath in the first place, and in the second,
+     calls /tota via, cheminum et viaria/, our poet suddenly halted for lack of breath in the first place, and in the second,
      because he had been collared, after a fashion, by a dilemma which had just occurred to his mind. “It strikes me, Master
      Pierre Gringoire,” he said to himself, placing his finger to his brow, “that you are running like a madman. The little
      scamps are no less afraid of you than you are of them. It strikes me, I say, that you heard the clatter of their wooden
@@ -2231,7 +2231,7 @@
 
      “Well, now,” said Gringoire, “here's one at last who speaks a Christian tongue. I must have a very charitable aspect,
      since they ask alms of me in the present lean condition of my purse. My friend,” and he turned towards the blind man, “I
-     sold my last shirt last week; that is to say, since you understand only the language of Cicero: /Vendidi hebdomade nuper
+     sold my last shirt last week; that is to say, since you understand only the language of Cicero: /Vendidi hebdomade nuper
      transita meam ultimam chemisan/.”
 
      That said, he turned his back upon the blind man, and pursued his way. But the blind man began to increase his stride at
@@ -2399,7 +2399,7 @@
 
      Clopin Trouillefou, arrayed in his royal insignia, wore neither one rag more nor one rag less. The sore upon his arm had
      already disappeared. He held in his hand one of those whips made of thongs of white leather, which police sergeants then
-     used to repress the crowd, and which were called /boullayes/. On his head he wore a sort of headgear, bound round and
+     used to repress the crowd, and which were called /boullayes/. On his head he wore a sort of headgear, bound round and
      closed at the top. But it was difficult to make out whether it was a child's cap or a king's crown, the two things bore
      so strong a resemblance to each other.
 
@@ -2418,8 +2418,8 @@
      three powerful sovereigns: myself, Clopin Trouillefou, King of Thunes, successor to the Grand Coësre, supreme suzerain
      of the Realm of Argot; Mathias Hunyadi Spicali, Duke of Egypt and of Bohemia, the old yellow fellow whom you see yonder,
      with a dish clout round his head; Guillaume Rousseau, Emperor of Galilee, that fat fellow who is not listening to us but
-     caressing a wench. We are your judges. You have entered the Kingdom of Argot, without being an /argotier/; you have
-     violated the privileges of our city. You must be punished unless you are a /capon/, a /franc-mitou/ or a /rifodé/; that
+     caressing a wench. We are your judges. You have entered the Kingdom of Argot, without being an /argotier/; you have
+     violated the privileges of our city. You must be punished unless you are a /capon/, a /franc-mitou/ or a /rifodé/; that
      is to say, in the slang of honest folks,- a thief, a beggar, or a vagabond. Are you anything of that sort? Justify
      yourself; announce your titles.”
 
@@ -2442,7 +2442,7 @@
      spoke with resolution), “don't think of such a thing; my name is Pierre Gringoire. I am the poet whose morality was
      presented this morning in the grand hall of the Courts.”
 
-     “Ah! so it was you, master!” said Clopin. “I was there, /xête Dieu/! Well! comrade, is that any reason, because you
+     “Ah! so it was you, master!” said Clopin. “I was there, /xête Dieu/! Well! comrade, is that any reason, because you
      bored us to death this morning, that you should not be hung this evening?”
 
      “I shall find difficulty in getting out of it,” said Gringoire to himself. Nevertheless, he made one more effort: “I
@@ -2470,7 +2470,7 @@
      came and ranged themselves around him in a horseshoe, of which Gringoire, still roughly held by the body, formed the
      centre. It was a semicircle of rags, tatters, tinsel, pitchforks, axes, legs staggering with intoxication, huge, bare
      arms, faces sordid, dull, and stupid. In the midst of this Round Table of beggary, Clopin Trouillefou,- as the doge of
-     this senate, as the king of this peerage, as the pope of this conclave,-  dominated; first by virtue of the height of
+     this senate, as the king of this peerage, as the pope of this conclave,-  dominated; first by virtue of the height of
      his hogshead, and next by virtue of an indescribable, haughty, fierce, and formidable air, which caused his eyes to
      flash, and corrected in his savage profile the bestial type of the race of vagabonds. One would have pronounced him a
      boar amid a herd of swine.
@@ -2489,7 +2489,7 @@
 
      “Of the knife, precisely,” responded Gringoire.
 
-     “You recognize yourself as a member of the free bourgeoisie?" added the King of
+     “You recognize yourself as a member of the free bourgeoisie?" added the King of
      Thunes.
 
      “Of the free bourgeoisie.”
@@ -2519,7 +2519,7 @@
      poor, or lanterns, to which the bourgeois of Paris are subject.”
 
      “So be it,” said the poet. “I agree. I am a vagabond, a thief, a sharper, a man of the knife, anything you please; and I
-     am all that already, monsieur, King of Thunes, for I am a philosopher; /et omnia in philosophia, omnes in philosopho
+     am all that already, monsieur, King of Thunes, for I am a philosopher; /et omnia in philosophia, omnes in philosopho
      continentur/,- all things are contained in philosophy, all men in the philosopher, as you know.”
 
      The King of Thunes scowled.
@@ -2535,7 +2535,7 @@
      that little shopkeeper of Judea, who is by your side, and whom I entertain strong hopes of seeing nailed to a counter
      one of these days, like the counterfeit coin that he is!”
 
-     So saying, he pointed his finger at the little, bearded Hungarian Jew who had accosted Gringoire with his /facitote
+     So saying, he pointed his finger at the little, bearded Hungarian Jew who had accosted Gringoire with his /facitote
      caritatem/, and who, understanding no other language beheld with surprise the King of Thunes's ill-humor overflow upon
      him.
 
@@ -2547,7 +2547,7 @@
 
      “Willing is not all,” said the surly Clopin; “good will doesn't put one onion the more into the soup, and 'tis good for
      nothing except to go to Paradise with; now, Paradise and the thieves' band are two different things. In order to be
-     received among the thieves, you must prove that you are good for something, and
+     received among the thieves, you must prove that you are good for something, and
      for that purpose, you must search the manikin.”
 
      “I'll search anything you like,” said Gringoire.
@@ -2564,7 +2564,7 @@
      thirty Castilian mules with them. These thousand tiny bells quivered for some time with the vibration of the rope, then
      gradually died away, and finally became silent when the manikin had been brought into a state of immobility by that law
      of the pendulum which has dethroned the water clock and the hour-glass. Then Clopin, pointing out to Gringoire a rickety
-     old stool placed beneath the manikin,-  “Climb up there.”
+     old stool placed beneath the manikin,-  “Climb up there.”
 
      “Death of the devil!” objected Gringoire; “I shall break my neck. Your stool limps like one of Martial's distiches; it
      has one hexameter leg and one pentameter leg.”
@@ -2671,7 +2671,7 @@
      wants him. Comrade, this is your last resource. You must wed either a female vagabond or the noose.”
 
      This law of the vagabonds, singular as it may strike the reader, remains to-day written out at length, in ancient
-     English legislation. (See /Burington's Observations/.)
+     English legislation. (See /Burington's Observations/.)
 
      Gringoire breathed again. This was the second time that he had returned to life within an hour. So he did not dare to
      trust to it too implicitly.
@@ -2798,7 +2798,7 @@
      The gypsy's corsage slipped through his hands like the skin of an eel. She bounded from one end of the tiny room to the
      other, stooped down, and raised herself again, with a little poniard in her hand, before Gringoire had even had time to
      see whence the poniard came; proud and angry, with swelling lips and inflated nostrils, her cheeks as red as an api
-     apple, and her eyes darting lightnings. At the same time, the white goat placed
+     apple, and her eyes darting lightnings. At the same time, the white goat placed
      itself in front of her, and presented to Gringoire a hostile front, bristling with two pretty horns, gilded and very
      sharp. All this took place in the twinkling of an eye.
 
@@ -2955,8 +2955,8 @@
      wall at something. All at once she began to sing in a barely articulate voice,-
 
      #+BEGIN_QUOTE
-      /Quando las pintadas aves,
-      Mudas están, y la tierra/-
+     /Quando las pintadas aves,
+     Mudas están, y la tierra/-
      #+END_QUOTE
 
      She broke off abruptly, and began to caress Djali.
@@ -3059,7 +3059,7 @@
      That is a trade which one can always adopt when one is a vagabond, and it's better than stealing, as some young brigands
      of my acquaintance advised me to do. One day I met by luck, Dom Claude Frollo, the reverend archdeacon of Notre-Dame. He
      took an interest in me, and it is to him that I to-day owe it that I am a veritable man of letters, who knows Latin from
-     the /de Officiis/ of Cicero to the mortuology of the Celestine Fathers, and a barbarian neither in scholastics, nor in
+     the /de Officiis/ of Cicero to the mortuology of the Celestine Fathers, and a barbarian neither in scholastics, nor in
      politics, nor in rhythmics, that sophism of sophisms. I am the author of the Mystery which was presented to-day with
      great triumph and a great concourse of populace, in the grand hall of the Palais de Justice. I have also made a book
      which will contain six hundred pages, on the wonderful comet of 1465, which sent one man mad. I have enjoyed still other
@@ -3107,7 +3107,7 @@
     mutilations which time and men have both caused the venerable monument to suffer, without respect for Charlemagne, who
     laid its first stone, or for Philip Augustus, who laid the last.
 
-    On the face of this aged queen of our cathedrals, by the side of a wrinkle, one always finds a scar. /Tempus edax, homo
+    On the face of this aged queen of our cathedrals, by the side of a wrinkle, one always finds a scar. /Tempus edax, homo
     edacior/; which I should be glad to translate thus: time is blind, man is
     stupid.
 
@@ -3133,7 +3133,7 @@
     logical, and well proportioned. To measure the great toe of the foot is to measure the giant.
 
     Let us return to the façade of Notre-Dame, as it still appears to us, when we go piously to admire the grave and
-    puissant cathedral, which inspires terror, so its chronicles assert: /quoe mole sua terrorem incutit spectantibus/.
+    puissant cathedral, which inspires terror, so its chronicles assert: /quoe mole sua terrorem incutit spectantibus/.
 
     Three important things are to-day lacking in that façade: in the first place, the staircase of eleven steps which
     formerly raised it above the soil; next, the lower series of statues which occupied the niches of the three portals; and
@@ -3197,12 +3197,12 @@
     “restorations”; this is the Greek, Roman, and barbarian work of professors according to Vitruvius and Vignole. This
     magnificent art produced by the Vandals has been slain by the academies. The centuries, the revolutions, which at least
     devastate with impartiality and grandeur, have been joined by a cloud of school architects, licensed, sworn, and bound
-    by oath; defacing with the discernment and choice of bad taste, substituting the /chicorées/ of Louis XV. for the Gothic
+    by oath; defacing with the discernment and choice of bad taste, substituting the /chicorées/ of Louis XV. for the Gothic
     lace, for the greater glory of the Parthenon. It is the kick of the ass at the dying lion. It is the old oak crowning
     itself, and which, to heap the measure full, is stung, bitten, and gnawed by caterpillars.
 
     How far it is from the epoch when Robert Cenalis, comparing Notre-Dame de Paris to the famous temple of Diana at
-    Ephesus, /so much lauded by the ancient pagans/, which Erostatus /has/ immortalized, found the Gallic temple “more
+    Ephesus, /so much lauded by the ancient pagans/, which Erostatus /has/ immortalized, found the Gallic temple “more
     excellent in length, breadth, height, and structure."
 
     Notre-Dame is not, moreover, what can be called a complete, definite, classified monument. It is no longer a Romanesque
@@ -3255,7 +3255,7 @@
     the bees, thus do men. The great symbol of architecture, Babel, is a hive.
 
     Great edifices, like great mountains, are the work of centuries. Art often undergoes a transformation while they are
-    pending, /pendent opera interrupta/; they proceed quietly in accordance with the transformed art. The new art takes the
+    pending, /pendent opera interrupta/; they proceed quietly in accordance with the transformed art. The new art takes the
     monument where it finds it, incrusts itself there, assimilates it to itself, develops it according to its fancy, and
     finishes it if it can. The thing is accomplished without trouble, without effort, without reaction,- following a
     natural and tranquil law. It is a graft which shoots up, a sap which circulates, a vegetation which starts forth anew.
@@ -3282,7 +3282,7 @@
 
     #+BEGIN_QUOTE
     /Facies non omnibus una,
-    No diversa tamen, qualem/, /etc/.
+    No diversa tamen, qualem/, /etc/.
     #+END_QUOTE
 
     Their faces not all alike, nor yet different, but such as the faces of sisters ought to be.
@@ -3310,7 +3310,7 @@
 
     That was, in fact,- when, after having long groped one's way up the dark spiral which perpendicularly pierces the
     thick wall of the belfries, one emerged, at last abruptly, upon one of the lofty platforms inundated with light and
-    air,- that was, in fact, a fine picture which spread out, on all sides at once, before the eye; a spectacle /sui
+    air,- that was, in fact, a fine picture which spread out, on all sides at once, before the eye; a spectacle /sui
     generis/, of which those of our readers who have had the good fortune to see a Gothic city entire, complete,
     homogeneous,- a few of which still remain, Nuremberg in Bavaria and Vittoria in Spain,- can readily form an idea; or
     even smaller specimens, provided that they are well preserved,- Vitré in Brittany, Nordhausen in Prussia.
@@ -3357,7 +3357,7 @@
     worthy of the poet who sung it,-
 
     #+BEGIN_QUOTE
-      /Le mur murant Paris rend Paris murmurant/.
+    /Le mur murant Paris rend Paris murmurant/.
     #+END_QUOTE
 
     In the fifteenth century, Paris was still divided into three wholly distinct and separate towns, each having its own
@@ -3389,7 +3389,7 @@
 
     The greater part of these privileges, it may be noted in passing, and there were some even better than the above, had
     been extorted from the kings by revolts and mutinies. It is the course of things from time immemorial; the king only
-    lets go when the people tear away. There is an old charter which puts the matter naively: apropos of fidelity: /Civibus
+    lets go when the people tear away. There is an old charter which puts the matter naively: apropos of fidelity: /Civibus
     fidelitas in reges, quoe tamen aliquoties seditionibus interrypta, multa peperit privileyia/.
 
     In the fifteenth century, the Seine bathed five islands within the walls of Paris: Louviers island, where there were
@@ -3547,7 +3547,7 @@
     was the wall of Philip Augustus. Beyond, the fields gleamed green; beyond, fled the roads, along which were scattered a
     few more suburban houses, which became more infrequent as they became more distant. Some of these faubourgs were
     important: there were, first, starting from la Tournelle, the Bourg Saint-Victor, with its one arch bridge over the
-    Bièvre, its abbey where one could read the epitaph of Louis lé Gros, /epitaphium Ludovici Grossi/, and its church with
+    Bièvre, its abbey where one could read the epitaph of Louis lé Gros, /epitaphium Ludovici Grossi/, and its church with
     an octagonal spire, flanked with four little bell towers of the eleventh century (a similar one can be seen at Etampes;
     it is not yet destroyed); next, the Bourg Saint-Marceau, which already had three churches and one convent; then, leaving
     the mill of the Gobelins and its four white walls on the left, there was the Faubourg Saint-Jacques with the beautiful
@@ -3655,7 +3655,7 @@
 
     The Rues Saint-Denis and Saint-Martin, with their innumerable ramifications, rose one after the other, like trees
     intertwining their branches; and then the tortuous lines, the Rues de la Plâtrerie, de la Verrerie, de la
-    Tixeranderie, /etc/., meandered over all. There were also fine edifices which pierced the petrified undulations of that
+    Tixeranderie, /etc/., meandered over all. There were also fine edifices which pierced the petrified undulations of that
     sea of gables. At the head of the Pont aux Changeurs, behind which one beheld the Seine foaming beneath the wheels of
     the Pont aux Meuniers, there was the Chalelet, no longer a Roman tower, as under Julian the Apostate, but a feudal tower
     of the thirteenth century, and of a stone so hard that the pickaxe could not break away so much as the thickness of the
@@ -3700,7 +3700,7 @@
     slates, and all streaming with metallic reflections, terminated with wonderful effect the configuration of the Town
     towards the west.
 
-    Thus an immense block, which the Romans called /iusula/, or island, of bourgeois houses, flanked on the right and the
+    Thus an immense block, which the Romans called /iusula/, or island, of bourgeois houses, flanked on the right and the
     left by two blocks of palaces, crowned, the one by the Louvre, the other by the Tournelles, bordered on the north by a
     long girdle of abbeys and cultivated enclosures, all amalgamated and melted together in one view; upon these thousands
     of edifices, whose tiled and slated roofs outlined upon each other so many fantastic chains, the bell towers, tattooed,
@@ -3884,7 +3884,7 @@
      to excite to a high degree, the curiosity of the numerous group which had congregated about the wooden bed. The group
      was formed for the most part of the fair sex. Hardly any one was there except old women.
 
-     In the first row, and among those who were most bent over the bed, four were noticeable, who, from their gray /cagoule/,
+     In the first row, and among those who were most bent over the bed, four were noticeable, who, from their gray /cagoule/,
      a sort of cassock, were recognizable as attached to some devout sisterhood. I do not see why history has not transmitted
      to posterity the names of these four discreet and venerable damsels. They were Agnes la Herme, Jehanne de la Tarme,
      Henriette la Gaultière, Gauchère la Violette, all four widows, all four dames of the Chapel Etienne Haudry, who had
@@ -3907,7 +3907,7 @@
 
      “'Tis a miracle,” interposed Henriette la Gaultière.
 
-     “Then,” remarked Agnes, “it is the third since the Sunday of the /Loetare/: for, in less than a week, we had the miracle
+     “Then,” remarked Agnes, “it is the third since the Sunday of the /Loetare/: for, in less than a week, we had the miracle
      of the mocker of pilgrims divinely punished by Notre-Dame d'Aubervilliers, and that was the second miracle within a
      month.”
 
@@ -3997,7 +3997,7 @@
      In fact, Claude Frollo was no common person.
 
      He belonged to one of those middle-class families which were called indifferently, in the impertinent language of the
-     last century, the high /bourgeoise/ or the petty nobility. This family had inherited from the brothers Paclet the fief
+     last century, the high /bourgeoise/ or the petty nobility. This family had inherited from the brothers Paclet the fief
      of Tirechappe, which was dependent upon the Bishop of Paris, and whose twenty-one houses had been in the thirteenth
      century the object of so many suits before the official. As possessor of this fief, Claude Frollo was one of the
      twenty-seven seigneurs keeping claim to a manor in fee in Paris and its suburbs; and for a long time, his name was to be
@@ -4010,11 +4010,11 @@
      lexicon.
 
      Moreover, he was a sad, grave, serious child, who studied ardently, and learned quickly; he never uttered a loud cry in
-     recreation hour, mixed but little in the bacchanals of the Rue du Fouarre, did not know what it was to /dare alapas et
+     recreation hour, mixed but little in the bacchanals of the Rue du Fouarre, did not know what it was to /dare alapas et
      capillos laniare/, and had cut no figure in that revolt of 1463, which the annalists register gravely, under the title
-     of “The sixth trouble of the University.” He seldom rallied the poor students of Montaigu on the /cappettes/ from which
+     of “The sixth trouble of the University.” He seldom rallied the poor students of Montaigu on the /cappettes/ from which
      they derived their name, or the bursars of the college of Dormáns on their shaved tonsure, and their surtout
-     parti-colored of bluish-green, blue, and violet cloth, /azurini coloris et bruni/, as says the charter of the Cardinal
+     parti-colored of bluish-green, blue, and violet cloth, /azurini coloris et bruni/, as says the charter of the Cardinal
      des Quatre-Couronnes.
 
      On the other hand, he was assiduous at the great and the small schools of the Rue Saint Jean de Beauvais. The first
@@ -4085,7 +4085,7 @@
      happiness and fortune of his brother. Therefore, he attached himself more closely than ever to the clerical profession.
      His merits, his learning, his quality of immediate vassal of the Bishop of Paris, threw the doors of the church wide
      open to him. At the age of twenty, by special dispensation of the Holy See, he was a priest, and served as the youngest
-     of the chaplains of Notre-Dame the altar which is called, because of the late mass which is said there, /altare
+     of the chaplains of Notre-Dame the altar which is called, because of the late mass which is said there, /altare
      pigrorum/.
 
      There, plunged more deeply than ever in his dear books, which he quitted only to run for an hour to the fief of Moulin,
@@ -4352,10 +4352,10 @@
     it was a grief to him that this sanctuary, formerly edified by the name of Frollo, should to-day be scandalized by it.
     He sometimes preached Jehan very long and severe sermons, which the latter intrepidly endured. After all, the young
     scapegrace had a good heart, as can be seen in all comedies. But the sermon over, he none the less tranquilly resumed
-    his course of séditions and enormities. Now it was a /béjaune/ or yellow beak (as they called the new arrivals at the
+    his course of séditions and enormities. Now it was a /béjaune/ or yellow beak (as they called the new arrivals at the
     university), whom he had been mauling by way of welcome; a precious tradition which has been carefully preserved to our
     own day. Again, he had set in movement a band of scholars, who had flung themselves upon a wine-shop in classic fashion,
-    quasi /classico excitati/, had then beaten the tavern-keeper “with offensive cudgels,” and joyously pillaged the tavern,
+    quasi /classico excitati/, had then beaten the tavern-keeper “with offensive cudgels,” and joyously pillaged the tavern,
     even to smashing in the hogsheads of wine in the cellar. And then it was a fine report in Latin, which the sub-monitor
     of Torchi carried piteously to Dom Claude with this dolorous marginal comment,-/Rixa; prima causa vinum optimum
     potatum/. Finally, it was said, a thing quite horrible in a boy of sixteen, that his debauchery often extended as far as
@@ -4369,15 +4369,15 @@
     break only in the great disturbances of life.
 
     As Claude Frollo had passed through nearly the entire circle of human learning- positive, exterior, and permissible-
-    since his youth, he was obliged, unless he came to a halt, /ubi defuit orbis/, to proceed further and seek other
+    since his youth, he was obliged, unless he came to a halt, /ubi defuit orbis/, to proceed further and seek other
     aliments for the insatiable activity of his intelligence. The antique symbol of the serpent biting its tail is, above
     all, applicable to science. It would appear that Claude Frollo had experienced this. Many grave persons affirm that,
-    after having exhausted the /fas/ of human learning, he had dared to penetrate into the /nefas/. He had, they said,
+    after having exhausted the /fas/ of human learning, he had dared to penetrate into the /nefas/. He had, they said,
     tasted in succession all the apples of the tree of knowledge, and, whether from hunger or disgust, had ended by tasting
     the forbidden fruit. He had taken his place by turns, as the reader has seen, in the conferences of the theologians in
     Sorbonne,- in the assemblies of the doctors of art, after the manner of Saint-Hilaire,- in the disputes of the
     decretalists, after the manner of Saint-Martin,- in the congregations of physicians at the holy water font of
-    Notre-Dame, /ad cupam Nostroe-Dominoe/. All the dishes permitted and approved, which those four great kitchens called
+    Notre-Dame, /ad cupam Nostroe-Dominoe/. All the dishes permitted and approved, which those four great kitchens called
     the four faculties could elaborate and serve to the understanding, he had devoured, and had been satiated with them
     before his hunger was appeased. Then he had penetrated further, lower, beneath all that finished, material, limited
     knowledge; he had, perhaps, risked his soul, and had seated himself in the cavern at that mysterious table of the
@@ -4421,7 +4421,7 @@
     Furthermore, it is certain that the archdeacon had established himself in that one of the two towers which looks upon
     the Grève, just beside the frame for the bells, a very secret little cell, into which no one, not even the bishop,
     entered without his leave, it was said. This tiny cell had formerly been made almost at the summit of the tower, among
-    the ravens' nests, by Bishop Hugo de Besançon who had wrought sorcery there in
+    the ravens' nests, by Bishop Hugo de Besançon who had wrought sorcery there in
     his day. What that cell contained, no one knew; but from the strand of the Terrain, at night, there was often seen to
     appear, disappear, and reappear at brief and regular intervals, at a little dormer window opening upon the back of the
     tower, a certain red, intermittent, singular light which seemed to follow the panting breaths of a bellows, and to
@@ -4450,7 +4450,7 @@
     These symptoms of a violent moral preoccupation, had acquired an especially high degree of intensity at the epoch when
     this story takes place. More than once a choir-boy had fled in terror at finding him alone in the church, so strange and
     dazzling was his look. More than once, in the choir, at the hour of the offices, his neighbor in the stalls had heard
-    him mingle with the plain song, /ad omnem tonum/, unintelligible parentheses. More than once the laundress of the
+    him mingle with the plain song, /ad omnem tonum/, unintelligible parentheses. More than once the laundress of the
     Terrain charged “with washing the chapter” had observed, not without affright, the marks of nails and clenched fingers
     on the surplice of monsieur the archdeacon of Josas.
 
@@ -4460,7 +4460,7 @@
     Beaujeu, the king's daughter, came to visit the cloister of Notre-Dame, in the month of December, 1481, he gravely
     opposed her entrance, reminding the bishop of the statute of the Black Book, dating from the vigil of Saint-Barthélemy,
     1334, which interdicts access to the cloister to “any woman whatever, old or young, mistress or maid.” Upon which the
-    bishop had been constrained to recite to him the ordinance of Legate Odo, which excepts certain great dames, /aliquoe
+    bishop had been constrained to recite to him the ordinance of Legate Odo, which excepts certain great dames, /aliquoe
     magnates mulieres, quoe sine scandalo vitari non possunt/. And again the archdeacon had protested, objecting that the
     ordinance of the legate, which dated back to 1207, was anterior by a hundred and twenty-seven years to the Black Book,
     and consequently was abrogated in fact by it. And he had refused to appear before the princess.
@@ -4510,7 +4510,7 @@
     powder, which strongly resembled the alchemist's “powder of projection,” presented nothing strange or mysterious. There
     were, indeed, here and there, some inscriptions on the walls, but they were pure sentences of learning and piety,
     extracted from good authors. The archdeacon had just seated himself, by the light of a three-jetted copper lamp, before
-    a vast coffer crammed with manuscripts. He had rested his elbow upon the open volume of /Honorius d'Autun/, /De
+    a vast coffer crammed with manuscripts. He had rested his elbow upon the open volume of /Honorius d'Autun/, /De
     predestinatione et libero arbitrio/, and he was turning over, in deep meditation, the leaves of a printed folio which he
     had just brought, the sole product of the press which his cell contained. In the midst of his revery there came a knock
     at his door. “Who's there?” cried the learned man, in the gracious tone of a famished dog, disturbed over his bone.
@@ -4725,7 +4725,7 @@
 
     “A madman!”
 
-    “And,” said Tourangeau suddenly, “the wondrous result,-  have you attained it, have you made gold?”
+    “And,” said Tourangeau suddenly, “the wondrous result,-  have you attained it, have you made gold?”
 
     “If I had made it,” replied the archdeacon, articulating his words slowly, like a man who is reflecting, “the king of
     France would be named Claude and not Louis.”
@@ -4777,7 +4777,7 @@
     “'Tis you who are in error,” replied the archdeacon, gravely. “Daedalus is the base; Orpheus is the wall; Hermes is the
     edifice,- that is all. You shall come when you will,” he continued, turning to Tourangeau, “I will show you the little
     parcels of gold which remained at the bottom of Nicholas Flamel's alembic, and you shall compare them with the gold of
-    Guillaume de Paris. I will teach you the secret virtues of the Greek word, /peristera/. But, first of all, I will make
+    Guillaume de Paris. I will teach you the secret virtues of the Greek word, /peristera/. But, first of all, I will make
     you read, one after the other, the marble letters of the alphabet, the granite pages of the book. We shall go to the
     portal of Bishop Guillaume and of Saint-Jean lé Rond at the Sainte-Chapelle, then to the house of Nicholas Flamel, Rue
     Manvault, to his tomb, which is at the Saints-Innocents, to his two hospitals, Rue de Montmorency. I will make you read
@@ -4801,7 +4801,7 @@
     book to the church,- “Alas,” he said, “this will kill that.”
 
     Coictier, who had eagerly approached the book, could not repress an exclamation. “Hé, but now, what is there so
-    formidable in this: 'GLOSSA IN Epístolas D. PAULI, /Norimbergoe, Antonius Koburger/, 1474.' This is not new. 'Tis a book
+    formidable in this: 'GLOSSA IN Epístolas D. PAULI, /Norimbergoe, Antonius Koburger/, 1474.' This is not new. 'Tis a book
     of Pierre Lombard, the Master of Sentences. Is it because it is printed?”
 
     “You have said it,” replied Claude, who seemed absorbed in a profound meditation, and stood resting, his forefinger bent
@@ -4817,7 +4817,7 @@
     Come to-morrow to the Palace des Tournelles, and inquire for the Abbé de Sainte-Martin, of Tours.”
 
     The archdeacon returned to his chamber dumbfounded, comprehending at last who Gossip Tourangeau was, and recalling that
-    passage of the register of Sainte-Martin, of Tours:-  /Abbas beati Martini, SCILICET REX FRANCIAE, est canonicus de
+    passage of the register of Sainte-Martin, of Tours:-  /Abbas beati Martini, SCILICET REX FRANCIAE, est canonicus de
     consuetudine et habet parvam proebendam quam habet sanctus Venantius, et débet sedere in sede thesaurarii/.
 
     It is asserted that after that epoch the archdeacon had frequent conferences with Louis XI., when his majesty came to
@@ -4920,7 +4920,7 @@
     and object, always sets free the spirit of liberty from its final precipitate. New things spring into life every day.
     Here opens the stormy period of the Jacqueries, Pragueries, and Leagues. Authority wavers, unity is divided. Feudalism
     demands to share with theocracy, while awaiting the inevitable arrival of the people, who will assume the part of the
-    lion: /Quia nominor leo/. Seignory pierces through sacerdotalism; the commonality, through seignory. The face of Europe
+    lion: /Quia nominor leo/. Seignory pierces through sacerdotalism; the commonality, through seignory. The face of Europe
     is changed. Well! the face of architecture is changed also. Like civilization, it has turned a page, and the new spirit
     of the time finds her ready to write at its dictation. It returns from the crusades with the pointed arch, like the
     nations with liberty.
@@ -4960,7 +4960,7 @@
     Then whoever was born a poet became an architect.
     Genius, scattered in the masses, repressed in every quarter
 
-    under feudalism as under a /testudo/ of brazen bucklers, finding no issue except in the direction of architecture,-
+    under feudalism as under a /testudo/ of brazen bucklers, finding no issue except in the direction of architecture,-
     gushed forth through that art, and its Iliads assumed the form of cathedrals. All other arts obeyed, and placed
     themselves under the discipline of architecture. They were the workmen of the great work. The architect, the poet, the
     master, summed up in his person the sculpture which carved his façades, painting which illuminated his windows, music
@@ -5122,7 +5122,7 @@
     reader now imagine what an investment of funds it would require to rewrite the architectural book; to cause thousands of
     edifices to swarm once more upon the soil; to return to those epochs when the throng of monuments was such, according to
     the statement of an eye witness, “that one would have said that the world in shaking itself, had cast off its old
-    garments in order to cover itself with a white vesture of churches.” /Erat enim ut si mundus, ipse excutiendo semet,
+    garments in order to cover itself with a white vesture of churches.” /Erat enim ut si mundus, ipse excutiendo semet,
     rejecta vetustate, candida ecclesiarum vestem indueret/. (GLABER RADOLPHUS.)
 
     A book is so soon made, costs so little, and can go so far! How can it surprise us that all human thought flows in this
@@ -5172,8 +5172,8 @@
     all the intellectual sap of society, belches forth without pause fresh materials for its work. The whole human race is
     on the scaffoldings. Each mind is a mason. The humblest fills his hole, or places his stone. Retif dè lé Bretonne brings
     his hod of plaster. Every day a new course rises. Independently of the original and individual contribution of each
-    writer, there are collective contingents. The eighteenth century gives the /Encyclopedia/, the revolution gives
-    the /Moniteur/. Assuredly, it is a construction which increases and piles up in endless spirals; there also are
+    writer, there are collective contingents. The eighteenth century gives the /Encyclopedia/, the revolution gives
+    the /Moniteur/. Assuredly, it is a construction which increases and piles up in endless spirals; there also are
     confusion of tongues, incessant activity, indefatigable labor, eager competition of all humanity, refuge promised to
     intelligence, a new Flood against an overflow of barbarians. It is the second tower of Babel of the human race.
 
@@ -5183,8 +5183,8 @@
     A very happy personage in the year of grace 1482, was the noble gentleman Robert d'Estouteville, chevalier, Sieur de
     Beyne, Baron d'Ivry and Saint Andry en la Marche, counsellor and chamberlain to the king, and guard of the provostship
     of Paris. It was already nearly seventeen years since he had received from the king, on November 7, 1465, the comet
-    year, that fine charge of the provostship of Paris, which was reputed rather a
-    seigneury than an office. /Dignitas/, says Joannes Loemnoeus, /quoe cum non exigua potestate politiam concernente, atque
+    year, that fine charge of the provostship of Paris, which was reputed rather a
+    seigneury than an office. /Dignitas/, says Joannes Loemnoeus, /quoe cum non exigua potestate politiam concernente, atque
     proerogativis multis et juribus conjuncta est/. A marvellous thing in '82 was a gentleman bearing the king's commission,
     and whose letters of institution ran back to the epoch of the marriage of the natural daughter of Louis XI. with
     Monsieur the Bastard of Bourbon.
@@ -5211,7 +5211,7 @@
     himself in rides about the city, and of making his fine military costume, which you may still admire sculptured on his
     tomb in the abbey of Valmont in Normandy, and his morion, all embossed at Montlhéry, stand out a contrast against the
     parti-colored red and tawny robes of the aldermen and police. And then, was it nothing to wield absolute supremacy over
-    the sergeants of the police, the porter and watch of the Châtelet, the two auditors of the Châtelet, /auditores
+    the sergeants of the police, the porter and watch of the Châtelet, the two auditors of the Châtelet, /auditores
     castelleti/, the sixteen commissioners of the sixteen quarters, the jailer of the Châtelet, the four enfeoffed
     sergeants, the hundred and twenty mounted sergeants, with maces, the chevalier of the watch with his watch, his
     sub-watch, his counter-watch and his rear-watch? Was it nothing to exercise high and low justice, the right to
@@ -5252,7 +5252,7 @@
     conveniently, in the name of the king, law, and justice.
 
     However, the audience had begun without him. His lieutenants, civil, criminal, and private, were doing his work,
-    according to usage; and from eight o'clock in the morning, some scores of bourgeois and /bourgeoises/, heaped and
+    according to usage; and from eight o'clock in the morning, some scores of bourgeois and /bourgeoises/, heaped and
     crowded into an obscure corner of the audience chamber of Embas du Châtelet, between a stout oaken barrier and the wall,
     had been gazing blissfully at the varied and cheerful spectacle of civil and criminal justice dispensed by Master
     Florian Barbedienne,
@@ -5286,9 +5286,9 @@
     “Stay,” he said in a low tone to his companion, Robin Poussepain, who was grinning at his side, while he was making his
     comments on the scenes which were being unfolded before his eyes, “yonder is Jehanneton du Buisson. The beautiful
     daughter of the lazy dog at the Marché-Neuf!- Upon my soul, he is condemning her, the old rascal! he has no more eyes
-    than ears. Fifteen sous, four farthings, parisian, for having worn two rosaries! 'Tis somewhat dear. /Lex duri
+    than ears. Fifteen sous, four farthings, parisian, for having worn two rosaries! 'Tis somewhat dear. /Lex duri
     carminis/. Who's that? Robin Chief-de-Ville, hauberkmaker. For having been passed and received master of the said trade!
-    That's his entrance money. He! two gentlemen among these knaves! Aiglet de Soins, Hutin de Mailly Two equerries, /Corpus
+    That's his entrance money. He! two gentlemen among these knaves! Aiglet de Soins, Hutin de Mailly Two equerries, /Corpus
     Christi/! Ah! they have been playing at dice. When shall I see our rector here? A hundred livres parisian, fine to the
     king! That Barbedienne strikes like a deaf man,- as he is! I'll be my brother the archdeacon, if that keeps me from
     gaming; gaming by day, gaming by night, living at play, dying at play, and gaming away my soul after my shirt. Holy
@@ -5303,7 +5303,7 @@
     for Gieffroy! A fine for them both! The deaf old fool! he must have mixed up the two cases! Ten to one that he makes the
     wench pay for the oath and the gendarme for the amour! Attention, Robin Poussepain! What are they going to bring in?
     Here are many sergeants! By Jupiter! all the bloodhounds of the pack are there. It must be the great beast of the
-    hunt- a wild boar. And 'tis one, Robin, 'tis one. And a fine one too! /Hercle/! 'tis our prince of yesterday, our Pope
+    hunt- a wild boar. And 'tis one, Robin, 'tis one. And a fine one too! /Hercle/! 'tis our prince of yesterday, our Pope
     of the Fools, our bellringer, our one-eyed man, our hunchback, our grimace! 'Tis Quasimodo!”
 
     It was he indeed.
@@ -5352,9 +5352,9 @@
     Still the same silence. The spectators had begun, meanwhile, to whisper together, and to exchange glances.
 
     “That will do,” went on the imperturbable auditor, when he supposed that the accused had finished his third reply. “You
-    are accused before us, /primo/, of nocturnal disturbance; /secundo/, of a dishonorable act of violence upon the person
-    of a foolish woman, /in proejudicium meretricis; tertio/, of rebellion and disloyalty towards the archers of the police
-    of our lord, the king. Explain yourself upon all these points.--- Clerk, have you written down what the prisoner has
+    are accused before us, /primo/, of nocturnal disturbance; /secundo/, of a dishonorable act of violence upon the person
+    of a foolish woman, /in proejudicium meretricis; tertio/, of rebellion and disloyalty towards the archers of the police
+    of our lord, the king. Explain yourself upon all these points. -  Clerk, have you written down what the prisoner has
     said thus far?”
 
     At this unlucky question, a burst of laughter rose from the clerk's table caught by the audience, so violent, so wild,
@@ -5416,7 +5416,7 @@
     This was too much; the provost could no longer restrain himself.
 
     “Ah! you are scoffing at the provostship, wretch! Messieurs the sergeants of the mace, you will take me this knave to
-    the pillory of the Grève, you will flog him, and turn him for an hour. He shall pay me for it, /tête Dieu/! And I order
+    the pillory of the Grève, you will flog him, and turn him for an hour. He shall pay me for it, /tête Dieu/! And I order
     that the present judgment shall be cried, with the assistance of four sworn trumpeters, in the seven castellanies of the
     viscomty of Paris.”
 
@@ -5529,7 +5529,7 @@
     know where,- at the Clichon House, I think; others still at many spots where traces of them are found in traditions,
     in default of memorials. The University had also its own. On Mount Sainte-Geneviève a sort of Job of the Middle Ages,
     for the space of thirty years, chanted the seven penitential psalms on a dunghill at the bottom of a cistern, beginning
-    anew when he had finished, singing loudest at night, /magna voce per umbras/, and to-day, the antiquary fancies that he
+    anew when he had finished, singing loudest at night, /magna voce per umbras/, and to-day, the antiquary fancies that he
     hears his voice as he enters the Rue du Puits-qui-parle- the street of the “Speaking Well.”
 
     To confine ourselves to the cell in the Tour-Roland, we must say that it had never lacked recluses. After the death of
@@ -5540,9 +5540,9 @@
     In accordance with the fashion of the epoch, a Latin inscription on the wall indicated to the learned passer-by the
     pious purpose of this cell. The custom was retained until the middle of the sixteenth century of explaining an edifice
     by a brief device inscribed above the door. Thus, one still reads in France, above the wicket of the prison in the
-    seignorial mansion of Tourville, /Sileto et spera/; in Ireland, beneath the armorial bearings which surmount the grand
+    seignorial mansion of Tourville, /Sileto et spera/; in Ireland, beneath the armorial bearings which surmount the grand
     door to Fortescue Castle,/Forte scutum, salus ducum/; in England, over the principal entrance to the hospitable mansion
-    of the Earls Cowper: /Tuum est/. At that time every edifice was a thought.
+    of the Earls Cowper: /Tuum est/. At that time every edifice was a thought.
 
     As there was no door to the walled cell of the Tour-Roland, these two words had been carved in large Roman capitals over
     the window,-
@@ -5552,7 +5552,7 @@
     #+END_QUOTE
 
     And this caused the people, whose good sense does not perceive so much refinement in things, and likes to
-    translate /Ludovico Magno/ by “Porte Saint-Denis,” to give to this dark, gloomy, damp cavity, the name of “The
+    translate /Ludovico Magno/ by “Porte Saint-Denis,” to give to this dark, gloomy, damp cavity, the name of “The
     Rat-Hole.” An explanation less sublime, perhaps, than the other; but, on the other hand, more picturesque.
 
 *** Chapter 3 HISTORY OF A LEAVENED CAKE OF MAIZE
@@ -5562,7 +5562,7 @@
     to the Rat-Hole, were directing their steps towards the same spot, coming up along the water's edge from the Châtelet,
     towards the Grève.
 
-    Two of these women were dressed like good /bourgeoises/ of Paris. Their fine white ruffs; their petticoats of
+    Two of these women were dressed like good /bourgeoises/ of Paris. Their fine white ruffs; their petticoats of
     linsey-woolsey, striped red and blue; their white knitted stockings, with clocks embroidered in colors, well drawn upon
     their legs; the square-toed shoes of tawny leather with black soles, and, above all, their headgear, that sort of tinsel
     horn, loaded down with ribbons and laces, which the women of Champagne still wear, in company with the grenadiers of the
@@ -5579,7 +5579,7 @@
 
     We regret to be obliged to add, that, owing to the rigor of the season, he was using his tongue as a handkerchief.
 
-    The child was making them drag him along, /non passibus Cequis/, as Virgil says, and stumbling at every moment, to the
+    The child was making them drag him along, /non passibus Cequis/, as Virgil says, and stumbling at every moment, to the
     great indignation of his mother. It is true that he was looking at his cake more than at the pavement. Some serious
     motive, no doubt, prevented his biting it (the cake), for he contented himself with gazing tenderly at it. But the
     mother should have rather taken charge of the cake. It was cruel to make a Tantalus of the chubby-checked boy.
@@ -5639,7 +5639,7 @@
     “It was at the Petit Bourbon,” replied Gervaise, with no less spirit, “and this is what monsieur the cardinal's
     procurator presented to them: twelve double quarts of hippocras, white, claret, and red; twenty-four boxes of double
     Lyons marchpane, gilded; as many torches, worth two livres a piece; and six
-    demi-queues of Beaune wine, white and claret, the best that could be found. I
+    demi-queues of Beaune wine, white and claret, the best that could be found. I
     have it from my husband, who is a cinquantenier, at the Parloir-aux Bourgeois,
     and who was this morning comparing the Flemish ambassadors with those of Prester John and the Emperor of Trebizond, who
     came from Mesopotamia to Paris, under the last king, and who wore rings in their ears.”
@@ -5682,9 +5682,9 @@
 
     Mahiette shook her head with a pensive air.
 
-    “The singular point is,” observed Oudarde, “that /la sachette/ has the same idea about the Egyptian woman.”
+    “The singular point is,” observed Oudarde, “that /la sachette/ has the same idea about the Egyptian woman.”
 
-    “What is /la sachette/?” asked Mahiette.
+    “What is /la sachette/?” asked Mahiette.
 
     “Hé!” said Oudarde, “Sister Gudule.”
 
@@ -5725,7 +5725,7 @@
     farthings a week, which does not amount to quite two eagle liards. Where were the days when Father Guybertant had earned
     twelve sous parisian, in a single coronation, with a song? One winter (it was in that same year of '61), when the two
     women had neither fagots nor firewood, it was very cold, which gave la Chantefleurie such a fine color that the men
-    called her Paquette! and many called her
+    called her Paquette! and many called her
     Pàquerette!and she was ruined.- Eustache, just let me see you bite that cake
     if you dare!- We immediately perceived that she was ruined, one Sunday when she came to church with a gold cross about
     her neck. At fourteen years of age! do you see? First it was the young Vicomte de Cormontreuil, who has his bell tower
@@ -5832,7 +5832,7 @@
     little way open, and ran to tell a neighbor in the Rue de la Séchesserie, that the day would come when her daughter
     Agnes would be served at table by the King of England and the Archduke of Ethiopia, and a hundred other marvels. On her
     return, hearing no cries on the staircase, she said to herself: ‘Good! the child is still asleep!' She found her door
-    wider open than she had left it, but she entered, poor mother, and ran to the bed.--- The child was no longer there,
+    wider open than she had left it, but she entered, poor mother, and ran to the bed. -  The child was no longer there,
     the place was empty. Nothing remained of the child, but one of her pretty little shoes. She flew out of the room, dashed
     down the stairs, and began to beat her head against the wall, crying: 'My child! who has my child? Who has taken my
     child?' The street was deserted, the house isolated; no one could tell her anything about it. She went about the town,
@@ -5855,7 +5855,7 @@
     long motionless over it, mute, and without breath, that they thought she was dead. Suddenly she trembled all over,
     covered her relic with furious kisses, and burst out sobbing as though her heart were broken. I assure you that we were
     all weeping also. She said: 'Oh, my little daughter! my pretty little daughter! where art thou?'- and it wrung your
-    very heart. I weep still when I think of it. Our children are the marrow of our bones, you see.--- My poor Eustache!
+    very heart. I weep still when I think of it. Our children are the marrow of our bones, you see. -  My poor Eustache!
     thou art so fair!- If you only knew how nice he is! yesterday he said to me: 'I want to be a gendarme, that I do.' Oh!
     my Eustache! if I were to lose thee!- All at once la Chantefleurie rose, and set out to run through Reims, screaming:
     ‘To the gypsies' camp! to the gypsies' camp! Police, to burn the witches!' The gypsies were gone. It was pitch dark.
@@ -5945,7 +5945,7 @@
     leagues from the town, and we were no longer occupied with that story; besides, in front of Bern, stand the two hills of
     Cernay, which hide the towers of the cathedral in Reims from view.”
 
-    While chatting thus, the three worthy /bourgeoises/ had arrived at the Place de Grève. In their absorption, they had
+    While chatting thus, the three worthy /bourgeoises/ had arrived at the Place de Grève. In their absorption, they had
     passed the public breviary of the Tour-Roland without stopping, and took their way mechanically towards the pillory
     around which the throng was growing more dense with every moment. It is probable that the spectacle which at that moment
     attracted all looks in that direction, would have made them forget completely the Rat-Hole, and the halt which they
@@ -5973,7 +5973,7 @@
     two,-
 
     “We must not all three gaze into the hole at once, for fear of alarming the recluse. Do you two pretend to read
-    the /Dominus/ in the breviary, while I thrust my nose into the aperture; the recluse knows me a little. I will give you
+    the /Dominus/ in the breviary, while I thrust my nose into the aperture; the recluse knows me a little. I will give you
     warning when you can approach.”
 
     She proceeded alone to the window. At the moment when she looked in, a profound pity was depicted on all her features,
@@ -6288,7 +6288,7 @@
 
     All was not over for Quasimodo. He had still to undergo that hour of pillory which Master Florian Barbedienne had so
     judiciously added to the sentence of Messire Robert d'Estouteville; all to the greater glory of the old physiological
-    and psychological play upon words of Jean de Cumène, /Surdus absurdus/: a deaf man is absurd.
+    and psychological play upon words of Jean de Cumène, /Surdus absurdus/: a deaf man is absurd.
 
     So the hour-glass was turned over once more, and they left the hunchback fastened to the plank, in order that justice
     might be accomplished to the very end.
@@ -6296,7 +6296,7 @@
     The populace, especially in the Middle Ages, is in society what the child is in the family. As long as it remains in its
     state of primitive ignorance, of moral and intellectual minority, it can be said of it as of the child,-
 
-       'Tis the pitiless age.
+    'Tis the pitiless age.
 
     We have already shown that Quasimodo was generally hated, for more than one good reason, it is true. There was hardly a
     spectator in that crowd who had not or who did not believe that he had reason to complain of the malevolent hunchback of
@@ -6377,7 +6377,7 @@
     lower stratum of the populace. Not a voice was raised around the unhappy victim, except to jeer at his thirst. It is
     certain that at that moment he was more grotesque and repulsive than pitiable, with his face purple and dripping, his
     eye wild, his mouth foaming with rage and pain, and his tongue lolling half out. It must also be stated that if a
-    charitable soul of a bourgeois or /bourgeoise/, in the rabble, had attempted to carry a glass of water to that wretched
+    charitable soul of a bourgeois or /bourgeoise/, in the rabble, had attempted to carry a glass of water to that wretched
     creature in torment, there reigned around the infamous steps of the pillory such a prejudice of shame and ignominy, that
     it would have sufficed to repulse the good Samaritan.
 
@@ -6580,7 +6580,7 @@
 
      “'Tis Triton,” she replied.
 
-     There was a rather pettish intonation in Fleur-de-Lys's-  laconic words. The young man understood that it was
+     There was a rather pettish intonation in Fleur-de-Lys's-  laconic words. The young man understood that it was
      indispensable that he should whisper something in her ear, a commonplace, a gallant compliment, no matter what.
      Accordingly he bent down, but he could find nothing in his imagination more tender and personal than this,-
 
@@ -6778,8 +6778,8 @@
 
      “You left me in your stead, my beauty,” pursued the captain, whose tongue was unloosed when speaking to a girl out of
      the street, “a crabbed knave, one-eyed and hunchbacked, the bishop's bellringer, I believe. I have been told that by
-     birth he is the bastard of an archdeacon and a devil. He has a pleasant name: he is called/Quatre-Temps/ (Ember
-     Days), /Paques-Fleuries/ (Palm Sunday), Mardi-Gras (Shrove Tuesday), I know not what! The name of some festival when the
+     birth he is the bastard of an archdeacon and a devil. He has a pleasant name: he is called/Quatre-Temps/ (Ember
+     Days), /Paques-Fleuries/ (Palm Sunday), Mardi-Gras (Shrove Tuesday), I know not what! The name of some festival when the
      bells are pealed! So he took the liberty of carrying you off, as though you were made for beadles! 'Tis too much. What
      the devil did that screech-owl want with you? Hey, tell me!”
 
@@ -6884,10 +6884,10 @@
 
      “I do not understand.” And she fell to caressing the pretty animal, repeating, “Djali! Djali!”
 
-     At that moment Fleur-de-Lys noticed a little bag of embroidered leather suspended from the neck of the goat,-  “What
+     At that moment Fleur-de-Lys noticed a little bag of embroidered leather suspended from the neck of the goat,-  “What
      is that?” she asked of the gypsy.
 
-     The gypsy raised her large eyes upon her and replied gravely,-  “That is my secret.”
+     The gypsy raised her large eyes upon her and replied gravely,-  “That is my secret.”
 
      “I should really like to know what your secret is,” thought Fleur-de-Lys.
 
@@ -6946,7 +6946,7 @@
 
      “You have a marvellous memory!” said Fleur-de-Lys, to the petrified gypsy. Then, bursting into sobs: “Oh!” she stammered
      mournfully, hiding her face in both her beautiful hands, “she is a magician!” And she heard another and a still more
-     bitter voice at the bottom of her heart, saying,-  “She is a rival!”
+     bitter voice at the bottom of her heart, saying,-  “She is a rival!”
 
      She fell fainting.
 
@@ -7065,7 +7065,7 @@
      for Madame Marguerite of Flanders, that famous epithalamium, as you know, and the city will not pay me, under the
      pretext that it was not excellent; as though one could give a tragedy of Sophocles for four crowns! Hence, I was on the
      point of dying with hunger. Happily, I found that I was rather strong in the jaw; so I said to this jaw,- perform some
-     feats of strength and of equilibrium: nourish thyself. /Ale te ipsam/. A pack of beggars who have become my good
+     feats of strength and of equilibrium: nourish thyself. /Ale te ipsam/. A pack of beggars who have become my good
      friends, have taught me twenty sorts of herculean feats, and now I give to my teeth every evening the bread which they
      have earned during the day by the sweat of my brow. After all, concede, I grant that it is a sad employment for my
      intellectual faculties, and that man is not made to pass his life in beating the tambourine and biting chairs. But,
@@ -7137,7 +7137,7 @@
      instituted against gypsy women. And then, Gringoire held the position of her brother, if not of her husband. After all,
      the philosopher endured this sort of platonic marriage very patiently. It meant a shelter and bread at least. Every
      morning, he set out from the lair of the thieves, generally with the gypsy; he helped her make her collections of
-     targes and little blanks in the squares;
+     targes and little blanks in the squares;
      each evening he returned to the same roof with her, allowed her to bolt herself into her little chamber, and slept the
      sleep of the just. A very sweet existence, taking it all in all, he said, and well adapted to revery. And then, on his
      soul and conscience, the philosopher was not very sure that he was madly in love with the gypsy. He loved her goat
@@ -7188,9 +7188,9 @@
 
      Porn Claude frowned.
 
-     “Oh! oh! /Solus cum sola non cogitabuntur orare Pater Noster/.”
+     “Oh! oh! /Solus cum sola non cogitabuntur orare Pater Noster/.”
 
-     “Upon my soul, I could say the /Pater/, and the /Ave Maria/, and the /Credo in Deum patrem omnipotentem/ without her
+     “Upon my soul, I could say the /Pater/, and the /Ave Maria/, and the /Credo in Deum patrem omnipotentem/ without her
      paying any more attention to me than a chicken to a church.”
 
      “Swear to me, by the body of your mother,” repeated the archdeacon violently, “that you have not touched that creature
@@ -7285,7 +7285,7 @@
      aux Changeurs, that a golden crown stamped with a crown is worth thirty-five unzains of twenty-five sous, and eight
      deniers parisis apiece, and that a crown stamped with a crescent is worth thirty-six unzains of twenty-six sous, six
      deniers tournois apiece, if I have not a single wretched black liard to risk on the double-six! Oh! Consul Cicero! this
-     is no calamity from which one extricates one's self with périphrases,/quemadmodum/, and /verum enim vero/!”
+     is no calamity from which one extricates one's self with périphrases,/quemadmodum/, and /verum enim vero/!”
 
      He dressed himself sadly. An idea had occurred to him as he laced his boots, but he rejected it at first; nevertheless,
      it returned, and he put on his waistcoat wrong side out, an evident sign of violent internal combat. At last he dashed
@@ -7297,8 +7297,8 @@
 
      He descended the Rue de la Harpe toward the City. As he passed the Rue de la Huchette, the odor of those admirable
      spits, which were incessantly turning, tickled his olfactory apparatus, and he bestowed a loving glance toward the
-     Cyclopean roast, which one day drew from the Franciscan friar, Calatagirone, this pathetic exclamation: /Veramente,
-     queste rotisserie sono cosa stupenda/! But Jehan had not the wherewithal to buy
+     Cyclopean roast, which one day drew from the Franciscan friar, Calatagirone, this pathetic exclamation: /Veramente,
+     queste rotisserie sono cosa stupenda/! But Jehan had not the wherewithal to buy
      a breakfast, and he plunged, with a profound sigh, under the gateway of the Petit-Châtelet, that enormous double trefoil
      of massive towers which guarded the entrance to the City.
 
@@ -7324,7 +7324,7 @@
      ascent of the spiral of Saint-Gilles, which leads to the upper stories of the tower. “I am going to see,” he said to
      himself on the way. “By the ravens of the Holy Virgin! it must needs be a curious thing, that cell which my reverend
      brother hides so secretly! 'Tis said that he lights up the kitchens of hell there, and that he cooks the philosopher's
-     stone there over a hot fire. /Bédieu/! I care no more for the philosopher's stone than for a pebble, and I would rather
+     stone there over a hot fire. /Bédieu/! I care no more for the philosopher's stone than for a pebble, and I would rather
      find over his furnace an omelette of Easter eggs and bacon, than the biggest philosopher's stone in the world."'
 
      On arriving at the gallery of slender columns, he took breath for a moment, and swore against the interminable staircase
@@ -7386,8 +7386,8 @@
      one shone out from among the rest like a banner among lance heads. Generally, it was a brief Greek or Roman device, such
      as the Middle Ages knew so well how to formulate.-/Unde? Inde?- Homo homini monstrurn-Ast'ra, castra, nomen,
      numen.- Meya Bibklov, ueya xaxov.- Sapere aude. Fiat ubi vult/- etc.; sometimes a word devoid of all apparent
-     sense, /Avayxoqpayia/, which possibly contained a bitter allusion to the regime of the cloister; sometimes a simple
-     maxim of clerical discipline formulated in a regular hexameter /Coelestem dominum terrestrem dicite dominum/. There was
+     sense, /Avayxoqpayia/, which possibly contained a bitter allusion to the regime of the cloister; sometimes a simple
+     maxim of clerical discipline formulated in a regular hexameter /Coelestem dominum terrestrem dicite dominum/. There was
      also Hebrew jargon, of which Jehan, who as yet knew but little Greek, understood nothing; and all were traversed in
      every direction by stars, by figures of men or animals, and by intersecting triangles; and this contributed not a little
      to make the scrawled wall of the cell resemble a sheet of paper over which a monkey had drawn back and forth a pen
@@ -7407,7 +7407,7 @@
      dreams; it is the general law of nature. But what is one to do in order to extract from science the secret of this
      general law? What! this light which inundates my hand is gold! These same atoms dilated in accordance with a certain law
      need only be condensed in accordance with another law. How is it to be done? Some have fancied by burying a ray of
-     sunlight, Averroës,- yes, 'tis Averroës,-  Averroës buried one under the first pillar on the left of the sanctuary
+     sunlight, Averroës,- yes, 'tis Averroës,-  Averroës buried one under the first pillar on the left of the sanctuary
      of the Koran, in the great Mahometan mosque of Cordova; but the vault cannot he opened for the purpose of ascertaining
      whether the operation has succeeded, until after the lapse of eight thousand years.
 
@@ -7416,7 +7416,7 @@
      “Others have thought,” continued the dreamy archdeacon, “that it would be better worth while to operate upon a ray of
      Sirius. But 'tis exceeding hard to obtain this ray pure, because of the simultaneous presence of other stars whose rays
      mingle with it. Flamel esteemed it more simple to operate upon terrestrial fire. Flamel! there's predestination in the
-     name! /Flamma/! yes, fire. All lies there. The diamond is contained in the carbon, gold is in the fire. But how to
+     name! /Flamma/! yes, fire. All lies there. The diamond is contained in the carbon, gold is in the fire. But how to
      extract it? Magistri affirms that there are certain feminine names, which possess a charm so sweet and mysterious, that
      it suffices to pronounce them during the operation. Let us read what Manon says on the matter: 'Where women are honored,
      the divinities are rejoiced; where they are despised, it is useless to pray to God. The mouth of a woman is constantly
@@ -7460,7 +7460,7 @@
      /ANArKH/.
      #+END_QUOTE
 
-     “My brother is mad,” said Jehan to himself; “it would have been far more simple to write /Fatum/, every one is not
+     “My brother is mad,” said Jehan to himself; “it would have been far more simple to write /Fatum/, every one is not
      obliged to know Greek.”
 
      The archdeacon returned and seated himself in his armchair, and placed his head on both his hands, as a sick man does,
@@ -7517,12 +7517,12 @@
      “Oh!” said Jehan, “a vast thing that! A malicious page amused himself by splashing the scholars, by making his horse
      gallop through the mire!”
 
-     “Who,” pursued the archdeacon, “is that Mahiet Fargel, whose gown you have torn? /Tunicam dechiraverunt/, saith the
+     “Who,” pursued the archdeacon, “is that Mahiet Fargel, whose gown you have torn? /Tunicam dechiraverunt/, saith the
      complaint.”
 
      “Ah bah! a wretched cap of a Montaigu! Isn't that it?”
 
-     “The complaint says /tunicam/ and not /cappettam/. Do you know Latin?”
+     “The complaint says /tunicam/ and not /cappettam/. Do you know Latin?”
 
      Jehan did not reply.
 
@@ -7555,7 +7555,7 @@
      to risk his request. Accordingly, he assumed an extremely soft tone and began,-
 
      “My good brother, do you hate me to such a degree as to look savagely upon me because of a few mischievous cuffs and
-     blows distributed in a fair war to a pack of lads and brats, /quibusdam marmosetis/? You see, good Brother Claude, that
+     blows distributed in a fair war to a pack of lads and brats, /quibusdam marmosetis/? You see, good Brother Claude, that
      people know their Latin.”
 
      But all this caressing hypocrisy did not have its usual effect on the severe elder brother. Cerberus did not bite at the
@@ -7585,7 +7585,7 @@
 
      “Stay, dear Brother Claude, I should not come to you, with any evil motive. There is no intention of cutting a dash in
      the taverns with your unzains, and of strutting about the streets of Paris in a caparison of gold brocade, with a
-     lackey, /cum meo laquasio/. No, brother, 'tis for a good work.”
+     lackey, /cum meo laquasio/. No, brother, 'tis for a good work.”
 
      “What good work?” demanded Claude, somewhat surprised.
 
@@ -7636,7 +7636,7 @@
      metaphysics.”
 
      “Young man,” resumed the archdeacon, “at the king's last entry, there was a young gentleman, named Philippe de Comines,
-     who wore embroidered on the housings of his horse this device, upon which I counsel you to meditate: /Qui non laborat,
+     who wore embroidered on the housings of his horse this device, upon which I counsel you to meditate: /Qui non laborat,
      non manducet/.”
 
      The scholar remained silent for a moment, with his finger in his ear, his eyes on the ground, and a discomfited mien.
@@ -7746,7 +7746,7 @@
      “Greeting, master,” replied the man in black.
 
      There was in the two ways in which “Master Jacques” was pronounced on the one hand, and the “master” by preeminence on
-     the other, the difference between monseigneur and monsieur, between /domine/ and /domne/. It was evidently the meeting
+     the other, the difference between monseigneur and monsieur, between /domine/ and /domne/. It was evidently the meeting
      of a teacher and a disciple.
 
      “Well!” resumed the archdeacon, after a fresh silence which Master Jacques took good care not to disturb, “how are you
@@ -7764,8 +7764,8 @@
      for the sake of getting at the truth; he is already thoroughly dislocated, we are applying all the herbs of Saint John's
      day; as saith the old comedian Plautus,-
 
-             /'Advorsum stimulos, láminas, crucesque, compedesque,
-             Nerros, catenas, carceres, numellas, pedicas, boias/.'
+     /'Advorsum stimulos, láminas, crucesque, compedesque,
+     Nerros, catenas, carceres, numellas, pedicas, boias/.'
 
      Nothing answers; that man is terrible. I am at my wit's end over him.”
 
@@ -7777,7 +7777,7 @@
 
      So saying, Master Jacques unrolled a parchment. “Give it here,” said the archdeacon. And casting his eyes upon this
      writing: “Pure magic, Master Jacques!” he exclaimed. “‘Emen-Hétan!' 'Tis the cry of the vampires when they arrive at the
-     witches' sabbath. /Per ipsum, et cum ipso, et in ipso/! 'Tis the command which chains the devil in hell. /Hax, pax,
+     witches' sabbath. /Per ipsum, et cum ipso, et in ipso/! 'Tis the command which chains the devil in hell. /Hax, pax,
      max/! that refers to medicine. A formula against the bite of mad dogs. Master Jacques! you are procurator to the king in
      the Ecclesiastical Courts: this parchment is abominable.”
 
@@ -7791,7 +7791,7 @@
      “I will confess to you,” continued Master Jacques, with his timid and awkward smile, “that I have tried it over the
      furnace, but I have succeeded no better than with my own.”
 
-     The archdeacon began an examination of the vessel. “What has he engraved on his crucible? /Och! och/! the word which
+     The archdeacon began an examination of the vessel. “What has he engraved on his crucible? /Och! och/! the word which
      expels fleas! That Marc Cenaine is an ignoramus! I verily believe that you will never make gold with this! 'Tis good to
      set in your bedroom in summer and that is all!”
 
@@ -7822,8 +7822,8 @@
      'tis a devil of a man; he wearies even Pierrat Torterue himself, who hath hands larger than my own. As that good Plautus
      saith,-
 
-              '/Nudus vinctus, centum pondo,
-               es quando pendes per pedes/.'
+     '/Nudus vinctus, centum pondo,
+     es quando pendes per pedes/.'
 
      The torture of the wheel and axle! 'Tis the most effectual! He shall taste it!”
 
@@ -7832,7 +7832,7 @@
      “Master Pierrat- Master Jacques, I mean, busy yourself with Marc Cenaine.”
 
      “Yes, yes, Dom Claude. Poor man! he will have suffered like Mummol. What an idea to go to the witches' sabbath! a butler
-     of the Court of Accounts, who ought to know Charlemagne's text; /Stryga vel masea/!- In the matter of the little
+     of the Court of Accounts, who ought to know Charlemagne's text; /Stryga vel masea/!- In the matter of the little
      girl,- Smelarda, as they call her,- I will await your orders. Ah! as we pass through the portal, you will explain to
      me also the meaning of the gardener painted in relief, which one sees as one enters the church. Is it not the Sower? Hé!
      master, of what are you thinking, pray?”
@@ -7929,7 +7929,7 @@
      Charmolue, absorbed in contemplation before a carving on the façade. He approached them on tiptoe, and heard the
      archdeacon say in a low tone to Charmolue: “'Twas Guillaume de Paris who caused a Job to be carved upon this stone of
      the hue of lapis-lazuli, gilded on the edges. Job represents the philosopher's stone, which must also be tried and
-     martyrized in order to become perfect, as saith Raymond Lulle: /Sub conservatione formoe speciftoe salva anima/.”
+     martyrized in order to become perfect, as saith Raymond Lulle: /Sub conservatione formoe speciftoe salva anima/.”
 
      “That makes no difference to me,” said Jehan, “'tis I who have the purse.”
 
@@ -7954,7 +7954,7 @@
 
      “Pardon me, good comrade Jehan,” exclaimed Phoebus, shaking his hand, “a horse going at a gallop cannot halt short. Now,
      I was swearing at a hard gallop. I have just been with those prudes, and when I come forth, I always find my throat full
-     of curses, I must spit them out or strangle, /ventre et tonnerre/!”
+     of curses, I must spit them out or strangle, /ventre et tonnerre/!”
 
      “Will you come and drink?” asked the scholar.
 
@@ -7978,7 +7978,7 @@
 
      And without adding another word, he emptied the purse on a neighboring post, with the air of a Roman saving his country.
 
-     “True God!” muttered Phoebus, “targes, big-blanks, little blanks, mailles, every
+     “True God!” muttered Phoebus, “targes, big-blanks, little blanks, mailles, every
      two worth one of Tournay, farthings of Paris, real eagle liards! 'Tis dazzling!”
 
      Jehan remained dignified and immovable. Several liards had rolled into the mud; the captain in his enthusiasm stooped to
@@ -8006,7 +8006,7 @@
      which cheers me while I am drinking.”
 
      “Well! here goes for Eve and her apple,” said the student, and taking Phoebus's arm. “By the way, my dear captain, you
-     just mentioned the Rue Coupe-Gueule That is a very bad form of speech; people
+     just mentioned the Rue Coupe-Gueule That is a very bad form of speech; people
      are no longer so barbarous. They say, Coupe-Gorge.”
 
      The two friends set out towards “Eve's Apple.” It is unnecessary to mention that they had first gathered up the money,
@@ -8097,7 +8097,7 @@
      appointed meeting.”
 
      “I tell you,” repeated his companion, with a thick tongue, “that I don't live in the Rue des Mauvaises
-     Paroles, /indignus qui inter mala verba habitat/. I have a lodging in the Rue Jean-Pain-Mollet, /in vico Johannis
+     Paroles, /indignus qui inter mala verba habitat/. I have a lodging in the Rue Jean-Pain-Mollet, /in vico Johannis
      Pain-Mollet/. You are more horned than a unicorn if you assert the contrary. Every one knows that he who once mounts
      astride a bear is never after afraid; but you have a nose turned to dainties like Saint-Jacques of the hospital.”
 
@@ -8120,7 +8120,7 @@
      “By the warts of my grandmother, Jehan, you are raving with too much rabidness. By the way, Jehan, have you any money
      left?”
 
-     “Monsieur Rector, there is no mistake; the little butcher's shop, /parva boucheria/.”
+     “Monsieur Rector, there is no mistake; the little butcher's shop, /parva boucheria/.”
 
      “Jehau! my friend Jehan! You know that I made an appointment with that little girl at the end of the Pont Saint-Michel,
      and I can only take her to the Falourdel's, the old crone of the bridge, and that I must pay for a chamber. The old
@@ -8130,7 +8130,7 @@
      “The consciousness of having spent the other hours well is a just and savory condiment for the table.”
 
      “Belly and guts! a truce to your whimsical nonsense! Tell me, Jehan of the devil! have you any money left? Give it to
-     me, /bédieu/!” or I will search you, were you as leprous as Job, and as scabby as Cæsar!”
+     me, /bédieu/!” or I will search you, were you as leprous as Job, and as scabby as Cæsar!”
 
      “Monsieur, the Rue Galiache is a street which hath at one end the Rue de la Verrerie, and at the other the Rue de la
      Tixeranderie.”
@@ -8167,7 +8167,7 @@
      He paused in front of the College d'Autun. It was at this college that he had sketched out what he called his studies,
      and, through a scholar's teasing habit which still lingered in him, he never passed the façade without inflicting on the
      statue of Cardinal Pierre Bertrand, sculptured to the right of the portal, the affront of which Priapus complains so
-     bitterly in the satire of Horace, /Olim truncus eram ficulnus/. He had done this with so much unrelenting animosity that
+     bitterly in the satire of Horace, /Olim truncus eram ficulnus/. He had done this with so much unrelenting animosity that
      the inscription,/Eduensis episcopus/, had become almost effaced. Therefore, he halted before the statue according to his
      wont. The street was utterly deserted. At the moment when he was coolly retying his shoulder knots, with his nose in the
      air, he saw the shadow approaching him with slow steps, so slow that he had ample time to observe that this shadow wore
@@ -8259,7 +8259,7 @@
      pass one more agreeable quarter of an hour. I certainly did hope to put you in the gutter, and still arrive in time for
      the fair one, especially as it has a better appearance to make the women wait a little in such cases. But you strike me
      as having the air of a gallant man, and it is safer to defer our affair until to-morrow. So I will betake myself to my
-     rendezvous; it is for seven o'clock, as you know.” Here Phoebus scratched his ear. “Ah. /Corne Dieu/! I had forgotten! I
+     rendezvous; it is for seven o'clock, as you know.” Here Phoebus scratched his ear. “Ah. /Corne Dieu/! I had forgotten! I
      haven't a sou to discharge the price of the garret, and the old crone will insist on being paid in advance. She
      distrusts me.”
 
@@ -8362,14 +8362,14 @@
      which was boiling in his temples.
 
      (A conversation between lovers is a very commonplace affair. It is a perpetual “I love you.” A musical phrase which is
-     very insipid and very bald for indifferent listeners, when it is not ornamented with some /fioriture/; but Claude was
+     very insipid and very bald for indifferent listeners, when it is not ornamented with some /fioriture/; but Claude was
      not an indifferent listener.)
 
      “Oh!” said the young girl, without raising her eyes, “do not despise me, monseigneur Phoebus. I feel that what I am
      doing is not right.”
 
      “Despise you, my pretty child!” replied the officer with an air of superior and distinguished gallantry, “despise
-     you, /tête-Dieu/! and why?”
+     you, /tête-Dieu/! and why?”
 
      “For having followed you!”
 
@@ -8385,7 +8385,7 @@
      So saying, she fixed upon the captain her great black eyes, moist with joy and tenderness.
 
      “Devil take me if I understand you!” exclaimed Phoebus. La Esmeralda remained silent for a moment, then a tear dropped
-     from her eyes, a sigh from her lips, and she said,-  “Oh! monseigneur, I love you.”
+     from her eyes, a sigh from her lips, and she said,-  “Oh! monseigneur, I love you.”
 
      Such a perfume of chastity, such a charm of virtue surrounded the young girl, that Phoebus did not feel completely at
      his ease beside her. But this remark emboldened him: “You love me!” he said with rapture, and he threw his arm round the
@@ -8438,7 +8438,7 @@
 
      Phoebus found “the moment” favorable for robbing her of another kiss, which went to torture the unhappy archdeacon in
      his nook. “Die!” exclaimed the amorous captain, “What are you saying, my lovely angel? 'Tis a time for living, or
-     Jupiter is only a scamp! Die at the beginning of so sweet a thing! /Corne-de-boeuf/, what a jest! It is not that.
+     Jupiter is only a scamp! Die at the beginning of so sweet a thing! /Corne-de-boeuf/, what a jest! It is not that.
      Listen, my dear Similar, Esmenarda- Pardon! you have so prodigiously Saracen a name that I never can get it straight.
      'Tis a thicket which stops me short.”
 
@@ -8457,8 +8457,8 @@
 
      “Well! that is all. You shall see how I love you also. May the great devil Neptunus spear me if I do not make you the
      happiest woman in the world. We will have a pretty little house somewhere. I will make my archers parade before your
-     windows. They are all mounted, and set at defiance those of Captain Mignon. There are/voulgiers, cranequiniers/ and
-     hand /couleveiniers/. I will take you to the great sights of the Parisians at
+     windows. They are all mounted, and set at defiance those of Captain Mignon. There are/voulgiers, cranequiniers/ and
+     hand /couleveiniers/. I will take you to the great sights of the Parisians at
      the storehouse of Rully. Eighty thousand armed men, thirty thousand white harnesses, short coats or coats of mail; the
      sixty-seven banners of the trades; the standards of the parliaments, of the chamber of accounts, of the treasury of the
      generals, of the aides of the mint; a devilish fine array, in short! I will conduct you to see the lions of the Hôtel du
@@ -8488,7 +8488,7 @@
 
      “Phoebus,” she said, with an expression of infinite love, “instruct me in thy religion.”
 
-     “My religion!” exclaimed the captain, bursting with laughter, “I instruct you in my religion! /Corne et tonnerre/! What
+     “My religion!” exclaimed the captain, bursting with laughter, “I instruct you in my religion! /Corne et tonnerre/! What
      do you want with my religion?”
 
      “In order that we may be married,” she replied.
@@ -8587,7 +8587,7 @@
      ease on that score.
 
      Still he could not understand this disappearance. It was a profound sorrow. He would have grown thin over it, had that
-     been possible. He had forgotten everything, even his literary tastes, even his great work, /De figuris regularibus et
+     been possible. He had forgotten everything, even his literary tastes, even his great work, /De figuris regularibus et
      irregularibus/, which it was his intention to have printed with the first money which he should procure (for he had
      raved over printing, ever since he had seen the “Didascalon” of Hugues de Saint Victor, printed with the celebrated
      characters of Vindelin de Spire).
@@ -8741,7 +8741,7 @@
 
      “Witness, two men went upstairs together in your house: the black man, whom you first saw disappear and afterwards
      swimming in the Seine, with his priestly garments, and the officer. Which of the two handed you the crown?” The old
-     woman pondered for a moment and then said,-  “The officer.”
+     woman pondered for a moment and then said,-  “The officer.”
 
      A murmur ran through the crowd.
 
@@ -8820,7 +8820,7 @@
      “Silence among the louts at the end of the hail!” said the bailiff sharply.
 
      Jacques Charmolue, by the aid of the same manoeuvres of the tambourine, made the goat perform many other tricks
-     connected with the date of the day, the month of the year, /etc/., which the reader has already witnessed. And, by
+     connected with the date of the day, the month of the year, /etc/., which the reader has already witnessed. And, by
      virtue of an optical illusion peculiar to judicial proceedings, these same spectators who had, probably, more than once
      applauded in the public square Djali's innocent magic were terrified by it beneath the roof of the Palais de Justice.
      The goat was undoubtedly the devil.
@@ -9052,7 +9052,7 @@
      swollen with pain. “Come,” said he, “there's no great harm done. You shrieked in good season. You could still dance, my
      beauty!”
 
-     Then he turned to his acolytes of the officiality,-  “Behold justice enlightened at last! This is a solace, gentlemen!
+     Then he turned to his acolytes of the officiality,-  “Behold justice enlightened at last! This is a solace, gentlemen!
      Madamoiselle will bear us witness that we have acted with all possible gentleness.”
 
 **** Chapter 3 END OF THE CROWN WHICH WAS TURNED INTO A DRY LEAF
@@ -9108,7 +9108,7 @@
      Nostroe-Domince Parisiensis quoe est in saisina habendi omnimodam altam et bassam justitiam in illa hac intemerata
      Civitatis insula, tenore proesentium declaremus nos requirere, primo, aliquamdam pecuniariam indemnitatem; secundo,
      amendationem honorabilem ante portalium maximum Nostroe-Dominoe, ecclesioe cathedralis; tertio, sententiani in virtute
-     cujus ista styrga cum sua capella, seu in trivio vulgariter dicto/ la Grève, /seu in insula exeunte in fluvio Secanoe,
+     cujus ista styrga cum sua capella, seu in trivio vulgariter dicto/ la Grève, /seu in insula exeunte in fluvio Secanoe,
      juxta pointam juardini regalis, executatoe sint/!"
 
      He put on his cap again and seated himself.
@@ -9166,12 +9166,12 @@
      so many zones, where the shades of horror were graduated. Dante could never imagine anything better for his hell. These
      tunnels of cells usually terminated in a sack of a lowest dungeon, with a vat-like bottom, where Dante placed Satan,
      where society placed those condemned to death. A miserable human existence, once interred there; farewell light, air,
-     life, /ogni speranza/- every hope; it only came forth to the scaffold or the stake. Sometimes it rotted there; human
+     life, /ogni speranza/- every hope; it only came forth to the scaffold or the stake. Sometimes it rotted there; human
      justice called this “forgetting.” Between men and himself, the condemned man felt a pile of stones and jailers weighing
      down upon his head; and the entire prison, the massive bastille was nothing more than an enormous, complicated lock,
      which barred him off from the rest of the world.
 
-     It was in a sloping cavity of this description, in the /oubliettes/ excavated by Saint-Louis, in the /inpace/ of the
+     It was in a sloping cavity of this description, in the /oubliettes/ excavated by Saint-Louis, in the /inpace/ of the
      Tournelle, that la Esmeralda had been placed on being condemned to death, through fear of her escape, no doubt, with the
      colossal court-house over her head. Poor fly, who could not have lifted even one of its blocks of stone!
 
@@ -9221,7 +9221,7 @@
      At length, one day, or one night, (for midnight and midday were of the same color in that sepulchre), she heard above
      her a louder noise than was usually made by the turnkey when he brought her bread and jug of water. She raised her head,
      and beheld a ray of reddish light passing through the crevices in the sort of trapdoor contrived in the roof of
-     the /inpace/.
+     the /inpace/.
 
      At the same time, the heavy lock creaked, the trap grated on its rusty hinges, turned, and she beheld a lantern, a hand,
      and the lower portions of the bodies of two men, the door being too low to admit of her seeing their heads. The light
@@ -9720,7 +9720,7 @@
      the rôle of blows and derision. The captain was quite put out of countenance about it; he experienced that sort of shame
      which our La Fontaine has so admirably defined,-
 
-             Ashamed as a fox who has been caught by a fowl.
+     Ashamed as a fox who has been caught by a fowl.
 
      Moreover, he hoped that the affair would not get noised abroad, that his name would hardly be pronounced in it, and that
      in any case it would not go beyond the courts of the Tournelle. In this he was not mistaken, there was then no “Gazette
@@ -9821,7 +9821,7 @@
 
      He approached the window.
 
-     “Oh! /Mon Dieu/, fair cousin, how many people there are on the Place!”
+     “Oh! /Mon Dieu/, fair cousin, how many people there are on the Place!”
 
      “I know not,” said Fleur-de-Lys; “it appears that a witch is to do penance this morning before the church, and
      thereafter to be hung.”
@@ -9839,7 +9839,7 @@
 
      “I know not.”
 
-     “Oh, /mon Dieu/ Jesus!” said her mother; “there are so many witches nowadays that I dare say they burn them without
+     “Oh, /mon Dieu/ Jesus!” said her mother; “there are so many witches nowadays that I dare say they burn them without
      knowing their names. One might as well seek the name of every cloud in the sky. After all, one may be tranquil. The good
      God keeps his register.” Here the venerable dame rose and came to the window. “Good Lord! you are right, Phoebus,” said
      she. “The rabble is indeed great. There are people on all the roofs, blessed be God! Do you know, Phoebus, this reminds
@@ -10094,7 +10094,7 @@
 
      The crowd knelt.
 
-     “/Kyrie eleison/," said the priests, who had remained beneath the arch of the
+     “/Kyrie eleison/," said the priests, who had remained beneath the arch of the
      portal.
 
      “/Kyrie eleison/,” repeated the throng in that murmur which runs over all heads, like the waves of a troubled sea.
@@ -10314,7 +10314,7 @@
       men-at-arms of the abbey, around the crenelated, circumscribing wall of Saint-Germain, he turned aside, took a path
       which presented itself between the abbey and the lazar-house of the bourg, and at the expiration of a few minutes found
       himself on the verge of the Pré-aux-Clercs. This meadow was celebrated by reason of the brawls which went on there night
-      and day; it was the hydra of the poor monks of Saint-Germain: /quod mouachis Sancti-Germaini pratensis hydra fuit,
+      and day; it was the hydra of the poor monks of Saint-Germain: /quod mouachis Sancti-Germaini pratensis hydra fuit,
       clericis nova semper dissidiorum capita suscitantibus/. The archdeacon was afraid of meeting some one there; he feared
       every human countenance; he had just avoided the University and the Bourg Saint-Germain; he wished to re-enter the
       streets as late as possible. He skirted the Pré-aux-Clercs, took the deserted path which separated it from the
@@ -10398,7 +10398,7 @@
 
       Then Jehan came back to the hag, smashed a bottle standing on the table, exclaiming,-
 
-      “Already empty, /cor-boeuf/! and I have no more money! Isabeau, my dear, I shall not be satisfied with Jupiter until he
+      “Already empty, /cor-boeuf/! and I have no more money! Isabeau, my dear, I shall not be satisfied with Jupiter until he
       has changed your two white nipples into two black bottles, where I may suck wine of Beaune day and night.”
 
       This fine pleasantry made the courtesan laugh, and Jehan left the room.
@@ -10412,7 +10412,7 @@
       He stirred up Dom Claude with his foot, and the latter held his breath.
 
       “Dead drunk,” resumed Jehan. “Come, he's full. A regular leech detached from a hogshead. He's bald,” he added, bending
-      down, “'tis an old man! /Fortunate senex/!”
+      down, “'tis an old man! /Fortunate senex/!”
 
       Then Dom Claude heard him retreat, saying,-
 
@@ -10817,7 +10817,7 @@
 
       “Damnation! That is what one should be like! 'Tis only necessary to be handsome on the outside!”
 
-      Meanwhile, she remained kneeling, and cried with extraor-dinary agitation,-  “Oh! there he is alighting from his
+      Meanwhile, she remained kneeling, and cried with extraor-dinary agitation,-  “Oh! there he is alighting from his
       horse! He is about to enter that house!- Phoebus!- He does not hear me! Phoebus!- How wicked that woman is to
       speak to him at the same time with me! Phoebus! Phoebus!”
 
@@ -11224,7 +11224,7 @@
     see her there. He meditated occasionally on the little goat, and that was all. Moreover, he was busy executing feats of
     strength during the day for his living, and at night he was engaged in composing a memorial against the Bishop of Paris,
     for he remembered having been drenched by the wheels of his mills, and he cherished a grudge against him for it. He also
-    occupied himself with annotating the fine work of Baudry-lé-Rouge, Bishop of Noyon and Tournay, /De Cupa Petrarum/,
+    occupied himself with annotating the fine work of Baudry-lé-Rouge, Bishop of Noyon and Tournay, /De Cupa Petrarum/,
     which had given him a violent passion for architecture, an inclination which had replaced in his heart his passion for
     hermeticism, of which it was, moreover, only a natural corollary, since there is an intimate relation between
     hermeticism and masonry. Gringoire had passed from the love of an idea to the love of the form of that idea.
@@ -11246,7 +11246,7 @@
     “How do you do, Master Pierre?”
 
     “My health?” replied Gringoire. “Eh! eh! one can say both one thing and another on that score. Still, it is good, on the
-    whole. I take not too much of anything. You know, master, that the secret of keeping well, according to Hippocrates; /id
+    whole. I take not too much of anything. You know, master, that the secret of keeping well, according to Hippocrates; /id
     est: cibi, potus, somni, vénus, omnia moderata sint/.”
 
     “So you have no care, Master Pierre?” resumed the archdeacon, gazing intently at Gringoire.
@@ -11435,7 +11435,7 @@
 
     “How is she to be saved?”
 
-    Gringoire said to him; “Master, I will reply to you; /Il padelt/, which means in Turkish, ‘God is our hope.'”
+    Gringoire said to him; “Master, I will reply to you; /Il padelt/, which means in Turkish, ‘God is our hope.'”
 
     “How is she to be saved?” repeated Claude dreamily.
 
@@ -11458,7 +11458,7 @@
 
     “With child! knave! do you know anything of this?”
 
-    Gringoire was alarmed by his air. He hastened to say, “Oh, no, not I! Our marriage was a real /forismaritagium/. I
+    Gringoire was alarmed by his air. He hastened to say, “Oh, no, not I! Our marriage was a real /forismaritagium/. I
     stayed outside. But one might obtain a respite, all the same.”
 
     “Madness! Infamy! Hold your tongue!”
@@ -11632,10 +11632,10 @@
 
     “What next?”
 
-    “Alas! brother, you were perfectly right when you said to me,- “Jehan! Jehan! /cessat doctorum doctrina, discipulorum
+    “Alas! brother, you were perfectly right when you said to me,- “Jehan! Jehan! /cessat doctorum doctrina, discipulorum
     disciplina/. Jehan, be wise, Jehan, be learned, Jehan, pass not the night outside of the college without lawful occasion
-    and due leave of the master. Cudgel not the Picards: /noli, Joannes, verberare Picardos/. Rot not like an unlettered
-    ass, /quasi asinus illitteratus/, on the straw seats of the school. Jehan, allow yourself to be punished at the
+    and due leave of the master. Cudgel not the Picards: /noli, Joannes, verberare Picardos/. Rot not like an unlettered
+    ass, /quasi asinus illitteratus/, on the straw seats of the school. Jehan, allow yourself to be punished at the
     discretion of the master. Jehan go every evening to chapel, and sing there an anthem with verse and orison to Madame the
     glorious Virgin Mary.- Alas! what excellent advice was that!”
 
@@ -11697,7 +11697,7 @@
 
     The cellar then, was the dram-shop. The descent to it was through a low door and by a staircase as steep as a classic
     Alexandrine. Over the door, by way of a sign there hung a marvellous daub, representing new sons and dead
-    chickens, with this, pun below: /Aux sonneurs pour les trépassés/,- The
+    chickens, with this, pun below: /Aux sonneurs pour les trépassés/,- The
     wringers for the dead.
 
     One evening when the curfew was sounding from all the belfries in Paris, the sergeants of the watch might have observed,
@@ -11728,7 +11728,7 @@
     surrounded him. Another rabble pressed close around our old friend, the valiant King of Thunes, armed to the teeth.
     Clopin Trouillefou, with a very serious air and in a low voice, was regulating the distribution of an enormous cask of
     arms, which stood wide open in front of him and from whence poured out in profusion, axes, swords, bassinets, coats of
-    mail, broadswords, lance-heads, arrows, and viretons, like apples and grapes
+    mail, broadswords, lance-heads, arrows, and viretons, like apples and grapes
     from a horn of plenty. Every one took something from the cask, one a morion, another a long, straight sword, another a
     dagger with a cross- shaped hilt. The very children were arming themselves, and there were even cripples in bowls who,
     in armor and cuirass, made their way between the legs of the drinkers, like great beetles.
@@ -11742,7 +11742,7 @@
     and drinking.
 
     Add twenty secondary groups, the waiters, male and female, running with jugs on their heads, gamblers squatting over
-    taws, merelles, dice, vachettes, the ardent game of tringlet, quarrels in one
+    taws, merelles, dice, vachettes, the ardent game of tringlet, quarrels in one
     corner, kisses in another, and the reader will have some idea of this whole picture, over which flickered the light of a
     great, flaming fire, which made a thousand huge and grotesque shadows dance over the walls of the drinking shop.
 
@@ -11775,12 +11775,12 @@
     The voice of the young scamp armed from head to foot, dominated the uproar.
 
     “Hurrah! hurrah!” he was shouting. “My first day in armor! Outcast! I am an outcast. Give me something to drink. My
-    friends, my name is Jehan Frollo du Moulin, and I am a gentleman. My opinion is that if God were a /gendarme/, he would
+    friends, my name is Jehan Frollo du Moulin, and I am a gentleman. My opinion is that if God were a /gendarme/, he would
     turn robber. Brothers, we are about to set out on a fine expedition. Lay siege to the church, burst in the doors, drag
     out the beautiful girl, save her from the judges, save her from the priests, dismantle the cloister, burn the bishop in
     his palace- all this we will do in less time than it takes for a burgomaster to eat a spoonful of soup. Our cause is
     just, we will plunder Notre-Dame and that will be the end of it. We will hang Quasimodo. Do you know Quasimodo, ladies?
-    Have you seen him make himself breathless on the big bell on a grand Pentecost festival! /Corne du Père/! 'tis very
+    Have you seen him make himself breathless on the big bell on a grand Pentecost festival! /Corne du Père/! 'tis very
     fine! One would say he was a devil mounted on a man. Listen to me, my friends; I am a vagabond to the bottom of my
     heart, I am a member of the slang thief gang in my soul, I was born an independent thief. I have been rich, and I have
     devoured all my property. My mother wanted to make an officer of me; my father, a sub-deacon; my aunt, a councillor of
@@ -11788,12 +11788,12 @@
     myself an outcast. I said this to my father, who spit his curse in my face; to my mother, who set to weeping and
     chattering, poor old lady, like yonder fagot on the and-irons. Long live mirth! I am a real Bicêtre. Waitress, my dear,
     more wine. I have still the wherewithal to pay. I want no more Surène wine. It distresses my throat. I'd as
-    lief, /corboeuf/! gargle my throat with a basket.”
+    lief, /corboeuf/! gargle my throat with a basket.”
 
     Meanwhile, the rabble applauded with shouts of laughter; and seeing that the tumult was increasing around him, the
     scholar cried,-.
 
-    “Oh! what a fine noise! /Populi debacchantis populosa debacchatio/!” Then he began to sing, his eye swimming in ecstasy,
+    “Oh! what a fine noise! /Populi debacchantis populosa debacchatio/!” Then he began to sing, his eye swimming in ecstasy,
     in the tone of a canon intoning vespers,/Quoe cantica! quoe organa! quoe cantilenoe! quoe meloclioe hic sine fine
     decantantur! Sonant melliflua hymnorum organa, suavissima angelorum melodia, cantica canticorum mira/! He broke off:
     “Tavern-keeper of the devil, give me some supper!”
@@ -11828,13 +11828,13 @@
     me with the smooth face of an archduke. Here is one on my left whose teeth are so long that they hide his
 
     chin. And then, I am like the Marshal de Gié at the siege of Pontoise, I have my right resting on a
-    hillock. /Ventre-Mahom/! Comrade! you have the air of a merchant of tennis-balls; and you come and sit yourself beside
+    hillock. /Ventre-Mahom/! Comrade! you have the air of a merchant of tennis-balls; and you come and sit yourself beside
     me! I am a nobleman, my friend! Trade is incompatible with nobility. Get out of that! Holà hé! You others, don't fight!
     What, Baptiste Croque-Oison, you who have such a fine nose are going to risk it against the big fists of that lout!
-    Fool! /Non cuiquam datum est habere nasum/- not every one is favored with a nose. You are really divine, Jacqueline
+    Fool! /Non cuiquam datum est habere nasum/- not every one is favored with a nose. You are really divine, Jacqueline
     Ronge-Oreille! 'tis a pity that you have no hair! Holà! my name is Jehan Frollo, and my brother is an archdeacon. May
     the devil fly off with him! All that I tell you is the truth. In turning vagabond, I have gladly renounced the half of a
-    house situated in paradise, which my brother had promised me. /Dimidiam domum in paradiso/. I quote the text. I have a
+    house situated in paradise, which my brother had promised me. /Dimidiam domum in paradiso/. I quote the text. I have a
     fief in the Rue Tirechappe, and all the women are in love with me, as true as Saint Eloy was an excellent goldsmith, and
     that the five trades of the good city of Paris are the tanners, the tawers, the makers of cross-belts, the purse-makers,
     and the sweaters, and that Saint Laurent was burnt with eggshells. I swear to you, comrades.
@@ -11900,7 +11900,7 @@
     women conversing in low tones. They could be heard buzzing, and a gleam of all sorts of weapons was visible in the
     darkness. Clopin mounted a large stone.
 
-    “To your ranks, Argot!" he cried. “Fall into line, Egypt! Form ranks, Galilee!”
+    “To your ranks, Argot!" he cried. “Fall into line, Egypt! Form ranks, Galilee!”
 
     A movement began in the darkness. The immense multitude appeared to form in a column. After a few minutes, the King of
     Thunes raised his voice once more,-
@@ -12008,7 +12008,7 @@
     legislation fell into abeyance. The bourgeois permitted the wind to blow out their candles in the windows, and their
     dogs to stray; the iron chains were stretched only in a state of siege; the prohibition to wear daggers wrought no other
     changes than from the name of the Rue Coupe-Gueule to the name of the
-    Rue-Coupe-Gorge which is an evident progress. The old scaffolding of feudal
+    Rue-Coupe-Gorge which is an evident progress. The old scaffolding of feudal
     jurisdictions remained standing; an immense aggregation of bailiwicks and seignories crossing each other all over the
     city, interfering with each other, entangled in one another, enmeshing each other, trespassing on each other; a useless
     thicket of watches, sub-watches and counter-watches, over which, with armed force, passed brigandage, rapine, and
@@ -12017,8 +12017,8 @@
     neighbors did not meddle with the matter unless the pillaging extended to themselves. They stopped up their ears to the
     musket shots, closed their shutters, barricaded their doors, allowed the matter to be concluded with or without the
     watch, and the next day it was said in Paris, “Etienne Barbette was broken open last night. The Marshal de Clermont was
-    seized last night, /etc/.” Hence, not only the royal habitations, the Louvre, the Palace, the Bastille, the Tournelles,
-    but simply seignorial residences, the Petit-Bourbon, the Hôtel de Sens, the Hôtel d' Angoulême, /etc/., had battlements
+    seized last night, /etc/.” Hence, not only the royal habitations, the Louvre, the Palace, the Bastille, the Tournelles,
+    but simply seignorial residences, the Petit-Bourbon, the Hôtel de Sens, the Hôtel d' Angoulême, /etc/., had battlements
     on their walls, and machicolations over their doors. Churches were guarded by their sanctity. Some, among the number
     Notre-Dame, were fortified. The Abbey of Saint-German-des-Près was castellated like a baronial mansion, and more brass
     expended about it in bombards than in bells. Its fortress was still to be seen in 1610. To-day, barely its church
@@ -12064,7 +12064,7 @@
     narrow precincts of the church parvis were cleared. The locksmiths, although protected by the deep vaults of the portal,
     abandoned the door and Clopin himself retired to a respectful distance from the church.
 
-    “I had a narrow escape!” cried Jehan. “I felt the wind, of it, /tête-de-boeuf/! but Pierre the Slaughterer is
+    “I had a narrow escape!” cried Jehan. “I felt the wind, of it, /tête-de-boeuf/! but Pierre the Slaughterer is
     slaughtered!”
 
     It is impossible to describe the astonishment mingled with fright which fell upon the ruffians in company with this
@@ -12240,7 +12240,7 @@
 
     Their innumerable sculptures of demons and dragons assumed a lugubrious aspect. The restless light of the flame made
     them move to the eye. There were griffins which had the air of laughing, gargoyles which one fancied one heard yelping,
-    salamanders which puffed at the fire, tarasques which sneezed in the smoke. And
+    salamanders which puffed at the fire, tarasques which sneezed in the smoke. And
     among the monsters thus roused from their sleep of stone by this flame, by this noise, there was one who walked about,
     and who was seen, from time to time, to pass across the glowing face of the pile, like a bat in front of a candle.
 
@@ -12323,22 +12323,22 @@
     It was, in fact, Jehan, who was running as fast as his heavy outfit of a Paladin, and a long ladder which trailed on the
     pavement, would permit, more breathless than an ant harnessed to a blade of grass twenty times longer than itself.
 
-    “Victory! /Te Deum/!” cried the scholar. “Here is the ladder of the longshoremen of Port Saint-Landry.”
+    “Victory! /Te Deum/!” cried the scholar. “Here is the ladder of the longshoremen of Port Saint-Landry.”
 
     Clopin approached him.
 
-    “Child, what do you mean to do, /corne-dieu/! with this ladder?”
+    “Child, what do you mean to do, /corne-dieu/! with this ladder?”
 
     “I have it,” replied Jehan, panting. “I knew where it was under the shed of the lieutenant's house. There's a wench
     there whom I know, who thinks me as handsome as Cupido. I made use of her to get the ladder, and I have the
-    ladder, /Pasque-Mahom/! The poor girl came to open the door to me in her shift.”
+    ladder, /Pasque-Mahom/! The poor girl came to open the door to me in her shift.”
 
     “Yes,” said Clopin, “but what are you going to do with that ladder?”
 
     Jehan gazed at him with a malicious, knowing look, and cracked his fingers like castanets. At that moment he was
     sublime. On his head he wore one of those overloaded helmets of the fifteenth century, which frightened the enemy with
     their fanciful crests. His bristled with ten iron beaks, so that Jehan could have disputed with Nestor's Homeric vessel
-    the redoubtable title of /dexeubolos/.
+    the redoubtable title of /dexeubolos/.
 
     “What do I mean to do with it, august king of Thunes? Do you see that row of statues which have such idiotic
     expressions, yonder, above the three portals?”
@@ -12410,7 +12410,7 @@
 
     “Quasimodo!” he cried, “I am going to change your surname: you shall be called the blind man.”
 
-    The shot sped. The feathered vireton whizzed and entered the hunchback's left
+    The shot sped. The feathered vireton whizzed and entered the hunchback's left
     arm. Quasimodo appeared no more moved by it than by a scratch to King Pharamond. He laid his hand on the arrow, tore it
     from his arm, and tranquilly broke it across his big knee; then he let the two pieces drop on the floor, rather than
     threw them down. But Jehan had no opportunity to fire a second time. The arrow broken, Quasimodo breathing heavily,
@@ -12470,7 +12470,7 @@
     feel about him enough pitfalls, gibbets, and Scotch archers.
 
     He had come, that day, to sleep at the Bastille. The great chamber five
-    toises square, which he had at the Louvre, with its huge chimney-piece loaded
+    toises square, which he had at the Louvre, with its huge chimney-piece loaded
     with twelve great beasts and thirteen great prophets, and his grand bed, eleven feet by twelve, pleased him but little.
     He felt himself lost amid all this grandeur. This good bourgeois king preferred the Bastille with a tiny chamber and
     couch. And then, the Bastille was stronger than the Louvre.
@@ -12499,7 +12499,7 @@
     on was a brazier, a praying stool in crimson velvet, relieved with small bosses of gold. Finally, at the extreme end of
     the room, a simple bed of scarlet and yellow damask, without either tinsel or lace; having only an ordinary fringe. This
     bed, famous for having borne the sleep or the sleeplessness of Louis XI., was still to be seen two hundred years ago, at
-    the house of a councillor of state, where it was seen by old Madame Pilou, celebrated in /Cyrus/ under the name
+    the house of a councillor of state, where it was seen by old Madame Pilou, celebrated in /Cyrus/ under the name
     “Arricidie” and of “la Morale Vivante”.
 
     Such was the chamber which was called “the retreat where Monsieur Louis de France says his prayers.”
@@ -12577,7 +12577,7 @@
 
     “Master Olivier, the princes who reign over great lordships, like kings and emperors, should not allow sumptuousness in
     their houses; for the fire spreads thence through the province. Hence, Master Olivier, consider this said once for all.
-    Our expenditure increases every year. The thing displease us. How, /pasque-Dieu/! when in '79 it did not exceed six and
+    Our expenditure increases every year. The thing displease us. How, /pasque-Dieu/! when in '79 it did not exceed six and
     thirty thousand livres, did it attain in '80, forty-three thousand six hundred and nineteen livres? I have the figures
     in my head. In '81, sixty-six thousand six hundred and eighty livres, and this year, by the faith of my body, it will
     reach eighty thousand livres! Doubled in four years! Monstrous!”
@@ -12590,7 +12590,7 @@
 
     “'Tis like that request in Latin from the gentlemen of France, that we should re-establish what they call the grand
     charges of the Crown! Charges in very deed! Charges which crush! Ah! gentlemen! you say that we are not a king to
-    reign /dapifero nullo, buticulario nullo/! We will let you see, /pasque-Dieu/! whether we are not a king!”
+    reign /dapifero nullo, buticulario nullo/! We will let you see, /pasque-Dieu/! whether we are not a king!”
 
     Here he smiled, in the consciousness of his power; this softened his bad humor, and he turned towards the Flemings,-
 
@@ -12650,7 +12650,7 @@
     “For feeding a rascally footpad, locked up these six months in the little cell of the flayer, until it should be
     determined what to do with him, six livres, four sols.”
 
-    “What's that?” interrupted the king; “feed what ought to be hanged! /Pasque-Dieu/! I will give not a sou more for that
+    “What's that?” interrupted the king; “feed what ought to be hanged! /Pasque-Dieu/! I will give not a sou more for that
     nourishment. Olivier, come to an understanding about the matter with Monsieur d'Estouteville, and prepare me this very
     evening the wedding of the gallant and the gallows. Resume.”
 
@@ -12817,7 +12817,7 @@
 
     “To maintain the fertile places by commerce, and the sterile by manufactures... .- To show the English lords our four
     bombards, London, Brabant, Bourg-en-Bresse, Saint-Omer... .- Artillery is the cause of war being made more judiciously
-    now... .- To Monsieur de Bressuire, our friend... .- Armies cannot be maintained without tribute, /etc/.
+    now... .- To Monsieur de Bressuire, our friend... .- Armies cannot be maintained without tribute, /etc/.
 
     Once he raised his voice,-
 
@@ -12985,7 +12985,7 @@
     “By the way, sire,” said Gossip Coictier, “I had forgotten that in the first agitation, the watch have seized two
     laggards of the band. If your majesty desires to see these men, they are here.”
 
-    “If I desire to see them!” cried the king. “What! /Pasque-Dieu/! You forget a thing like that! Run quick, you, Olivier!
+    “If I desire to see them!” cried the king. “What! /Pasque-Dieu/! You forget a thing like that! Run quick, you, Olivier!
     Go, seek them!”
 
     Master Olivier quitted the room and returned a moment later with the two prisoners, surrounded by archers of the guard.
@@ -13114,7 +13114,7 @@
 
     “Gossip,” retorted Louis XI., “think you that 'tis for birds of this feather that we cause to be made cages at three
     hundred and sixty-seven livres, eight sous, three deniers apiece? Release him at once, the wanton (Louis XI. was fond of
-    this word which formed, with /Pasque-Dieu/, the foundation of his joviality), and put him out with a buffet.”
+    this word which formed, with /Pasque-Dieu/, the foundation of his joviality), and put him out with a buffet.”
 
     “Ugh!” cried Gringoire, “what a great king is here!”
 
@@ -13227,7 +13227,7 @@
     the sea.' I see that you agree with Monsieur de Boucicaut. Now listen to this; we have a good memory. In '68 we made you
     valet of our chamber: in '69, guardian of the fortress of the bridge of Saint-Cloud, at a hundred livres of Tournay in
     wages (you wanted them of Paris). In November, '73, by letters given to Gergeole, we instituted you keeper of the Wood
-    of Vincennes, in the place of Gilbert Acle, equerry; in '75, gruyer of the
+    of Vincennes, in the place of Gilbert Acle, equerry; in '75, gruyer of the
     forest of Rouvray-lez-Saint-Cloud, in the place of Jacques lé Maire; in '78, we graciously settled on you, by letters
     patent sealed doubly with green wax, an income of ten livres parisis, for you and your wife, on the Place of the
     Merchants, situated at the School Saint-Germain; in '79, we made you gruyer of the forest of Senart, in place of that
@@ -13235,7 +13235,7 @@
     Meulan, of which you cause yourself to be called comte. Out of the five sols fine paid by every barber who shaves on a
     festival day, there are three sols for you and we have the rest. We have been good enough to change your name of Le
     Mauvais (The Evil), which resembled your face too closely. In '76, we granted you, to the great displeasure of our
-    nobility, armorial bearings of a thousand colors, which give you the breast of a peacock. /Pasque-Dieu/! Are not you
+    nobility, armorial bearings of a thousand colors, which give you the breast of a peacock. /Pasque-Dieu/! Are not you
     surfeited? Is not the draught of fishes sufficiently fine and miraculous? Are you not afraid that one salmon more will
     make your boat sink? Pride will be your ruin, gossip. Ruin and disgrace always press hard on the heels of pride.
     Consider this and hold your tongue.”
@@ -13545,7 +13545,7 @@
     It was, in fact, the king's troops who had arrived. The vagabonds behaved bravely. They defended themselves like
     desperate men. Caught on the flank, by the Rue Saint-Pierre-aux-Boeufs, and in the rear through the Rue du Parvis,
     driven to bay against Notre-Dame, which they still assailed and Quasimodo defended, at the same time besiegers and
-    besieged, they were in the singular situation in which Comte Henri Harcourt, /Taurinum obsessor idem et obsessus/, as
+    besieged, they were in the singular situation in which Comte Henri Harcourt, /Taurinum obsessor idem et obsessus/, as
     his epitaph says, found himself later on, at the famous siege of Turin, in 1640, between Prince Thomas of Savoy, whom he
     was besieging, and the Marquis de Leganez, who was blockading him.
 
@@ -13704,7 +13704,7 @@
     mingled with the rippling of the water along her sides.
 
     “On my soul!” exclaimed Gringoire suddenly, “we are as cheerful and joyous as young owls! We preserve the silence of
-    Pythagoreans or fishes! /Pasque-Dieu/! my friends, I should greatly like to have some one speak to me. The human voice
+    Pythagoreans or fishes! /Pasque-Dieu/! my friends, I should greatly like to have some one speak to me. The human voice
     is music to the human ear. 'Tis not I who say that, but Didymus of Alexandria, and they are illustrious words.
     Assuredly, Didymus of Alexandria is no mediocre philosopher.- One word, my lovely child! say but one word to me, I
     entreat you. By the way, you had a droll and peculiar little pout; do you still make it? Do you know, my dear, that
@@ -13713,13 +13713,13 @@
     the moon re-appearing. If only they do not perceive us. We are doing a laudable thing in saving mademoiselle, and yet we
     should be hung by order of the king if we were caught. Alas! human actions are taken by two handles. That is branded
     with disgrace in one which is crowned in another. He admires Cicero who blames Catiline. Is it not so, master? What say
-    you to this philosophy? I possess philosophy by instinct, by nature, /ut apes geometriam/.- Come! no one answers me.
+    you to this philosophy? I possess philosophy by instinct, by nature, /ut apes geometriam/.- Come! no one answers me.
     What unpleasant moods you two are in! I must do all the talking alone. That is what we call a monologue in
     tragedy.-/Pasque-Dieu/! I must inform you that I have just seen the king, Louis XI., and that I have caught this oath
     from him,-/Pasque-Dieu/! They are still making a hearty howl in the city.- 'Tis a villanous, malicious old king. He
     is all swathed in furs. He still owes me the money for my epithalamium, and he came within a nick of hanging me this
     evening, which would have been very inconvenient to me.- He is niggardly towards men of merit. He ought to read the
-    four books of Salvien of Cologne, /Adversits Avaritiam/. In truth! 'Tis a paltry king in his ways with men of letters,
+    four books of Salvien of Cologne, /Adversits Avaritiam/. In truth! 'Tis a paltry king in his ways with men of letters,
     and one who commits very barbarous cruelties. He is a sponge, to soak money raised from the people. His saving is like
     the spleen which swelleth with the leanness of all the other members. Hence complaints against the hardness of the times
     become murmurs against the prince. Under this gentle and pious sire, the gallows crack with the hung, the blocks rot
@@ -14870,7 +14870,7 @@
 
     Then Quasimodo raised his eyes to the gypsy, whose body he beheld hanging from the gibbet, quivering far away beneath
     her white robe with the last shudderings of anguish, then he dropped them on the archdeacon, stretched out at the base
-    of the tower, and no longer retaining the human form, and he said, with a sob which heaved his deep chest,-  “Oh! all
+    of the tower, and no longer retaining the human form, and he said, with a sob which heaved his deep chest,-  “Oh! all
     that I have ever loved!”
 
 *** Chapter 3 THE MARRIAGE OF PHOEBUS
@@ -15002,7 +15002,7 @@
      Nevertheless, there are to-day in the artistic youth so much life, power, and, so to speak, predestination, that in our
      schools of architecture in particular, at the present time, the professors, who are detestable, produce, not only
      unconsciously but even in spite of themselves, excellent pupils; quite the reverse of that potter mentioned by Horace,
-     who dreamed amphorae and produced pots. /Currit rota, urcens exit/.
+     who dreamed amphorae and produced pots. /Currit rota, urcens exit/.
 
      But, in any case, whatever may be the future of architecture, in whatever manner our young architects may one day solve
      the question of their art, let us, while waiting for new monument, preserve the ancient monuments. Let us, if possible,

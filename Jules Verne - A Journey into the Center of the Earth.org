@@ -86,11 +86,11 @@
    might irretrievably injure a specimen by his too great ardour in handling it; but still he united the genius of a true
    geologist with the keen eye of the mineralogist. Armed with his hammer, his steel pointer, his magnetic needles, his
    blowpipe, and his bottle of nitric acid, he was a powerful man of science. He would refer any mineral to its proper
-   place among the six hundred  elementary substances now enumerated, by its
+   place among the six hundred  elementary substances now enumerated, by its
    fracture, its appearance, its hardness, its fusibility, its sonorousness, its smell, and its taste.
 
    The name of Liedenbrock was honourably mentioned in colleges and learned societies. Humphry
-   Davy,  Humboldt, Captain Sir John Franklin, General Sabine, never failed to call
+   Davy,  Humboldt, Captain Sir John Franklin, General Sabine, never failed to call
    upon him on their way through Hamburg. Becquerel, Ebelman, Brewster, Dumas, Milne-Edwards, Saint-Claire-Deville
    frequently consulted him upon the most difficult problems in chemistry, a science which was indebted to him for
    considerable discoveries, for in 1853 there had appeared at Leipzig an imposing folio by Otto Liedenbrock, entitled, "A
@@ -573,7 +573,7 @@
    hesitation, I read off the whole sentence aloud.
 
    Stupefaction! terror! I sat overwhelmed as if with a sudden deadly blow. What! that which I read had actually, really
-   been done! A mortal man had had the audacity to penetrate! ...
+   been done! A mortal man had had the audacity to penetrate! ...
 
    "Ah!" I cried, springing up. "But no! no! My uncle shall never know it. He would insist upon doing it too. He would want
    to know all about it. Ropes could not hold him, such a determined geologist as he is! He would start, he would, in spite
@@ -4150,7 +4150,7 @@
 
    "Yes."
 
-   ...  ...
+   ...  ...
 
    "Now, attention. I am going to call your name."
 
@@ -5292,7 +5292,7 @@
 
    Whither are we flying? My uncle lies full length across the raft.
 
-   The heat increases. I refer to the thermometer; it indicates ... (the figure is obliterated).
+   The heat increases. I refer to the thermometer; it indicates ... (the figure is obliterated).
 
 
    /Monday, August 24./ - Will there be an end to it? Is the atmospheric condition, having once reached this density, to
@@ -5332,7 +5332,7 @@
    has magnetised every iron article on board. The instruments, the tools, our guns, are clashing and clanking violently in
    their collisions with each other; the nails of my boots cling tenaciously to a plate of iron let into the timbers, and I
    cannot draw my foot away from the spot. At last by a violent effort I release myself at the instant when the ball in its
-   gyrations was about to seize upon it, and carry me off my feet ... .
+   gyrations was about to seize upon it, and carry me off my feet ... .
 
    Ah! what a flood of intense and dazzling light! the globe has burst, and we are deluged with tongues of fire!
 
@@ -5342,12 +5342,12 @@
    But where are we going to? Where?
 
 
-  /Tuesday, August 25./ - I recover from a long swoon. The storm continues to roar and rage; the lightnings dash hither
-  and thither, like broods of fiery serpents filling all the air. Are we still under the sea? Yes, we are borne at
-  incalculable speed. We have been carried under England, under the channel, under France, perhaps under the whole of
-  Europe.
+   /Tuesday, August 25./ - I recover from a long swoon. The storm continues to roar and rage; the lightnings dash hither
+   and thither, like broods of fiery serpents filling all the air. Are we still under the sea? Yes, we are borne at
+   incalculable speed. We have been carried under England, under the channel, under France, perhaps under the whole of
+   Europe.
 
-  A fresh noise is heard! Surely it is the sea breaking upon the rocks! But then ... .
+   A fresh noise is heard! Surely it is the sea breaking upon the rocks! But then ... .
 
 ** Chapter 36 Calm Philosophic Discussions
 
@@ -5819,12 +5819,12 @@
 
    My uncle was gazing with intense and eager interest.
 
-   "Come on!" said he, seizing my arm. "Forward! forward!"
+   "Come on!" said he, seizing my arm. "Forward! forward!"
 
-   "No, I will not!" I cried. "We have no firearms. What could we do in the midst of a herd of these four-footed giants?
+   "No, I will not!" I cried. "We have no firearms. What could we do in the midst of a herd of these four-footed giants?
    Come away, uncle -  come! No human being may with safety dare the anger of these monstrous beasts."
 
-   "No human creature?" replied my uncle in a lower voice. "You are wrong, Axel. Look, look down there! I fancy I see a
+   "No human creature?" replied my uncle in a lower voice. "You are wrong, Axel. Look, look down there! I fancy I see a
    living creature similar to ourselves: it is a man!"
 
    I looked, shaking my head incredulously. But though at first I was unbelieving I had to yield to the evidence of my
@@ -5843,7 +5843,7 @@
 
    We stood petrified and speechless with amazement. But he might see us! We must fly!
 
-   "Come, do come!" I said to my uncle, who for once allowed himself to be persuaded.
+   "Come, do come!" I said to my uncle, who for once allowed himself to be persuaded.
 
    In another quarter of an hour our nimble heels had carried us beyond the reach of this horrible monster.
 
@@ -5876,7 +5876,7 @@
    I communicated my doubts to my uncle. Like myself, he hesitated; he could recognise nothing again amidst this monotonous
    scene.
 
-   "Evidently," said I, "we have not landed again at our original starting point, but the storm has carried us a little
+   "Evidently," said I, "we have not landed again at our original starting point, but the storm has carried us a little
    higher, and if we follow the shore we shall find Port Gräuben."
 
    "If that is the case it will be useless to continue our exploration, and we had better return to our raft. But, Axel,
@@ -5884,19 +5884,19 @@
 
    "It is difficult to speak decidedly, uncle, for all these rocks are so very much alike. Yet I think I recognise the
    promontory at the foot of which Hans constructed our launch. We must be very near the little port, if indeed this is not
-   it," I added, examining a creek which I thought I recognised.
+   it," I added, examining a creek which I thought I recognised.
 
    "No, Axel, we should at least find our own traces and I see nothing - "
 
-   "But I do see," I cried, darting upon an object lying on the sand.
+   "But I do see," I cried, darting upon an object lying on the sand.
 
    And I showed my uncle a rusty dagger which I had just picked up.
 
-   "Come," said he, "had you this weapon with you?"
+   "Come," said he, "had you this weapon with you?"
 
    "I! No, certainly! But you, perhaps - "
 
-   "Not that I am aware," said the Professor. "I have never had this object in my possession."
+   "Not that I am aware," said the Professor. "I have never had this object in my possession."
 
    "Well, this is strange!"
 
@@ -5905,7 +5905,7 @@
 
    I shook my head. Hans had never had an object like this in his possession.
 
-   "Did it not belong to some preadamite warrior?" I cried, "to some living man, contemporary with the huge cattle-driver?
+   "Did it not belong to some preadamite warrior?" I cried, "to some living man, contemporary with the huge cattle-driver?
    But no. This is not a relic of the stone age. It is not even of the iron age. This blade is steel - "
 
    My uncle stopped me abruptly on my way to a dissertation which would have taken me a long way, and said coolly:
@@ -5943,7 +5943,7 @@
    [.A.S.]
    #+END_QUOTE
 
-   "A. S.," shouted my uncle. "Arne Saknussemm! Arne Saknussemm everywhere!"
+   "A. S.," shouted my uncle. "Arne Saknussemm! Arne Saknussemm everywhere!"
 
 ** Chapter 40 Preparations for Blasting a Passage to the Centre of the Earth
 
