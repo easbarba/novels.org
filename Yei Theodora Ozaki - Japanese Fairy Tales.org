@@ -1,3 +1,37 @@
+#+TILE: Japanese Fairy Tales
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#japanese-fairy-tales][Japanese Fairy Tales]]
+  - [[#yei-theodora-ozaki][Yei Theodora Ozaki]]
+  - [[#to][TO]]
+  - [[#preface][PREFACE.]]
+  - [[#my-lord-bag-of-rice][MY LORD BAG OF RICE.]]
+  - [[#the-tongue-cut-sparrow][THE TONGUE-CUT SPARROW.]]
+  - [[#the-story-of-urashima-taro-the-fisher-lad][THE STORY OF URASHIMA TARO, THE FISHER LAD.]]
+  - [[#the-farmer-and-the-badger][THE FARMER AND THE BADGER]]
+  - [[#the-shinansha-or-the-south-pointing-carriage][THE SHINANSHA, OR THE SOUTH POINTING CARRIAGE.]]
+  - [[#the-adventures-of-kintaro-the-golden-boy][THE ADVENTURES OF KINTARO, THE GOLDEN BOY.]]
+  - [[#the-story-of-princess-hase-a-story-of-old-japan][THE STORY OF PRINCESS HASE. A STORY OF OLD JAPAN.]]
+  - [[#the-story-of-the-man-who-did-not-wish-to-die][THE STORY OF THE MAN WHO DID NOT WISH TO DIE.]]
+  - [[#the-bamboo-cutter-and-the-moon-child][THE BAMBOO-CUTTER AND THE MOON-CHILD.]]
+  - [[#the-mirror-of-matsuyama-a-story-of-old-japan][THE MIRROR OF MATSUYAMA. A STORY OF OLD JAPAN.]]
+  - [[#the-goblin-of-adachigahara][THE GOBLIN OF ADACHIGAHARA.]]
+  - [[#the-sagacious-monkey-and-the-boar][THE SAGACIOUS MONKEY AND THE BOAR.]]
+  - [[#the-happy-hunter-and-the-skillful-fisher][THE HAPPY HUNTER AND THE SKILLFUL FISHER.]]
+  - [[#the-story-of-the-old-man-who-made-withered-trees-to-flower][THE STORY OF THE OLD MAN WHO MADE WITHERED TREES TO FLOWER.]]
+  - [[#the-jelly-fish-and-the-monkey][THE JELLY FISH AND THE MONKEY.]]
+  - [[#the-quarrel-of-the-monkey-and-the-crab][THE QUARREL OF THE MONKEY AND THE CRAB.]]
+  - [[#the-white-hare-and-the-crocodiles][THE WHITE HARE AND THE CROCODILES]]
+  - [[#the-story-of-prince-yamato-take][THE STORY OF PRINCE YAMATO TAKE.]]
+  - [[#momotaro-or-the-story-of-the-son-of-a-peach][MOMOTARO, OR THE STORY OF THE SON OF A PEACH.]]
+  - [[#the-ogre-of-rashomon][THE OGRE OF RASHOMON.]]
+  - [[#how-an-old-man-lost-his-wen][HOW AN OLD MAN LOST HIS WEN.]]
+  - [[#the-stones-of-five-colors-and-the-empress-jokwa-an-old-chinese-story][THE STONES OF FIVE COLORS AND THE EMPRESS JOKWA. AN OLD CHINESE STORY.]]
+:END:
 * Japanese Fairy Tales
 ** Yei Theodora Ozaki
    *Published:* 1908
@@ -21,15 +55,15 @@
 
    Strictly for personal use, do not use this file for commercial purposes.
 
-** TO 
+** TO
    ELEANOR MARION-CRAWFORD.
    :style: text-align:center;
 
    I DEDICATE THIS BOOK TO YOU AND TO THE SWEET CHILD-FRIENDSHIP THAT YOU GAVE ME IN THE DAYS SPENT WITH YOU BY THE
    SOUTHERN SEA, WHEN YOU USED TO LISTEN WITH UNFEIGNED PLEASURE TO THESE FAIRY STORIES FROM FAR JAPAN. MAY THEY NOW REMIND
-   YOU OF MY CHANGELESS LOVE AND REMEMBRANCE. 
+   YOU OF MY CHANGELESS LOVE AND REMEMBRANCE.
 
-   Y. T. O. 
+   Y. T. O.
    Tokio, 1908.
 
 ** PREFACE.

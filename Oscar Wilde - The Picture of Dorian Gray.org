@@ -1,3 +1,33 @@
+#+TILE: The Picture of Dorian Gray
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#the-picture-of-dorian-gray][The Picture of Dorian Gray]]
+  - [[#oscar-wilde][Oscar Wilde]]
+  - [[#chapter-1][Chapter 1]]
+  - [[#chapter-2][Chapter 2]]
+  - [[#chapter-3][Chapter 3]]
+  - [[#chapter-4][Chapter 4]]
+  - [[#chapter-5][Chapter 5]]
+  - [[#chapter-6][Chapter 6]]
+  - [[#chapter-7][Chapter 7]]
+  - [[#chapter-8][Chapter 8]]
+  - [[#chapter-9][Chapter 9]]
+  - [[#chapter-10][Chapter 10]]
+  - [[#chapter-11][Chapter 11]]
+  - [[#chapter-12][Chapter 12]]
+  - [[#chapter-13][Chapter 13]]
+  - [[#chapter-14][Chapter 14]]
+  - [[#chapter-15][Chapter 15]]
+  - [[#chapter-16][Chapter 16]]
+  - [[#chapter-17][Chapter 17]]
+  - [[#chapter-18][Chapter 18]]
+  - [[#chapter-19][Chapter 19]]
+  - [[#chapter-20][Chapter 20]]
+:END:
 * The Picture of Dorian Gray
 ** Oscar Wilde
    *Published:* 1891
@@ -723,7 +753,7 @@
 
    "I adore simple pleasures," said Lord Henry. "They are the last refuge of the complex. But I don't like scenes, except
    on the stage. What absurd fellows you are, both of you! I wonder who it was defined man as a rational animal. It was the
-   most premature definition ever given. Man is many things, but he is not rational. I am glad he is not, after all - 
+   most premature definition ever given. Man is many things, but he is not rational. I am glad he is not, after all -
    though I wish you chaps would not squabble over the picture. You had much better let me have it, Basil. This silly boy
    doesn't really want it, and I really do."
 
@@ -2230,7 +2260,7 @@
    ivory.
 
    Yet she was curiously listless. She showed no sign of joy when her eyes rested on Romeo. The few words she had to
-   speak - 
+   speak -
 
    Good pilgrim, you do wrong your hand too much, Which mannerly devotion shows in this; For saints have hands that
    pilgrims' hands do touch, And palm to palm is holy palmers' kiss -  with the brief dialogue that follows, were spoken in
@@ -2245,13 +2275,13 @@
 
    She looked charming as she came out in the moonlight. That could not be denied. But the staginess of her acting was
    unbearable, and grew worse as she went on. Her gestures became absurdly artificial. She overemphasized everything that
-   she had to say. The beautiful passage - 
+   she had to say. The beautiful passage -
 
    Thou knowest the mask of night is on my face, Else would a maiden blush bepaint my cheek For that which thou hast heard
-   me speak to-night - 
+   me speak to-night -
 
    was declaimed with the painful precision of a schoolgirl who has been taught to recite by some second-rate professor of
-   elocution. When she leaned over the balcony and came to those wonderful lines - 
+   elocution. When she leaned over the balcony and came to those wonderful lines -
 
    Although I joy in thee, I have no joy of this contract to-night: It is too rash, too unadvised, too sudden; Too like the
    lightning, which doth cease to be Ere one can say, "It lightens." Sweet, good-night! This bud of love by summer's

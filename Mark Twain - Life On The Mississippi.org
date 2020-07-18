@@ -1,3 +1,73 @@
+#+TILE: Life On The Mississippi
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#life-on-the-mississippi][Life On The Mississippi]]
+  - [[#mark-twain][Mark Twain]]
+  - [[#chapter-1-the-river-and-its-history][Chapter 1 The River And Its History]]
+  - [[#chapter-2-the-river-and-its-explorers][Chapter 2 The River And Its Explorers]]
+  - [[#chapter-3-frescoes-from-the-past][Chapter 3 Frescoes From The Past]]
+  - [[#chapter-4-the-boys-ambition][Chapter 4 The Boys' Ambition]]
+  - [[#chapter-5-i-want-to-be-a-cub-pilot][Chapter 5 I Want To Be A Cub-pilot]]
+  - [[#chapter-6-a-cub-pilots-experience][Chapter 6 A Cub-pilot's Experience]]
+  - [[#chapter-7-a-daring-deed][Chapter 7 A Daring Deed]]
+  - [[#chapter-8-perplexing-lessons][Chapter 8 Perplexing Lessons]]
+  - [[#chapter-9-continued-perplexities][Chapter 9 Continued Perplexities]]
+  - [[#chapter-10-completing-my-education][Chapter 10 Completing My Education]]
+  - [[#chapter-11-the-river-rises][Chapter 11 The River Rises]]
+  - [[#chapter-12-sounding][Chapter 12 Sounding]]
+  - [[#chapter-13-a-pilots-needs][Chapter 13 A Pilot's Needs]]
+  - [[#chapter-14-rank-and-dignity-of-piloting][Chapter 14 Rank And Dignity Of Piloting]]
+  - [[#chapter-15-the-pilots-monopoly][Chapter 15 The Pilots' Monopoly]]
+  - [[#chapter-16-racing-days][Chapter 16 Racing Days]]
+  - [[#chapter-17-cut-offs-and-stephen][Chapter 17 Cut-offs And Stephen]]
+  - [[#chapter-18-i-take-a-few-extra-lessons][Chapter 18 I Take A Few Extra Lessons]]
+  - [[#chapter-19-brown-and-i-exchange-compliments][Chapter 19 Brown And I Exchange Compliments]]
+  - [[#chapter-20-a-catastrophe][Chapter 20 A Catastrophe]]
+  - [[#chapter-21-a-section-in-my-biography][Chapter 21 A Section In My Biography]]
+  - [[#chapter-22-i-return-to-my-muttons][Chapter 22 I Return To My Muttons]]
+  - [[#chapter-23-traveling-incognito][Chapter 23 Traveling Incognito]]
+  - [[#chapter-24-my-incognito-is-exploded][Chapter 24 My Incognito Is Exploded]]
+  - [[#chapter-25-from-cairo-to-hickman][Chapter 25 From Cairo To Hickman]]
+  - [[#chapter-26-under-fire][Chapter 26 Under Fire]]
+  - [[#chapter-27-some-imported-articles][Chapter 27 Some Imported Articles]]
+  - [[#chapter-28-uncle-mumford-unloads][Chapter 28 Uncle Mumford Unloads]]
+  - [[#chapter-29-a-few-specimen-bricks][Chapter 29 A Few Specimen Bricks]]
+  - [[#chapter-30-sketches-by-the-way][Chapter 30 Sketches By The Way]]
+  - [[#chapter-31-a-thumb-print-and-what-came-of-it][Chapter 31 A Thumb-print And What Came Of It]]
+  - [[#chapter-32-the-disposal-of-a-bonanza][Chapter 32 The Disposal Of A Bonanza]]
+  - [[#chapter-33-refreshments-and-ethics][Chapter 33 Refreshments And Ethics]]
+  - [[#chapter-34-tough-yarns][Chapter 34 Tough Yarns]]
+  - [[#chapter-35-vicksburg-during-the-trouble][Chapter 35 Vicksburg During The Trouble]]
+  - [[#chapter-36-the-professors-yarn][Chapter 36 The Professor's Yarn]]
+  - [[#chapter-37-the-end-of-the-gold-dust][Chapter 37 The End Of The 'Gold Dust']]
+  - [[#chapter-38-the-house-beautiful][Chapter 38 The House Beautiful]]
+  - [[#chapter-39-manufactures-and-miscreants][Chapter 39 Manufactures And Miscreants]]
+  - [[#chapter-40-castles-and-culture][Chapter 40 Castles And Culture]]
+  - [[#chapter-41-the-metropolis-of-the-south][Chapter 41 The Metropolis Of The South]]
+  - [[#chapter-42-hygiene-and-sentiment][Chapter 42 Hygiene And Sentiment]]
+  - [[#chapter-43-the-art-of-inhumation][Chapter 43 The Art Of Inhumation]]
+  - [[#chapter-44-city-sights][Chapter 44 City Sights]]
+  - [[#chapter-45-southern-sports][Chapter 45 Southern Sports]]
+  - [[#chapter-46-enchantments-and-enchanters][Chapter 46 Enchantments And Enchanters]]
+  - [[#chapter-47-uncle-remus-and-mr-cable][Chapter 47 Uncle Remus And Mr. Cable]]
+  - [[#chapter-48-sugar-and-postage][Chapter 48 Sugar And Postage]]
+  - [[#chapter-49-episodes-in-pilot-life][Chapter 49 Episodes In Pilot Life]]
+  - [[#chapter-50-the-original-jacobs][Chapter 50 The 'Original Jacobs']]
+  - [[#chapter-51-reminiscences][Chapter 51 Reminiscences]]
+  - [[#chapter-52-a-burning-brand][Chapter 52 A Burning Brand]]
+  - [[#chapter-53-my-boyhoods-home][Chapter 53 My Boyhood's Home]]
+  - [[#chapter-54-past-and-present][Chapter 54 Past And Present]]
+  - [[#chapter-55-a-vendetta-and-other-things][Chapter 55 A Vendetta And Other Things]]
+  - [[#chapter-56-a-question-of-law][Chapter 56 A Question Of Law]]
+  - [[#chapter-57-an-archangel][Chapter 57 An Archangel]]
+  - [[#chapter-58-on-the-upper-river][Chapter 58 On The Upper River]]
+  - [[#chapter-59-legends-and-scenery][Chapter 59 Legends And Scenery]]
+  - [[#chapter-60-speculations-and-conclusions][Chapter 60 Speculations And Conclusions]]
+:END:
 * Life On The Mississippi
 ** Mark Twain
    *Published:* 1883
@@ -2031,7 +2101,7 @@
 
    ‘Why, there it is again!'
 
-   So he came ahead on the engines once more, and rang for the leads. 
+   So he came ahead on the engines once more, and rang for the leads.
    Gradually the water shoaled up, and then began to deepen again!  Mr.
    Thornburg muttered - ­
 
@@ -2570,7 +2640,7 @@
    man's sign and diploma of membership; and if the stranger did not respond by producing a similar key and holding it in a
    certain manner duly prescribed, his question was politely ignored.  From the association's secretary each member
    received a package of more or less gorgeous blanks, printed like a billhead, on handsome paper, properly ruled in
-   columns; a bill-head worded something like this - 
+   columns; a bill-head worded something like this -
 
    /Steamer/ /great/ /republic/.
 

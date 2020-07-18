@@ -1,3 +1,15 @@
+#+TILE: Don Quixote
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#don-quixote][Don Quixote]]
+  - [[#miguel-cervantes][Miguel Cervantes]]
+  - [[#part-1---to-the-duke-of-bejar-marquis-of-gibraleon][Part 1 - TO THE DUKE OF BEJAR, MARQUIS OF GIBRALEON,]]
+  - [[#part-2---to-the-count-of-lemos][Part 2 - TO THE COUNT OF LEMOS]]
+:END:
 * Don Quixote
 ** Miguel Cervantes
    *Published:* 1615
@@ -121,7 +133,7 @@
 
      Non bene pro toto libertas venditur auro;
 
-     and then refer in the margin to Horace, or whoever said it; or, if you allude to the power of death, to come in with - 
+     and then refer in the margin to Horace, or whoever said it; or, if you allude to the power of death, to come in with -
 
      Pallida mors Aequo pulsat pede pauperum tabernas, Regumque turres.
 
@@ -402,7 +414,7 @@
     about it for ladies of high degree belonging to the castle, he said to them with great sprightliness:
 
     "Oh, never, surely, was there knight So served by hand of dame, As served was he, Don Quixote hight, When from his town
-    he came; With maidens waiting on himself, Princesses on his hack - 
+    he came; With maidens waiting on himself, Princesses on his hack -
 
     or Rocinante, for that, ladies mine, is my horse's name, and Don Quixote of La Mancha is my own; for though I had no
     intention of declaring myself until my achievements in your service and honour had made me known, the necessity of
@@ -1802,9 +1814,9 @@
 
     Helpful to my suit should prove.
 
-    Many a time thou must have noticed - 
+    Many a time thou must have noticed -
 
-    If to notice thou dost care - 
+    If to notice thou dost care -
 
     How I go about on Monday
 
@@ -1860,7 +1872,7 @@
 
     Mine is no high-flown affection,
 
-    Mine no passion par amours - 
+    Mine no passion par amours -
 
     As they call it - what I offer
 
@@ -1876,7 +1888,7 @@
 
     Else - and once for all I swear it
 
-    By the saint of most renown - 
+    By the saint of most renown -
 
     If I ever quit the mountains,
 
@@ -2098,7 +2110,7 @@
     then, in the time of this good king that famous order of chivalry of the Knights of the Round Table was instituted, and
     the amour of Don Lancelot of the Lake with the Queen Guinevere occurred, precisely as is there related, the go-between
     and confidante therein being the highly honourable dame Quintanona, whence came that ballad so well known and widely
-    spread in our Spain - 
+    spread in our Spain -
 
     O never surely was there knight
 
@@ -2106,7 +2118,7 @@
 
     As served was he Sir Lancelot hight
 
-    When he from Britain came - 
+    When he from Britain came -
 
     with all the sweet and delectable course of his achievements in love and war. Handed down from that time, then, this
     order of chivalry went on extending and spreading itself over many and various parts of the world; and in it, famous and
@@ -2409,7 +2421,7 @@
 
     Who would not give free access to distrust,
 
-    Seeing disdain unveiled, and - bitter change! - 
+    Seeing disdain unveiled, and - bitter change! -
 
     All his suspicions turned to certainties,
 
@@ -5601,7 +5613,7 @@
 
     Thus use him, he hath no idea,
 
-    But hogsheads full - this doth he know - 
+    But hogsheads full - this doth he know -
 
     Don Quixote's tears are on the flow,
 
@@ -13571,7 +13583,7 @@
     blessings that are attained by it; I know that the path of virtue is very narrow, and the road of vice broad and
     spacious; I know their ends and goals are different, for the broad and easy road of vice ends in death, and the narrow
     and toilsome one of virtue in life, and not transitory life, but in that which has no end; I know, as our great
-    Castilian poet says, that - 
+    Castilian poet says, that -
 
     It is by rugged paths like these they go That scale the heights of immortality, Unreached by those that falter here
     below."
@@ -14014,9 +14026,9 @@
 
     While the two were engaged in this conversation, they perceived some one with a pair of mules approaching the spot where
     they stood, and from the noise the plough made, as it dragged along the ground, they guessed him to be some labourer who
-    had got up before daybreak to go to his work, and so it proved to be. He came along singing the ballad that says - 
+    had got up before daybreak to go to his work, and so it proved to be. He came along singing the ballad that says -
 
-    Ill did ye fare, ye men of France, In Roncesvalles chase - 
+    Ill did ye fare, ye men of France, In Roncesvalles chase -
 
     "May I die, Sancho," said Don Quixote, when he heard him, "if any good will come to us tonight! Dost thou not hear what
     that clown is singing?"
@@ -14504,7 +14516,7 @@
     did not drive them to go and look for food. I may add that they say the author left it on record that he likened their
     friendship to that of Nisus and Euryalus, and Pylades and Orestes; and if that be so, it may be perceived, to the
     admiration of mankind, how firm the friendship must have been between these two peaceful animals, shaming men, who
-    preserve friendships with one another so badly. This was why it was said - 
+    preserve friendships with one another so badly. This was why it was said -
 
     {verse
 
@@ -14512,7 +14524,7 @@
 
     The reeds turn lances now.
 
-    And some one else has sung - 
+    And some one else has sung -
 
     Friend to friend the bug, etc.
 
@@ -15625,7 +15637,7 @@
     Don Quixote found Don Diego de Miranda's house built in village style, with his arms in rough stone over the street
     door; in the patio was the store-room, and at the entrance the cellar, with plenty of wine-jars standing round, which,
     coming from El Toboso, brought back to his memory his enchanted and transformed Dulcinea; and with a sigh, and not
-    thinking of what he was saying, or in whose presence he was, he exclaimed - 
+    thinking of what he was saying, or in whose presence he was, he exclaimed -
 
     {verse
 
@@ -15764,7 +15776,7 @@
     gloss, which run thus:
 
     Could 'was' become an 'is' for me, Then would I ask no more than this; Or could, for me, the time that is Become the
-    time that is to be! - 
+    time that is to be! -
 
     GLOSS
 
@@ -17054,7 +17066,7 @@
     silk, and his shoes square-toed as they wear them at court. His age might have been eighteen or nineteen; he was of a
     merry countenance, and to all appearance of an active habit, and he went along singing seguidillas to beguile the
     wearisomeness of the road. As they came up with him he was just finishing one, which the cousin got by heart and they
-    say ran thus - 
+    say ran thus -
 
     {verse
 
@@ -17354,7 +17366,7 @@
     word from the French chronicles and from the Spanish ballads that are in everybody's mouth, and in the mouth of the boys
     about the streets. Its subject is the release by Senor Don Gaiferos of his wife Melisendra, when a captive in Spain at
     the hands of the Moors in the city of Sansuena, for so they called then what is now called Saragossa; and there you may
-    see how Don Gaiferos is playing at the tables, just as they sing it - 
+    see how Don Gaiferos is playing at the tables, just as they sing it -
 
     {verse
 
@@ -17404,13 +17416,13 @@
     is Don Gaiferos himself, whom his wife, now avenged of the insult of the amorous Moor, and taking her stand on the
     balcony of the tower with a calmer and more tranquil countenance, has perceived without recognising him; and she
     addresses her husband, supposing him to be some traveller, and holds with him all that conversation and colloquy in the
-    ballad that runs - 
+    ballad that runs -
 
     {verse
 
     If you, sir knight, to France are bound,
 
-    Oh! for Gaiferos ask - 
+    Oh! for Gaiferos ask -
 
     {verse
 
@@ -17474,7 +17486,7 @@
     beyond everything living on earth this day!"
 
     "Let it live, and welcome," said Master Pedro at this in a feeble voice, "and let me die, for I am so unfortunate that I
-    can say with King Don Rodrigo - 
+    can say with King Don Rodrigo -
 
     {verse
 
@@ -17626,7 +17638,7 @@
     slope and approached the band near enough to see distinctly the flags, make out the colours and distinguish the devices
     they bore, especially one on a standard or ensign of white satin, on which there was painted in a very life-like style
     an ass like a little sard, with its head up, its mouth open and its tongue out, as if it were in the act and attitude of
-    braying; and round it were inscribed in large characters these two lines - 
+    braying; and round it were inscribed in large characters these two lines -
 
     {verse
 
@@ -18736,7 +18748,7 @@
 
     "To be sure they don't lie!" exclaimed Dona Rodriguez, the duenna, who was one of the listeners. "Why, there's a ballad
     that says they put King Rodrigo alive into a tomb full of toads, and adders, and lizards, and that two days afterwards
-    the king, in a plaintive, feeble voice, cried out from within the tomb - 
+    the king, in a plaintive, feeble voice, cried out from within the tomb -
 
     They gnaw me now, they gnaw me now,
 
@@ -19115,7 +19127,7 @@
 
     La Mancha's lustre and Iberia's star,
 
-    Don Quixote, wise as brave, to thee I say - 
+    Don Quixote, wise as brave, to thee I say -
 
     For peerless Dulcinea del Toboso
 
@@ -23676,7 +23688,7 @@
     him who gives thee his bread?"
 
     "I neither put down king, nor set up king," said Sancho; "I only stand up for myself who am my own lord; if your worship
-    promises me to be quiet, and not to offer to whip me now, I'll let you go free and unhindered; if not - 
+    promises me to be quiet, and not to offer to whip me now, I'll let you go free and unhindered; if not -
 
     Traitor and Dona Sancha's foe, Thou diest on the spot." Don Quixote gave his promise, and swore by the life of his
     thoughts not to touch so much as a hair of his garments, and to leave him entirely free and to his own discretion to
@@ -24776,7 +24788,7 @@
     out; but to suppose that I am going to travel on foot, and make long ones, is to suppose nonsense."
 
     "Thou sayest well, Sancho," said Don Quixote; "let my armour be hung up for a trophy, and under it or round it we will
-    carve on the trees what was inscribed on the trophy of Roland's armour - 
+    carve on the trees what was inscribed on the trophy of Roland's armour -
 
     These let none move Who dareth not his might with Roland prove."
 

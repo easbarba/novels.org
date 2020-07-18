@@ -1,9 +1,10 @@
+#+TILE: The Sleeper Awakes
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#the-sleeper-awakes][The Sleeper Awakes]]
   - [[#h-g-wells][H. G. Wells]]
   - [[#chapter-1-insomnia][Chapter 1 INSOMNIA]]

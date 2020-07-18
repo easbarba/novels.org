@@ -1,9 +1,11 @@
+#+TILE: The Arabian Nights
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 3 :ignore this
   :END:
+
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#the-arabian-nights][The Arabian Nights]]
   - [[#andrew-lang][Andrew Lang]]
   - [[#preface][Preface]]
@@ -22,6 +24,13 @@
   - [[#the-story-of-the-envious-man-and-of-him-who-was-envied][The Story of the Envious Man and of Him Who Was Envied]]
   - [[#the-story-of-the-third-calendar-son-of-a-king][The Story of the Third Calendar, Son of a King]]
   - [[#the-seven-voyages-of-sindbad-the-sailor][The Seven Voyages of Sindbad the Sailor]]
+    - [[#first-voyage][First Voyage]]
+    - [[#second-voyage][Second Voyage]]
+    - [[#third-voyage][Third Voyage]]
+    - [[#fourth-voyage][Fourth Voyage]]
+    - [[#fifth-voyage][Fifth Voyage]]
+    - [[#sixth-voyage][Sixth Voyage]]
+    - [[#seventh-and-last-voyage][Seventh and Last Voyage]]
   - [[#the-story-of-the-little-hunchback][The Story of the Little Hunchback]]
   - [[#the-story-of-the-barbers-fifth-brother][The Story of the Barber's Fifth Brother]]
   - [[#the-story-of-the-barbers-sixth-brother][The Story of the Barber's Sixth Brother]]

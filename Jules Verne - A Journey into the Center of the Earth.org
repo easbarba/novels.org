@@ -1,9 +1,10 @@
+#+TILE: A Journey into the Center of the Earth
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#a-journey-into-the-center-of-the-earth][A Journey into the Center of the Earth]]
   - [[#jules-verne][Jules Verne]]
   - [[#chapter-1-the-professor-and-his-family][Chapter 1 The Professor and His Family]]

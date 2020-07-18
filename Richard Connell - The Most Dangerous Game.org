@@ -1,3 +1,14 @@
+#+TILE: The Most Dangerous Game
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#the-most-dangerous-game][The Most Dangerous Game]]
+  - [[#richard-connell][Richard Connell]]
+  - [[#the-most-dangerous-game][The Most Dangerous Game]]
+:END:
 * The Most Dangerous Game
 ** Richard Connell
    *Published:* 1924
@@ -16,7 +27,7 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 ** The Most Dangerous Game
-   
+
    "Off there to the right - somewhere - is a large island," said Whitney. "It's rather a mystery - "
 
    "What island is it?" Rainsford asked.
@@ -110,7 +121,7 @@
 
    Rainsford remembered the shots. They had come from the right, and doggedly he swam in that direction, swimming with
    slow, deliberate strokes, conserving his strength. For a seemingly endless time he fought the sea. He began to count his
-   strokes; he could do possibly a hundred more and then - 
+   strokes; he could do possibly a hundred more and then -
 
    Rainsford heard a sound. It came out of the darkness, a high screaming sound, the sound of an animal in an extremity of
    anguish and terror.
@@ -551,7 +562,7 @@
    mark, he climbed up into the crotch, and, stretching out on one of the broad limbs, after a fashion, rested. Rest
    brought him new confidence and almost a feeling of security. Even so zealous a hunter as General Zaroff could not trace
    him there, he told himself; only the devil himself could follow that complicated trail through the jungle after dark.
-   But perhaps the general was a devil - 
+   But perhaps the general was a devil -
 
    An apprehensive night crawled slowly by like a wounded snake and sleep did not visit Rainsford, although the silence of
    a dead world was on the jungle. Toward morning when a dingy gray was varnishing the sky, the cry of some startled bird

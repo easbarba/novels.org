@@ -1,9 +1,10 @@
+#+TILE: The Mysterious Affair at Styles
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#the-hound-of-the-baskervilles][The Hound of the Baskervilles]]
   - [[#arthur-conan-doyle][Arthur Conan Doyle]]
   - [[#chapter-1-mr-sherlock-holmes][Chapter 1 Mr. Sherlock Holmes]]

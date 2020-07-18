@@ -1,9 +1,10 @@
+#+TILE: Peter Pan (Peter and Wendy)
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#peter-pan-peter-and-wendy][Peter Pan (Peter and Wendy)]]
   - [[#jm-barrie][J.M. Barrie]]
   - [[#chapter-1-peter-breaks-through][Chapter 1 PETER BREAKS THROUGH]]

@@ -1,9 +1,10 @@
+#+TILE: Porcelain and Pink
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#porcelain-and-pink][Porcelain and Pink]]
   - [[#francis-scott-fitzgerald][Francis Scott Fitzgerald]]
   - [[#porcelain-and-pink][Porcelain and Pink]]

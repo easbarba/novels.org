@@ -1,3 +1,18 @@
+#+TILE: Macbeth
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#macbeth][Macbeth]]
+  - [[#william-shakespeare][William Shakespeare]]
+  - [[#act-i][Act I]]
+  - [[#act-ii][Act II]]
+  - [[#act-iii][Act III]]
+  - [[#act-iv][Act IV]]
+  - [[#act-v][Act V]]
+:END:
 * Macbeth
 ** William Shakespeare
    *Published:* 1606
@@ -132,14 +147,14 @@
     #+BEGIN_QUOTE
     Doubtful it stood;
     As two spent swimmers, that do cling together
-    And choke their art. The merciless Macdonwald - 
+    And choke their art. The merciless Macdonwald -
     Worthy to be a rebel, for to that
     The multiplying villanies of nature
     Do swarm upon him - from the western isles
     Of kerns and gallowglasses is supplied;
     And fortune, on his damned quarrel smiling,
     Show'd like a rebel's whore: but all's too weak:
-    For brave Macbeth - well he deserves that name - 
+    For brave Macbeth - well he deserves that name -
     Disdaining fortune, with his brandish'd steel,
     Which smoked with bloody execution,
     Like valour's minion carved out his passage
@@ -310,7 +325,7 @@
 
     #+BEGIN_QUOTE
     A sailor's wife had chestnuts in her lap,
-    And munch'd, and munch'd, and munch'd: - 
+    And munch'd, and munch'd, and munch'd: -
     'Give me,' quoth I:
     'Aroint thee, witch!' the rump-fed ronyon cries.
     Her husband's to Aleppo gone, master o' the Tiger:
@@ -1225,7 +1240,7 @@
     #+BEGIN_QUOTE
     We fail!
     But screw your courage to the sticking-place,
-    And we'll not fail. When Duncan is asleep - 
+    And we'll not fail. When Duncan is asleep -
     Whereto the rather shall his day's hard journey
     Soundly invite him - his two chamberlains
     Will I with wine and wassail so convince
@@ -1600,7 +1615,7 @@
     Sleep that knits up the ravell'd sleeve of care,
     The death of each day's life, sore labour's bath,
     Balm of hurt minds, great nature's second course,
-    Chief nourisher in life's feast, - 
+    Chief nourisher in life's feast, -
     #+END_QUOTE
 
     *LADY MACBETH*
@@ -2241,7 +2256,7 @@
     *ROSS*
 
     #+BEGIN_QUOTE
-    And Duncan's horses - a thing most strange and certain - 
+    And Duncan's horses - a thing most strange and certain -
     Beauteous and swift, the minions of their race,
     Turn'd wild in nature, broke their stalls, flung out,
     Contending 'gainst obedience, as they would make
@@ -2384,8 +2399,8 @@
     Thou play'dst most foully for't: yet it was said
     It should not stand in thy posterity,
     But that myself should be the root and father
-    Of many kings. If there come truth from them - 
-    As upon thee, Macbeth, their speeches shine - 
+    Of many kings. If there come truth from them -
+    As upon thee, Macbeth, their speeches shine -
     Why, by the verities on thee made good,
     May they not be my oracles as well,
     And set me up in hope? But hush! no more.
@@ -2675,7 +2690,7 @@
     *First Murderer*
 
     #+BEGIN_QUOTE
-    Though our lives - 
+    Though our lives -
     #+END_QUOTE
 
     *MACBETH*
@@ -2686,8 +2701,8 @@
     Acquaint you with the perfect spy o' the time,
     The moment on't; for't must be done to-night,
     And something from the palace; always thought
-    That I require a clearness: and with him - 
-    To leave no rubs nor botches in the work - 
+    That I require a clearness: and with him -
+    To leave no rubs nor botches in the work -
     Fleance his son, that keeps him company,
     Whose absence is no less material to me
     Than is his father's, must embrace the fate
@@ -3555,7 +3570,7 @@
     For 'twould have anger'd any heart alive
     To hear the men deny't. So that, I say,
     He has borne all things well: and I do think
-    That had he Duncan's sons under his key - 
+    That had he Duncan's sons under his key -
     As, an't please heaven, he shall not - they
     should find
     What 'twere to kill a father; so should Fleance.
@@ -3825,7 +3840,7 @@
     *MACBETH*
 
     #+BEGIN_QUOTE
-    Tell me, thou unknown power, - 
+    Tell me, thou unknown power, -
     #+END_QUOTE
 
     *First Witch*
@@ -3849,7 +3864,7 @@
     #+BEGIN_QUOTE
     Whate'er thou art, for thy good caution, thanks;
     Thou hast harp'd my fear aright: but one
-    word more, - 
+    word more, -
     #+END_QUOTE
 
     *First Witch*
@@ -4707,8 +4722,8 @@
     #+BEGIN_QUOTE
     Ay, sir; there are a crew of wretched souls
     That stay his cure: their malady convinces
-    The great assay of art; but at his touch - 
-    Such sanctity hath heaven given his hand - 
+    The great assay of art; but at his touch -
+    Such sanctity hath heaven given his hand -
     They presently amend.
     #+END_QUOTE
 
@@ -5171,7 +5186,7 @@
     *LADY MACBETH*
 
     #+BEGIN_QUOTE
-    The thane of Fife had a wife: where is she now? - 
+    The thane of Fife had a wife: where is she now? -
     What, will these hands ne'er be clean? - No more o'
     that, my lord, no more o' that: you mar all with
     this starting.
@@ -5214,7 +5229,7 @@
     *Doctor*
 
     #+BEGIN_QUOTE
-    Well, well, well, - 
+    Well, well, well, -
     #+END_QUOTE
 
     *Gentlewoman*
@@ -5414,7 +5429,7 @@
     *Servant*
 
     #+BEGIN_QUOTE
-    There is ten thousand - 
+    There is ten thousand -
     #+END_QUOTE
 
     *MACBETH*
@@ -5542,7 +5557,7 @@
     The water of my land, find her disease,
     And purge it to a sound and pristine health,
     I would applaud thee to the very echo,
-    That should applaud again. - Pull't off, I say. - 
+    That should applaud again. - Pull't off, I say. -
     What rhubarb, cyme, or what purgative drug,
     Would scour these English hence? Hear'st thou of them?
     #+END_QUOTE

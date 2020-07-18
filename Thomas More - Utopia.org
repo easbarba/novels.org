@@ -1,3 +1,22 @@
+#+TILE: Utopia
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#utopia][Utopia]]
+  - [[#thomas-more][Thomas More]]
+  - [[#chapter-1-discourses-of-raphael-hythloday-of-the-best-state-of-a-commonwealth][Chapter 1 Discourses of Raphael Hythloday, of the Best State of a Commonwealth]]
+  - [[#chapter-2-of-their-towns-particularly-of-amaurot][Chapter 2 Of Their Towns, Particularly of Amaurot]]
+  - [[#chapter-3-of-their-magistrates][Chapter 3 Of Their Magistrates]]
+  - [[#chapter-4-of-their-trades-and-manner-of-life][Chapter 4 Of Their Trades, and Manner of Life]]
+  - [[#chapter-5-of-their-traffic][Chapter 5 Of Their Traffic]]
+  - [[#chapter-6-of-the-travelling-of-the-utopians][Chapter 6 Of the Travelling of the Utopians]]
+  - [[#chapter-7-of-their-slaves-and-of-their-marriages][Chapter 7 Of Their Slaves, and of Their Marriages]]
+  - [[#chapter-8-of-their-military-discipline][Chapter 8 Of Their Military Discipline]]
+  - [[#chapter-9-of-the-religions-of-the-utopians][Chapter 9 Of the Religions of the Utopians]]
+:END:
 * Utopia
 ** Thomas More
    *Published:* 1515
@@ -654,7 +673,7 @@
    then we shall have leisure enough." He consented; we went in and dined, and after dinner came back and sat down in the
    same place. I ordered my servants to take care that none might come and interrupt us, and both Peter and I desired
    Raphael to be as good as his word. When he saw that we were very intent upon it he paused a little to recollect himself,
-   and began in this manner: - 
+   and began in this manner: -
 
    "The island of Utopia is in the middle two hundred miles broad, and holds almost at the same breadth over a great part
    of it, but it grows narrower towards both ends. Its figure is not unlike a crescent. Between its horns the sea comes in
@@ -2075,7 +2094,7 @@
    witchcrafts, which are, indeed, rather punished than restrained by the seventies of law, would all fall off, if money
    were not any more valued by the world? Men's fears, solicitudes, cares, labours, and watchings would all perish in the
    same moment with the value of money; even poverty itself, for the relief of which money seems most necessary, would
-   fall. But, in order to the apprehending this aright, take one instance: - 
+   fall. But, in order to the apprehending this aright, take one instance: -
 
    "Consider any year, that has been so unfruitful that many thousands have died of hunger; and yet if, at the end of that
    year, a survey was made of the granaries of all the rich men that have hoarded up the corn, it would be found that there
@@ -2116,4 +2135,3 @@
    man and a person who has obtained a great knowledge of the world, I cannot perfectly agree to everything he has related.
    However, there are many things in the commonwealth of Utopia that I rather wish, than hope, to see followed in our
    governments.
-

@@ -1,3 +1,16 @@
+#+TILE: The Woman in White
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#the-woman-in-white][The Woman in White]]
+  - [[#wilkie-collins][Wilkie Collins]]
+  - [[#part-1---first-epoch][Part 1 - First Epoch]]
+  - [[#part-2---second-epoch][Part 2 - Second Epoch]]
+  - [[#part-3---third-epoch][Part 3 - Third Epoch]]
+:END:
 * The Woman in White
 ** Wilkie Collins
    *Published:* 1860
@@ -963,7 +976,7 @@
      "I have just come from seeing the room, Mr. Fairlie; and I assure you - "
 
      He stopped me in the middle of the sentence, by closing his eyes, and holding up one of his white hands imploringly. I
-     paused in astonishment; and the croaking voice honoured me with this explanation - 
+     paused in astonishment; and the croaking voice honoured me with this explanation -
 
      "Pray excuse me. But could you contrive to speak in a lower key? In the wretched state of my nerves, loud sound of any
      kind is indescribable torture to me. You will pardon an invalid? I only say to you what the lamentable state of my
@@ -1393,7 +1406,7 @@
      to the candle before beginning to read it, Miss Fairlie passed us on the terrace, looked in for a moment, and seeing
      that we were engaged, slowly walked on.
 
-     Miss Halcombe began to read as follows: - 
+     Miss Halcombe began to read as follows: -
 
      #+BEGIN_QUOTE
      "'You will be tired, my dear Philip, of hearing perpetually about my schools and my scholars. Lay the blame, pray, on
@@ -1408,7 +1421,7 @@
 
      As the last sentence fell from the reader's lips, Miss Fairlie passed us on the terrace once more. She was softly
      singing to herself one of the melodies which she had been playing earlier in the evening. Miss Halcombe waited till she
-     had passed out of sight again, and then went on with the letter - 
+     had passed out of sight again, and then went on with the letter -
 
      #+BEGIN_QUOTE
      "'Mrs. Catherick is a decent, well-behaved, respectable woman; middle-aged, and with the remains of having been
@@ -1426,7 +1439,7 @@
 
      Once more Miss Fairlie's figure, bright and soft in its snowy muslin dress - her face prettily framed by the white folds
      of the handkerchief which she had tied under her chin - passed by us in the moonlight. Once more Miss Halcombe waited
-     till she was out of sight, and then went on - 
+     till she was out of sight, and then went on -
 
      #+BEGIN_QUOTE
      "'I have taken a violent fancy, Philip, to my new scholar, for a reason which I mean to keep till the last for the
@@ -1481,7 +1494,7 @@
      As she raised the letter to the light of the candle, Miss Fairlie turned from the balustrade, looked doubtfully up and
      down the terrace, advanced a step towards the glass doors, and then stopped, facing us.
 
-     Meanwhile Miss Halcombe read me the last sentences to which she had referred - 
+     Meanwhile Miss Halcombe read me the last sentences to which she had referred -
 
      #+BEGIN_QUOTE
      "'And now, my love, seeing that I am at the end of my paper, now for the real reason, the surprising reason, for my
@@ -1897,7 +1910,7 @@
      engaged to Miss Fairlie is?"
 
      Her mind was evidently occupied with the message she had received from her sister. She answered in a hasty, absent
-     way - 
+     way -
 
      "A gentleman of large property in Hampshire."
 
@@ -1915,7 +1928,7 @@
 
      "Knight, or Baronet?" I asked, with an agitation that I could hide no longer.
 
-     She paused for a moment, and then answered, rather coldly - 
+     She paused for a moment, and then answered, rather coldly -
 
      "Baronet, of course."
 
@@ -1976,7 +1989,7 @@
      surely be wrong, after all that has passed between us, in forgetting that you are a friend of only three months'
      standing."
 
-     She gave me the letter. It began abruptly, without any preliminary form of address, as follows - 
+     She gave me the letter. It began abruptly, without any preliminary form of address, as follows -
 
 
      "Do you believe in dreams? I hope, for your own sake, that you do. See what Scripture says about dreams and their
@@ -2928,7 +2941,7 @@
      I sat down at once to write the letter, expressing myself in it as civilly, as clearly, and as briefly as possible. Mr.
      Fairlie did not hurry his reply. Nearly an hour elapsed before the answer was placed in my hands. It was written with
      beautiful regularity and neatness of character, in violet-coloured ink, on note-paper as smooth as ivory and almost as
-     thick as cardboard, and it addressed me in these terms - 
+     thick as cardboard, and it addressed me in these terms -
 
      "Mr. Fairlie's compliments to Mr. Hartright. Mr. Fairlie is more surprised and disappointed than he can say (in the
      present state of his health) by Mr. Hartright's application. Mr. Fairlie is not a man of business, but he has consulted
@@ -3056,7 +3069,7 @@
      gave me quite a turn, miss, to see it, never having been taken faint myself."
 
      Before any more questions could be put to her, she was called away to receive a basket of eggs at the dairy door. As she
-     left us I whispered to Miss Halcombe - 
+     left us I whispered to Miss Halcombe -
 
      "Ask her if she happened to mention, last night, that visitors were expected at Limmeridge House."
 
@@ -3633,7 +3646,7 @@
 
      "I believe he is," answered Miss Halcombe.
 
-     He paused for a moment, as if he was thinking over the last answer, and then added - 
+     He paused for a moment, as if he was thinking over the last answer, and then added -
 
      "Did you find out where Anne Catherick was living, when she was in this neighbourhood?"
 
@@ -3720,7 +3733,7 @@
      evening passed as usual. There was no change in Sir Percival, and no change in Miss Fairlie.
 
      The Wednesday's post brought with it an event - the reply from Mrs. Catherick. I took a copy of the document, which I
-     have preserved, and which I may as well present in this place. It ran as follows - 
+     have preserved, and which I may as well present in this place. It ran as follows -
 
      #+BEGIN_QUOTE
      "MADAM, - I beg to acknowledge the receipt of your letter, inquiring whether my daughter, Anne, was placed under
@@ -3994,7 +4007,7 @@
      "You are altering your opinion about Laura," she said. "You are readier to make allowances for her than you were
      yesterday."
 
-     No sensible man ever engages, unprepared, in a fencing match of words with a woman. I only answered - 
+     No sensible man ever engages, unprepared, in a fencing match of words with a woman. I only answered -
 
      "Let me know what happens. I will do nothing till I hear from you."
 
@@ -4050,7 +4063,7 @@
      Let us take the land first.
 
      In the time of Miss Fairlie's paternal grandfather (whom we will call Mr. Fairlie, the elder) the entailed succession to
-     the Limmeridge estate stood thus - 
+     the Limmeridge estate stood thus -
 
      Mr. Fairlie, the elder, died and left three sons, Philip, Frederick, and Arthur. As eldest son, Philip succeeded to the
      estate, If he died without leaving a son, the property went to the second brother, Frederick; and if Frederick died also
@@ -4135,7 +4148,7 @@
      After a lapse of two days the document was returned to me, with notes and remarks of the baronet's lawyer. His
      objections, in general, proved to be of the most trifling and technical kind, until he came to the clause relating to
      the twenty thousand pounds. Against this there were double lines drawn in red ink, and the following note was appended
-     to them - 
+     to them -
 
      "Not admissible. The PRINCIPAL to go to Sir Percival Glyde, in the event of his surviving Lady Glyde, and there being no
      issue."
@@ -5360,7 +5373,7 @@
      stormy night, on the awful sea. Who else is left to you? No father, no brother - no living creature but the helpless,
      useless woman who writes these sad lines, and watches by you for the morning, in sorrow that she cannot compose, in
      doubt that she cannot conquer. Oh, what a trust is to be placed in that man's hands to-morrow! If ever he forgets
-     it - if ever he injures a hair of her head! - 
+     it - if ever he injures a hair of her head! -
 
 
      THE TWENTY-SECOND OF DECEMBER. Seven o'clock. A wild, unsettled morning. She has just risen - better and calmer, now
@@ -5377,7 +5390,7 @@
      Eleven o'clock. It is all over. They are married.
 
 
-     Three o'clock. They are gone! I am blind with crying - I can write no more - 
+     Three o'clock. They are gone! I am blind with crying - I can write no more -
 
 
      *[The First Epoch of the Story closes here.]*
@@ -5760,7 +5773,7 @@
      already.
 
      Surely I heard something. Was it a bustle of footsteps below stairs? Yes! I hear the horses' feet - I hear the rolling
-     wheels - 
+     wheels -
 
 **** 2.
 
@@ -7694,7 +7707,7 @@
 
      "What has happened?" I asked. "What has frightened you?"
 
-     She looked round at the half-open door, put her lips close to my ear, and answered in a whisper - 
+     She looked round at the half-open door, put her lips close to my ear, and answered in a whisper -
 
      "Marian! - the figure at the lake - the footsteps last night - I've just seen her! I've just spoken to her!"
 
@@ -8091,7 +8104,7 @@
 
      We separated that evening later than usual. Towards midnight the summer silence was broken by the shuddering of a low,
      melancholy wind among the trees. We all felt the sudden chill in the atmosphere, but the Count was the first to notice
-     the stealthy rising of the wind. He stopped while he was lighting my candle for me, and held up his hand warningly - 
+     the stealthy rising of the wind. He stopped while he was lighting my candle for me, and held up his hand warningly -
 
      "Listen!" he said. "There will be a change to-morrow."
 
@@ -8394,7 +8407,7 @@
 
      "Try to tell me what the substance was before we go any further."
 
-     She complied. I write the lines down here exactly as she repeated them to me. They ran thus - 
+     She complied. I write the lines down here exactly as she repeated them to me. They ran thus -
 
      #+BEGIN_QUOTE
      "I was seen with you, yesterday, by a tall, stout old man, and had to run to save myself. He was not quick enough on
@@ -9623,7 +9636,7 @@
      write Laura, and see I write it. Eight or nine - which was it?
 
      So cold, so cold - oh, that rain last night! - and the strokes of the clock, the strokes I can't count, keep striking in
-     my head - 
+     my head -
 
 
      Note [At this place the entry in the Diary ceases to be legible. The two or three lines which follow contain fragments
@@ -9791,7 +9804,7 @@
     tears. Tears are scientifically described as a Secretion. I can understand that a secretion may be healthy or unhealthy,
     but I cannot see the interest of a secretion from a sentimental point of view. Perhaps my own secretions being all wrong
     together, I am a little prejudiced on the subject. No matter. I behaved, on this occasion, with all possible propriety
-    and feeling. I closed my eyes and said to Louis - 
+    and feeling. I closed my eyes and said to Louis -
 
     "Endeavour to ascertain what she means."
 
@@ -9823,7 +9836,7 @@
     I must really rest a little before I can get on any farther. When I have reclined for a few minutes, with my eyes
     closed, and when Louis has refreshed my poor aching temples with a little eau-de-Cologne, I may be able to proceed.
 
-    Her ladyship the Countess - 
+    Her ladyship the Countess -
 
     No. I am able to proceed, but not to sit up. I will recline and dictate. Louis has a horrid accent, but he knows the
     language, and can write. How very convenient!
@@ -9891,7 +9904,7 @@
     anxious to do all I can to serve my mistress faithfully - "
 
     People in the lower class of life never know when or how to go out of a room. They invariably require to be helped out
-    by their betters. I thought it high time to help the Young Person out. I did it with two judicious words - 
+    by their betters. I thought it high time to help the Young Person out. I did it with two judicious words -
 
     "Good-morning."
 
@@ -10322,7 +10335,7 @@
      Towards midday I went downstairs to attend to some of my regular duties. An hour afterwards, on my way back to the
      sick-room, I saw the Count (who had gone out again early, for the third time) entering the hall, to all appearance in
      the highest good spirits. Sir Percival, at the same moment, put his head out of the library door, and addressed his
-     noble friend, with extreme eagerness, in these words - 
+     noble friend, with extreme eagerness, in these words -
 
      "Have you found her?"
 
@@ -10723,7 +10736,7 @@
 
      I was sent for to see Sir Percival in the library. The Count, who was with him when I went in, immediately rose and left
      us alone together. Sir Percival civilly asked me to take a seat, and then, to my great astonishment, addressed me in
-     these terms - 
+     these terms -
 
      "I want to speak to you, Mrs. Michelson, about a matter which I decided on some time ago, and which I should have
      mentioned before, but for the sickness and trouble in the house. In plain words, I have reasons for wishing to break up
@@ -10785,7 +10798,7 @@
      say, by my departure from the house. It is true that my absence was for a temporary period only, but the coincidence
      was, in my opinion, not the less remarkable on that account.
 
-     My departure took place under the following circumstances - 
+     My departure took place under the following circumstances -
 
      A day or two after the servants all left I was again sent for to see Sir Percival. The undeserved slur which he had cast
      on my management of the household did not, I am happy to say, prevent me from returning good for evil to the best of my
@@ -11020,7 +11033,7 @@
      "Read it," she said faintly. "I don't know what is the matter with me. I can't read it myself."
 
      It was a note of only four lines - so short and so careless that it quite struck me. If I remember correctly it
-     contained no more than these words - 
+     contained no more than these words -
 
      "Dearest Laura, Please come whenever you like. Break the journey by sleeping at your aunt's house. Grieved to hear of
      dear Marian's illness. Affectionately yours, Frederick Fairlie."
@@ -11235,7 +11248,7 @@
 
      "Where is Miss Halcombe?"
 
-     Mrs. Rubelle fairly laughed at me this time, and replied in these words - 
+     Mrs. Rubelle fairly laughed at me this time, and replied in these words -
 
      "Miss Halcombe, ma'am, has not left Blackwater Park either."
 
@@ -11613,7 +11626,7 @@
      and master went down to attend the burying in the country himself. He looked grand in his deep mourning, with his big
      solemn face, and his slow walk, and his broad hatband - that he did!
 
-     In conclusion. I have to say, in answer to questions put to me - 
+     In conclusion. I have to say, in answer to questions put to me -
 
      (1) That neither I nor my fellow-servant ever saw my master give Lady Glyde any medicine himself.
 
@@ -11702,7 +11715,7 @@
      and fondly strengthened its hold on mine. We had no concealments from each other. She knew how the hope of my life had
      been wrecked - she knew why I had left her. It was on my lips to ask as composedly as I could if any letter had come for
      me from Miss Halcombe, if there was any news of her sister that I might hear. But when I looked in my mother's face I
-     lost courage to put the question even in that guarded form. I could only say, doubtingly and restrainedly - 
+     lost courage to put the question even in that guarded form. I could only say, doubtingly and restrainedly -
 
      "You have something to tell me."
 
@@ -11758,7 +11771,7 @@
      fair head drooping wearily - the innocent parting words which implored me to leave her - oh, for a happier last memory
      of her than this; the memory I took away with me, the memory I bring back with me to her grave!
 
-     A second time I tried to read the inscription. I saw at the end the date of her death, and above it - 
+     A second time I tried to read the inscription. I saw at the end the date of her death, and above it -
 
      Above it there were lines on the marble - there was a name among them which disturbed my thoughts of her. I went round
      to the other side of the grave, where there was nothing to read, nothing of earthly vileness to force its way between
@@ -11953,7 +11966,7 @@
      illness and death. The letter presenting this information added no new facts to the facts already known, but one very
      remarkable paragraph was contained in the postscript. It referred to Anne Catherick.
 
-     The substance of the paragraph in question was as follows - 
+     The substance of the paragraph in question was as follows -
 
      It first informed Mr. Fairlie that Anne Catherick (of whom he might hear full particulars from Miss Halcombe when she
      reached Limmeridge) had been traced and recovered in the neighbourhood of Blackwater Park, and had been for the second
@@ -12581,7 +12594,7 @@
 
      Lawyer as he was to the very marrow of his bones, I startled him out of his professional composure. Expressions of
      incredulity and surprise, which he could not repress, interrupted me several times before I had done. I persevered,
-     however, to the end, and as soon as I reached it, boldly asked the one important question - 
+     however, to the end, and as soon as I reached it, boldly asked the one important question -
 
      "What is your opinion, Mr. Kyrle?"
 
@@ -12793,11 +12806,11 @@
      With that reply she opened the note. Her face flushed deeply while she read it - her eyes brightened with anger as she
      handed it to me to read in my turn.
 
-     The note contained these lines - 
+     The note contained these lines -
 
      #+BEGIN_QUOTE
      "Impelled by honourable admiration - honourable to myself, honourable to you - I write, magnificent Marian, in the
-     interests of your tranquillity, to say two consoling words - 
+     interests of your tranquillity, to say two consoling words -
 
      "Fear nothing!
 
@@ -12895,7 +12908,7 @@
      me when I think of the Count!"
 
      "His turn will come," I said. "But, remember, there is no weak place in his life that we know of yet." I waited a little
-     to let her recover her self-possession, and then spoke the decisive words - 
+     to let her recover her self-possession, and then spoke the decisive words -
 
      "Marian! There is a weak place we both know of in Sir Percival's life - "
 
@@ -13124,7 +13137,7 @@
      asked Mrs. Clements to tell me first what had happened after she had left Limmeridge, and so, by watchful questioning,
      carried her on from point to point, till we reached the period of Anne's disappearance.
 
-     The substance of the information which I thus obtained was as follows: - 
+     The substance of the information which I thus obtained was as follows: -
 
      On leaving the farm at Todd's Corner, Mrs. Clements and Anne had travelled that day as far as Derby, and had remained
      there a week on Anne's account. They had then gone on to London, and had lived in the lodging occupied by Mrs. Clements
@@ -14357,7 +14370,7 @@
      divisions which separated them being indicated by ink lines drawn across the page at the close of each entry.
 
      I reached the beginning of the year eighteen hundred and four without encountering the marriage, and then travelled back
-     through December eighteen hundred and three - through November and October - through - 
+     through December eighteen hundred and three - through November and October - through -
 
      No! not through September also. Under the heading of that month in the year I found the marriage.
 
@@ -14574,7 +14587,7 @@
      before I ventured on opening the book.
 
      On the blank page at the beginning, to which I first turned, were traced some lines in faded ink. They contained these
-     words - 
+     words -
 
      "Copy of the Marriage Register of Welmingham Parish Church. Executed under my orders, and afterwards compared, entry by
      entry, with the original, by myself. (Signed) Robert Wansborough, vestry-clerk." Below this note there was a line added,
@@ -15126,7 +15139,7 @@
      I opened the letter. It was neither dated nor signed, and the handwriting was palpably disguised. Before I had read the
      first sentence, however, I knew who my correspondent was - Mrs. Catherick.
 
-     The letter ran as follows - I copy it exactly, word for word: - 
+     The letter ran as follows - I copy it exactly, word for word: -
 
 *** Chapter 2 The Story Continued by Mrs. Catherick
 
@@ -15358,7 +15371,7 @@
     directly," says she, "or I'll make it the worse for you. I'll let out your Secret. I can ruin you for life if I choose
     to open my lips." My own words! - repeated exactly from what I had said the day before - repeated, in his presence, as
     if they had come from herself. He sat speechless, as white as the paper I am writing on, while I pushed her out of the
-    room. When he recovered himself - 
+    room. When he recovered himself -
 
     No! I am too respectable a woman to mention what he said when he recovered himself. My pen is the pen of a member of the
     rector's congregation, and a subscriber to the "Wednesday Lectures on Justification by Faith" - how can you expect me to
@@ -15794,7 +15807,7 @@
      us.
 
      The idea in my mind when I wrote to him, and the nature of my inquiries will be easily inferred from his reply. His
-     letter answered my questions by communicating these important facts - 
+     letter answered my questions by communicating these important facts -
 
      In the first place, "the late Sir Percival Glyde, of Blackwater Park," had never set foot in Varneck Hall. The deceased
      gentleman was a total stranger to Major Donthorne, and to all his family.
@@ -16533,7 +16546,7 @@
      could have the slightest suspicion of what I intended to do.
 
      A letter addressed to Pesca represented the surest measure of precaution which it was now possible for me to take. I
-     wrote as follows - 
+     wrote as follows -
 
      "The man whom I pointed out to you at the Opera is a member of the Brotherhood, and has been false to his trust. Put
      both these assertions to the test instantly. You know the name he goes by in England. His address is No. 5 Forest Road,
@@ -16608,7 +16621,7 @@
      "Quite right, Marian. I want the cab - I am going out again."
 
      I descended the stairs as I spoke, and looked into the sitting-room to read the slip of paper by the light on the table.
-     It contained these two sentences in Pesca's handwriting - 
+     It contained these two sentences in Pesca's handwriting -
 
      "Your letter is received. If I don't see you before the time you mention, I will break the seal when the clock strikes."
 
@@ -17482,7 +17495,7 @@
      proprietor proved to be a civil and respectable man. When I explained that an important family matter obliged me to ask
      him to refer to his books for the purpose of ascertaining a date with which the record of his business transactions
      might supply me, he offered no objection to granting my request. The book was produced, and there, under the date of
-     "July 26th, 1850," the order was entered in these words - 
+     "July 26th, 1850," the order was entered in these words -
 
      "Brougham to Count Fosco, 5 Forest Road. Two o'clock. (John Owen)."
 

@@ -1,9 +1,10 @@
+#+TILE: The Master of the World
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#the-master-of-the-world][The Master of the World]]
   - [[#jules-verne][Jules Verne]]
   - [[#chapter-1-what-happened-in-the-mountains][Chapter 1 WHAT HAPPENED IN THE MOUNTAINS]]

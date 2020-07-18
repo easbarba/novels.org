@@ -1,9 +1,10 @@
+#+TILE: The Divine Comedy
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#the-divine-comedy][The Divine Comedy]]
   - [[#dante-alighieri][Dante Alighieri]]
   - [[#part-1---inferno][Part 1 - Inferno]]

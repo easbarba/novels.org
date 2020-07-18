@@ -1,3 +1,20 @@
+#+TILE: The Canterville Ghost
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#the-canterville-ghost][The Canterville Ghost]]
+  - [[#oscar-wilde][Oscar Wilde]]
+  - [[#chapter-1][Chapter 1]]
+  - [[#chapter-2][Chapter 2]]
+  - [[#chapter-3][Chapter 3]]
+  - [[#chapter-4][Chapter 4]]
+  - [[#chapter-5][Chapter 5]]
+  - [[#chapter-6][Chapter 6]]
+  - [[#chapter-7][Chapter 7]]
+:END:
 * The Canterville Ghost
 ** Oscar Wilde
    *Published:* 1887
@@ -292,7 +309,7 @@
    floor, the body assumed a recumbent posture, and he found himself clasping a white dimity bed-curtain, with a
    sweeping-brush, a kitchen cleaver, and a hollow turnip lying at his feet! Unable to understand this curious
    transformation, he clutched the placard with feverish haste, and there, in the grey morning light, he read these fearful
-   words: - 
+   words: -
 
    #+BEGIN_QUOTE
    YE OTIS GHOSTE.

@@ -1,9 +1,10 @@
+#+TILE: Heart of Darkness
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#heart-of-darkness][Heart of Darkness]]
   - [[#joseph-conrad][Joseph Conrad]]
   - [[#chapter-1][Chapter 1]]

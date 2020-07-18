@@ -1,9 +1,10 @@
+#+TILE: From the Earth to the Moon
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#from-the-earth-to-the-moon][From the Earth to the Moon]]
   - [[#jules-verne][Jules Verne]]
   - [[#chapter-1-the-gun-club][Chapter 1 The Gun Club]]

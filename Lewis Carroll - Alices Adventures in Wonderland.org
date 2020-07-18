@@ -1,3 +1,25 @@
+#+TILE: Alice's Adventures in Wonderland
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#alices-adventures-in-wonderland][Alice's Adventures in Wonderland]]
+  - [[#lewis-carroll][Lewis Carroll]]
+  - [[#chapter-1-down-the-rabbit-hole][Chapter 1 Down the Rabbit Hole]]
+  - [[#chapter-2-the-pool-of-tears][Chapter 2 The Pool of Tears]]
+  - [[#chapter-3-a-caucus-race-and-a-long-tale][Chapter 3 A Caucus-Race and a Long Tale]]
+  - [[#chapter-4-the-rabbit-sends-in-a-little-bill][Chapter 4 The Rabbit Sends in a Little Bill]]
+  - [[#chapter-5-advice-from-a-caterpillar][Chapter 5 Advice from a Caterpillar]]
+  - [[#chapter-6-pig-and-pepper][Chapter 6 Pig and Pepper]]
+  - [[#chapter-7-a-mad-tea-party][Chapter 7 A Mad Tea-Party]]
+  - [[#chapter-8-the-queens-croquet-ground][Chapter 8 The Queen's Croquet Ground]]
+  - [[#chapter-9-the-mock-turtles-story][Chapter 9 The Mock Turtle's Story]]
+  - [[#chapter-10-the-lobster-quadrille][Chapter 10 The Lobster-Quadrille]]
+  - [[#chapter-11-who-stole-the-tarts][Chapter 11 Who Stole the Tarts?]]
+  - [[#chapter-12-alices-evidence][Chapter 12 Alice's Evidence]]
+:END:
 * Alice's Adventures in Wonderland
 ** Lewis Carroll
    *Published:* 1897
@@ -204,7 +226,7 @@
    Paris, and Paris is the capital of Rome, and Rome - no, that's all wrong, I'm certain! I must have been changed for
    Mabel! I'll try and say ‘How doth the little - ',” and she crossed her hands on her lap, as if she were saying lessons,
    and began to repeat it, but her voice sounded hoarse and strange, and the words did not come the same as they used to
-   do: - 
+   do: -
 
    “How doth the little crocodile
 
@@ -397,7 +419,7 @@
    “Mine is a long and a sad tale!” said the Mouse, turning to Alice, and sighing.
 
    “It is a long tail, certainly,” said Alice, looking down with wonder at the Mouse's tail; “but why do you call it sad?”
-   And she kept on puzzling about it while the Mouse was speaking, so that her idea of the tale was something like this: - 
+   And she kept on puzzling about it while the Mouse was speaking, so that her idea of the tale was something like this: -
 
    “Fury said to a
 
@@ -777,13 +799,13 @@
 
    “Repeat, ‘You are old, Father William,' ” said the Caterpillar.
 
-   Alice folded her hands, and began: - 
+   Alice folded her hands, and began: -
 
    “You are old, Father William,” the young man said,
 
    ? “And your hair has become very white;
 
-   And yet you incessantly stand on your head - 
+   And yet you incessantly stand on your head -
 
    ? Do you think, at your age, it is right?”
 
@@ -799,7 +821,7 @@
 
    ? And have grown most uncommonly fat;
 
-   Yet you turned a back-somersault in at the door - 
+   Yet you turned a back-somersault in at the door -
 
    ? Pray, what is the reason of that?”
 
@@ -807,7 +829,7 @@
 
    ? “I kept all my limbs very supple
 
-   By the use of this ointment - one shilling the box - 
+   By the use of this ointment - one shilling the box -
 
    ? Allow me to sell you a couple?”
 
@@ -815,7 +837,7 @@
 
    ? For anything tougher than suet;
 
-   Yet you finished the goose, with the bones and the beak - 
+   Yet you finished the goose, with the bones and the beak -
 
    ? Pray, how did you manage to do it?”
 
@@ -831,7 +853,7 @@
 
    ? That your eye was as steady as ever;
 
-   Yet you balanced an eel on the end of your nose - 
+   Yet you balanced an eel on the end of your nose -
 
    ? What made you so awfully clever?”
 
@@ -1045,7 +1067,7 @@
    “It's a Cheshire-Cat,” said the Duchess, “and that's why. Pig!”
 
    She said the last word with such sudden violence that Alice quite jumped; but she saw in another moment that it was
-   addressed to the baby, and not to her, so she took courage, and went on again: - 
+   addressed to the baby, and not to her, so she took courage, and went on again: -
 
    “I didn't know that Cheshire-Cats always grinned; in fact, I didn't know that cats could grin.”
 
@@ -1077,7 +1099,7 @@
    soup, and seemed not to be listening, so she went on again: “Twenty-four hours, I think; or is it twelve? I -  - ”
 
    “Oh, don't bother me!” said the Duchess. “I never could abide figures!” And with that she began nursing her child again,
-   singing a sort of lullaby to it as she did so, and giving it a violent shake at the end of every line: - 
+   singing a sort of lullaby to it as she did so, and giving it a violent shake at the end of every line: -
 
    ? “Speak roughly to your little boy,
 
@@ -1089,12 +1111,12 @@
 
    CHORUS
 
-   (in which the cook and the baby joined): - 
+   (in which the cook and the baby joined): -
 
    ? “Wow! Wow! Wow!”
 
    While the Duchess sang the second verse of the song, she kept tossing the baby violently up and down, and the poor
-   little thing howled so, that Alice could hardly hear the words: - 
+   little thing howled so, that Alice could hardly hear the words: -
 
    ?
 
@@ -1351,7 +1373,7 @@
 
    “I've heard something like it,” said Alice.
 
-   “It goes on, you know,” the Hatter continued, “in this way: - 
+   “It goes on, you know,” the Hatter continued, “in this way: -
 
    "Up above the world you fly,
 
@@ -1871,7 +1893,7 @@
 
    “You ought to be ashamed of yourself for asking such a simple question,” added the Gryphon; and then they both sat
    silent and looked at poor Alice, who felt ready to sink into the earth. At last the Gryphon said to the Mock Turtle
-   “Drive on, old fellow! Don't be all day about it!”, and he went on in these words: - 
+   “Drive on, old fellow! Don't be all day about it!”, and he went on in these words: -
 
    “Yes, we went to school in the sea, though you mayn't believe it -  - ”
 
@@ -1953,7 +1975,7 @@
    The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He looked at Alice and tried to speak,
    but, for a minute or two, sobs choked his voice. “Same as if he had a bone in his throat,” said the Gryphon; and it set
    to work shaking him and punching him in the back. At last the Mock Turtle recovered his voice, and, with tears running
-   down his cheeks, he went on again: - 
+   down his cheeks, he went on again: -
 
    “You may not have lived much under the sea - ” (“I haven't,” said Alice) - “and perhaps you were never even introduced
    to a lobster - ” (Alice began to say “I once tasted -  - ” but checked herself hastily, and said “No, never”) “ -  - so
@@ -2004,7 +2026,7 @@
    “Oh, you sing,” said the Gryphon. “I've forgotten the words.”
 
    So they began solemnly dancing round and round Alice, every now and then treading on her toes when they passed too
-   close, and waving their fore-paws to mark the time, while the Mock Turtle sang this, very slowly and sadly: - 
+   close, and waving their fore-paws to mark the time, while the Mock Turtle sang this, very slowly and sadly: -
 
    “Will you walk a little faster?” said a whiting to a snail,
 
@@ -2022,7 +2044,7 @@
 
    When they take us up and throw us, with the lobsters, out to sea!”
 
-   But the snail replied “Too far, too far!”, and gave a look askance - 
+   But the snail replied “Too far, too far!”, and gave a look askance -
 
    Said he thanked the whiting kindly, but he would not join the dance.
 
@@ -2034,7 +2056,7 @@
 
    “There is another shore, you know, upon the other side.
 
-   The further off from England the nearer is to France - 
+   The further off from England the nearer is to France -
 
    Then turn not pale, beloved snail, but come and join the dance.
 
@@ -2119,7 +2141,7 @@
 
    “How the creatures order one about, and make one repeat lessons!” thought Alice; “I might as well be at school at once.”
    However, she got up, and began to repeat it, but her head was so full of the Lobster-Quadrille, that she hardly knew
-   what she was saying, and the words came very queer indeed: - 
+   what she was saying, and the words came very queer indeed: -
 
    “'Tis the voice of the Lobster: I heard him declare
 
@@ -2157,7 +2179,7 @@
 
    “Go on with the next verse,” the Gryphon repeated impatiently: “it begins ‘I passed by his garden.'”
 
-   Alice did not dare to disobey, though she felt sure it would all come wrong, and she went on in a trembling voice: - 
+   Alice did not dare to disobey, though she felt sure it would all come wrong, and she went on in a trembling voice: -
 
    “I passed by his garden, and marked, with one eye,
 
@@ -2188,7 +2210,7 @@
    “Oh, a song, please, if the Mock Turtle would be so kind,” Alice replied, so eagerly that the Gryphon said, in a rather
    offended tone, “Hm! No accounting for tastes! Sing her ‘Turtle Soup,' will you, old fellow?”
 
-   The Mock Turtle sighed deeply, and began, in a voice choked with sobs, to sing this: - 
+   The Mock Turtle sighed deeply, and began, in a voice choked with sobs, to sing this: -
 
    “Beautiful Soup, so rich and green,
 
@@ -2232,7 +2254,7 @@
    “Come on!” cried the Gryphon, and, taking Alice by the hand, it hurried off, without waiting for the end of the song.
 
    “What trial is it?” Alice panted as she ran; but the Gryphon only answered “Come on!” and ran the faster, while more and
-   more faintly came, carried on the breeze that followed them, the melancholy words: - 
+   more faintly came, carried on the breeze that followed them, the melancholy words: -
 
    “Soo - oop of the e - e - evening,
 
@@ -2282,7 +2304,7 @@
    “Herald, read the accusation!” said the King.
 
    On this the White Rabbit blew three blasts on the trumpet, and then unrolled the parchment-scroll, and read as
-   follows: - 
+   follows: -
 
    “The Queen of Hearts, she made some tarts,
 
@@ -2541,7 +2563,7 @@
 
    “Begin at the beginning,” the King said, very gravely, “and go on till you come to the end: then stop.”
 
-   There was dead silence in the court, whilst the White Rabbit read out these verses: - 
+   There was dead silence in the court, whilst the White Rabbit read out these verses: -
 
    “They told me you had been to her,
 
@@ -2651,7 +2673,7 @@
    off, thinking while she ran, as well she might, what a wonderful dream it had been.
 
    But her sister sat still just as she left her, leaning her head on her hand, watching the setting sun, and thinking of
-   little Alice and all her wonderful Adventures, till she too began dreaming after a fashion, and this was her dream: - 
+   little Alice and all her wonderful Adventures, till she too began dreaming after a fashion, and this was her dream: -
 
    First, she dreamed about little Alice herself: once again the tiny hands were clasped upon her knee, and the bright
    eager eyes were looking up into hers - she could hear the very tones of her voice, and see that queer little toss of her
@@ -2669,7 +2691,7 @@
    again, and all would change to dull reality - the grass would be only rustling in the wind, and the pool rippling to the
    waving of the reeds - the rattling teacups would change to tinkling sheep-bells, and the Queen's shrill cries to the
    voice of the shepherd boy - and the sneeze of the baby, the shriek of the Gryphon, and all the other queer noises, would
-   change (she knew) to the confused clamour of the busy farm-yard - 
+   change (she knew) to the confused clamour of the busy farm-yard -
    take the place of the Mock Turtle's heavy sobs.
 
    Lastly, she pictured to herself how this same little sister of hers would, in the after-time, be herself a grown woman;

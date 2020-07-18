@@ -1,3 +1,35 @@
+#+TILE: Twelve Years a Slave
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#twelve-years-a-slave][Twelve Years a Slave]]
+  - [[#solomon-northup][Solomon Northup]]
+  - [[#chapter-1][Chapter 1]]
+  - [[#chapter-2][Chapter 2]]
+  - [[#chapter-3][Chapter 3]]
+  - [[#chapter-4][Chapter 4]]
+  - [[#chapter-5][Chapter 5]]
+  - [[#chapter-6][Chapter 6]]
+  - [[#chapter-7][Chapter 7]]
+  - [[#chapter-8][Chapter 8]]
+  - [[#chapter-9][Chapter 9]]
+  - [[#chapter-10][Chapter 10]]
+  - [[#chapter-11][Chapter 11]]
+  - [[#chapter-12][Chapter 12]]
+  - [[#chapter-13][Chapter 13]]
+  - [[#chapter-14][Chapter 14]]
+  - [[#chapter-15][Chapter 15]]
+  - [[#chapter-16][Chapter 16]]
+  - [[#chapter-17][Chapter 17]]
+  - [[#chapter-18][Chapter 18]]
+  - [[#chapter-19][Chapter 19]]
+  - [[#chapter-20][Chapter 20]]
+  - [[#chapter-21][Chapter 21]]
+  - [[#chapter-22][Chapter 22]]
+:END:
 * Twelve Years a Slave
 ** Solomon Northup
    *Published:* 1853
@@ -1537,7 +1569,6 @@
    the pass, he plied the whip right smartly to the beast, dashed out of the yard, and turning up the bayou on a hard
    gallop, in less time than it has taken me to describe the scene, was out of sight.
 
-
 ** Chapter 9
 
 
@@ -1714,7 +1745,7 @@
    lashes. /That's/ Scripter!" and so Peter continued to elucidate the subject for a great length of time, much to the
    edification of his sable audience.
 
-   At the conclusion of the exercises, calling up three of his slaves, Warner, Will and Major or, he cried out to me - 
+   At the conclusion of the exercises, calling up three of his slaves, Warner, Will and Major or, he cried out to me -
 
    "Here, Platt, you held Tibeats by the legs; now I'll see if you can hold these rascals in the same way, till I get back
    from meetin'."
@@ -1737,7 +1768,7 @@
    the sun. Upon their promise to return to the stocks at any moment they were required to do so, I consented to release
    them. Grateful for the lenity shown them, and in order in some measure to repay it, they could do no less, of course,
    than pilot me to the melon-patch. Shortly before Tanner's return, they were in the stocks again. Finally he drove up,
-   and looking at the boys, said, with a chuckle, - 
+   and looking at the boys, said, with a chuckle, -
 
    "Aha! ye havn't been strolling about much to-day, any way. /I'll/ teach you what's what. /I'll/ tire ye of eating
    water-melons on the Lord's day, ye Sabbath-breaking niggers."
@@ -3812,7 +3843,7 @@
    Young Master Epps possessed some noble qualities, yet no process of reasoning could lead him to comprehend, that in the
    eye of the Almighty there is no distinction of color. He looked upon the black man simply as an animal, differing in no
    respect from any other animal, save in the gift of speech and the possession of somewhat higher instincts, and,
-   therefore, the more valuable. To work like his father's mules -  to be whipped and kicked and scourged through life - 
+   therefore, the more valuable. To work like his father's mules -  to be whipped and kicked and scourged through life -
    to address the white man with hat in hand, and eyes bent servilely on the earth, in his mind, was the natural and proper
    destiny of the slave. Brought up with such ideas - in the notion that we stand without the pale of humanity - no wonder
    the oppressors of my people are a pitiless and unrelenting race.
@@ -3924,7 +3955,7 @@
    throwing myself in his way, and endeavored constantly in every possible manner to attract his attention. In the early
    part of August he and myself were at work alone in the house, the other carpenters having left, and Epps being absent in
    the field. Now was the time, if ever, to broach the subject and I resolved to do it, and submit to whatever consequences
-   might ensue. We were busily at work in the afternoon, when I stopped suddenly and said - 
+   might ensue. We were busily at work in the afternoon, when I stopped suddenly and said -
 
    "Master Bass, I want to ask you what part of the country you came from?"
 
@@ -3975,7 +4006,7 @@
    forth pencil and paper and prepared for business. I gave him the names of William Perry, Cephas Parker and Judge Marvin,
    all of Saratoga Springs, Saratoga county, New-York. I had been employed by the latter in the United States Hotel, and
    had transacted business with the former to a considerable extent, and trusted that at least one of them would be still
-   living at that place. He carefully wrote the names, and then remarked, thoughtfully - 
+   living at that place. He carefully wrote the names, and then remarked, thoughtfully -
 
    "It is so many years since you left Saratoga, all these men may be dead, or may have removed. You say you obtained
    papers at the custom house in New-York. Probably there is a record of them there, and I think it would be well to write
@@ -4487,7 +4518,7 @@ one to write for me until now; and he that is writing for me runs the risk of hi
    associations of childhood and youth; all the friends of other and happier days, appeared and disappeared, flitting and
    floating like dissolving shadows before the vision of my imagination, until at last the perfect memory of the man
    recurred to me, and throwing up my hands towards Heaven, I exclaimed, in a voice louder than I could utter in a less
-   exciting moment - 
+   exciting moment -
 
    "/Henry B. Northup!/ Thank God - thank God!"
 
@@ -4724,7 +4755,7 @@ one to write for me until now; and he that is writing for me runs the risk of hi
    Benjamin O. Shekels was then offered as a witness by the prisoner. Benjamin is a large, coarse-featured man, and the
    reader may perhaps get a somewhat correct conception of him by reading the exact language he used in answer to the first
    question of defendant's lawyer. He was asked the place of his nativity, and his reply, uttered in a sort of rowdyish
-   way, was in these very words - 
+   way, was in these very words -
 
    "I was born in Ontario county, New-York, and /weighed fourteen pounds!/"
 

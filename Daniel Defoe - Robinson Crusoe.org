@@ -1,9 +1,10 @@
+#+TILE: Robinson Crusoe
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#robinson-crusoe][Robinson Crusoe]]
   - [[#daniel-defoe][Daniel Defoe]]
   - [[#chapter-1-start-in-life][Chapter 1 Start in Life]]

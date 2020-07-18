@@ -1,3 +1,45 @@
+#+TILE: The Story Girl
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#the-story-girl][The Story Girl]]
+  - [[#lucy-maud-montgomery][Lucy Maud Montgomery]]
+  - [[#chapter-1-the-home-of-our-fathers][Chapter 1 The home of our fathers]]
+  - [[#chapter-2-a-queen-of-hearts][Chapter 2 A queen of hearts]]
+  - [[#chapter-3-legends-of-the-old-orchard][Chapter 3 Legends of the old orchard]]
+  - [[#chapter-4-the-wedding-veil-of-the-proud-princess][Chapter 4 The wedding veil of the proud princess]]
+  - [[#chapter-5-peter-goes-to-church][Chapter 5 Peter goes to church]]
+  - [[#chapter-6-the-mystery-of-golden-milestone][Chapter 6 The mystery of golden milestone]]
+  - [[#chapter-7-how-betty-sherman-won-a-husband][Chapter 7 How Betty Sherman won a husband]]
+  - [[#chapter-8-a-tragedy-of-childhood][Chapter 8 A tragedy of childhood]]
+  - [[#chapter-9-magic-seed][Chapter 9 Magic seed]]
+  - [[#chapter-10-a-daughter-of-eve][Chapter 10 A Daughter of Eve]]
+  - [[#chapter-11-the-story-girl-does-penance][Chapter 11 The Story Girl does penance]]
+  - [[#chapter-12-the-blue-chest-of-rachel-ward][Chapter 12 The blue chest of Rachel Ward]]
+  - [[#chapter-13-an-old-proverb-with-a-new-meaning][Chapter 13 An old proverb with a new meaning]]
+  - [[#chapter-14-forbidden-fruit][Chapter 14 Forbidden fruit]]
+  - [[#chapter-15-a-disobedient-brother][Chapter 15 A disobedient brother]]
+  - [[#chapter-16-the-ghostly-bell][Chapter 16 The ghostly bell]]
+  - [[#chapter-17-the-proof-of-the-pudding][Chapter 17 The proof of the pudding]]
+  - [[#chapter-18-how-kissing-was-discovered][Chapter 18 How kissing was discovered]]
+  - [[#chapter-19-a-dread-prophecy][Chapter 19 A dread prophecy]]
+  - [[#chapter-20-the-judgment-sunday][Chapter 20 The judgment sunday]]
+  - [[#chapter-21-dreamers-of-dreams][Chapter 21 Dreamers of dreams]]
+  - [[#chapter-22-the-dream-books][Chapter 22 The dream books]]
+  - [[#chapter-23-such-stuff-as-dreams-are-made-on][Chapter 23 Such stuff as dreams are made on]]
+  - [[#chapter-24-the-bewitchment-of-pat][Chapter 24 The bewitchment of Pat]]
+  - [[#chapter-25-a-cup-of-failure][Chapter 25 A cup of failure]]
+  - [[#chapter-26-peter-makes-an-impression][Chapter 26 Peter makes an impression]]
+  - [[#chapter-27-the-ordeal-of-bitter-apples][Chapter 27 The ordeal of bitter apples]]
+  - [[#chapter-28-the-tale-of-the-rainbow-bridge][Chapter 28 The tale of the rainbow bridge]]
+  - [[#chapter-29-the-shadow-feared-of-man][Chapter 29 The shadow feared of man]]
+  - [[#chapter-30-a-compound-letter][Chapter 30 A compound letter]]
+  - [[#chapter-31-on-the-edge-of-light-and-dark][Chapter 31 On the edge of light and dark]]
+  - [[#chapter-32-the-opening-of-the-blue-chest][Chapter 32 The opening of the blue chest]]
+:END:
 * The Story Girl
 ** Lucy Maud Montgomery
    *Published:* 1911
@@ -798,7 +840,7 @@
    urged her to choose one of them as her husband she drew herself up haughtily - so - "
 
    The Story Girl sprang to her feet and for a moment we saw the proud princess of the old tale in all her scornful
-   loveliness - 
+   loveliness -
 
    "and she said,
 
@@ -2532,7 +2574,7 @@
 
    "Mother says she was awful sentimental and romantic," interjected Felicity.
 
-   "Well, anyway, she met Will Montague that winter. He was handsome - everybody says so" - 
+   "Well, anyway, she met Will Montague that winter. He was handsome - everybody says so" -
 
    "And an awful flirt," said Felicity.
 
@@ -2731,7 +2773,7 @@
    were getting serious. Uncle Roger and Peter were summoned from the field. Mrs. Patterson became hysterical, and was
    taken into the spare room with such remedies as could be suggested. Everybody blamed poor Dan. Cecily asked him what he
    would feel like if Jimmy was never, never found. The Story Girl had a gruesome recollection of some baby at Markdale who
-   had wandered away like that - 
+   had wandered away like that -
 
    "And they never found him till the next spring, and all they found was - HIS SKELETON, with the grass growing through
    it," she whispered.
@@ -3341,7 +3383,7 @@
    Uncle Alec's tree?"
 
    We peered fearfully through the gloom. There WAS something - something that wavered and
-   fluttered - advanced - retreated - 
+   fluttered - advanced - retreated -
 
    "That's only my old apron," said Felicity. "I hung it there to-day when I was looking for the white hen's nest. Oh, what
    shall we do? Uncle Roger may not be back for hours. I CAN'T believe there's anything in the house."
@@ -4795,7 +4837,7 @@
    such a dream. And I don't want to offend Fel - any of them."
 
    So Peter never told that dream, nor did he write it down. Instead, I remember seeing in his dream book, under the date
-   of September fifteenth, an entry to this effect: - 
+   of September fifteenth, an entry to this effect: -
 
    "Last nite i dremed a drem. it wasent a polit drem so i won't rite it down."
 

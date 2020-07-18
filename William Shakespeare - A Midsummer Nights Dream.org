@@ -1,3 +1,18 @@
+#+TILE: A Midsummer Night's Dream
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#a-midsummer-nights-dream][A Midsummer Night's Dream]]
+  - [[#william-shakespeare][William Shakespeare]]
+  - [[#act-i][Act I]]
+  - [[#act-ii][Act II]]
+  - [[#act-iii][Act III]]
+  - [[#act-iv][Act IV]]
+  - [[#act-v][Act V]]
+:END:
 * A Midsummer Night's Dream
 ** William Shakespeare
    *Published:* 1596
@@ -200,9 +215,9 @@
      *THESEUS*
 
      #+BEGIN_QUOTE
-     Take time to pause; and, by the nest new moon - 
+     Take time to pause; and, by the nest new moon -
      The sealing-day betwixt my love and me,
-     For everlasting bond of fellowship - 
+     For everlasting bond of fellowship -
      Upon that day either prepare to die
      For disobedience to your father's will,
      Or else to wed Demetrius, as he would;
@@ -261,8 +276,8 @@
      I have some private schooling for you both.
      For you, fair Hermia, look you arm yourself
      To fit your fancies to your father's will;
-     Or else the law of Athens yields you up - 
-     Which by no means we may extenuate - 
+     Or else the law of Athens yields you up -
+     Which by no means we may extenuate -
      To death, or to a vow of single life.
      Come, my Hippolyta: what cheer, my love?
      Demetrius and Egeus, go along:
@@ -299,7 +314,7 @@
      Ay me! for aught that I could ever read,
      Could ever hear by tale or history,
      The course of true love never did run smooth;
-     But, either it was different in blood, - 
+     But, either it was different in blood, -
      #+END_QUOTE
 
      *HERMIA*
@@ -311,7 +326,7 @@
      *LYSANDER*
 
      #+BEGIN_QUOTE
-     Or else misgraffed in respect of years, - 
+     Or else misgraffed in respect of years, -
      #+END_QUOTE
 
      *HERMIA*
@@ -323,7 +338,7 @@
      *LYSANDER*
 
      #+BEGIN_QUOTE
-     Or else it stood upon the choice of friends, - 
+     Or else it stood upon the choice of friends, -
      #+END_QUOTE
 
      *HERMIA*
@@ -1078,7 +1093,7 @@
      When we have laugh'd to see the sails conceive
      And grow big-bellied with the wanton wind;
      Which she, with pretty and with swimming gait
-     Following, - her womb then rich with my young squire, - 
+     Following, - her womb then rich with my young squire, -
      Would imitate, and sail upon the land,
      To fetch me trifles, and return again,
      As from a voyage, rich with merchandise.
@@ -1228,8 +1243,8 @@
      Use me but as your spaniel, spurn me, strike me,
      Neglect me, lose me; only give me leave,
      Unworthy as I am, to follow you.
-     What worser place can I beg in your love, - 
-     And yet a place of high respect with me, - 
+     What worser place can I beg in your love, -
+     And yet a place of high respect with me, -
      Than to be used as you use your dog?
      #+END_QUOTE
 
@@ -1692,7 +1707,7 @@
      *BOTTOM*
 
      #+BEGIN_QUOTE
-     Peter Quince, - 
+     Peter Quince, -
      #+END_QUOTE
 
      *QUINCE*
@@ -1882,7 +1897,7 @@
      *BOTTOM*
 
      #+BEGIN_QUOTE
-     Thisby, the flowers of odious savours sweet, - 
+     Thisby, the flowers of odious savours sweet, -
      #+END_QUOTE
 
      *QUINCE*
@@ -2028,7 +2043,7 @@
      The ousel cock so black of hue,
      With orange-tawny bill,
      The throstle with his note so true,
-     The wren with little quill, - 
+     The wren with little quill, -
      #+END_QUOTE
 
      *TITANIA*
@@ -2044,7 +2059,7 @@
      The finch, the sparrow and the lark,
      The plain-song cuckoo gray,
      Whose note full many a man doth mark,
-     And dares not answer nay; - 
+     And dares not answer nay; -
      for, indeed, who would set his wit to so foolish
      a bird? who would give a bird the lie, though he cry
      'cuckoo' never so?
@@ -2303,7 +2318,7 @@
      *PUCK*
 
      #+BEGIN_QUOTE
-     I took him sleeping, - that is finish'd too, - 
+     I took him sleeping, - that is finish'd too, -
      And the Athenian woman by his side:
      That, when he waked, of force she must be eyed.
 
@@ -2826,7 +2841,7 @@
 
      #+BEGIN_QUOTE
      Why are you grown so rude? what change is this?
-     Sweet love, - 
+     Sweet love, -
      #+END_QUOTE
 
      *LYSANDER*
@@ -2877,7 +2892,7 @@
      I am as fair now as I was erewhile.
      Since night you loved me; yet since night you left
      me:
-     Why, then you left me - O, the gods forbid! - 
+     Why, then you left me - O, the gods forbid! -
      In earnest, shall I say?
      #+END_QUOTE
 
@@ -3714,7 +3729,7 @@
      Half sleep, half waking: but as yet, I swear,
      I cannot truly say how I came here;
      But, as I think, - for truly would I speak,
-     And now do I bethink me, so it is, - 
+     And now do I bethink me, so it is, -
      I came with Hermia hither: our intent
      Was to be gone from Athens, where we might,
      Without the peril of the Athenian law.
@@ -3738,7 +3753,7 @@
      Of this their purpose hither to this wood;
      And I in fury hither follow'd them,
      Fair Helena in fancy following me.
-     But, my good lord, I wot not by what power, - 
+     But, my good lord, I wot not by what power, -
      But by some power it is, - my love to Hermia,
      Melted as the snow, seems to me now
      As the remembrance of an idle gaud
@@ -4569,7 +4584,7 @@
      *Moonshine*
 
      #+BEGIN_QUOTE
-     This lanthorn doth the horned moon present; - 
+     This lanthorn doth the horned moon present; -
      #+END_QUOTE
 
      *DEMETRIUS*
@@ -4653,7 +4668,7 @@
      *Lion*
 
      #+BEGIN_QUOTE
-     [Roaring] Oh - 
+     [Roaring] Oh -
 
      /Thisbe runs off/
      #+END_QUOTE
@@ -4822,7 +4837,7 @@
      *DEMETRIUS*
 
      #+BEGIN_QUOTE
-     And thus she means, videlicet: - 
+     And thus she means, videlicet: -
      #+END_QUOTE
 
      *Thisbe*

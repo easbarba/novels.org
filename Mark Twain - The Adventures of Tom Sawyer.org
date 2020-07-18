@@ -1,3 +1,49 @@
+#+TILE: The Adventures of Tom Sawyer
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#the-adventures-of-tom-sawyer][The Adventures of Tom Sawyer]]
+  - [[#mark-twain][Mark Twain]]
+  - [[#chapter-1][Chapter 1]]
+  - [[#chapter-2][Chapter 2]]
+  - [[#chapter-3][Chapter 3]]
+  - [[#chapter-4][Chapter 4]]
+  - [[#chapter-5][Chapter 5]]
+  - [[#chapter-6][Chapter 6]]
+  - [[#chapter-7][Chapter 7]]
+  - [[#chapter-8][Chapter 8]]
+  - [[#chapter-9][Chapter 9]]
+  - [[#chapter-10][Chapter 10]]
+  - [[#chapter-11][Chapter 11]]
+  - [[#chapter-12][Chapter 12]]
+  - [[#chapter-13][Chapter 13]]
+  - [[#chapter-14][Chapter 14]]
+  - [[#chapter-15][Chapter 15]]
+  - [[#chapter-16][Chapter 16]]
+  - [[#chapter-17][Chapter 17]]
+  - [[#chapter-18][Chapter 18]]
+  - [[#chapter-19][Chapter 19]]
+  - [[#chapter-20][Chapter 20]]
+  - [[#chapter-21][Chapter 21]]
+  - [[#chapter-22][Chapter 22]]
+  - [[#chapter-23][Chapter 23]]
+  - [[#chapter-24][Chapter 24]]
+  - [[#chapter-25][Chapter 25]]
+  - [[#chapter-26][Chapter 26]]
+  - [[#chapter-27][Chapter 27]]
+  - [[#chapter-28][Chapter 28]]
+  - [[#chapter-29][Chapter 29]]
+  - [[#chapter-30][Chapter 30]]
+  - [[#chapter-31][Chapter 31]]
+  - [[#chapter-32][Chapter 32]]
+  - [[#chapter-33][Chapter 33]]
+  - [[#chapter-34][Chapter 34]]
+  - [[#chapter-35][Chapter 35]]
+  - [[#chapter-36][Chapter 36]]
+:END:
 * The Adventures of Tom Sawyer
 ** Mark Twain
    *Published:* 1876
@@ -73,7 +119,7 @@
    "Well, I know. It's jam  -  that's what it is. Forty times I've said if you didn't let that jam alone I'd skin you. Hand
    me that switch."
 
-   The switch hovered in the air  -  the peril was desperate  - 
+   The switch hovered in the air  -  the peril was desperate  -
 
    "My! Look behind you, aunt!"
 
@@ -166,7 +212,7 @@
    undisturbed. It consisted in a peculiar bird-like turn, a sort of liquid warble, produced by touching the tongue to the
    roof of the mouth at short intervals in the midst of the music  -  the reader probably remembers how to do it, if he has
    ever been a boy. Diligence and attention soon gave him the knack of it, and he strode down the street with his mouth
-   full of harmony and his soul full of gratitude. He felt much as an astronomer feels who has discovered a new planet  - 
+   full of harmony and his soul full of gratitude. He felt much as an astronomer feels who has discovered a new planet  -
    no doubt, as far as strong, deep, unalloyed pleasure is concerned, the advantage was with the boy, not the astronomer.
 
    The summer evenings were long. It was not dark, yet. Presently Tom checked his whistle. A stranger was before him  -  a
@@ -330,7 +376,7 @@
    singing Buffalo Gals. Bringing water from the town pump had always been hateful work in Tom's eyes, before, but now it
    did not strike him so. He remembered that there was company at the pump. White, mulatto, and negro boys and girls were
    always there waiting their turns, resting, trading playthings, quarrelling, fighting, skylarking. And he remembered that
-   although the pump was only a hundred and fifty yards off, Jim never got back with a bucket of water under an hour  - 
+   although the pump was only a hundred and fifty yards off, Jim never got back with a bucket of water under an hour  -
    and even then somebody generally had to go after him. Tom said:
 
    "Say, Jim, I'll fetch the water if you'll whitewash some."
@@ -390,7 +436,7 @@
    "Let her go back on the labboard! Ting-a-ling-ling! Chow-ch-chow-chow!" The left hand began to describe circles.
 
    "Stop the stabboard! Ting-a-ling-ling! Stop the labboard! Come ahead on the stabboard! Stop her! Let your outside turn
-   over slow! Ting-a-ling-ling! Chow-ow-ow! Get out that head-line! Lively now! Come  -  out with your spring-line  - 
+   over slow! Ting-a-ling-ling! Chow-ow-ow! Get out that head-line! Lively now! Come  -  out with your spring-line  -
    what're you about there! Take a turn round that stump with the bight of it! Stand by that stage, now  -  let her go!
    Done with the engines, sir! Ting-a-ling-ling! Sh't! S'h't! Sh't!" (trying the gauge-cocks).
 
@@ -426,7 +472,7 @@
 
    "Like it? Well, I don't see why I oughtn't to like it. Does a boy get a chance to whitewash a fence every day?"
 
-   That put the thing in a new light. Ben stopped nibbling his apple. Tom swept his brush daintily back and forth  - 
+   That put the thing in a new light. Ben stopped nibbling his apple. Tom swept his brush daintily back and forth  -
    stepped back to note the effect  -  added a touch here and there  -  criticised the effect again  -  Ben watching every
    move and getting more and more interested, more and more absorbed. Presently he said:
 
@@ -641,7 +687,7 @@
 
    "Blessed are the  -  a  -  a  - "
 
-   "Poor"  - 
+   "Poor"  -
 
    "Yes  -  poor; blessed are the poor  -  a  -  a  - "
 
@@ -664,7 +710,7 @@
 
    "Shall!"
 
-   "Oh, shall! for they shall  -  for they shall  -  a  -  a  -  shall mourn  -  a -  a  -  blessed are they that shall  - 
+   "Oh, shall! for they shall  -  for they shall  -  a  -  a  -  shall mourn  -  a -  a  -  blessed are they that shall  -
    they that  -  a  -  they that shall mourn, for they shall  -  a  -  shall What? Why don't you tell me, Mary?  -  what do
    you want to be so mean for?"
 
@@ -793,7 +839,7 @@
    over it now.
 
    The visitors were given the highest seat of honor, and as soon as Mr. Walters' speech was finished, he introduced them
-   to the school. The middle-aged man turned out to be a prodigious personage  -  no less a one than the county judge  - 
+   to the school. The middle-aged man turned out to be a prodigious personage  -  no less a one than the county judge  -
    altogether the most august creation these children had ever looked upon  -  and they wondered what kind of material he
    was made of  -  and they half wanted to hear him roar, and were half afraid he might, too. He was from Constantinople,
    twelve miles away  -  so he had travelled, and seen the world  -  these very eyes had looked upon the county court-house
@@ -806,7 +852,7 @@
    with him! By jings, don't you wish you was Jeff?"
 
    Mr. Walters fell to "showing off," with all sorts of official bustlings and activities, giving orders, delivering
-   judgments, discharging directions here, there, everywhere that he could find a target. The librarian "showed off"  - 
+   judgments, discharging directions here, there, everywhere that he could find a target. The librarian "showed off"  -
    running hither and thither with his arms full of books and making a deal of the splutter and fuss that insect authority
    delights in. The young lady teachers "showed off"  -  bending sweetly over pupils that were lately being boxed, lifting
    pretty warning fingers at bad little boys and patting good ones lovingly. The young gentlemen teachers "showed off" with
@@ -863,7 +909,7 @@
    "That's it! That's a good boy. Fine boy. Fine, manly little fellow. Two thousand verses is a great many  -  very, very
    great many. And you never can be sorry for the trouble you took to learn them; for knowledge is worth more than anything
    there is in the world; it's what makes great men and good men; you'll be a great man and a good man yourself, some day,
-   Thomas, and then you'll look back and say, It's all owing to the precious Sunday-school privileges of my boyhood  - 
+   Thomas, and then you'll look back and say, It's all owing to the precious Sunday-school privileges of my boyhood  -
    it's all owing to my dear teachers that taught me to learn  -  it's all owing to the good superintendent, who encouraged
    me, and watched over me, and gave me a beautiful Bible  -  a splendid elegant Bible  -  to keep and have it all for my
    own, always  -  it's all owing to right bringing up! That is what you will say, Thomas  -  and you wouldn't take any
@@ -1643,7 +1689,7 @@
    thought, to lie and slumber and dream forever and ever, with the wind whispering through the trees and caressing the
    grass and the flowers over the grave, and nothing to bother and grieve about, ever any more. If he only had a clean
    Sunday-school record he could be willing to go, and be done with it all. Now as to this girl. What had he done? Nothing.
-   He had meant the best in the world, and been treated like a dog  -  like a very dog. She would be sorry some day  - 
+   He had meant the best in the world, and been treated like a dog  -  like a very dog. She would be sorry some day  -
    maybe when it was too late. Ah, if he could only die temporarily!
 
    But the elastic heart of youth cannot be compressed into one constrained shape long at a time. Tom presently began to
@@ -1687,7 +1733,7 @@
    occur to him that he had tried it several times before, himself, but could never find the hiding-places afterward. He
    puzzled over the matter some time, and finally decided that some witch had interfered and broken the charm. He thought
    he would satisfy himself on that point; so he searched around till he found a small sandy spot with a little
-   funnel-shaped depression in it. He laid himself down and put his mouth close to this depression and called  - 
+   funnel-shaped depression in it. He laid himself down and put his mouth close to this depression and called  -
 
    "Doodle-bug, doodle-bug, tell me what I want to know! Doodle-bug, doodle-bug, tell me what I want to know!"
 
@@ -1868,7 +1914,7 @@
 
    "No  -  'tain't so, is it?"
 
-   "I bet I know it. Don't you stir nor budge. He ain't sharp enough to notice us. Drunk, the same as usual, likely  - 
+   "I bet I know it. Don't you stir nor budge. He ain't sharp enough to notice us. Drunk, the same as usual, likely  -
    blamed old rip!"
 
    "All right, I'll keep still. Now they're stuck. Can't find it. Here they come again. Now they're hot. Cold again. Hot
@@ -2028,7 +2074,7 @@
    "Hucky, you sure you can keep mum?"
 
    "Tom, we got to keep mum. You know that. That Injun devil wouldn't make any more of drownding us than a couple of cats,
-   if we was to squeak 'bout this and they didn't hang him. Now, look-a-here, Tom, less take and swear to one another  - 
+   if we was to squeak 'bout this and they didn't hang him. Now, look-a-here, Tom, less take and swear to one another  -
    that's what we got to do  -  swear to keep mum."
 
    "I'm agreed. It's the best thing. Would you just hold hands and swear that we  - "
@@ -2495,7 +2541,7 @@
    inhabited; it lay far over toward the further shore, abreast a dense and almost wholly unpeopled forest. So Jackson's
    Island was chosen. Who were to be the subjects of their piracies was a matter that did not occur to them. Then they
    hunted up Huckleberry Finn, and he joined them promptly, for all careers were one to him; he was indifferent. They
-   presently separated to meet at a lonely spot on the river-bank two miles above the village at the favorite hour  - 
+   presently separated to meet at a lonely spot on the river-bank two miles above the village at the favorite hour  -
    which was midnight. There was a small log raft there which they meant to capture. Each would bring hooks and lines, and
    such provision as he could steal in the most dark and mysterious way  -  as became outlaws. And before the afternoon was
    done, they had all managed to enjoy the sweet glory of spreading the fact that pretty soon the town would "hear
@@ -2671,7 +2717,7 @@
    wrong to run away; and next they thought of the stolen meat, and then the real torture came. They tried to argue it away
    by reminding conscience that they had purloined sweetmeats and apples scores of times; but conscience was not to be
    appeased by such thin plausibilities; it seemed to them, in the end, that there was no getting around the stubborn fact
-   that taking sweetmeats was only "hooking," while taking bacon and hams and such valuables was plain simple stealing  - 
+   that taking sweetmeats was only "hooking," while taking bacon and hams and such valuables was plain simple stealing  -
    and there was a command against that in the Bible. So they inwardly resolved that so long as they remained in the
    business, their piracies should not again be sullied with the crime of stealing. Then conscience granted a truce, and
    these curiously inconsistent pirates fell peacefully to sleep.
@@ -2802,7 +2848,7 @@
    their minds evidently wandering elsewhere. The excitement was gone, now, and Tom and Joe could not keep back thoughts of
    certain persons at home who were not enjoying this fine frolic as much as they were. Misgivings came; they grew troubled
    and unhappy; a sigh or two escaped, unawares. By and by Joe timidly ventured upon a roundabout "feeler" as to how the
-   others might look upon a return to civilization  -  not right now, but  - 
+   others might look upon a return to civilization  -  not right now, but  -
 
    Tom withered him with derision! Huck, being uncommitted as yet, joined in with Tom, and the waverer quickly "explained,"
    and was glad to get out of the scrape with as little taint of chicken-hearted homesickness clinging to his garments as
@@ -3201,7 +3247,7 @@
    girls  -  playmates of Tom's and Joe's  -  came by, and stood looking over the paling fence and talking in reverent
    tones of how Tom did so-and-so the last time they saw him, and how Joe said this and that small trifle (pregnant with
    awful prophecy, as they could easily see now!)  -  and each speaker pointed out the exact spot where the lost lads stood
-   at the time, and then added something like "and I was a-standing just so  -  just as I am now, and as if you was him  - 
+   at the time, and then added something like "and I was a-standing just so  -  just as I am now, and as if you was him  -
    I was as close as that  -  and he smiled, just this way  -  and then something seemed to go all over me, like  -  awful,
    you know  -  and I never thought what it meant, of course, but I can see now!"
 
@@ -3616,7 +3662,7 @@
    light-hearted and happy again. He started to school and had the luck of coming upon Becky Thatcher at the head of Meadow
    Lane. His mood always determined his manner. Without a moment's hesitation he ran to her and said:
 
-   "I acted mighty mean to-day, Becky, and I'm so sorry. I won't ever, ever do that way again, as long as ever I live  - 
+   "I acted mighty mean to-day, Becky, and I'm so sorry. I won't ever, ever do that way again, as long as ever I live  -
    please make up, won't you?"
 
    The girl stopped and looked him scornfully in the face:
@@ -3736,7 +3782,7 @@
 
    Tom went to bed that night planning vengeance against Alfred Temple; for with shame and repentance Becky had told him
    all, not forgetting her own treachery; but even the longing for vengeance had to give way, soon, to pleasanter musings,
-   and he fell asleep at last with Becky's latest words lingering dreamily in his ear  - 
+   and he fell asleep at last with Becky's latest words lingering dreamily in his ear  -
 
    "Tom, how could you be so noble!"
 
@@ -3907,7 +3953,7 @@
 
 
    Tom joined the new order of Cadets of Temperance, being attracted by the showy character of their "regalia." He promised
-   to abstain from smoking, chewing, and profanity as long as he remained a member. Now he found out a new thing  - 
+   to abstain from smoking, chewing, and profanity as long as he remained a member. Now he found out a new thing  -
    namely, that to promise not to do a thing is the surest way in the world to make a body want to go and do that very
    thing. Tom soon found himself tormented with a desire to drink and swear; the desire grew to be so intense that nothing
    but the hope of a chance to display himself in his red sash kept him from withdrawing from the order. Fourth of July was
@@ -4060,7 +4106,7 @@
    me. But what I want to say, is, don't you ever get drunk  -  then you won't ever get here. Stand a litter furder west
    -  so  -  that's it; it's a prime comfort to see faces that's friendly when a body's in such a muck of trouble, and
    there don't none come here but yourn. Good friendly faces  -  good friendly faces. Git up on one another's backs and let
-   me touch 'em. That's it. Shake hands  -  yourn'll come through the bars, but mine's too big. Little hands, and weak  - 
+   me touch 'em. That's it. Shake hands  -  yourn'll come through the bars, but mine's too big. Little hands, and weak  -
    but they've helped Muff Potter a power, and they'd help him more if they could."
 
    Tom went home miserable, and his dreams that night were full of horrors. The next day and the day after, he hung about
@@ -4173,7 +4219,7 @@
 
    There was a ripple of mirth, which the court checked.
 
-   "We will produce the skeleton of that cat. Now, my boy, tell us everything that occurred  -  tell it in your own way  - 
+   "We will produce the skeleton of that cat. Now, my boy, tell us everything that occurred  -  tell it in your own way  -
    don't skip anything, and don't be afraid."
 
    Tom began  -  hesitatingly at first, but as he warmed to his subject his words flowed more and more easily; in a little
@@ -4487,7 +4533,7 @@
    About noon the next day the boys arrived at the dead tree; they had come for their tools. Tom was impatient to go to the
    haunted house; Huck was measurably so, also  -  but suddenly said: "Lookyhere, Tom, do you know what day it is?"
 
-   Tom mentally ran over the days of the week, and then quickly lifted his eyes with a startled look in them  - 
+   Tom mentally ran over the days of the week, and then quickly lifted his eyes with a startled look in them  -
 
    "My! I never once thought of it, Huck!"
 
@@ -4554,7 +4600,7 @@
    cutting off retreat, but they got to daring each other, and of course there could be but one result  -  they threw their
    tools into a corner and made the ascent. Up there were the same signs of decay. In one corner they found a closet that
    promised mystery, but the promise was a fraud  -  there was nothing in it. Their courage was up now and well in hand.
-   They were about to go down and begin work when  - 
+   They were about to go down and begin work when  -
 
    "Sh!" said Tom.
 
@@ -4664,7 +4710,7 @@
    "Half-rotten plank  -  no, it's a box, I believe. Here  -  bear a hand and we'll see what it's here for. Never mind,
    I've broke a hole."
 
-   He reached his hand in and drew it out  - 
+   He reached his hand in and drew it out  -
 
    "Man, it's money!"
 
@@ -4699,7 +4745,7 @@
 
    "Yes. [Ravishing delight overhead.] No! by the great Sachem, no! [Profound distress overhead.] I'd nearly forgot. That
    pick had fresh earth on it! [The boys were sick with terror in a moment.] What business has a pick and a shovel here?
-   What business with fresh earth on them? Who brought them here  -  and where are they gone? Have you heard anybody?  - 
+   What business with fresh earth on them? Who brought them here  -  and where are they gone? Have you heard anybody?  -
    seen anybody? What! bury it again and leave them to come and see the ground disturbed? Not exactly  -  not exactly.
    We'll take it to my den."
 
@@ -4742,7 +4788,7 @@
 
    "Oh, don't!" said Huck, nearly fainting.
 
-   They talked it all over, and as they entered town they agreed to believe that he might possibly mean somebody else  - 
+   They talked it all over, and as they entered town they agreed to believe that he might possibly mean somebody else  -
    at least that he might at least mean nobody but Tom, since only Tom had testified.
 
    Very, very small comfort it was to Tom to be alone in danger! Company would be a palpable improvement, he thought.
@@ -5019,7 +5065,7 @@
    ten feet wide. Every few steps other lofty and still narrower crevices branched from it on either hand  -  for
    McDougal's cave was but a vast labyrinth of crooked aisles that ran into each other and out again and led nowhere. It
    was said that one might wander days and nights together through its intricate tangle of rifts and chasms, and never find
-   the end of the cave; and that he might go down, and down, and still down, into the earth, and it was just the same  - 
+   the end of the cave; and that he might go down, and down, and still down, into the earth, and it was just the same  -
    labyrinth under labyrinth, and no end to any of them. No man "knew" the cave. That was an impossible thing. Most of the
    young men knew a portion of it, and it was not customary to venture much beyond this known portion. Tom Sawyer knew as
    much of the cave as any one.
@@ -5075,7 +5121,7 @@
    then, was the "revenge" job! His thought was, to fly. Then he remembered that the Widow Douglas had been kind to him
    more than once, and maybe these men were going to murder her. He wished he dared venture to warn her; but he knew he
    didn't dare  -  they might come and catch him. He thought all this and more in the moment that elapsed between the
-   stranger's remark and Injun Joe's next  -  which was  - 
+   stranger's remark and Injun Joe's next  -  which was  -
 
    "Because the bush is in your way. Now  -  this way  -  now you see, don't you?"
 
@@ -5096,7 +5142,7 @@
    "By God, that's  - "
 
    "Keep your opinion to yourself! It will be safest for you. I'll tie her to the bed. If she bleeds to death, is that my
-   fault? I'll not cry, if she does. My friend, you'll help me in this thing  -  for my sake  -  that's why you're here  - 
+   fault? I'll not cry, if she does. My friend, you'll help me in this thing  -  for my sake  -  that's why you're here  -
    I mightn't be able alone. If you flinch, I'll kill you. Do you understand that? And if I have to kill you, I'll kill her
    -  and then I reckon nobody'll ever know much about who done this business."
 
@@ -5126,7 +5172,7 @@
    "Huckleberry Finn, indeed! It ain't a name to open many doors, I judge! But let him in, lads, and let's see what's the
    trouble."
 
-   "Please don't ever tell I told you," were Huck's first words when he got in. "Please don't  -  I'd be killed, sure  - 
+   "Please don't ever tell I told you," were Huck's first words when he got in. "Please don't  -  I'd be killed, sure  -
    but the widow's been good friends to me sometimes, and I want to tell  -  I will tell if you'll promise you won't ever
    say it was me."
 
@@ -5236,7 +5282,7 @@
 
    "My boy, don't be afraid of me. I wouldn't hurt a hair of your head for all the world. No  -  I'd protect you  -  I'd
    protect you. This Spaniard is not deaf and dumb; you've let that slip without intending it; you can't cover that up now.
-   You know something about that Spaniard that you want to keep dark. Now trust me  -  tell me what it is, and trust me  - 
+   You know something about that Spaniard that you want to keep dark. Now trust me  -  tell me what it is, and trust me  -
    I won't betray you."
 
    Huck looked into the old man's honest eyes a moment, then bent over and whispered in his ear:
@@ -5250,7 +5296,7 @@
 
    During breakfast the talk went on, and in the course of it the old man said that the last thing which he and his sons
    had done, before going to bed, was to get a lantern and examine the stile and its vicinity for marks of blood. They
-   found none, but captured a bulky bundle of  - 
+   found none, but captured a bulky bundle of  -
 
    "Of what?"
 
@@ -5816,7 +5862,7 @@
 
    "Right now, if you say it. Are you strong enough?"
 
-   "Is it far in the cave? I ben on my pins a little, three or four days, now, but I can't walk more'n a mile, Tom  - 
+   "Is it far in the cave? I ben on my pins a little, three or four days, now, but I can't walk more'n a mile, Tom  -
    least I don't think I could."
 
    "It's about five mile into there the way anybody but me would go, Huck, but there's a mighty short cut that they don't
@@ -5902,7 +5948,7 @@
 
    "No, Tom, it wouldn't. It would hang round the money. I know the ways of ghosts, and so do you."
 
-   Tom began to fear that Huck was right. Misgivings gathered in his mind. But presently an idea occurred to him  - 
+   Tom began to fear that Huck was right. Misgivings gathered in his mind. But presently an idea occurred to him  -
 
    "Lookyhere, Huck, what fools we're making of ourselves! Injun Joe's ghost ain't a going to come around where there's a
    cross!"
@@ -6075,7 +6121,7 @@
    Some minutes later the widow's guests were at the supper-table, and a dozen children were propped up at little
    side-tables in the same room, after the fashion of that country and that day. At the proper time Mr. Jones made his
    little speech, in which he thanked the widow for the honor she was doing himself and his sons, but said that there was
-   another person whose modesty  - 
+   another person whose modesty  -
 
    And so forth and so on. He sprung his secret about Huck's share in the adventure in the finest dramatic manner he was
    master of, but the surprise it occasioned was largely counterfeit and not as clamorous and effusive as it might have
@@ -6174,11 +6220,11 @@
 
    "Tom, it don't make no difference. I ain't everybody, and I can't stand it. It's awful to be tied up so. And grub comes
    too easy  -  I don't take no interest in vittles, that way. I got to ask to go a-fishing; I got to ask to go in
-   a-swimming  -  dern'd if I hain't got to ask to do everything. Well, I'd got to talk so nice it wasn't no comfort  - 
+   a-swimming  -  dern'd if I hain't got to ask to do everything. Well, I'd got to talk so nice it wasn't no comfort  -
    I'd got to go up in the attic and rip out awhile, every day, to git a taste in my mouth, or I'd a died, Tom. The widder
    wouldn't let me smoke; she wouldn't let me yell, she wouldn't let me gape, nor stretch, nor scratch, before folks  - "
    [Then with a spasm of special irritation and injury]  -  "And dad fetch it, she prayed all the time! I never see such a
-   woman! I had to shove, Tom  -  I just had to. And besides, that school's going to open, and I'd a had to go to it  - 
+   woman! I had to shove, Tom  -  I just had to. And besides, that school's going to open, and I'd a had to go to it  -
    well, I wouldn't stand that, Tom. Looky-here, Tom, being rich ain't what it's cracked up to be. It's just worry and
    worry, and sweat and sweat, and a-wishing you was dead all the time. Now these clothes suits me, and this bar'l suits
    me, and I ain't ever going to shake 'em any more. Tom, I wouldn't ever got into all this trouble if it hadn't 'a' ben
@@ -6194,7 +6240,7 @@
    it all! just as we'd got guns, and a cave, and all just fixed to rob, here this dern foolishness has got to come up and
    spile it all!"
 
-   Tom saw his opportunity  - 
+   Tom saw his opportunity  -
 
    "Lookyhere, Huck, being rich ain't going to keep me back from turning robber."
 
@@ -6253,7 +6299,7 @@
 
 
    So endeth this chronicle. It being strictly a history of a boy, it must stop here; the story could not go much further
-   without becoming the history of a man. When one writes a novel about grown people, he knows exactly where to stop  - 
+   without becoming the history of a man. When one writes a novel about grown people, he knows exactly where to stop  -
    that is, with a marriage; but when he writes of juveniles, he must stop where he best can.
 
    Most of the characters that perform in this book still live, and are prosperous and happy. Some day it may seem worth

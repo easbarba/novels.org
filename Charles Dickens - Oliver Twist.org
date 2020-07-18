@@ -1,9 +1,10 @@
+#+TILE: Oliver Twist
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#oliver-twist][Oliver Twist]]
   - [[#charles-dickens][Charles Dickens]]
   - [[#chapter-1][Chapter 1]]
@@ -80,8 +81,6 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 ** Chapter 1
-
-
 
    Among other public buildings in a certain town, which for many reasons it will be prudent to refrain from mentioning,
    and to which I will assign no fictitious name, there is one anciently common to most towns, great or small: to wit, a
@@ -164,8 +163,6 @@
    overseers, perhaps he would have cried the louder.
 
 ** Chapter 2
-
-
 
    For the next eight or ten months, Oliver was the victim of a systematic course of treachery and deception. He was
    brought up by hand. The hungry and destitute situation of the infant orphan was duly reported by the workhouse
@@ -473,9 +470,6 @@
 
 ** Chapter 3
 
-
-
-   For a week after the commission of the impious and profane offence of asking for more, Oliver remained a close prisoner
    in the dark and solitary room to which he had been consigned by the wisdom and mercy of the board. It appears, at first
    sight not unreasonable to suppose, that, if he had entertained a becoming feeling of respect for the prediction of the
    gentleman in the white waistcoat, he would have established that sage individual's prophetic character, once and for
@@ -733,8 +727,6 @@
 
 ** Chapter 4
 
-
-
    In great families, when an advantageous place cannot be obtained, either in possession, reversion, remainder, or
    expectancy, for the young man who is growing up, it is a very general custom to send him to sea. The board, in imitation
    of so wise and salutary an example, took counsel together on the expediency of shipping off Oliver Twist, in some small
@@ -951,8 +943,6 @@
    Oliver lingered no longer, but meekly followed his new mistress.
 
 ** Chapter 5
-
-
 
    Oliver, being left to himself in the undertaker's shop, set the lamp down on a workman's bench, and gazed timidly about
    him with a feeling of awe and dread, which many people a good deal older than he will be at no loss to understand. An

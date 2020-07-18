@@ -1,3 +1,22 @@
+#+TILE: The King in Yellow
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#the-king-in-yellow][The King in Yellow]]
+  - [[#robert-william-chambers][Robert William Chambers]]
+  - [[#part-1---the-repairer-of-reputations][Part 1 - The Repairer of Reputations]]
+  - [[#part-2---the-mask][Part 2 - The Mask]]
+  - [[#part-3---in-the-court-of-the-dragon][Part 3 - In the Court of the Dragon]]
+  - [[#part-4---the-yellow-sign][Part 4 - The Yellow Sign]]
+  - [[#part-5---the-demoiselle-dys][Part 5 - The Demoiselle d'Ys]]
+  - [[#part-6---the-street-of-four-winds][Part 6 - The Street of Four Winds]]
+  - [[#part-7---the-street-of-the-first-shell][Part 7 - The Street of the First Shell]]
+  - [[#part-8---the-street-of-our-lady-the-fields][Part 8 - The Street of our Lady the Fields]]
+  - [[#part-9---rue-barrée][Part 9 - Rue Barrée]]
+:END:
 * The King in Yellow
 ** Robert William Chambers
    *Published:* 1895
@@ -368,7 +387,7 @@
     The cat, which had entered the room as he spoke, hesitated, looked up at him and snarled. He climbed down from the chair
     and squatting on the floor, took the creature into his arms and caressed her. The cat ceased snarling and presently
     began a loud purring which seemed to increase in timbre as he stroked her. "Where are the notes?" I asked. He pointed to
-    the table, and for the hundredth time I picked up the bundle of manuscript entitled - 
+    the table, and for the hundredth time I picked up the bundle of manuscript entitled -
 
     "THE IMPERIAL DYNASTY OF AMERICA."
 
@@ -744,7 +763,7 @@
     "I am going to get my squadron as a wedding present," he rattled on. "Captain and Mrs. Louis Castaigne, eh, Hildred?"
 
     Then he told me where it was to be and who were to be there, and made me promise to come and be best man. I set my teeth
-    and listened to his boyish chatter without showing what I felt, but - 
+    and listened to his boyish chatter without showing what I felt, but -
 
     I was getting to the limit of my endurance, and when he jumped up, and, switching his spurs till they jingled, said he
     must go, I did not detain him.
@@ -767,7 +786,7 @@
     hurry away, his sabre banging at every stride. He turned into Bleecker Street, and I knew he was going to see Constance.
     I gave him ten minutes to disappear and then followed in his footsteps, taking with me the jewelled crown and the silken
     robe embroidered with the Yellow Sign. When I turned into Bleecker Street, and entered the doorway which bore the
-    sign - 
+    sign -
 
     MR. WILDE, REPAIRER OF REPUTATIONS. Third Bell.
 
@@ -1152,7 +1171,7 @@
     Geneviève was dressed in silvery grey from head to foot. The light glinted along the soft curves of her fair hair as she
     turned her cheek to Boris; then she saw me and returned my greeting. She had never before failed to blow me a kiss from
     the tips of her white fingers, and I promptly complained of the omission. She smiled and held out her hand, which
-    dropped almost before it had touched mine; then she said, looking at Boris - 
+    dropped almost before it had touched mine; then she said, looking at Boris -
 
     "You must ask Alec to stay for luncheon." This also was something new. She had always asked me herself until to-day.
 
@@ -1375,7 +1394,7 @@
     intimacy of their home, and then, without pretext or explanation, I would disappear from their lives for ever. Boris
     would know; Geneviève - the only comfort was that she would never know. It seemed, as I thought it over, that I had
     found the meaning of that sense of obligation which had persisted all through my delirium, and the only possible answer
-    to it. So, when I was quite ready, I beckoned Jack to me one day, and said - 
+    to it. So, when I was quite ready, I beckoned Jack to me one day, and said -
 
     "Jack, I want Boris at once; and take my dearest greeting to Geneviève... ."
 
@@ -1384,7 +1403,7 @@
     afterward a boy of twenty-one who believed that his youth was gone for ever. I seemed to be past the capability of
     further suffering, and one day when Jack handed me a letter and the keys to Boris' house, I took them without a tremor
     and asked him to tell me all. It was cruel of me to ask him, but there was no help for it, and he leaned wearily on his
-    thin hands, to reopen the wound which could never entirely heal. He began very quietly - 
+    thin hands, to reopen the wound which could never entirely heal. He began very quietly -
 
     "Alec, unless you have a clue that I know nothing about, you will not be able to explain any more than I what has
     happened. I suspect that you would rather not hear these details, but you must learn them, else I would spare you the
@@ -1439,7 +1458,7 @@
     gates, and went away. Next morning Alcide packed my valise, and leaving him in charge of my apartments I took the Orient
     express for Constantinople. During the two years that I wandered through the East, at first, in our letters, we never
     mentioned Geneviève and Boris, but gradually their names crept in. I recollect particularly a passage in one of Jack's
-    letters replying to one of mine - 
+    letters replying to one of mine -
 
     "What you tell me of seeing Boris bending over you while you lay ill, and feeling his touch on your face, and hearing
     his voice, of course troubles me. This that you describe must have happened a fortnight after he died. I say to myself
@@ -1463,7 +1482,7 @@
     We stayed in Paris together a week, and then I went for a week to Ept with him, but first of all we went to the cemetery
     at Sèvres, where Boris lay.
 
-    "Shall we place the 'Fates' in the little grove above him?" Jack asked, and I answered - 
+    "Shall we place the 'Fates' in the little grove above him?" Jack asked, and I answered -
 
     "I think only the 'Madonna' should watch over Boris' grave." But Jack was none the better for my home-coming. The dreams
     of which he could not retain even the least definite outline continued, and he said that at times the sense of
@@ -2349,7 +2368,7 @@
     they do not know that the doctor said as he pointed to a horrible decomposed heap on the floor - the livid corpse of the
     watchman from the church: "I have no theory, no explanation. That man must have been dead for months!"
 
-    I think I am dying. I wish the priest would - 
+    I think I am dying. I wish the priest would -
 
 ** Part 5 - The Demoiselle d'Ys
 
@@ -3565,7 +3584,7 @@
     "You march around the table three times singing the Marseillaise," explained Sylvia, "and Monsieur Fallowby pounds on
     the table and beats time."
 
-    Fallowby suggested that they could sing after dinner, but his protest was drowned in the ringing chorus - 
+    Fallowby suggested that they could sing after dinner, but his protest was drowned in the ringing chorus -
 
     "Aux armes! Formez vos bataillons!"
 

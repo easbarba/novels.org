@@ -1,9 +1,10 @@
+#+TILE: The Mysterious Island
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#the-mysterious-island][The Mysterious Island]]
   - [[#jules-verne][Jules Verne]]
   - [[#part-1---dropped-from-the-clouds][Part 1 - Dropped from the clouds]]

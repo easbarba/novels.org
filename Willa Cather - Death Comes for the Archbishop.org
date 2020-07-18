@@ -1,3 +1,23 @@
+#+TILE: Death Comes for the Archbishop
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#death-comes-for-the-archbishop][Death Comes for the Archbishop]]
+  - [[#willa-cather][Willa Cather]]
+  - [[#prologue-at-rome][PROLOGUE: AT ROME]]
+  - [[#part-1---the-vicar-apostolic][Part 1 - THE VICAR APOSTOLIC]]
+  - [[#part-2---missionary-journeys][Part 2 - MISSIONARY JOURNEYS]]
+  - [[#part-3---the-mass-at-ácoma][Part 3 - THE MASS AT ÁCOMA]]
+  - [[#part-4---snake-root][Part 4 - SNAKE ROOT]]
+  - [[#part-5---padre-martínez][Part 5 - PADRE MARTÍNEZ]]
+  - [[#part-6---doña-isabella][Part 6 - DOÑA ISABELLA]]
+  - [[#part-7---the-great-diocese][Part 7 - THE GREAT DIOCESE]]
+  - [[#part-8---gold-under-pikes-peak][Part 8 - GOLD UNDER PIKE'S PEAK]]
+  - [[#part-9---death-comes-for-the-archbishop][Part 9 - DEATH COMES FOR THE ARCHBISHOP]]
+:END:
 * Death Comes for the Archbishop
 ** Willa Cather
    *Published:* 1927
@@ -302,7 +322,7 @@
     Fé, at last! A thin, wavering adobe town ... a green plaza ... at one end a church with two earthen towers that rose
     high above the flatness. The long main street began at the church, the town seemed to flow from it like a stream from a
     spring. The church towers, and all the low adobe houses, were rose colour in that light, - a little darker in tone than
-    the amphitheatre of red hills behind; and periodically the plumes of poplars flashed like gracious accent marks, - 
+    the amphitheatre of red hills behind; and periodically the plumes of poplars flashed like gracious accent marks, -
     inclining and recovering themselves in the wind.
 
     The young Bishop was not alone in the exaltation of that hour; beside him rode Father Joseph Vaillant, his boyhood
@@ -2679,7 +2699,7 @@
     French, American, English, some of them very old. When it was at length conveyed to a Government mint and examined, it
     was valued at nearly twenty thousand dollars in American money. A great sum for one old priest to have scraped together
     in a country parish down at the bottom of a ditch.
-   
+
 ** Part 6 - DOÑA ISABELLA
 *** Chapter 1 DON ANTONIO
 

@@ -1,3 +1,32 @@
+#+TILE: Diary Of A Madman
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#diary-of-a-madman][Diary Of A Madman]]
+  - [[#nikolai-gogol][Nikolai Gogol]]
+  - [[#october-3rd][October 3rd.]]
+  - [[#october-4th][October 4th.]]
+  - [[#november-6th][November 6th.]]
+  - [[#november-8th][November 8th.]]
+  - [[#november-9th][November 9th.]]
+  - [[#november-11th][November 11th.]]
+  - [[#november-12th][November 12th.]]
+  - [[#november-13th][November 13th.]]
+  - [[#december-3rd][December 3rd.]]
+  - [[#december-5th][December 5th.]]
+  - [[#december-8th][December 8th.]]
+  - [[#the-year-2000-april-43rd][The year 2000: April 43rd.]]
+  - [[#marchember-86-between-day-and-night][Marchember 86. Between day and night.]]
+  - [[#no-date-the-day-had-no-date][No date. The day had no date.]]
+  - [[#the-1st][The 1st.]]
+  - [[#madrid-february-30th][Madrid, February 30th.]]
+  - [[#january-in-the-same-year-following-after-february][January in the same year, following after February.]]
+  - [[#the-25th][The 25th.]]
+  - [[#34-march-february-349][34 March. February, 349.]]
+:END:
 * Diary Of A Madman
 ** Nikolai Gogol
    *Published:* 1835
@@ -449,7 +478,7 @@
 
    I was nearly going to the office, but various considerations kept me from doing so. I keep on thinking about these
    Spanish affairs. How is it possible that a woman should reign? It would not be allowed, especially by England. In the
-   rest of Europe the political situation is also critical; the Emperor of Austria -  - 
+   rest of Europe the political situation is also critical; the Emperor of Austria -  -
 
    These events, to tell the truth, have so shaken and shattered me, that I could really do nothing all day. Mawra told me
    that I was very absent-minded at table. In fact, in my absent-mindedness I threw two plates on the ground so that they

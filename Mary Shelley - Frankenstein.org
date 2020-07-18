@@ -1,3 +1,15 @@
+#+TILE: Frankenstein
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#frankenstein][Frankenstein]]
+  - [[#mary-shelley][Mary Shelley]]
+  - [[#part-1---letters][Part 1 - Letters]]
+  - [[#part-2---story][Part 2 - Story]]
+:END:
 * Frankenstein
 ** Mary Shelley
    *Published:* 1818
@@ -728,7 +740,7 @@
     recapitulation of the history of chemistry and the various improvements made by different men of learning, pronouncing
     with fervour the names of the most distinguished discoverers. He then took a cursory view of the present state of the
     science and explained many of its elementary terms. After having made a few preparatory experiments, he concluded with a
-    panegyric upon modern chemistry, the terms of which I shall never forget: - 
+    panegyric upon modern chemistry, the terms of which I shall never forget: -
 
     "The ancient teachers of this science," said he, "promised impossibilities and performed nothing. The modern masters
     promise very little; they know that metals cannot be transmuted and that the elixir of life is a chimera but these
@@ -1087,7 +1099,7 @@
 *** Chapter 6
 
 
-    Clerval then put the following letter into my hands. It was from my own Elizabeth: - 
+    Clerval then put the following letter into my hands. It was from my own Elizabeth: -
 
     My dearest Cousin,
 
@@ -1257,7 +1269,7 @@
 *** Chapter 7
 
 
-    On my return, I found the following letter from my father: - 
+    On my return, I found the following letter from my father: -
 
     "My dear Victor,
 
@@ -2957,7 +2969,7 @@
     birth."
 
     A fiendish rage animated him as he said this; his face was wrinkled into contortions too horrible for human eyes to
-    behold; but presently he calmed himself and proceeded - 
+    behold; but presently he calmed himself and proceeded -
 
     "I intended to reason. This passion is detrimental to me, for you do not reflect that YOU are the cause of its excess.
     If any being felt emotions of benevolence towards me, I should return them a hundred and a hundredfold; for that one
@@ -3194,7 +3206,7 @@
     chastened by the sensibility of his heart. His soul overflowed with ardent affections, and his friendship was of that
     devoted and wondrous nature that the world-minded teach us to look for only in the imagination. But even human
     sympathies were not sufficient to satisfy his eager mind. The scenery of external nature, which others regard only with
-    admiration, he loved with ardour: - 
+    admiration, he loved with ardour: -
 
     - The sounding cataract Haunted him like a passion: the tall rock, The mountain, and the deep and gloomy wood, Their
     colours and their forms, were then to him An appetite; a feeling, and a love, That had no need of a remoter charm, By

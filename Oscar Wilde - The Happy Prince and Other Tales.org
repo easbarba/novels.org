@@ -1,3 +1,18 @@
+#+TILE: The Happy Prince and Other Tales
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#the-happy-prince-and-other-tales][The Happy Prince and Other Tales]]
+  - [[#oscar-wilde][Oscar Wilde]]
+  - [[#the-happy-prince][THE HAPPY PRINCE]]
+  - [[#the-nightingale-and-the-rose][THE NIGHTINGALE AND THE ROSE]]
+  - [[#the-selfish-giant][THE SELFISH GIANT]]
+  - [[#the-devoted-friend][THE DEVOTED FRIEND]]
+  - [[#the-remarkable-rocket][THE REMARKABLE ROCKET]]
+:END:
 * The Happy Prince and Other Tales
 ** Oscar Wilde
    *Published:* 1910
@@ -494,7 +509,6 @@
 
    So he returned to his room and pulled out a great dusty book, and began to read.
 
-
 ** THE SELFISH GIANT
 
    Every afternoon, as they were coming from school, the children used to go and play in the Giant's garden.
@@ -613,7 +627,6 @@
 
    And when the children ran in that afternoon, they found the Giant lying dead under the tree, all covered with white
    blossoms.
-
 
 ** THE DEVOTED FRIEND
 
@@ -965,7 +978,6 @@
 
    And I quite agree with her.
 
-
 ** THE REMARKABLE ROCKET
 
    The King's son was going to be married, so there were general rejoicings.  He had waited a whole year for his bride, and
@@ -1315,4 +1327,3 @@
    “Good heavens!” cried the Goose.  “It is going to rain sticks”; and she rushed into the water.
 
    “I knew I should create a great sensation,” gasped the Rocket, and he went out.
-

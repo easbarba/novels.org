@@ -1,9 +1,10 @@
+#+TILE: At the Mountains of Madness
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#at-the-mountains-of-madness][At the Mountains of Madness]]
   - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
   - [[#chapter-1][Chapter 1]]

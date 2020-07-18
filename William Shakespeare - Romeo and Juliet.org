@@ -1,3 +1,18 @@
+#+TILE: Romeo and Juliet
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#romeo-and-juliet][Romeo and Juliet]]
+  - [[#william-shakespeare][William Shakespeare]]
+  - [[#act-i][Act I]]
+  - [[#act-ii][Act II]]
+  - [[#act-iii][Act III]]
+  - [[#act-iv][Act IV]]
+  - [[#act-v][Act V]]
+:END:
 * Romeo and Juliet
 ** William Shakespeare
    *Published:* 1597
@@ -403,7 +418,7 @@
 
     #+BEGIN_QUOTE
     Rebellious subjects, enemies to peace,
-    Profaners of this neighbour-stained steel, - 
+    Profaners of this neighbour-stained steel, -
     Will they not hear? What, ho! you men, you beasts,
     That quench the fire of your pernicious rage
     With purple fountains issuing from your veins,
@@ -515,7 +530,7 @@
     #+BEGIN_QUOTE
     Both by myself and many other friends:
     But he, his own affections' counsellor,
-    Is to himself - I will not say how true - 
+    Is to himself - I will not say how true -
     But to himself so secret and so close,
     So far from sounding and discovery,
     As is the bud bit with an envious worm,
@@ -589,7 +604,7 @@
     *ROMEO*
 
     #+BEGIN_QUOTE
-    Out - 
+    Out -
     #+END_QUOTE
 
     *BENVOLIO*
@@ -1130,8 +1145,8 @@
     *Nurse*
 
     #+BEGIN_QUOTE
-    I'll lay fourteen of my teeth, - 
-    And yet, to my teeth be it spoken, I have but four - 
+    I'll lay fourteen of my teeth, -
+    And yet, to my teeth be it spoken, I have but four -
     She is not fourteen. How long is it now
     To Lammas-tide?
     #+END_QUOTE
@@ -1147,17 +1162,17 @@
     #+BEGIN_QUOTE
     Even or odd, of all days in the year,
     Come Lammas-eve at night shall she be fourteen.
-    Susan and she - God rest all Christian souls! - 
+    Susan and she - God rest all Christian souls! -
     Were of an age: well, Susan is with God;
     She was too good for me: but, as I said,
     On Lammas-eve at night shall she be fourteen;
     That shall she, marry; I remember it well.
     'Tis since the earthquake now eleven years;
-    And she was wean'd, - I never shall forget it, - 
+    And she was wean'd, - I never shall forget it, -
     Of all the days of the year, upon that day:
     For I had then laid wormwood to my dug,
     Sitting in the sun under the dove-house wall;
-    My lord and you were then at Mantua: - 
+    My lord and you were then at Mantua: -
     Nay, I do bear a brain: - but, as I said,
     When it did taste the wormwood on the nipple
     Of my dug and felt it bitter, pretty fool,
@@ -1552,7 +1567,7 @@
     This is the hag, when maids lie on their backs,
     That presses them and learns them first to bear,
     Making them women of good carriage:
-    This is she - 
+    This is she -
     #+END_QUOTE
 
     *ROMEO*
@@ -2404,7 +2419,7 @@
 
     #+BEGIN_QUOTE
     Lady, by yonder blessed moon I swear
-    That tips with silver all these fruit-tree tops - 
+    That tips with silver all these fruit-tree tops -
     #+END_QUOTE
 
     *JULIET*
@@ -2433,7 +2448,7 @@
     *ROMEO*
 
     #+BEGIN_QUOTE
-    If my heart's dear love - 
+    If my heart's dear love -
     #+END_QUOTE
 
     *JULIET*
@@ -2531,7 +2546,7 @@
 
     #+BEGIN_QUOTE
     I come, anon. - But if thou mean'st not well,
-    I do beseech thee - 
+    I do beseech thee -
     #+END_QUOTE
 
     *Nurse*
@@ -2543,7 +2558,7 @@
     *JULIET*
 
     #+BEGIN_QUOTE
-    By and by, I come: - 
+    By and by, I come: -
     To cease thy suit, and leave me to my grief:
     To-morrow will I send.
     #+END_QUOTE
@@ -2551,7 +2566,7 @@
     *ROMEO*
 
     #+BEGIN_QUOTE
-    So thrive my soul - 
+    So thrive my soul -
     #+END_QUOTE
 
     *JULIET*
@@ -3432,7 +3447,7 @@
 
     #+BEGIN_QUOTE
     Nurse, commend me to thy lady and mistress. I
-    protest unto thee - 
+    protest unto thee -
     #+END_QUOTE
 
     *Nurse*
@@ -3984,7 +3999,7 @@
     *TYBALT*
 
     #+BEGIN_QUOTE
-    Mercutio, thou consort'st with Romeo, - 
+    Mercutio, thou consort'st with Romeo, -
     #+END_QUOTE
 
     *MERCUTIO*
@@ -4504,7 +4519,7 @@
     *Nurse*
 
     #+BEGIN_QUOTE
-    I saw the wound, I saw it with mine eyes, - 
+    I saw the wound, I saw it with mine eyes, -
     God save the mark! - here on his manly breast:
     A piteous corse, a bloody piteous corse;
     Pale, pale as ashes, all bedaub'd in blood,
@@ -5112,7 +5127,7 @@
     In all respects by me; nay, more, I doubt it not.
     Wife, go you to her ere you go to bed;
     Acquaint her here of my son Paris' love;
-    And bid her, mark you me, on Wednesday next - 
+    And bid her, mark you me, on Wednesday next -
     But, soft! what day is this?
     #+END_QUOTE
 
@@ -5405,7 +5420,7 @@
     *JULIET*
 
     #+BEGIN_QUOTE
-    [Aside] Villain and he be many miles asunder. - 
+    [Aside] Villain and he be many miles asunder. -
     God Pardon him! I do, with all my heart;
     And yet no man like he doth grieve my heart.
     #+END_QUOTE
@@ -5438,7 +5453,7 @@
 
     #+BEGIN_QUOTE
     Indeed, I never shall be satisfied
-    With Romeo, till I behold him - dead - 
+    With Romeo, till I behold him - dead -
     Is my poor heart for a kinsman vex'd.
     Madam, if you could find out but a man
     To bear a poison, I would temper it;
@@ -6313,17 +6328,17 @@
     And there die strangled ere my Romeo comes?
     Or, if I live, is it not very like,
     The horrible conceit of death and night,
-    Together with the terror of the place, - 
+    Together with the terror of the place, -
     As in a vault, an ancient receptacle,
     Where, for these many hundred years, the bones
     Of all my buried ancestors are packed:
     Where bloody Tybalt, yet but green in earth,
     Lies festering in his shroud; where, as they say,
-    At some hours in the night spirits resort; - 
+    At some hours in the night spirits resort; -
     Alack, alack, is it not like that I,
     So early waking, what with loathsome smells,
     And shrieks like mandrakes' torn out of the earth,
-    That living mortals, hearing them, run mad: - 
+    That living mortals, hearing them, run mad: -
     O, if I wake, shall I not be distraught,
     Environed with all these hideous fears?
     And madly play with my forefather's joints?
@@ -6795,7 +6810,7 @@
     me like men:
     'When griping grief the heart doth wound,
     And doleful dumps the mind oppress,
-    Then music with her silver sound' - 
+    Then music with her silver sound' -
     why 'silver sound'? why 'music with her silver
     sound'? What say you, Simon Catling?
     #+END_QUOTE
@@ -6872,9 +6887,9 @@
     My bosom's lord sits lightly in his throne;
     And all this day an unaccustom'd spirit
     Lifts me above the ground with cheerful thoughts.
-    I dreamt my lady came and found me dead - 
+    I dreamt my lady came and found me dead -
     Strange dream, that gives a dead man leave
-    to think! - 
+    to think! -
     And breathed such life with kisses in my lips,
     That I revived, and was an emperor.
     Ah me! how sweet is love itself possess'd,
@@ -6942,7 +6957,7 @@
     Well, Juliet, I will lie with thee to-night.
     Let's see for means: O mischief, thou art swift
     To enter in the thoughts of desperate men!
-    I do remember an apothecary, - 
+    I do remember an apothecary, -
     And hereabouts he dwells, - which late I noted
     In tatter'd weeds, with overwhelming brows,
     Culling of simples; meagre were his looks,
@@ -7083,7 +7098,7 @@
     *FRIAR JOHN*
 
     #+BEGIN_QUOTE
-    I could not send it, - here it is again, - 
+    I could not send it, - here it is again, -
     Nor get a messenger to bring it thee,
     So fearful were they of infection.
     #+END_QUOTE
@@ -7153,8 +7168,8 @@
     *PARIS*
 
     #+BEGIN_QUOTE
-    Sweet flower, with flowers thy bridal bed I strew, - 
-    O woe! thy canopy is dust and stones; - 
+    Sweet flower, with flowers thy bridal bed I strew, -
+    O woe! thy canopy is dust and stones; -
     Which with sweet water nightly I will dew,
     Or, wanting that, with tears distill'd by moans:
     The obsequies that I for thee will keep
@@ -7644,7 +7659,7 @@
     #+BEGIN_QUOTE
     O heavens! O wife, look how our daughter bleeds!
     This dagger hath mista'en - for, lo, his house
-    Is empty on the back of Montague, - 
+    Is empty on the back of Montague, -
     And it mis-sheathed in my daughter's bosom!
     #+END_QUOTE
 

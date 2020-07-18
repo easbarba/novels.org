@@ -1,3 +1,51 @@
+#+TILE: Anne of Green Gables
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#anne-of-green-gables][Anne of Green Gables]]
+  - [[#lucy-maud-montgomery][Lucy Maud Montgomery]]
+  - [[#chapter-1-mrs-rachel-lynde-is-surprised][Chapter 1 Mrs. Rachel Lynde is Surprised]]
+  - [[#chapter-2-matthew-cuthbert-is-surprised][Chapter 2 Matthew Cuthbert is surprised]]
+  - [[#chapter-3-marilla-cuthbert-is-surprised][Chapter 3 Marilla Cuthbert is Surprised]]
+  - [[#chapter-4-morning-at-green-gables][Chapter 4 Morning at Green Gables]]
+  - [[#chapter-5-annes-history][Chapter 5 Anne's History]]
+  - [[#chapter-6-marilla-makes-up-her-mind][Chapter 6 Marilla Makes Up Her Mind]]
+  - [[#chapter-7-anne-says-her-prayers][Chapter 7 Anne Says Her Prayers]]
+  - [[#chapter-8-annes-bringing-up-is-begun][Chapter 8 Anne's Bringing-up Is Begun]]
+  - [[#chapter-9-mrs-rachel-lynde-is-properly-horrified][Chapter 9 Mrs. Rachel Lynde Is Properly Horrified]]
+  - [[#chapter-10-annes-apology][Chapter 10 Anne's Apology]]
+  - [[#chapter-11-annes-impressions-of-sunday-school][Chapter 11 Anne's Impressions of Sunday-School]]
+  - [[#chapter-12-a-solemn-vow-and-promise][Chapter 12 A Solemn Vow and Promise]]
+  - [[#chapter-13-the-delights-of-anticipation][Chapter 13 The Delights of Anticipation]]
+  - [[#chapter-14-annes-confession][Chapter 14 Anne's Confession]]
+  - [[#chapter-15-a-tempest-in-the-school-teapot][Chapter 15 A Tempest in the School Teapot]]
+  - [[#chapter-16-diana-is-invited-to-tea-with-tragic-results][Chapter 16 Diana Is Invited to Tea with Tragic Results]]
+  - [[#chapter-17-a-new-interest-in-life][Chapter 17 A New Interest in Life]]
+  - [[#chapter-18-anne-to-the-rescue][Chapter 18 Anne to the Rescue]]
+  - [[#chapter-19-a-concert-a-catastrophe-and-a-confession][Chapter 19 A Concert a Catastrophe and a Confession]]
+  - [[#chapter-20-a-good-imagination-gone-wrong][Chapter 20 A Good Imagination Gone Wrong]]
+  - [[#chapter-21-a-new-departure-in-flavorings][Chapter 21 A New Departure in Flavorings]]
+  - [[#chapter-22-anne-is-invited-out-to-tea][Chapter 22 Anne is Invited Out to Tea]]
+  - [[#chapter-23-anne-comes-to-grief-in-an-affair-of-honor][Chapter 23 Anne Comes to Grief in an Affair of Honor]]
+  - [[#chapter-24-miss-stacy-and-her-pupils-get-up-a-concert][Chapter 24 Miss Stacy and Her Pupils Get Up a Concert]]
+  - [[#chapter-25-matthew-insists-on-puffed-sleeves][Chapter 25 Matthew Insists on Puffed Sleeves]]
+  - [[#chapter-26-the-story-club-is-formed][Chapter 26 The Story Club Is Formed]]
+  - [[#chapter-27-vanity-and-vexation-of-spirit][Chapter 27 Vanity and Vexation of Spirit]]
+  - [[#chapter-28-an-unfortunate-lily-maid][Chapter 28 An Unfortunate Lily Maid]]
+  - [[#chapter-29-an-epoch-in-annes-life][Chapter 29 An Epoch in Anne's Life]]
+  - [[#chapter-30-the-queens-class-is-organized][Chapter 30 The Queens Class Is Organized]]
+  - [[#chapter-31-where-the-brook-and-river-meet][Chapter 31 Where the Brook and River Meet]]
+  - [[#chapter-32-the-pass-list-is-out][Chapter 32 The Pass List Is Out]]
+  - [[#chapter-33-the-hotel-concert][Chapter 33 The Hotel Concert]]
+  - [[#chapter-34-a-queens-girl][Chapter 34 A Queen's Girl]]
+  - [[#chapter-35-the-winter-at-queens][Chapter 35 The Winter at Queen's]]
+  - [[#chapter-36-the-glory-and-the-dream][Chapter 36 The Glory and the Dream]]
+  - [[#chapter-37-the-reaper-whose-name-is-death][Chapter 37 The Reaper Whose Name Is Death]]
+  - [[#chapter-38-the-bend-in-the-road][Chapter 38 The Bend in the road]]
+:END:
 * Anne of Green Gables
 ** Lucy Maud Montgomery
    *Published:* 1908
@@ -3058,7 +3106,7 @@
    children again; and Mattie Andrews had a new red hood and a blue crossover with tassels on it and the airs she put on
    about it were perfectly sickening; and Lizzie Wright didn't speak to Mamie Wilson because Mamie Wilson's grown-up sister
    had cut out Lizzie Wright's grown-up sister with her beau; and everybody missed Anne so and wished she's come to school
-   again; and Gilbert Blythe - 
+   again; and Gilbert Blythe -
 
    But Anne didn't want to hear about Gilbert Blythe. She jumped up hurriedly and said suppose they go in and have some
    raspberry cordial.
@@ -3391,7 +3439,7 @@
 
    Anne read the note, kissed the bookmark, and dispatched a prompt reply back to the other side of the school.
 
-   My own darling Diana: - 
+   My own darling Diana: -
 
    Of course I am not cross at you because you have to obey your mother. Our spirits can commune. I shall keep your lovely
    present forever. Minnie Andrews is a very nice little girl - although she has no imagination - but after having been

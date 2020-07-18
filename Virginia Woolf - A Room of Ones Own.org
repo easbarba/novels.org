@@ -1,3 +1,14 @@
+#+TILE: A Room of One's Own
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#a-room-of-ones-own][A Room of One's Own]]
+  - [[#virginia-woolf][Virginia Woolf]]
+  - [[#a-room-of-ones-own][A Room of One's Own]]
+:END:
 * A Room of One's Own
 ** Virginia Woolf
    *Published:* 1929
@@ -224,12 +235,12 @@
     was being made secure for another night. After the avenue one comes out upon a road - I forget its name - which leads
     you, if you take the right turning, along to Fernham. But there was plenty of time. Dinner was not till half-past seven.
     One could almost do without dinner after such a luncheon. It is strange how a scrap of poetry works in the mind and
-    makes the legs move in time to it along the road. Those words -  - 
+    makes the legs move in time to it along the road. Those words -  -
 
     #+BEGIN_QUOTE
     There has fallen a splendid tear
     From the passion-flower at the gate.
-    She is coming, my dove, my dear -  - 
+    She is coming, my dove, my dear -  -
     #+END_QUOTE
 
     sang in my blood as I stepped quickly along towards Headingley. And then, switching off into the other measure, I sang,
@@ -292,7 +303,7 @@
     My heart is like a singing bird
     Whose nest is in a water'd shoot;
     My heart is like an apple tree
-    Whose boughs are bent with thick-set fruit - 
+    Whose boughs are bent with thick-set fruit -
     #+END_QUOTE
 
     perhaps the words of Christina Rossetti were partly responsible for the folly of the fancy - it was nothing of course
@@ -311,7 +322,7 @@
     air, to glance at the garden, came a bent figure, formidable yet humble, with her great forehead and her shabby
     dress - could it be the famous scholar, could it be J -  -  H -  -  herself? All was dim, yet intense too, as if the
     scarf which the dusk had flung over the garden were torn asunder by star or sword - the gash of some terrible reality
-    leaping, as its way is, out of the heart of the spring. For youth -  - 
+    leaping, as its way is, out of the heart of the spring. For youth -  -
 
     Here was my soup. Dinner was being served in the great dining-hall. Far from being spring it was in fact an evening in
     October. Everybody was assembled in the big dining-room. Dinner was ready. Here was the soup. It was a plain gravy soup.
@@ -545,7 +556,7 @@
     And here is La Bruyère:
 
     #+BEGIN_QUOTE
-    Les femmes sont extrêmes, elles sont meilleures ou pires que les hommes -  - 
+    Les femmes sont extrêmes, elles sont meilleures ou pires que les hommes -  -
     #+END_QUOTE
 
     a direct contradiction by keen observers who were contemporary. Are they capable of education or incapable? Napoleon
@@ -798,7 +809,7 @@
     method with the Elizabethan woman, one branch of illumination fails; one is held up by the scarcity of facts. One knows
     nothing detailed, nothing perfectly true and substantial about her. History scarcely mentions her. And I turned to
     Professor Trevelyan again to see what history meant to him. I found by looking at his chapter headings that it
-    meant -  - 
+    meant -  -
 
     'The Manor Court and the Methods of Open-field Agriculture... The Cistercians and Sheep-farming... The Crusades... The
     University ... The House of Commons... The Hundred Years' War... The Wars of the Roses... The Renaissance Scholars...
@@ -1444,7 +1455,7 @@
     but as doing something but something that is different; and what should that difference be? All this should be discussed
     and discovered; all this is part of the question of women and fiction. And yet, I continued, approaching the bookcase
     again, where shall I find that elaborate study of the psychology of women by a woman? If through their incapacity to
-    play football women are not going to be allowed to practise medicine - 
+    play football women are not going to be allowed to practise medicine -
 
     Happily my thoughts were now given another turn.
 

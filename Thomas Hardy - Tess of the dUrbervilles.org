@@ -1,3 +1,20 @@
+#+TILE: Tess of the d'Urbervilles
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#tess-of-the-durbervilles][Tess of the d'Urbervilles]]
+  - [[#thomas-hardy][Thomas Hardy]]
+  - [[#part-1---phase-the-first-the-maiden][Part 1 - Phase the First: The Maiden]]
+  - [[#part-2---phase-the-second-maiden-no-more][Part 2 - Phase the Second: Maiden No More]]
+  - [[#part-3---phase-the-third-the-rally][Part 3 - Phase the Third: The Rally]]
+  - [[#part-4---phase-the-fourth-the-consequence][Part 4 - Phase the Fourth: The Consequence]]
+  - [[#part-5---phase-the-fifth-the-woman-pays][Part 5 - Phase the Fifth: The Woman Pays]]
+  - [[#part-6---phase-the-sixth-the-convert][Part 6 - Phase the Sixth: The Convert]]
+  - [[#part-7---phase-the-seventh-fulfilment][Part 7 - Phase the Seventh: Fulfilment]]
+:END:
 * Tess of the d'Urbervilles
 ** Thomas Hardy
 
@@ -278,7 +295,7 @@
     still lived on, as hopes will. They were all cheerful, and many of them merry.
 
     They came round by The Pure Drop Inn, and were turning out of the high road to pass through a wicket-gate into the
-    meadows, when one of the women said - 
+    meadows, when one of the women said -
 
     "The Load-a-Lord! Why, Tess Durbeyfield, if there isn't thy father riding hwome in a carriage!"
 
@@ -288,7 +305,7 @@
     she looked round Durbeyfield was seen moving along the road in a chaise belonging to The Pure Drop, driven by a
     frizzle-headed brawny damsel with her gown-sleeves rolled above her elbows. This was the cheerful servant of that
     establishment, who, in her part of factotum, turned groom and ostler at times. Durbeyfield, leaning back, and with his
-    eyes closed luxuriously, was waving his hand above his head, and singing in a slow recitative - 
+    eyes closed luxuriously, was waving his hand above his head, and singing in a slow recitative -
 
     "I've-got-a-gr't-family-vault-at-Kingsbere - and knighted-forefathers-in-lead-coffins-there!"
 
@@ -420,7 +437,7 @@
     While yet many score yards off, other rhythmic sounds than those she had quitted became audible to her; sounds that she
     knew well - so well. They were a regular series of thumpings from the interior of the house, occasioned by the violent
     rocking of a cradle upon a stone floor, to which movement a feminine voice kept time by singing, in a vigorous
-    gallopade, the favourite ditty of "The Spotted Cow" - 
+    gallopade, the favourite ditty of "The Spotted Cow" -
 
     I saw her lie do?-own in yon?-der green gro?-ove;
 
@@ -713,7 +730,7 @@
     valiantly disguised these forced excursions and countermarches as well as they could from Durbeyfield, their cause, and
     from Abraham, and from themselves; and so they approached by degrees their own door, the head of the family bursting
     suddenly into his former refrain as he drew near, as if to fortify his soul at sight of the smallness of his present
-    residence - 
+    residence -
 
     "I've got a fam - ily vault at Kingsbere!"
 
@@ -1065,7 +1082,7 @@
     This embodiment of a d'Urberville and a namesake differed even more from what Tess had expected than the house and
     grounds had differed. She had dreamed of an aged and dignified face, the sublimation of all the d'Urberville lineaments,
     furrowed with incarnate memories representing in hieroglyphic the centuries of her family's and England's history. But
-    she screwed herself up to the work in hand, since she could not get out of it, and answered - 
+    she screwed herself up to the work in hand, since she could not get out of it, and answered -
 
     "I came to see your mother, sir."
 
@@ -2385,7 +2402,7 @@
     "'Tis quite true. If I had gone for love o' you, if I had ever sincerely loved you, if I loved you still, I should not
     so loathe and hate myself for my weakness as I do now! ... My eyes were dazed by you for a little, and that was all."
 
-    He shrugged his shoulders. She resumed - 
+    He shrugged his shoulders. She resumed -
 
     "I didn't understand your meaning till it was too late."
 
@@ -2417,7 +2434,7 @@
     alighted, and lifted her down bodily in his arms, afterwards placing her articles on the ground beside her. She bowed to
     him slightly, her eye just lingering in his; and then she turned to take the parcels for departure.
 
-    Alec d'Urberville removed his cigar, bent towards her, and said - 
+    Alec d'Urberville removed his cigar, bent towards her, and said -
 
     "You are not going to turn away like that, dear! Come!"
 
@@ -2482,7 +2499,7 @@
     As he had her basket she could not well do otherwise; and she waited, observing him. He set down her basket and the tin
     pot, and stirring the paint with the brush that was in it began painting large square letters on the middle board of the
     three composing the stile, placing a comma after each word, as if to give pause while that word was driven well home to
-    the reader's heart - 
+    the reader's heart -
 
     THY, DAMNATION, SLUMBERETH, NOT.
 
@@ -2518,11 +2535,11 @@
     "No," said she; and taking her basket Tess trudged on. A little way forward she turned her head. The old gray wall began
     to advertise a similar fiery lettering to the first, with a strange and unwonted mien, as if distressed at duties it had
     never before been called upon to perform. It was with a sudden flush that she read and realized what was to be the
-    inscription he was now halfway through - 
+    inscription he was now halfway through -
 
-    THOU, SHALT, NOT, COMMIT - 
+    THOU, SHALT, NOT, COMMIT -
 
-    Her cheerful friend saw her looking, stopped his brush, and shouted - 
+    Her cheerful friend saw her looking, stopped his brush, and shouted -
 
     "If you want to ask for edification on these things of moment, there's a very earnest good man going to preach a
     charity-sermon to-day in the parish you are going to - Mr Clare of Emminster. I'm not of his persuasion now, but he's a
@@ -2601,7 +2618,7 @@
     the immediate boundaries of Trantridge, lent Tess's supposed position, by its fearsomeness, a far higher fascination
     that it would have exercised if unhazardous.
 
-    Their interest was so deep that the younger ones whispered when her back was turned - 
+    Their interest was so deep that the younger ones whispered when her back was turned -
 
     "How pretty she is; and how that best frock do set her off! I believe it cost an immense deal, and that it was a gift
     from him."
@@ -3009,7 +3026,7 @@
     to sinner, but as you yourself to me myself - poor me!"
 
     How the Vicar reconciled his answer with the strict notions he supposed himself to hold on these subjects it is beyond a
-    layman's power to tell, though not to excuse. Somewhat moved, he said in this case also - 
+    layman's power to tell, though not to excuse. Somewhat moved, he said in this case also -
 
     "It will be just the same."
 
@@ -3248,7 +3265,7 @@
 
     Dairyman Dick
 
-    All the week: - 
+    All the week: -
 
     On Sundays Mister Richard Crick.
 
@@ -3336,7 +3353,7 @@
     their usual yield; and the band of milkers at this request burst into melody - in purely business-like tones, it is
     true, and with no great spontaneity; the result, according to their own belief, being a decided improvement during the
     song's continuance. When they had gone through fourteen or fifteen verses of a cheerful ballad about a murderer who was
-    afraid to go to bed in the dark because he saw certain brimstone flames around him, one of the male milkers said - 
+    afraid to go to bed in the dark because he saw certain brimstone flames around him, one of the male milkers said -
 
     "I wish singing on the stoop didn't use up so much of a man's wind! You should get your harp, sir; not but what a fiddle
     is best."
@@ -3758,7 +3775,7 @@
 
     "Come, Tess, tell me in confidence."
 
-    She thought that he meant what were the aspects of things to her, and replied shyly - 
+    She thought that he meant what were the aspects of things to her, and replied shyly -
 
     "The trees have inquisitive eyes, haven't they? - that is, seem as if they had. And the river says, - 'Why do ye trouble
     me with your looks?' And you seem to see numbers of to-morrows just all in a line, the first of them the biggest and
@@ -4025,7 +4042,7 @@
     The dairyman paused, and one or two words of comment came from the listeners.
 
     Dairyman Crick's stories often seemed to be ended when they were not really so, and strangers were betrayed into
-    premature interjections of finality; though old friends knew better. The narrator went on - 
+    premature interjections of finality; though old friends knew better. The narrator went on -
 
     "Well, how the old woman should have had the wit to guess it I could never tell, but she found out that he was inside
     that there churn. Without saying a word she took hold of the winch (it was turned by handpower then), and round she
@@ -4042,7 +4059,7 @@
     "How warm 'tis to-day!" she said, almost inaudibly.
 
     It was warm, and none of them connected her withdrawal with the reminiscences of the dairyman. He went forward and
-    opened the door for her, saying with tender raillery - 
+    opened the door for her, saying with tender raillery -
 
     "Why, maidy" (he frequently, with unconscious irony, gave her this pet name), "the prettiest milker I've got in my
     dairy; you mustn't get so fagged as this at the first breath of summer weather, or we shall be finely put to for want of
@@ -4170,7 +4187,7 @@
     milking-men, and last of all Mrs Crick, who came out from the waiting breakfast-table. There certainly was a twang.
 
     The dairyman, who had thrown himself into abstraction to better realize the taste, and so divine the particular species
-    of noxious weed to which it appertained, suddenly exclaimed - 
+    of noxious weed to which it appertained, suddenly exclaimed -
 
     "'Tis garlic! and I thought there wasn't a blade left in that mead!"
 
@@ -4415,7 +4432,7 @@
     Her friends were looking with round thoughtful eyes at her and him, and she could see that they had been talking of her.
     He hastily bade them farewell, and splashed back along the stretch of submerged road.
 
-    The four moved on together as before, till Marian broke the silence by saying - 
+    The four moved on together as before, till Marian broke the silence by saying -
 
     "No - in all truth; we have no chance against her!" She looked joylessly at Tess.
 
@@ -4478,7 +4495,7 @@
 
     It was Izz Huett's voice.
 
-    Tess replied in the affirmative, whereupon also Retty and Marian suddenly flung the bedclothes off them, and sighed - 
+    Tess replied in the affirmative, whereupon also Retty and Marian suddenly flung the bedclothes off them, and sighed -
 
     "So be we!"
 
@@ -4629,11 +4646,11 @@
 
     Angel had come as pupil to this dairy in the idea that his temporary existence here was to be the merest episode in his
     life, soon passed through and early forgotten; he had come as to a place from which as from a screened alcove he could
-    calmly view the absorbing world without, and, apostrophizing it with Walt Whitman - 
+    calmly view the absorbing world without, and, apostrophizing it with Walt Whitman -
 
     Crowds of men and women attired in the usual costumes,
 
-    How curious you are to me! - 
+    How curious you are to me! -
 
     resolve upon a plan for plunging into that world anew. But behold, the absorbing scene had been imported hither. What
     had been the engrossing world had dissolved into an uninteresting outer dumb-show; while here, in this apparently dim
@@ -4878,7 +4895,7 @@
     of his head to see to all matters - some one would be necessary to superintend the domestic labours of his establishment
     whilst he was afield. Would it not be well, therefore, for him to marry?
 
-    His father seemed to think this idea not unreasonable; and then Angel put the question - 
+    His father seemed to think this idea not unreasonable; and then Angel put the question -
 
     "What kind of wife do you think would be best for me as a thrifty hard-working farmer?"
 
@@ -5130,7 +5147,7 @@
 
     "But why?"
 
-    Driven to subterfuge, she stammered - 
+    Driven to subterfuge, she stammered -
 
     "Your father is a parson, and your mother wouldn' like you to marry such as me. She will want you to marry a lady."
 
@@ -5205,7 +5222,7 @@
     Tess's look had grown hard and worn, and her ripe mouth tragical; but she no longer showed any tremulousness. Clare's
     revived thoughts of his father prevented his noticing her particularly; and so they went on down the white row of liquid
     rectangles till they had finished and drained them off, when the other maids returned, and took their pails, and Deb
-    came to scald out the leads for the new milk. As Tess withdrew to go afield to the cows he said to her softly - 
+    came to scald out the leads for the new milk. As Tess withdrew to go afield to the cows he said to her softly -
 
     "And my question, Tessy?"
 
@@ -5804,7 +5821,7 @@
     Tess wrote a most touching and urgent letter to her mother the very next day, and by the end of the week a response to
     her communication arrived in Joan Durbeyfield's wandering last-century hand.
 
-    Dear Tess, - 
+    Dear Tess, -
 
     J write these few lines Hoping they will find you well, as they leave me at Present, thank God for it. Dear Tess, we are
     all glad to Hear that you are going really to be married soon. But with respect to your question, Tess, J say between
@@ -5926,7 +5943,7 @@
     "I am not worthy of you - no, I am not!" she burst out, jumping up from her low stool as though appalled at his homage,
     and the fulness of her own joy thereat.
 
-    Clare, deeming the whole basis of her excitement to be that which was only the smaller part of it, said - 
+    Clare, deeming the whole basis of her excitement to be that which was only the smaller part of it, said -
 
     "I won't have you speak like it, dear Tess! Distinction does not consist in the facile use of a contemptible set of
     conventions, but in being numbered among those who are true, and honest, and just, and pure, and lovely, and of good
@@ -5944,7 +5961,7 @@
     "Ah - why didn't I stay!" he said. "That is just what I feel. If I had only known! But you must not be so bitter in your
     regret - why should you be?"
 
-    With the woman's instinct to hide she diverged hastily - 
+    With the woman's instinct to hide she diverged hastily -
 
     "I should have had four years more of your heart than I can ever have now. Then I should not have wasted my time as I
     have done - I should have had so much longer happiness!"
@@ -5996,7 +6013,7 @@
     "Well - if so be you hadn't told us, I am sure we shouldn't ha' noticed that ye had been sitting anywhere at all in this
     light," replied the dairyman. He continued to his wife, with the stolid mien of a man who understood nothing of the
     emotions relating to matrimony - "Now, Christianer, that shows that folks should never fancy other folks be supposing
-    things when they bain't. O no, I should never ha' thought a word of where she was a sitting to, if she hadn't told me - 
+    things when they bain't. O no, I should never ha' thought a word of where she was a sitting to, if she hadn't told me -
     not I."
 
     "We are going to be married soon," said Clare, with improvised phlegm.
@@ -6077,7 +6094,7 @@
 
     "Yes, I am," she said; "and I am ashamed at so breaking down."
 
-    When they were all in bed, and the light was out, Marian whispered across to her - 
+    When they were all in bed, and the light was out, Marian whispered across to her -
 
     "You will think of us when you be his wife, Tess, and of how we told 'ee that we loved him, and how we tried not to hate
     you, and did not hate you, and could not hate you, because you were his choice, and we never hoped to be chose by him."
@@ -6285,7 +6302,7 @@
     fitted; and, if not, to get the village sempstress to make a few alterations.
 
     She did return upstairs, and put on the gown. Alone, she stood for a moment before the glass looking at the effect of
-    her silk attire; and then there came into her head her mother's ballad of the mystic robe - 
+    her silk attire; and then there came into her head her mother's ballad of the mystic robe -
 
     That never would become that wife
 
@@ -6328,7 +6345,7 @@
 
     The man recovered himself, and seemed inclined to come on, and Clare, stepping outside the door, put himself in a
     posture of defence. But his opponent began to think better of the matter. He looked anew at Tess as he passed her, and
-    said to Clare - 
+    said to Clare -
 
     "I beg pardon, sir; 'twas a complete mistake. I thought she was another woman, forty miles from here."
 
@@ -6539,7 +6556,7 @@
     a row against the wall, pensively inclining their heads. She had much questioned if they would appear at the parting
     moment; but there they were, stoical and staunch to the last. She knew why the delicate Retty looked so fragile, and Izz
     so tragically sorrowful, and Marian so blank; and she forgot her own dogging shadow for a moment in contemplating
-    theirs. She impulsively whispered to him - 
+    theirs. She impulsively whispered to him -
 
     "Will you kiss 'em all, once, poor things, for the first and last time?"
 
@@ -6681,7 +6698,7 @@
 
     The note was for Clare, in the following words:
 
-    My dear son - 
+    My dear son -
 
     Possibly you have forgotten that on the death of your godmother, Mrs Pitney, when you were a lad, she - vain, kind woman
     that she was - left to me a portion of the contents of her jewel-case in trust for your wife, if you should ever have
@@ -6710,7 +6727,7 @@
     himself. It was but a question of vanity throughout; and if that were admitted into one side of the equation it should
     be admitted into the other. His wife was a d'Urberville: whom could they become better than her?
 
-    Suddenly he said with enthusiasm - 
+    Suddenly he said with enthusiasm -
 
     "Tess, put them on - put them on!" And he turned from the fire to help her.
 
@@ -6761,7 +6778,7 @@
     "Well, yes, sir."
 
     There was something subdued in Jonathan Kail's tone which had not been there in the day, and lines of concern were
-    ploughed upon his forehead in addition to the lines of years. He continued - 
+    ploughed upon his forehead in addition to the lines of years. He continued -
 
     "We've all been gallied at the dairy at what might ha' been a most terrible affliction since you and your Mis'ess - so
     to name her now - left us this a'ternoon. Perhaps you ha'nt forgot the cock's afternoon crow?"
@@ -6837,7 +6854,7 @@
     "You did not expect it? Ah - you thought too highly of me. Now listen. Put your head there, because I want you to
     forgive me, and not to be indignant with me for not telling you before, as perhaps I ought to have done."
 
-    How strange it was! He seemed to be her double. She did not speak, and Clare went on - 
+    How strange it was! He seemed to be her double. She did not speak, and Clare went on -
 
     "I did not mention it because I was afraid of endangering my chance of you, darling, the great prize of my life - my
     Fellowship I call you. My brother's Fellowship was won at his college, mine at Talbothays Dairy. Well, I would not risk
@@ -6854,7 +6871,7 @@
     I admired spotlessness, even though I could lay no claim to it, and hated impurity, as I hope I do now. Whatever one may
     think of plenary inspiration, one must heartily subscribe to these words of Paul: 'Be thou an example -  in word, in
     conversation, in charity, in spirit, in faith, in purity.' It is the only safeguard for us poor human beings. 'Integer
-    vitae,' says a Roman poet, who is strange company for St Paul - 
+    vitae,' says a Roman poet, who is strange company for St Paul -
 
     "The man of upright life, from frailties free,
 
@@ -6936,7 +6953,7 @@
 
     "In the name of our love, forgive me!" she whispered with a dry mouth. "I have forgiven you for the same!"
 
-    And, as he did not answer, she said again - 
+    And, as he did not answer, she said again -
 
     "Forgive me as you are forgiven! I forgive you, Angel."
 
@@ -7050,7 +7067,7 @@
     At last, however, her listless walk brought her up alongside him, and still he said nothing. The cruelty of fooled
     honesty is often great after enlightenment, and it was mighty in Clare now. The outdoor air had apparently taken away
     from him all tendency to act on impulse; she knew that he saw her without irradiation - in all her bareness; that Time
-    was chanting his satiric psalm at her then - 
+    was chanting his satiric psalm at her then -
 
     Behold, when thy face is made bare, he that loved thee shall hate;
 
@@ -7203,7 +7220,7 @@
     kindled wood rose from the chimney without like a lotus-headed column; local people who were passing by saw it, and
     thought of the newly-married couple, and envied their happiness.
 
-    Angel cast a final glance round, and then going to the foot of the stairs, called in a conventional voice - 
+    Angel cast a final glance round, and then going to the foot of the stairs, called in a conventional voice -
 
     "Breakfast is ready!"
 
@@ -7240,7 +7257,7 @@
     "Every word."
 
     He looked at her imploringly, as if he would willingly have taken a lie from her lips, knowing it to be one, and have
-    made of it, by some sort of sophistry, a valid denial. However, she only repeated - 
+    made of it, by some sort of sophistry, a valid denial. However, she only repeated -
 
     "It is true."
 
@@ -7407,14 +7424,14 @@
     occasion did she - the formerly free and independent Tess - venture to make any advances. It was on the third occasion
     of his starting after a meal to go out to the flour-mill. As he was leaving the table he said "Goodbye," and she replied
     in the same words, at the same time inclining her mouth in the way of his. He did not avail himself of the invitation,
-    saying, as he turned hastily aside - 
+    saying, as he turned hastily aside -
 
     "I shall be home punctually."
 
     Tess shrank into herself as if she had been struck. Often enough had he tried to reach those lips against her
     consent - often had he said gaily that her mouth and breath tasted of the butter and eggs and milk and honey on which
     she mainly lived, that he drew sustenance from them, and other follies of that sort. But he did not care for them now.
-    He observed her sudden shrinking, and said gently - 
+    He observed her sudden shrinking, and said gently -
 
     "You know, I have to think of a course. It was imperative that we should stay together a little while, to avoid the
     scandal to you that would have resulted from our immediate parting. But you must see it is only for form's sake."
@@ -7524,7 +7541,7 @@
     substance to the conception, the flesh to the spirit. Propensities, tendencies, habits, were as dead leaves upon the
     tyrannous wind of his imaginative ascendency.
 
-    He may have observed her look, for he explained - 
+    He may have observed her look, for he explained -
 
     "I think of people more kindly when I am away from them"; adding cynically, "God knows; perhaps we will shake down
     together some day, for weariness; thousands have done it!"
@@ -7549,7 +7566,7 @@
     usual, was loosely nailed. She saw the door of her bedroom open, and the figure of her husband crossed the stream of
     moonlight with a curiously careful tread. He was in his shirt and trousers only, and her first flush of joy died when
     she perceived that his eyes were fixed in an unnatural stare on vacancy. When he reached the middle of the room he stood
-    still and murmured in tones of indescribable sadness - 
+    still and murmured in tones of indescribable sadness -
 
     "Dead! dead! dead!"
 
@@ -7566,7 +7583,7 @@
 
     After fixedly regarding her for some moments with the same gaze of unmeasurable woe, he bent lower, enclosed her in his
     arms, and rolled her in the sheet as in a shroud. Then lifting her from the bed with as much respect as one would show
-    to a dead body, he carried her across the room, murmuring - 
+    to a dead body, he carried her across the room, murmuring -
 
     "My poor, poor Tess - my dearest, darling Tess! So sweet, so good, so true!"
 
@@ -7641,7 +7658,7 @@
     was over.
 
     It suddenly occurred to her to try persuasion; and accordingly she whispered in his ear, with as much firmness and
-    decision as she could summon - 
+    decision as she could summon -
 
     "Let us walk on, darling," at the same time taking him suggestively by the arm. To her relief, he unresistingly
     acquiesced; her words had apparently thrown him back into his dream, which thenceforward seemed to enter on a new phase,
@@ -7710,7 +7727,7 @@
     outwardly were, his arm touching hers, her skirts touching him, facing one way, as against all the dairy facing the
     other, speaking in their adieux as "we", and yet sundered like the poles. Perhaps something unusually stiff and
     embarrassed in their attitude, some awkwardness in acting up to their profession of unity, different from the natural
-    shyness of young couples, may have been apparent, for when they were gone Mrs Crick said to her husband - 
+    shyness of young couples, may have been apparent, for when they were gone Mrs Crick said to her husband -
 
     "How onnatural the brightness of her eyes did seem, and how they stood like waxen images and talked as if they were in a
     dream! Didn't it strike 'ee that 'twas so? Tess had always sommat strange in her, and she's not now quite like the proud
@@ -7764,7 +7781,7 @@
     The fly moved creepingly up a hill, and Clare watched it go with an unpremeditated hope that Tess would look out of the
     window for one moment. But that she never thought of doing, would not have ventured to do, lying in a half-dead faint
     inside. Thus he beheld her recede, and in the anguish of his heart quoted a line from a poet, with peculiar emendations
-    of his own - 
+    of his own -
 
     God's not in his heaven:
 
@@ -7802,7 +7819,7 @@
 
     She did not reach the house unobserved. Just by the garden-hedge she was met by a girl who knew her - one of the two or
     three with whom she had been intimate at school. After making a few inquiries as to how Tess came there, her friend,
-    unheeding her tragic look, interrupted with - 
+    unheeding her tragic look, interrupted with -
 
     "But where's thy gentleman, Tess?"
 
@@ -8039,7 +8056,7 @@
     life."
 
     His father was less inquisitive; but when the time came for the chapter from the Bible which was always read before
-    evening prayers, the Vicar observed to Mrs Clare - 
+    evening prayers, the Vicar observed to Mrs Clare -
 
     "I think, since Angel has come, that it will be more appropriate to read the thirty-first of Proverbs than the chapter
     which we should have had in the usual course of our reading?"
@@ -8049,7 +8066,7 @@
     to be reminded to apply the words to the absent one. May Heaven shield her in all her ways!"
 
     A lump rose in Clare's throat. The portable lectern was taken out from the corner and set in the middle of the
-    fireplace, the two old servants came in, and Angel's father began to read at the tenth verse of the aforesaid chapter - 
+    fireplace, the two old servants came in, and Angel's father began to read at the tenth verse of the aforesaid chapter -
 
     "Who can find a virtuous woman? for her price is far above rubies. She riseth while it is yet night, and giveth meat to
     her household. She girdeth her loins with strength and strengtheneth her arms. She perceiveth that her merchandise is
@@ -8057,7 +8074,7 @@
     idleness. Her children arise up and call her blessed; her husband also, and he praiseth her. Many daughters have done
     virtuously, but thou excellest them all."
 
-    When prayers were over, his mother said - 
+    When prayers were over, his mother said -
 
     "I could not help thinking how very aptly that chapter your dear father read applied, in some of its particulars, to the
     woman you have chosen. The perfect woman, you see, was a working woman; not an idler; not a fine lady; but one who used
@@ -8471,7 +8488,7 @@
 
     The lane was long and unvaried, and, owing to the rapid shortening of the days, dusk came upon her before she was aware.
     She had reached the top of a hill down which the lane stretched its serpentine length in glimpses, when she heard
-    footsteps behind her back, and in a few moments she was overtaken by a man. He stepped up alongside Tess and said - 
+    footsteps behind her back, and in a few moments she was overtaken by a man. He stepped up alongside Tess and said -
 
     "Good night, my pretty maid": to which she civilly replied.
 
@@ -8576,7 +8593,7 @@
     Thus Tess walks on; a figure which is part of the landscape; a fieldwoman pure and simple, in winter guise; a gray serge
     cape, a red woollen cravat, a stuff skirt covered by a whitey-brown rough wrapper, and buff-leather gloves. Every thread
     of that old attire has become faded and thin under the stroke of raindrops, the burn of sunbeams, and the stress of
-    winds. There is no sign of young passion in her now - 
+    winds. There is no sign of young passion in her now -
 
     The maiden's mouth is cold
 
@@ -9223,7 +9240,7 @@
     closed side of the barn. The sermon, as might be expected, was of the extremest antinomian type; on justification by
     faith, as expounded in the theology of St Paul. This fixed idea of the rhapsodist was delivered with animated
     enthusiasm, in a manner entirely declamatory, for he had plainly no skill as a dialectician. Although Tess had not heard
-    the beginning of the address, she learnt what the text had been from its constant iteration - 
+    the beginning of the address, she learnt what the text had been from its constant iteration -
 
     "O foolish galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath
     been evidently set forth, crucified among you?"
@@ -9535,7 +9552,7 @@
     the presence of the grinder seemed to embarrass him. A pale distress was already on Tess's face, and she pulled her
     curtained hood further over it.
 
-    D'Urberville came up and said quietly - 
+    D'Urberville came up and said quietly -
 
     "I want to speak to you, Tess."
 
@@ -10049,7 +10066,7 @@
     "What - you have given up your preaching entirely?" she asked. She had gathered from Angel sufficient of the incredulity
     of modern thought to despise flash enthusiasm; but, as a woman, she was somewhat appalled.
 
-    In affected severity d'Urberville continued - 
+    In affected severity d'Urberville continued -
 
     "Entirely. I have broken every engagement since that afternoon I was to address the drunkards at Casterbridge Fair. The
     deuce only knows what I am thought of by the brethren. Ah-ha! The brethren! No doubt they pray for me - weep for me; for
@@ -10245,9 +10262,9 @@
 
     He did not accompany her further, since, as she lived with the household, all was public indoors. No sooner had she
     herself entered, laved herself in a washing-tub, and shared supper with the family than she fell into thought, and
-    withdrawing to the table under the wall, by the light of her own little lamp wrote in a passionate mood - 
+    withdrawing to the table under the wall, by the light of her own little lamp wrote in a passionate mood -
 
-    My own Husband, - 
+    My own Husband, -
 
     Let me call you so - I must - even if it makes you angry to think of such an unworthy wife as I. I must cry to you in my
     trouble - I have no one else! I am so exposed to temptation, Angel. I fear to say who it is, and I do not like to write
@@ -10294,7 +10311,7 @@
 
     The daylight has nothing to show me, since you are not here, and I don't like to see the rooks and starlings in the
     field, because I grieve and grieve to miss you who used to see them with me. I long for only one thing in heaven or
-    earth or under the earth, to meet you, my own dear! Come to me - come to me, and save me from what threatens me! - 
+    earth or under the earth, to meet you, my own dear! Come to me - come to me, and save me from what threatens me! -
 
     Your faithful heartbroken
 
@@ -10612,7 +10629,7 @@
 
     "A jester might say this is just like Paradise. You are Eve, and I am the old Other One come to tempt you in the
     disguise of an inferior animal. I used to be quite up in that scene of Milton's when I was theological. Some of it
-    goes - 
+    goes -
 
     "'Empress, the way is ready, and not long,
 
@@ -10690,7 +10707,7 @@
     better, but they think father is dead!"
 
     The child realized the grandeur of the news; but not as yet its sadness, and stood looking at Tess with round-eyed
-    importance till, beholding the effect produced upon her, she said - 
+    importance till, beholding the effect produced upon her, she said -
 
     "What, Tess, shan't we talk to father never no more?"
 
@@ -10828,7 +10845,7 @@
     am your friend, even if you won't believe it. Come to this cottage of mine. We'll get up a regular colony of fowls, and
     your mother can attend to them excellently; and the children can go to school."
 
-    Tess breathed more and more quickly, and at length she said - 
+    Tess breathed more and more quickly, and at length she said -
 
     "How do I know that you would do all this? Your views may change - and then - we should be - my mother would
     be - homeless again."
@@ -10907,7 +10924,7 @@
     "Anything you know; I don't mind."
 
     There was a momentary pause; it was broken, first, in one little tentative note; then a second voice strengthened it,
-    and a third and a fourth chimed in unison, with words they had learnt at the Sunday-school - 
+    and a third and a fourth chimed in unison, with words they had learnt at the Sunday-school -
 
     Here we suffer grief and pain,
 
@@ -10924,7 +10941,7 @@
     as though to peer into the gloom. It was really to hide her tears. If she could only believe what the children were
     singing; if she were only sure, how different all would now be; how confidently she would leave them to Providence and
     their future kingdom! But, in default of that, it behoved her to do something; to be their Providence; for to Tess, as
-    to not a few millions of others, there was ghastly satire in the poet's lines - 
+    to not a few millions of others, there was ghastly satire in the poet's lines -
 
     Not in utter nakedness
 
@@ -10940,7 +10957,7 @@
 
     "No," said Tess.
 
-    The children by the fire looked gravely at her, and one murmured - 
+    The children by the fire looked gravely at her, and one murmured -
 
     "Why, Tess, the gentleman a-horseback!"
 
@@ -11146,7 +11163,7 @@
     "I will - I'll look for your mother," said he blandly. But in passing her he whispered: "Mind this; you'll be civil
     yet!"
 
-    When he was gone she bent down upon the entrance to the vaults, and said - 
+    When he was gone she bent down upon the entrance to the vaults, and said -
 
     "Why am I on the wrong side of this door!"
 
@@ -11167,7 +11184,7 @@
     had learnt nothing more of Tess. Upon that, agitated anew by their attachment to him, yet honourably disposed to her,
     Marian uncorked the penny ink-bottle they shared, and a few lines were concocted between the two girls.
 
-    Honour'd Sir - 
+    Honour'd Sir -
 
     Look to your Wife if you do love her as much as she do love you. For she is sore put to by an Enemy in the shape of a
     Friend. Sir, there is one near her who ought to be Away. A woman should not be try'd beyond her Strength, and continual
@@ -11275,7 +11292,7 @@
 
     J write these few lines to say that my Daughter is away from me at present, and J am not sure when she will return, but
     J will let you know as Soon as she do. J do not feel at liberty to tell you Where she is temperly biding. J should say
-    that me and my Family have left Marlott for some Time. - 
+    that me and my Family have left Marlott for some Time. -
 
     Yours,
 
@@ -11312,7 +11329,7 @@
     poverty, had not engendered, was instantly excited by her sin.
 
     Whilst he was hastily packing together a few articles for his journey he glanced over a poor plain missive also lately
-    come to hand - the one from Marian and Izz Huett, beginning - 
+    come to hand - the one from Marian and Izz Huett, beginning -
 
     "Honour'd Sir, Look to your Wife if you do love her as much as she do love you," and signed, "From Two Well-Wishers."
 
@@ -11372,7 +11389,7 @@
     rest. The inscription ran thus:
 
     In memory of John Durbeyfield, rightly d'Urberville, of the once powerful family of that Name, and Direct Descendant
-    through an illustrious Line from Sir Pagan d'Urberville, one of the Knights of the Conqueror. Died March 10th, 18 - 
+    through an illustrious Line from Sir Pagan d'Urberville, one of the Knights of the Conqueror. Died March 10th, 18 -
 
     How Are the Mighty Fallen.
 
@@ -11421,13 +11438,13 @@
     "Well, she is not there now."
 
     In her evasiveness she paused again, and the younger children had by this time crept to the door, where, pulling at his
-    mother's skirts, the youngest murmured - 
+    mother's skirts, the youngest murmured -
 
     "Is this the gentleman who is going to marry Tess?"
 
     "He has married her," Joan whispered. "Go inside."
 
-    Clare saw her efforts for reticence, and asked - 
+    Clare saw her efforts for reticence, and asked -
 
     "Do you think Tess would wish me to try and find her? If not, of course - "
 
@@ -11444,7 +11461,7 @@
     "That's very likely, sir; for I have never really known her."
 
     "Please tell me her address, Mrs Durbeyfield, in kindness to a lonely wretched man!" Tess's mother again restlessly
-    swept her cheek with her vertical hand, and seeing that he suffered, she at last said, is a low voice - 
+    swept her cheek with her vertical hand, and seeing that he suffered, she at last said, is a low voice -
 
     "She is at Sandbourne."
 
@@ -11500,7 +11517,7 @@
 
     "Do you know the address of a Mrs Clare?" asked Angel. The postman shook his head.
 
-    Then, remembering that she would have been likely to continue the use of her maiden name, Clare said - 
+    Then, remembering that she would have been likely to continue the use of her maiden name, Clare said -
 
     "Of a Miss Durbeyfield?"
 
@@ -11591,7 +11608,7 @@
     Clare looked at her keenly, then, gathering her meaning, flagged like one plague-stricken, and his glance sank; it fell
     on her hands, which, once rosy, were now white and more delicate.
 
-    She continued - 
+    She continued -
 
     "He is upstairs. I hate him now, because he told me a lie - that you would not come again; and you have come! These
     clothes are what he's put upon me: I didn't care what he did wi' me! But - will you go away, Angel, please, and never
@@ -11632,11 +11649,11 @@
     the drawing-room there came sounds.
 
     All that she could at first distinguish of them was one syllable, continually repeated in a low note of moaning, as if
-    it came from a soul bound to some Ixionian wheel - 
+    it came from a soul bound to some Ixionian wheel -
 
     "O - O - O!"
 
-    Then a silence, then a heavy sigh, and again - 
+    Then a silence, then a heavy sigh, and again -
 
     "O - O - O!"
 
@@ -11647,7 +11664,7 @@
     feet, from which the slippers had fallen, protruded upon the carpet. It was from her lips that came the murmur of
     unspeakable despair.
 
-    Then a man's voice from the adjoining bedroom - 
+    Then a man's voice from the adjoining bedroom -
 
     "What's the matter?"
 
@@ -11792,7 +11809,7 @@
     It was very terrible if true; if a temporary hallucination, sad. But, anyhow, here was this deserted wife of his, this
     passionately-fond woman, clinging to him without a suspicion that he would be anything to her but a protector. He saw
     that for him to be otherwise was not, in her mind, within the region of the possible. Tenderness was absolutely dominant
-    in Clare at last. He kissed her endlessly with his white lips, and held her hand, and said - 
+    in Clare at last. He kissed her endlessly with his white lips, and held her hand, and said -
 
     "I will not desert you! I will protect you by every means in my power, dearest love, whatever you may have done or not
     have done!"
@@ -11807,7 +11824,7 @@
     but plunged still farther under the firs, which here abounded for miles. Each clasping the other round the waist they
     promenaded over the dry bed of fir-needles, thrown into a vague intoxicating atmosphere at the consciousness of being
     together at last, with no living soul between them; ignoring that there was a corpse. Thus they proceeded for several
-    miles till Tess, arousing herself, looked about her, and said, timidly - 
+    miles till Tess, arousing herself, looked about her, and said, timidly -
 
     "Are we going anywhere in particular?"
 
@@ -12003,7 +12020,7 @@
     one adjoining. At an indefinite height overhead something made the black sky blacker, which had the semblance of a vast
     architrave uniting the pillars horizontally. They carefully entered beneath and between; the surfaces echoed their soft
     rustle; but they seemed to be still out of doors. The place was roofless. Tess drew her breath fearfully, and Angel,
-    perplexed, said - 
+    perplexed, said -
 
     "What can it be?"
 

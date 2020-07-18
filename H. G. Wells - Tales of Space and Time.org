@@ -1,9 +1,10 @@
+#+TILE: Tales of Space and Time
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#tales-of-space-and-time][Tales of Space and Time]]
   - [[#h-g-wells][H. G. Wells]]
   - [[#part-1---the-crystal-egg][Part 1 - THE CRYSTAL EGG]]

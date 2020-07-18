@@ -1,9 +1,10 @@
+#+TILE: Dreams in the Witch-House
+
 * Table of Contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore this
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#dreams-in-the-witch-house][Dreams in the Witch-House]]
   - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
   - [[#story][Story]]

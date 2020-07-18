@@ -1,3 +1,14 @@
+#+TILE: Mrs Dalloway
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#mrs-dalloway][Mrs Dalloway]]
+  - [[#virginia-woolf][Virginia Woolf]]
+  - [[#mrs-dalloway][Mrs Dalloway]]
+:END:
 * Mrs Dalloway
 ** Virginia Woolf
    *Published:* 1925
@@ -17,7 +28,7 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 ** Mrs Dalloway
-   
+
    Mrs. Dalloway said she would buy the flowers herself.
 
    For Lucy had her work cut out for her. The doors would be taken off their hinges; Rumpelmayer's men were coming. And
@@ -388,9 +399,9 @@
    extraordinary silence and peace, in this pallor, in this purity, bells struck eleven times, the sound fading up there
    among the gulls.
 
-   The aeroplane turned and raced and swooped exactly where it liked, swiftly, freely, like a skater - 
+   The aeroplane turned and raced and swooped exactly where it liked, swiftly, freely, like a skater -
 
-   "That's an E," said Mrs. Bletchley - or a dancer - 
+   "That's an E," said Mrs. Bletchley - or a dancer -
 
    "It's toffee," murmured Mr. Bowley - (and the car went in at the gates and nobody looked at it), and shutting off the
    smoke, away and away it rushed, and the smoke faded and assembled itself round the broad white shapes of the clouds.
@@ -428,7 +439,7 @@
    own body, there on the seat, fanned it up and down; when the branch stretched he, too, made that statement. The sparrows
    fluttering, rising, and falling in jagged fountains were part of the pattern; the white and blue, barred with black
    branches. Sounds made harmonies with premeditation; the spaces between them were as significant as the sounds. A child
-   cried. Rightly far away a horn sounded. All taken together meant the birth of a new religion - 
+   cried. Rightly far away a horn sounded. All taken together meant the birth of a new religion -
 
    "Septimus!" said Rezia. He started violently. People must notice.
 
@@ -579,7 +590,7 @@
    pay back from this secret deposit of exquisite moments, she thought, lifting the pad, while Lucy stood by her, trying to
    explain how
 
-   "Mr. Dalloway, ma'am" - 
+   "Mr. Dalloway, ma'am" -
 
    Clarissa read on the telephone pad, "Lady Bruton wishes to know if Mr. Dalloway will lunch with her to-day."
 
@@ -1105,7 +1116,7 @@
    as if the random uproar of the traffic had whispered through hollowed hands his name, not Peter, but his private name
    which he called himself in his own thoughts. "You," she said, only "you," saying it with her white gloves and her
    shoulders. Then the thin long cloak which the wind stirred as she walked past Dent's shop in Cockspur Street blew out
-   with an enveloping kindness, a mournful tenderness, as of arms that would open and take the tired - 
+   with an enveloping kindness, a mournful tenderness, as of arms that would open and take the tired -
 
    But she's not married; she's young; quite young, thought Peter, the red carnation he had seen her wear as she came
    across Trafalgar Square burning again in his eyes and making her lips red. But she waited at the kerbstone. There was a
@@ -1460,7 +1471,7 @@
    The word "time" split its husk; poured its riches over him; and from his lips fell like shells, like shavings from a
    plane, without his making them, hard, white, imperishable words, and flew to attach themselves to their places in an ode
    to Time; an immortal ode to Time. He sang. Evans answered from behind the tree. The dead were in Thessaly, Evans sang,
-   among the orchids. There they waited till the War was over, and now the dead, now Evans himself - 
+   among the orchids. There they waited till the War was over, and now the dead, now Evans himself -
 
    "For God's sake don't come!" Septimus cried out. For he could not look upon the dead.
 
@@ -1469,12 +1480,12 @@
    suit came nearer), raising his hand like some colossal figure who has lamented the fate of man for ages in the desert
    alone with his hands pressed to his forehead, furrows of despair on his cheeks, and now sees light on the desert's edge
    which broadens and strikes the iron-black figure (and Septimus half rose from his chair), and with legions of men
-   prostrate behind him he, the giant mourner, receives for one moment on his face the whole - 
+   prostrate behind him he, the giant mourner, receives for one moment on his face the whole -
 
    "But I am so unhappy, Septimus," said Rezia trying to make him sit down.
 
    The millions lamented; for ages they had sorrowed. He would turn round, he would tell them in a few moments, only a few
-   moments more, of this relief, of this joy, of this astonishing revelation - 
+   moments more, of this relief, of this joy, of this astonishing revelation -
 
    "The time, Septimus," Rezia repeated. "What is the time?"
 
@@ -1679,7 +1690,7 @@
 
    ee um fah um so
 
-   foo swee too eem oo - 
+   foo swee too eem oo -
 
 
    the voice of no age or sex, the voice of an ancient spring spouting from the earth; which issued, just opposite Regent's
@@ -1720,7 +1731,7 @@
    one should see, what matter they?" she demanded; and her fist clutched at her side, and she smiled, pocketing her
    shilling, and all peering inquisitive eyes seemed blotted out, and the passing generations - the pavement was crowded
    with bustling middle-class people - vanished, like leaves, to be trodden under, to be soaked and steeped and made mould
-   of by that eternal spring - 
+   of by that eternal spring -
 
 
    ee um fah um so
@@ -1902,7 +1913,7 @@
    thought Rezia. When he felt like that he went to the Music Hall, said Dr. Holmes. He took a day off with his wife and
    played golf. Why not try two tabloids of bromide dissolved in a glass of water at bedtime? These old Bloomsbury houses,
    said Dr. Holmes, tapping the wall, are often full of very fine panelling, which the landlords have the folly to paper
-   over. Only the other day, visiting a patient, Sir Somebody Something in Bedford Square - 
+   over. Only the other day, visiting a patient, Sir Somebody Something in Bedford Square -
 
    So there was no excuse; nothing whatever the matter, except the sin for which human nature had condemned him to death;
    that he did not feel. He had not cared when Evans was killed; that was worst; but all the other crimes raised their
@@ -2213,7 +2224,7 @@
    what occasion. But he had been - remarkably kind. Anyhow, the difference between one man and another does not amount to
    much. She had never seen the sense of cutting people up, as Clarissa Dalloway did - cutting them up and sticking them
    together again; not at any rate when one was sixty-two. She took Hugh's carnations with her angular grim smile. There
-   was nobody else coming, she said. She had got them there on false pretences, to help her out of a difficulty - 
+   was nobody else coming, she said. She had got them there on false pretences, to help her out of a difficulty -
 
    "But let us eat first," she said.
 

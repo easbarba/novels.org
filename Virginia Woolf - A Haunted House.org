@@ -1,3 +1,14 @@
+#+TILE: A Haunted House
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2 :ignore (this)
+  :END:
+:CONTENTS:
+- [[#a-haunted-house][A Haunted House]]
+  - [[#virginia-woolf][Virginia Woolf]]
+  - [[#story][Story]]
+:END:
 * A Haunted House
 ** Virginia Woolf
    *Published:* 1921

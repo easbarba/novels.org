@@ -1,10 +1,10 @@
+#+TILE: The Count of Monte Cristo
 
-* Table of Contents
+* Table of contents
   :PROPERTIES:
-  :TOC:      :include all :depth 2
+  :TOC:      :include all :depth 2 :ignore (this)
   :END:
 :CONTENTS:
-- [[#table-of-contents][Table of Contents]]
 - [[#the-count-of-monte-cristo][The Count of Monte Cristo]]
   - [[#alexandre-dumas][Alexandre Dumas]]
   - [[#chapter-1-marseilles---the-arrival][Chapter 1 Marseilles - The Arrival.]]
@@ -125,6 +125,7 @@
   - [[#chapter-116-the-pardon][Chapter 116 The Pardon.]]
   - [[#chapter-117-the-fifth-of-october][Chapter 117 The Fifth of October.]]
 :END:
+
 * The Count of Monte Cristo
 ** Alexandre Dumas
    *Published:* 1845
