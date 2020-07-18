@@ -1,3 +1,39 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#dracula][Dracula]]
+  - [[#bram-stoker][Bram Stoker]]
+  - [[#chapter-1-jonathan-harkers-journal][Chapter 1 Jonathan Harker's Journal]]
+  - [[#chapter-2-jonathan-harkers-journal-continued][Chapter 2 Jonathan Harker's Journal Continued]]
+  - [[#chapter-3-jonathan-harkers-journal-continued][Chapter 3 Jonathan Harker's Journal Continued]]
+  - [[#chapter-4-jonathan-harkers-journal-continued][Chapter 4 Jonathan Harker's Journal Continued]]
+  - [[#chapter-5-letter-from-miss-mina-murray-to-miss-lucy-westenra][Chapter 5 Letter from Miss Mina Murray to Miss Lucy Westenra]]
+  - [[#chapter-6-mina-murrays-journal][Chapter 6 Mina Murray's Journal]]
+  - [[#chapter-7-cutting-from-the-dailygraph-8-august][Chapter 7 Cutting from "The Dailygraph," 8 August]]
+  - [[#chapter-8-mina-murrays-journal][Chapter 8 Mina Murray's Journal]]
+  - [[#chapter-9-letter-mina-harker-to-lucy-westenra][Chapter 9 Letter, Mina Harker to Lucy Westenra]]
+  - [[#chapter-10-letter-dr-seward-to-hon-arthur-holmwood][Chapter 10 Letter, Dr. Seward to Hon. Arthur Holmwood]]
+  - [[#chapter-11-lucy-westenras-diary][Chapter 11 Lucy Westenra's Diary]]
+  - [[#chapter-12-dr-sewards-diary][Chapter 12 Dr. Seward's Diary]]
+  - [[#chapter-13-dr-sewards-diary---cont][Chapter 13 Dr. Seward's Diary - cont.]]
+  - [[#chapter-14-mina-harkers-journal][Chapter 14 Mina Harker's Journal]]
+  - [[#chapter-15-dr-sewards-diary---cont][Chapter 15 Dr. Seward's Diary - cont.]]
+  - [[#chapter-16-dr-sewards-diary---cont][Chapter 16 Dr. Seward's Diary - cont.]]
+  - [[#chapter-17-dr-sewards-diary---cont][Chapter 17 Dr. Seward's Diary - cont.]]
+  - [[#chapter-18-dr-sewards-diary][Chapter 18 Dr. Seward's Diary]]
+  - [[#chapter-19-jonathan-harkers-journal][Chapter 19 Jonathan Harker's Journal]]
+  - [[#chapter-20-jonathan-harkers-journal][Chapter 20 Jonathan Harker's Journal]]
+  - [[#chapter-21-dr-sewards-diary][Chapter 21 Dr. Seward's Diary]]
+  - [[#chapter-22-jonathan-harkers-journal][Chapter 22 Jonathan Harker's Journal]]
+  - [[#chapter-23-dr-sewards-diary][Chapter 23 Dr. Seward's Diary]]
+  - [[#chapter-24-dr-sewards-phonograph-diary][Chapter 24 Dr. Seward's Phonograph Diary]]
+  - [[#chapter-25-dr-sewards-diary][Chapter 25 Dr. Seward's Diary]]
+  - [[#chapter-26-dr-sewards-diary][Chapter 26 Dr. Seward's Diary]]
+  - [[#chapter-27-mina-harkers-journal][Chapter 27 Mina Harker's Journal]]
+:END:
 * Dracula
 ** Bram Stoker
    *Published:* 1897
@@ -304,7 +340,7 @@
    the steam from the horses of the coach by the light of the lamps, and projected against it the figures of my late
    companions crossing themselves. Then the driver cracked his whip and called to his horses, and off they swept on their
    way to Bukovina. As they sank into the darkness I felt a strange chill, and a lonely feeling come over me. But a cloak
-   was thrown over my shoulders, and a rug across my knees, and the driver said in excellent German - 
+   was thrown over my shoulders, and a rug across my knees, and the driver said in excellent German -
 
    "The night is chill, mein Herr, and my master the Count bade me take all care of you. There is a flask of slivovitz (the
    plum brandy of the country) underneath the seat, if you should require it."
@@ -514,7 +550,7 @@
    7 May. - It is again early morning, but I have rested and enjoyed the last twenty-four hours. I slept till late in the
    day, and awoke of my own accord. When I had dressed myself I went into the room where we had supped, and found a cold
    breakfast laid out, with coffee kept hot by the pot being placed on the hearth. There was a card on the table, on which
-   was written - 
+   was written -
 
    "I have to be absent for a while. Do not wait for me. D." I set to and enjoyed a hearty meal. When I had done, I looked
    for a bell, so that I might let the servants know I had finished, but I could not find one. There are certainly odd
@@ -2589,7 +2625,7 @@
 
    17 August
 
-   "Dear Sirs,  - 
+   "Dear Sirs,  -
 
    "Herewith please receive invoice of goods sent by Great Northern Railway. Same are to be delivered at Carfax, near
    Purfleet, immediately on receipt at goods station King's Cross. The house is at present empty, but enclosed please find
@@ -2613,7 +2649,7 @@
 
    21 August.
 
-   "Dear Sirs, - 
+   "Dear Sirs, -
 
    "We beg to acknowledge 10 pounds received and to return cheque of 1 pound, 17s, 9d, amount of overplus, as shown in
    receipted account herewith. Goods are delivered in exact accordance with instructions, and keys left in parcel in main

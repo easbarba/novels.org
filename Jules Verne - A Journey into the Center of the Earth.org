@@ -1,3 +1,57 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#a-journey-into-the-center-of-the-earth][A Journey into the Center of the Earth]]
+  - [[#jules-verne][Jules Verne]]
+  - [[#chapter-1-the-professor-and-his-family][Chapter 1 The Professor and His Family]]
+  - [[#chapter-2-a-mystery-to-be-solved-at-any-price][Chapter 2 A Mystery to Be Solved at Any Price]]
+  - [[#chapter-3-the-runic-writing-exercises-the-professor][Chapter 3 The Runic Writing Exercises the Professor]]
+  - [[#chapter-4-the-enemy-to-be-starved-into-submission][Chapter 4 The Enemy to Be Starved into Submission]]
+  - [[#chapter-5-famine-then-victory-followed-by-dismay][Chapter 5 Famine, Then Victory, Followed by Dismay]]
+  - [[#chapter-6-exciting-discussions-about-an-unparalleled-enterprise][Chapter 6 Exciting Discussions about an Unparalleled Enterprise]]
+  - [[#chapter-7-a-womans-courage][Chapter 7 A Woman's Courage]]
+  - [[#chapter-8-serious-preparations-for-vertical-descent][Chapter 8 Serious Preparations for Vertical Descent]]
+  - [[#chapter-9-iceland-but-what-next][Chapter 9 Iceland! But What Next?]]
+  - [[#chapter-10-interesting-conversations-with-icelandic-savants][Chapter 10 Interesting Conversations with Icelandic Savants]]
+  - [[#chapter-11-a-guide-found-to-the-centre-of-the-earth][Chapter 11 A Guide Found to the Centre of the Earth]]
+  - [[#chapter-12-a-barren-land][Chapter 12 A Barren Land]]
+  - [[#chapter-13-hospitality-under-the-arctic-circle][Chapter 13 Hospitality under the Arctic Circle]]
+  - [[#chapter-14-but-arctics-can-be-inhospitable-too][Chapter 14 But Arctics can be Inhospitable, Too]]
+  - [[#chapter-15-snæfell-at-last][Chapter 15 Snæfell at Last]]
+  - [[#chapter-16-boldly-down-the-crater][Chapter 16 Boldly down the Crater]]
+  - [[#chapter-17-vertical-descent][Chapter 17 Vertical Descent]]
+  - [[#chapter-18-the-wonders-of-terrestrial-depths][Chapter 18 The Wonders of Terrestrial Depths]]
+  - [[#chapter-19-geological-studies-in-situ][Chapter 19 Geological Studies in Situ]]
+  - [[#chapter-20-the-first-signs-of-distress][Chapter 20 The First Signs of Distress]]
+  - [[#chapter-21-compassion-fuses-the-professors-heart][Chapter 21 Compassion Fuses the Professor's Heart]]
+  - [[#chapter-22-total-failure-of-water][Chapter 22 Total Failure of Water]]
+  - [[#chapter-23-water-discovered][Chapter 23 Water Discovered]]
+  - [[#chapter-24-well-said-old-mole-canst-thou-work-i-the-ground-so-fast][Chapter 24 Well Said, Old Mole! Canst Thou Work I' the Ground So Fast?]]
+  - [[#chapter-25-de-profundis][Chapter 25 De Profundis]]
+  - [[#chapter-26-the-worst-peril-of-all][Chapter 26 The Worst Peril of All]]
+  - [[#chapter-27-lost-in-the-bowels-of-the-earth][Chapter 27 Lost in the Bowels of the Earth]]
+  - [[#chapter-28-the-rescue-in-the-whispering-gallery][Chapter 28 The Rescue in the Whispering Gallery]]
+  - [[#chapter-29-thalatta-thalatta][Chapter 29 Thalatta! Thalatta!]]
+  - [[#chapter-30-a-new-mare-internum][Chapter 30 A New Mare Internum]]
+  - [[#chapter-31-preparations-for-a-voyage-of-discovery][Chapter 31 Preparations for a Voyage of Discovery]]
+  - [[#chapter-32-wonders-of-the-deep][Chapter 32 Wonders of the Deep]]
+  - [[#chapter-33-a-battle-of-monsters][Chapter 33 A Battle of Monsters]]
+  - [[#chapter-34-the-great-geyser][Chapter 34 The Great Geyser]]
+  - [[#chapter-35-an-electric-storm][Chapter 35 An Electric Storm]]
+  - [[#chapter-36-calm-philosophic-discussions][Chapter 36 Calm Philosophic Discussions]]
+  - [[#chapter-37-the-liedenbrock-museum-of-geology][Chapter 37 The Liedenbrock Museum of Geology]]
+  - [[#chapter-38-the-professor-in-his-chair-again][Chapter 38 The Professor in His Chair Again]]
+  - [[#chapter-39-forest-scenery-illuminated-by-eletricity][Chapter 39 Forest Scenery Illuminated by Eletricity]]
+  - [[#chapter-40-preparations-for-blasting-a-passage-to-the-centre-of-the-earth][Chapter 40 Preparations for Blasting a Passage to the Centre of the Earth]]
+  - [[#chapter-41-the-great-explosion-and-the-rush-down-below][Chapter 41 The Great Explosion and the Rush down below]]
+  - [[#chapter-42-headlong-speed-upward-through-the-horrors-of-darkness][Chapter 42 Headlong Speed Upward through the Horrors of Darkness]]
+  - [[#chapter-43-shot-out-of-a-volcano-at-last][Chapter 43 Shot out of a Volcano at Last!]]
+  - [[#chapter-44-sunny-lands-in-the-blue-mediterranean][Chapter 44 Sunny Lands in the Blue Mediterranean]]
+  - [[#chapter-45-alls-well-that-ends-well][Chapter 45 All's Well That Ends Well]]
+:END:
 * A Journey into the Center of the Earth
 ** Jules Verne
    *Published:* 1877
@@ -4949,7 +5003,7 @@
    I suppose Professor Liedenbrock was of my opinion too, and even shared my fears, for after having examined the pick, his
    eyes traversed the ocean from side to side. What a very bad notion that was of his, I thought to myself, to take
    soundings just here! He has disturbed some monstrous beast in its remote den, and if we are not attacked on our
-   voyage - 
+   voyage -
 
    I look at our guns and see that they are all right. My uncle notices it, and looks on approvingly.
 

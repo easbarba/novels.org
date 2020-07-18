@@ -1,3 +1,21 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-great-gatsby][The Great Gatsby]]
+  - [[#francis-scott-fitzgerald][Francis Scott Fitzgerald]]
+  - [[#chapter-1][Chapter 1]]
+  - [[#chapter-2][Chapter 2]]
+  - [[#chapter-3][Chapter 3]]
+  - [[#chapter-4][Chapter 4]]
+  - [[#chapter-5][Chapter 5]]
+  - [[#chapter-6][Chapter 6]]
+  - [[#chapter-7][Chapter 7]]
+  - [[#chapter-8][Chapter 8]]
+  - [[#chapter-9][Chapter 9]]
+:END:
 * The Great Gatsby
 ** Francis Scott Fitzgerald
    *Published:* 1925
@@ -296,7 +314,7 @@
 
    “Why, no,” I answered, rather surprised by his tone.
 
-   “Well, it's a fine book, and everybody ought to read it. The idea is if we don't look out the white race will be  - 
+   “Well, it's a fine book, and everybody ought to read it. The idea is if we don't look out the white race will be  -
    will be utterly submerged. It's all scientific stuff; it's been proved.”
 
    “Tom's getting very profound,” said Daisy, with an expression of unthoughtful sadness. “He reads deep books with long
@@ -646,7 +664,7 @@
 
    “That dog?” He looked at it admiringly. “That dog will cost you ten dollars.”
 
-   The Airedale  -  undoubtedly there was an Airedale concerned in it somewhere, though its feet were startlingly white  - 
+   The Airedale  -  undoubtedly there was an Airedale concerned in it somewhere, though its feet were startlingly white  -
    changed hands and settled down into Mrs. Wilson's lap, where she fondled the weather-proof coat with rapture.
 
    “Is it a boy or a girl?” she asked delicately.
@@ -1312,7 +1330,7 @@
 
    “See!” he explained. “It went in the ditch.”
 
-   The fact was infinitely astonishing to him, and I recognized first the unusual quality of wonder, and then the man  - 
+   The fact was infinitely astonishing to him, and I recognized first the unusual quality of wonder, and then the man  -
    it was the late patron of Gatsby's library.
 
    “How'd it happen?”
@@ -1409,7 +1427,7 @@
 
    For a while I lost sight of Jordan Baker, and then in midsummer I found her again. At first I was flattered to go places
    with her, because she was a golf champion, and every one knew her name. Then it was something more. I wasn't actually in
-   love, but I felt a sort of tender curiosity. The bored haughty face that she turned to the world concealed something  - 
+   love, but I felt a sort of tender curiosity. The bored haughty face that she turned to the world concealed something  -
    most affectations conceal something eventually, even though they don't in the beginning  -  and one day I found what it
    was. When we were on a house-party together up in Warwick, she left a borrowed car out in the rain with the top down,
    and then lied about it  -  and suddenly I remembered the story about her that had eluded me that night at Daisy's. At
@@ -1496,7 +1514,7 @@
    divorced now, and Henry L. Palmetto, who killed himself by jumping in front of a subway train in Times Square.
 
    Benny McClenahan arrived always with four girls. They were never quite the same ones in physical person, but they were
-   so identical one with another that it inevitably seemed they had been there before. I have forgotten their names  - 
+   so identical one with another that it inevitably seemed they had been there before. I have forgotten their names  -
    Jaqueline, I think, or else Consuela, or Gloria or Judy or June, and their last names were either the melodious names of
    flowers and months or the sterner ones of the great American capitalists whose cousins, if pressed, they would confess
    themselves to be.
@@ -1825,7 +1843,7 @@
 
    I turned toward Mr. Gatsby, but he was no longer there.
 
-   One October day in nineteen-seventeen  -  - 
+   One October day in nineteen-seventeen  -  -
 
    (said Jordan Baker that afternoon, sitting up very straight on a straight chair in the tea-garden at the Plaza Hotel)
 
@@ -1890,7 +1908,7 @@
    I saw them in Santa Barbara when they came back, and I thought I'd never seen a girl so mad about her husband. If he
    left the room for a minute she'd look around uneasily, and say: “Where's Tom gone?” and wear the most abstracted
    expression until she saw him coming in the door. She used to sit on the sand with his head in her lap by the hour,
-   rubbing her fingers over his eyes and looking at him with unfathomable delight. It was touching to see them together  - 
+   rubbing her fingers over his eyes and looking at him with unfathomable delight. It was touching to see them together  -
    it made you laugh in a hushed, fascinated way. That was in August. A week after I left Santa Barbara Tom ran into a
    wagon on the Ventura road one night, and ripped a front wheel off his car. The girl who was with him got into the
    papers, too, because her arm was broken  -  she was one of the chambermaids in the Santa Barbara Hotel.
@@ -2510,7 +2528,7 @@
    speak, caught his breath, to clear this set of misconceptions away.
 
    It was a halt, too, in my association with his affairs. For several weeks I didn't see him or hear his voice on the
-   phone  -  mostly I was in New York, trotting around with Jordan and trying to ingratiate myself with her senile aunt  - 
+   phone  -  mostly I was in New York, trotting around with Jordan and trying to ingratiate myself with her senile aunt  -
    but finally I went over to his house one Sunday afternoon. I hadn't been there two minutes when somebody brought Tom
    Buchanan in for a drink. I was startled, naturally, but the really surprising thing was that it hadn't happened before.
 
@@ -2526,7 +2544,7 @@
 
    He was profoundly affected by the fact that Tom was there. But he would be uneasy anyhow until he had given them
    something, realizing in a vague way that that was all they came for. Mr. Sloane wanted nothing. A lemonade? No, thanks.
-   A little champagne? Nothing at all, thanks... . I'm sorry  -  - 
+   A little champagne? Nothing at all, thanks... . I'm sorry  -  -
 
    “Did you have a nice ride?”
 
@@ -3455,7 +3473,7 @@
    “Not that day I carried you down from the Punch Bowl to keep your shoes dry?” There was a husky tenderness in his
    tone... . “Daisy?”
 
-   “Please don't.” Her voice was cold, but the rancor was gone from it. She looked at Gatsby. “There, Jay,” she said  - 
+   “Please don't.” Her voice was cold, but the rancor was gone from it. She looked at Gatsby. “There, Jay,” she said  -
    but her hand as she tried to light a cigarette was trembling. Suddenly she threw the cigarette and the burning match on
    the carpet.
 
@@ -3906,7 +3924,7 @@
 
    But he knew that he was in Daisy's house by a colossal accident. However glorious might be his future as Jay Gatsby, he
    was at present a penniless young man without a past, and at any moment the invisible cloak of his uniform might slip
-   from his shoulders. So he made the most of his time. He took what he could get, ravenously and unscrupulously  - 
+   from his shoulders. So he made the most of his time. He took what he could get, ravenously and unscrupulously  -
    eventually he took Daisy one still October night, took her because he had no real right to touch her hand.
 
    He might have despised himself, for he had certainly taken her under false pretenses. I don't mean that he had traded on
@@ -4561,7 +4579,7 @@
    eyes began to blink anxiously, and he spoke of the rain in a worried, uncertain way. The minister glanced several times
    at his watch, so I took him aside and asked him to wait for half an hour. But it wasn't any use. Nobody came.
 
-   About five o'clock our procession of three cars reached the cemetery and stopped in a thick drizzle beside the gate  - 
+   About five o'clock our procession of three cars reached the cemetery and stopped in a thick drizzle beside the gate  -
    first a motor hearse, horribly black and wet, then Mr. Gatz and the minister and I in the limousine, and a little later
    four or five servants and the postman from West Egg in Gatsby's station wagon, all wet to the skin. As we started
    through the gate into the cemetery I heard a car stop and then the sound of someone splashing after us over the soggy
@@ -4607,7 +4625,7 @@
    and perhaps we possessed some deficiency in common which made us subtly unadaptable to Eastern life.
 
    Even when the East excited me most, even when I was most keenly aware of its superiority to the bored, sprawling,
-   swollen towns beyond the Ohio, with their interminable inquisitions which spared only the children and the very old  - 
+   swollen towns beyond the Ohio, with their interminable inquisitions which spared only the children and the very old  -
    even then it had always for me a quality of distortion. West Egg, especially, still figures in my more fantastic dreams.
    I see it as a night scene by El Greco: a hundred houses, at once conventional and grotesque, crouching under a sullen,
    overhanging sky and a lustreless moon. In the foreground four solemn men in dress suits are walking along the sidewalk
@@ -4710,6 +4728,6 @@
    beyond the city, where the dark fields of the republic rolled on under the night.
 
    Gatsby believed in the green light, the orgastic future that year by year recedes before us. It eluded us then, but
-   that's no matter  -  to-morrow we will run faster, stretch out our arms farther... And one fine morning  - 
+   that's no matter  -  to-morrow we will run faster, stretch out our arms farther... And one fine morning  -
 
    So we beat on, boats against the current, borne back ceaselessly into the past.

@@ -1,3 +1,14 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-valley-of-fear][The Valley of Fear]]
+  - [[#arthur-conan-doyle][Arthur Conan Doyle]]
+  - [[#part-1---the-tragedy-of-birlstone][Part 1 - The Tragedy of Birlstone]]
+  - [[#part-2---the-scowrers][Part 2 - The Scowrers]]
+:END:
 * The Valley of Fear
 ** Arthur Conan Doyle
    *Published:* 1915
@@ -3563,7 +3574,7 @@
     given them shelter, and that a state of terrorism and lawlessness should be established under the very shadow of the
     sacred folds of the starry Flag of Freedom which would raise horror in our minds if we read of it as existing under the
     most effete monarchy of the East? The men are known. The organization is patent and public. How long are we to endure
-    it? Can we forever live - 
+    it? Can we forever live -
 
     Sure, I've read enough of the slush!" cried the chairman, tossing the paper down upon the table. "That's what he says of
     us. The question I'm asking you is what shall we say to him?"

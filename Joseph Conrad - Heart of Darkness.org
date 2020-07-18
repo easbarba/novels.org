@@ -1,3 +1,15 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#heart-of-darkness][Heart of Darkness]]
+  - [[#joseph-conrad][Joseph Conrad]]
+  - [[#chapter-1][Chapter 1]]
+  - [[#chapter-2][Chapter 2]]
+  - [[#chapter-3][Chapter 3]]
+:END:
 * Heart of Darkness
 ** Joseph Conrad
    *Published:* 1902

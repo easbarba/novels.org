@@ -1,3 +1,13 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#porcelain-and-pink][Porcelain and Pink]]
+  - [[#francis-scott-fitzgerald][Francis Scott Fitzgerald]]
+  - [[#porcelain-and-pink][Porcelain and Pink]]
+:END:
 * Porcelain and Pink
 ** Francis Scott Fitzgerald
    *Published:* 1922
@@ -15,7 +25,7 @@
    Strictly for personal use, do not use this file for commercial purposes.
 
 ** Porcelain and Pink
-   
+
    A /room in the down-stairs of a summer cottage. High around the wall runs an art frieze of a fisherman with a pile of
    nets at his feet and a ship on a crimson ocean, a fisherman with a pile of nets at his feet and a ship on a crimson
    ocean, a fisherman with a pile of nets at his feet and so on. In one place on the frieze there is an overlapping - here
@@ -62,7 +72,7 @@
 
    LOIS: (/Starting/) Oh, 'scuse me. I didn't know you were here.
 
-   JULIE: Oh, hello. I'm giving a little concert - 
+   JULIE: Oh, hello. I'm giving a little concert -
 
    LOIS: (/Interrupting/) Why didn't you lock the door?
 
@@ -124,7 +134,7 @@
    wouldn't invite him in.
 
    LOIS: (/Desperately/) She's so idiotic. She detests him because he's just got a divorce. Of course she's had more
-   expedience than I have, but - 
+   expedience than I have, but -
 
    JULIE: (/Wisely/) Don't let her kid you! Experience is the biggest gold brick in the world. All older people have it for
    sale.
@@ -166,12 +176,12 @@
    down.
 
    JULIE: (/Shaking her head scornfully/) Huh! That's only part of it. You've got to slide down without touching your hand
-   or feet - 
+   or feet -
 
    LOIS:(/Impatiently/) Oh, Lord! What do I care? I wish we'd either stop coming here in the summer or else get a house
    with two bath-tubs.
 
-   JULIE: You can buy yourself a little tin one, or use the hose -  - 
+   JULIE: You can buy yourself a little tin one, or use the hose -  -
 
    LOIS: Oh, shut up!
 
@@ -191,18 +201,18 @@
 
    LOIS: (/Suspicion growing on her/) How did you get here?
 
-   JULIE: (/Laughing/) I guess I - I guess I whisked here. You know - a white form whisking down the stairs and - 
+   JULIE: (/Laughing/) I guess I - I guess I whisked here. You know - a white form whisking down the stairs and -
 
    LOIS: (/Scandalized/) Why, you little wretch. Haven't you any pride or self-respect?
 
    JULIE: Lots of both. I think that proves it. I looked very well. I really am rather cute in my natural state.
 
-   LOIS: Well, you - 
+   LOIS: Well, you -
 
    JULIE: (/Thinking aloud/) I wish people didn't wear any clothes. I guess I ought to have been a pagan or a native or
    something.
 
-   LOIS: You're a - 
+   LOIS: You're a -
 
    JULIE: I dreamt last night that one Sunday in church a small boy brought in a magnet that attracted cloth. He attracted
    the clothes right off of everybody; put them in an awful state; people were crying and shrieking and carrying on as if
@@ -218,7 +228,7 @@
 
    JULIE: There never has been yet.
 
-   LOIS: Yet! Good grief! How long - 
+   LOIS: Yet! Good grief! How long -
 
    JULIE: Besides, I usually have a towel.
 
@@ -251,7 +261,7 @@
    On the smokeless Sante Fé
    Her Pebeco smile
    Her Lucile style
-   De dum da-de-dum one day - 
+   De dum da-de-dum one day -
 
    (/She changes to a whistle and leans forward to turn on the taps, but is startled by three loud banging noises in the
    pipes. Silence for a moment - then she puts her mouth down near the spigot as if it were a telephone/)
@@ -329,7 +339,7 @@
 
    THE YOUNG MAN: What a voice you have! How it echoes! Sometimes I shut my eyes and seem to see you in a far desert island
    calling for me. And I plunge toward you through the surf, hearing you call as you stand there, water stretching on both
-   sides of you - 
+   sides of you -
 
    (/The soap slips from the side of the tub and splashes in. The young man blinks/)
 
@@ -339,7 +349,7 @@
 
    THE YOUNG MAN: (/Dreamily/) No. I do prose. I do verse only when I am stirred.
 
-   JULIE: (/Murmuring/) Stirred by a spoon - 
+   JULIE: (/Murmuring/) Stirred by a spoon -
 
    THE YOUNG MAN: I have always loved poetry. I can remember to this day the first poem I ever learned by heart. It was
    "Evangeline."
@@ -377,7 +387,7 @@
    JULIE: Well, as Gaby Deslys said to Mr. Bergson, with my looks and your brains there's nothing we couldn't do.
 
    THE YOUNG MAN: (/Laughing/) You certainly are hard to keep up with. One day you're awfully pleasant and the next you're
-   in a mood. If I didn't understand your temperament so well - 
+   in a mood. If I didn't understand your temperament so well -
 
    JULIE: (/Impatiently/) Oh, you're one of these amateur character-readers, are you? Size people up in five minutes and
    then look wise whenever they're mentioned. I hate that sort of thing.
@@ -418,7 +428,7 @@
 
    JULIE: One of the fish snapping his golden jaws.
 
-   THE YOUNG MAN: (/With sudden resolution/) Lois, I love you. I am not a mundane man but I am a forger - 
+   THE YOUNG MAN: (/With sudden resolution/) Lois, I love you. I am not a mundane man but I am a forger -
 
    JULIE: (/Interested at once/) Oh, how fascinating.
 
@@ -427,7 +437,7 @@
    JULIE: (/Skeptically/) Huh! What you really want is for the world to come to attention and stand there till you give
    "Rest!"
 
-   THE YOUNG MAN: Lois I - Lois I - 
+   THE YOUNG MAN: Lois I - Lois I -
 
    (/He stops as Lois opens the door, comes in, and bangs it behind her. She looks peevishly at/ JULIE /and then suddenly
    catches sight of the young man in the window/)

@@ -1,3 +1,14 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#20000-leagues-under-the-sea][20,000 Leagues Under the Sea]]
+  - [[#jules-verne][Jules Verne]]
+  - [[#part-1][Part 1]]
+  - [[#part-2][Part 2]]
+:END:
 * 20,000 Leagues Under the Sea
 ** Jules Verne
    *Published:* 1870
@@ -11168,5 +11179,5 @@
     extinguish for ever the spirit of vengeance! May the judge disappear, and the philosopher continue the peaceful
     exploration of the sea! If his destiny be strange, it is also sublime. Have I not understood it myself? Have I not lived
     ten months of this unnatural life? And to the question asked by Ecclesiastes three thousand years ago, "That which is
-    far off and exceeding deep, who can find it out?" two men alone of all now living have the right to give an answer  - 
+    far off and exceeding deep, who can find it out?" two men alone of all now living have the right to give an answer  -
     CAPTAIN NEMO AND MYSELF.

@@ -1,3 +1,24 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-casebook-of-sherlock-holmes][The Casebook of Sherlock Holmes]]
+  - [[#arthur-conan-doyle][Arthur Conan Doyle]]
+  - [[#chapter-1-the-adventure-of-the-mazarin-stone][Chapter 1 The Adventure of the Mazarin Stone]]
+  - [[#chapter-2-the-problem-of-thor-bridge][Chapter 2 The Problem of Thor Bridge]]
+  - [[#chapter-3-the-adventure-of-the-creeping-man][Chapter 3 The Adventure of the Creeping Man]]
+  - [[#chapter-4-the-adventure-of-the-sussex-vampire][Chapter 4 The Adventure of the Sussex Vampire]]
+  - [[#chapter-5-the-adventure-of-the-three-garridebs][Chapter 5 The Adventure of the Three Garridebs]]
+  - [[#chapter-6-the-adventure-of-the-illustrious-client][Chapter 6 The Adventure of the Illustrious Client]]
+  - [[#chapter-7-the-adventure-of-the-three-gables][Chapter 7 The Adventure of the Three Gables]]
+  - [[#chapter-8-the-adventure-of-the-blanched-soldier][Chapter 8 The Adventure of the Blanched Soldier]]
+  - [[#chapter-9-the-adventure-of-the-lions-mane][Chapter 9 The Adventure of the Lion's Mane]]
+  - [[#chapter-10-the-adventure-of-the-retired-colourman][Chapter 10 The Adventure of the Retired Colourman]]
+  - [[#chapter-11-the-adventure-of-the-veiled-lodger][Chapter 11 The Adventure of the Veiled Lodger]]
+  - [[#chapter-12-the-adventure-of-shoscombe-old-place][Chapter 12 The Adventure of Shoscombe Old Place]]
+:END:
 * The Casebook of Sherlock Holmes
 ** Arthur Conan Doyle
    *Published:* 1923
@@ -161,7 +182,7 @@
    "But this danger, Holmes?"
 
    "Ah. yes, in case it should come off, it would perhaps be as well that you should burden your memory with the name and
-   address of the murderer. You can give it to Scotland Yard, with my love and a parting blessing. Sylvius is the name  - 
+   address of the murderer. You can give it to Scotland Yard, with my love and a parting blessing. Sylvius is the name  -
    Count Negretto Sylvius. Write it down, man, write it down! 136 Moorside Gardens, N. W. Got it?"
 
    Watson's honest face was twitching with anxiety. He knew only too well the immense risks taken by Holmes and was well
@@ -201,7 +222,7 @@
 
    "It might have been tragedy."
 
-   "Well, perhaps it might. I followed him to old Straubenzee's workshop in the Minories. Straubenzee made the air-gun  - 
+   "Well, perhaps it might. I followed him to old Straubenzee's workshop in the Minories. Straubenzee made the air-gun  -
    a very pretty bit of work, as I understand, and I rather fancy it is in the opposite window at the present moment. Have
    you seen the dummy? Of course, Billy showed it to you. Well, it may get a bullet through its beautiful head at any
    moment. Ah, Billy, what is it?"
@@ -1136,7 +1157,7 @@
 
    "One of a pair? Where is the other?"
 
-   "Well, the gentleman has a lot of firearms of one sort and another. We never quite matched that particular pistol  - 
+   "Well, the gentleman has a lot of firearms of one sort and another. We never quite matched that particular pistol  -
    but the box was made for two."
 
    "If it was one of a pair you should surely be able to match it."
@@ -1817,7 +1838,7 @@
    "Possibly you are thinking of the connection between insanity and phases of the moon?"
 
    "No, I assure you. It was quite a different line of thought. Possibly you can leave your notebook with me, and I will
-   check the dates. Now I think, Watson, that our line of action is perfectly clear. This young lady has informed us  - 
+   check the dates. Now I think, Watson, that our line of action is perfectly clear. This young lady has informed us  -
    and I have the greatest confidence in her intuition  -  that her father remembers little or nothing which occurs upon
    certain dates. We will therefore call upon him as if he had given us an appointment upon such a date. He will put it
    down to his own lack of memory. Thus we will open our campaign by having a good close view of him."
@@ -2414,7 +2435,7 @@
 
    horror, he turned his wife's face to the light and saw blood
 
-   all round her lips. It was she  -  she beyond all question  - 
+   all round her lips. It was she  -  she beyond all question  -
 
    who had drunk the poor baby's blood.
 
@@ -2426,7 +2447,7 @@
 
    the name. We had thought it was some wild tale of foreign
 
-   parts. And yet here in the very heart of the English Sussex  - 
+   parts. And yet here in the very heart of the English Sussex  -
 
    well, all this can be discussed with you in the morning. Will
 
@@ -3111,7 +3132,7 @@
    "But do you tell me that you never go out?" he said.
 
    "Now and again I drive down to Sotheby's or Christie's. Otherwise I very seldom leave my room. I am not too strong, and
-   my researches are very absorbing. But you can imagine, Mr. Holmes, what a terrific shock  -  pleasant but terrific  - 
+   my researches are very absorbing. But you can imagine, Mr. Holmes, what a terrific shock  -  pleasant but terrific  -
    it was for me when I heard of this unparalleled good fortune. It only needs one more Garrideb to complete the matter,
    and surely we can find one. I had a brother, but he is dead, and female relatives are disqualified. But there must
    surely be others in the world. I had heard that you handled strange cases, and that was why I sent to you. Of course,
@@ -3668,7 +3689,7 @@
 
    " 'So I know. Iet me make the thing clear to you, for my own hand is so strong that I can afford to show it. I have been
    fortunate enough to win the entire affection of this lady. This was given to me in spite of the fact that I told her
-   very clearly of all the unhappy incidents in my past life. I also told her that certain wicked and designing persons  - 
+   very clearly of all the unhappy incidents in my past life. I also told her that certain wicked and designing persons  -
    I hope you recognize yourself  -  would come to her and tell her these things. and I warned her how to treat them. You
    have heard of post-hypnotic suggestion. Mr. Holmes ' Well you will see how it works for a man of personality can use
    hypnotism without any vulgar passes or tomfoolery. So she is ready for you and, I have no doubt, would give you an
@@ -3707,7 +3728,7 @@
    intense face, youthful, and yet so worn with s v½? in and sorrow that one read the terrible years which had left their
    leprous mark upon her.
 
-   "This is Miss Kitty Winter," said Shinwell Johnson, waving his fat hand as an introduction. "What she don't know  - 
+   "This is Miss Kitty Winter," said Shinwell Johnson, waving his fat hand as an introduction. "What she don't know  -
    well, there, she'll speak for herself. Put my hand right on her, Mr. Holmes, within an hour of your message."
 
    "I'm easy to find," said the young woman. "Hell, London, gets me every time. Same address for Porky Shinwell. We're old
@@ -4736,7 +4757,7 @@
    "Then that was his own story  - "
 
    "Ah! you are piecing it together now. I hear that she is about to marry the young Duke of Lomond, who might almost be
-   her son. His Grace's ma might overlook the age, but a big scandal would be a different matter, so it is imperative  - 
+   her son. His Grace's ma might overlook the age, but a big scandal would be a different matter, so it is imperative  -
    Ah! here we are."
 
    It was one of the finest corner-houses of the West End. A machine-like footman took up our cards and returned with word
@@ -5097,7 +5118,7 @@
    man. He sprang back when he saw that I was looking at him, and he vanished into the darkness.
 
    "There was something shocking about the man, Mr. Holmes. It wasn't merely that ghastly face glimmering as white as
-   cheese in the darkness. It was more subtle than that  -  something slinking, something furtive, something guilty  - 
+   cheese in the darkness. It was more subtle than that  -  something slinking, something furtive, something guilty  -
    something very unlike the frank, manly lad that I had known. It left a feeling of horror in my mind.
 
    "But when a man has been soldiering for a year or two with brother Boer as a playmate, he keeps his nerve and acts
@@ -5394,7 +5415,7 @@
    "So there you have my tragedy. I hoped against hope, but it was not until I had reached home that the terrible signs
    which you see upon my face told me that I had not escaped. What was I to do? I was in this lonely house. We had two
    servants whom we could utterly trust. There was a house where I could live. Under pledge of secrecy, Mr. Kent, who is a
-   surgeon, was prepared to stay with me. It seemed simple enough on those lines. The alternative was a dreadful one  - 
+   surgeon, was prepared to stay with me. It seemed simple enough on those lines. The alternative was a dreadful one  -
    segregation for life among strangers with never a hope of release. But absolute secrecy was necessary, or even in this
    quiet countryside there would have been an outcry, and I should have been dragged to my horrible doom. Even you, Jimmie
    -  even you had to be kept in the dark. Why my father has relented I cannot imagine."
@@ -6209,7 +6230,7 @@
    loss, could obtain the complete attention of so famous a man as Mr. Sherlock Holmes.'
 
    "I assured him that the financial question did not arise. 'No of course, it is art for art's sake with him,' said he,
-   'but even on the artistic side of crime he might have found something here to study. And human nature, Dr. Watson  - 
+   'but even on the artistic side of crime he might have found something here to study. And human nature, Dr. Watson  -
    the black ingratitude of it all! When did I ever refuse one of her requests? Was ever a woman so pampered? And that
    young man  -  he might have been my own son. He had the run of my house. And yet see how they have treated me! Oh, Dr.
    Watson, it is a dreadful, dreadful world!'
@@ -6400,7 +6421,7 @@
    and by it I got into touch with Holmes, who shared in our amazement at the result of our journey.
 
    "Most singular!" said the distant voice. "Most remarkable! I much fear, my dear Watson, that there is no return train
-   to-night. I have unwittingly condemned you to the horrors of a country inn. However, there is always Nature, Watson  - 
+   to-night. I have unwittingly condemned you to the horrors of a country inn. However, there is always Nature, Watson  -
    Nature and Josiah Amberley  -  you can be in close commune with both." I heard his dry chuckle as he turned away.
 
    It was soon apparent to me that my companion's reputation as a miser was not undeserved. He had grumbled at the expense
@@ -6900,7 +6921,7 @@
    poisoned me and I was hardly conscious of pain. With the palms of my hands I tried to push the great steaming,
    blood-stained jaws away from me, and I screamed for help. I was conscious that the camp was stirring, and then dimly I
    remembered a group of men. Leonardo, Griggs, and others, dragging me from under the creature's paws. That was my last
-   memory, Mr. Holmes, for many a weary month. When I came to myself and saw myself in the mirror, I cursed that lion  - 
+   memory, Mr. Holmes, for many a weary month. When I came to myself and saw myself in the mirror, I cursed that lion  -
    oh, how I cursed him!  -  not because he had torn away my beauty but because he had not torn away my life. I had but one
    desire, Mr. Holmes, and I had enough money to gratify it. It was that I should cover myself so that my poor face should
    be seen by none, and that I should dwell where none whom I had ever known should find me. That was all that was left to
@@ -7089,7 +7110,7 @@
 
    "Of course, with her weak heart and dropsy one couldn't expect that she could get about with him, but he spent two hours
    every evening in her room. He might well do what he could, for she has been a rare good friend to him. But that's all
-   over, too. He never goes near her. And she takes it to heart. She is brooding and sulky and drinking, Mr. Holmes  - 
+   over, too. He never goes near her. And she takes it to heart. She is brooding and sulky and drinking, Mr. Holmes  -
    drinking like a fish."
 
    "Did she drink before this estrangement?"

@@ -1,3 +1,23 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#a-modern-utopia][A Modern Utopia]]
+  - [[#h-g-wells][H. G. Wells]]
+  - [[#chapter-1-topographical][Chapter 1 Topographical]]
+  - [[#chapter-2-concerning-freedoms][Chapter 2 Concerning Freedoms]]
+  - [[#chapter-3-utopian-economics][Chapter 3 Utopian Economics]]
+  - [[#chapter-4-the-voice-of-nature][Chapter 4 The Voice of Nature]]
+  - [[#chapter-5-failure-in-a-modern-utopia][Chapter 5 Failure in a Modern Utopia]]
+  - [[#chapter-6-women-in-a-modern-utopia][Chapter 6 Women in a Modern Utopia]]
+  - [[#chapter-7-a-few-utopian-impressions][Chapter 7 A Few Utopian Impressions]]
+  - [[#chapter-8-my-utopian-self][Chapter 8 My Utopian Self]]
+  - [[#chapter-9-the-samurai][Chapter 9 The Samurai]]
+  - [[#chapter-10-race-in-utopia][Chapter 10 Race in Utopia]]
+  - [[#chapter-11-the-bubble-bursts][Chapter 11 The Bubble Bursts]]
+:END:
 * A Modern Utopia
 ** H. G. Wells
    *Published:* 1905
@@ -4504,7 +4524,7 @@
     “He was on the Committee that revised our Canon. For the revising and bracing of our Canon is work for poietic as well
     as kinetic men. You knew him in your world?”
 
-    “I wish I had. But I have seen him. On earth he wrote a thing ... it would run - 
+    “I wish I had. But I have seen him. On earth he wrote a thing ... it would run -
 
     #+BEGIN_QUOTE
     “Out of the night that covers me,
@@ -5761,12 +5781,12 @@
 
     We walk on, our talk suspended, past a ruthlessly clumsy hoarding, towards where men and women and children are
     struggling about a string of omnibuses. A newsvendor at the corner spreads a newspaper placard upon the wood pavement,
-    pins the corners down with stones, and we glimpse something about: - 
+    pins the corners down with stones, and we glimpse something about: -
 
-    MASSACRE IN ODESSA. 
-    DISCOVERY OF HUMAN REMAINS AT CHERTSEY. 
-    SHOCKING LYNCHING OUTRAGE IN NEW YORK STATE. 
-    GERMAN INTRIGUES GET A SET-BACK. 
+    MASSACRE IN ODESSA.
+    DISCOVERY OF HUMAN REMAINS AT CHERTSEY.
+    SHOCKING LYNCHING OUTRAGE IN NEW YORK STATE.
+    GERMAN INTRIGUES GET A SET-BACK.
     THE BIRTHDAY HONOURS. - FULL LIST.
 
     Dear old familiar world!

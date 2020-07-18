@@ -1,3 +1,16 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#gullivers-travels][Gulliver's Travels]]
+  - [[#jonathan-swift][Jonathan Swift]]
+  - [[#part-1---a-voyage-to-lilliput][Part 1 - A Voyage to Lilliput]]
+  - [[#part-2---a-voyage-to-brobdingnag][Part 2 - A Voyage to Brobdingnag]]
+  - [[#part-3---a-voyage-to-laputa-balnibarbi-luggnagg-glubbdubdrib-and-japan][Part 3 - A Voyage to Laputa, Balnibarbi, Luggnagg, Glubbdubdrib, and Japan]]
+  - [[#part-4---a-voyage-to-the-country-of-the-houyhnhnms][Part 4 - A Voyage to the Country of the Houyhnhnms]]
+:END:
 * Gulliver's Travels
 ** Jonathan Swift
    *Published:* 1726
@@ -655,7 +668,7 @@
     globe; monarch of all monarchs, taller than the sons of men; whose feet press down to the centre, and whose head strikes
     against the sun; at whose nod the princes of the earth shake their knees; pleasant as the spring, comfortable as the
     summer, fruitful as autumn, dreadful as winter: his most sublime majesty proposes to the man-mountain, lately arrived at
-    our celestial dominions, the following articles, which, by a solemn oath, he shall be obliged to perform: - 
+    our celestial dominions, the following articles, which, by a solemn oath, he shall be obliged to perform: -
 
     "1st, The man-mountain shall not depart from our dominions, without our license under our great seal.
 
@@ -1184,7 +1197,7 @@
     justiciary, have prepared articles of impeachment against you, for treason and other capital crimes."
 
     This preface made me so impatient, being conscious of my own merits and innocence, that I was going to interrupt him;
-    when he entreated me to be silent, and thus proceeded: - 
+    when he entreated me to be silent, and thus proceeded: -
 
     "Out of gratitude for the favours you have done me, I procured information of the whole proceedings, and a copy of the
     articles; wherein I venture my head for your service.

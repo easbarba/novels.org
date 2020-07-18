@@ -1,3 +1,40 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-arabian-nights][The Arabian Nights]]
+  - [[#andrew-lang][Andrew Lang]]
+  - [[#preface][Preface]]
+  - [[#introduction][Introduction]]
+  - [[#the-story-of-the-merchant-and-the-genius][The Story of the Merchant and the Genius]]
+  - [[#the-story-of-the-first-old-man-and-of-the-hind][The Story of the First Old Man and of the Hind]]
+  - [[#the-story-of-the-second-old-man-and-of-the-two-black-dogs][The Story of the Second Old Man, and of the Two Black Dogs]]
+  - [[#the-story-of-the-fisherman][The Story of the Fisherman]]
+  - [[#the-story-of-the-greek-king-and-the-physician-durban][The Story of the Greek King and the Physician Durban]]
+  - [[#the-story-of-the-husband-and-the-parrot][The Story of the Husband and the Parrot]]
+  - [[#the-story-of-the-vizir-who-was-punished][The Story of the Vizir Who Was Punished]]
+  - [[#the-story-of-the-young-king-of-the-black-isles][The Story of the Young King of the Black Isles]]
+  - [[#the-story-of-the-three-calenders-sons-of-kings-and-of-five-ladies-of-bagdad][The Story of the Three Calenders, Sons of Kings, and of Five Ladies of Bagdad]]
+  - [[#the-story-of-the-first-calender-son-of-a-king][The Story of the First Calender, Son of a King]]
+  - [[#the-story-of-the-second-calendar-son-of-a-king][The Story of the Second Calendar, Son of a King]]
+  - [[#the-story-of-the-envious-man-and-of-him-who-was-envied][The Story of the Envious Man and of Him Who Was Envied]]
+  - [[#the-story-of-the-third-calendar-son-of-a-king][The Story of the Third Calendar, Son of a King]]
+  - [[#the-seven-voyages-of-sindbad-the-sailor][The Seven Voyages of Sindbad the Sailor]]
+  - [[#the-story-of-the-little-hunchback][The Story of the Little Hunchback]]
+  - [[#the-story-of-the-barbers-fifth-brother][The Story of the Barber's Fifth Brother]]
+  - [[#the-story-of-the-barbers-sixth-brother][The Story of the Barber's Sixth Brother]]
+  - [[#the-adventures-of-prince-camaralzaman-and-the-princess-badoura][The Adventures of Prince Camaralzaman and the Princess Badoura]]
+  - [[#noureddin-and-the-fair-persian][Noureddin and the Fair Persian]]
+  - [[#aladdin-and-the-wonderful-lamp][Aladdin and the Wonderful Lamp]]
+  - [[#the-adventures-of-haroun-al-raschid-caliph-of-bagdad][The Adventures of Haroun-al-Raschid, Caliph of Bagdad]]
+  - [[#story-of-the-blind-baba-abdalla][Story of the Blind Baba-Abdalla]]
+  - [[#the-story-of-sidi-nouman][The Story of Sidi-Nouman]]
+  - [[#story-of-ali-colia-merchant-of-bagdad][Story of Ali Colia, Merchant of Bagdad]]
+  - [[#the-enchanted-horse][The Enchanted Horse]]
+  - [[#the-story-of-two-sisters-who-were-jealous-of-their-younger-sister][The Story of Two Sisters Who Were Jealous of Their Younger Sister]]
+:END:
 * The Arabian Nights
 ** Andrew Lang
    *Published:* 1898
@@ -3633,7 +3670,7 @@
    when I hastily returned to Bagdad, only to find that all my brothers were dead. It was at this time that I rendered to
    the young cripple the important service of which you have heard, and for which, as you know, he showed such profound
    ingratitude, that he preferred rather to leave Bagdad than to run the risk of seeing me. I sought him long from place to
-   place, but it was only to-day, when I expected it least, that I came across him, as much irritated with me as ever" - 
+   place, but it was only to-day, when I expected it least, that I came across him, as much irritated with me as ever" -
    So saying the tailor went on to relate the story of the lame man and the barber, which has already been told.
 
    "When the barber," he continued, "had finished his tale, we came to the conclusion that the young man had been right,

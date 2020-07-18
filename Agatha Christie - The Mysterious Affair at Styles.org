@@ -1,3 +1,26 @@
+
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-mysterious-affair-at-styles][The Mysterious Affair at Styles]]
+  - [[#agatha-christie][Agatha Christie]]
+  - [[#chapter-1-i-go-to-styles][Chapter 1 I GO TO STYLES]]
+  - [[#chapter-2-the-16th-and-17th-of-july][Chapter 2 THE 16TH AND 17TH OF JULY]]
+  - [[#chapter-3-the-night-of-the-tragedy][Chapter 3 THE NIGHT OF THE TRAGEDY]]
+  - [[#chapter-4-poirot-investigates][Chapter 4 POIROT INVESTIGATES]]
+  - [[#chapter-5-it-isnt-strychnine-is-it][Chapter 5 "IT ISN'T STRYCHNINE, IS IT?"]]
+  - [[#chapter-6-the-inquest][Chapter 6 THE INQUEST]]
+  - [[#chapter-7-poirot-pays-his-debts][Chapter 7 POIROT PAYS HIS DEBTS]]
+  - [[#chapter-8-fresh-suspicions][Chapter 8 FRESH SUSPICIONS]]
+  - [[#chapter-9-dr-bauerstein][Chapter 9 DR. BAUERSTEIN]]
+  - [[#chapter-10-the-arrest][Chapter 10 THE ARREST]]
+  - [[#chapter-11-the-case-for-the-prosecution][Chapter 11 THE CASE FOR THE PROSECUTION]]
+  - [[#chapter-12-the-last-link][Chapter 12 THE LAST LINK]]
+  - [[#chapter-13-poirot-explains][Chapter 13 POIROT EXPLAINS]]
+:END:
 * The Mysterious Affair at Styles
 ** Agatha Christie
    *Published:* 1920
@@ -25,7 +48,7 @@
    a majority 64% share in Agatha Christie Limited. Source: Wikipedia
 
    Strictly for personal use, do not use this file for commercial purposes.
-   
+
 ** Chapter 1 I GO TO STYLES
 
    The intense interest aroused in the public by what was known at the time as "The Styles Case" has now somewhat subsided.

@@ -1,3 +1,22 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#supernatural-horror-in-literature][Supernatural Horror in Literature]]
+  - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
+  - [[#chapter-1-introduction][Chapter 1 Introduction]]
+  - [[#chapter-2-the-dawn-of-the-horror-tale][Chapter 2 The Dawn of the Horror-Tale]]
+  - [[#chapter-3-the-early-gothic-novel][Chapter 3 The Early Gothic Novel]]
+  - [[#chapter-4-the-apex-of-gothic-romance][Chapter 4 The Apex of Gothic Romance]]
+  - [[#chapter-5-the-aftermath-of-gothic-fiction][Chapter 5 The Aftermath of Gothic Fiction]]
+  - [[#chapter-6-spectral-literature-on-the-continent][Chapter 6 Spectral Literature on the Continent]]
+  - [[#chapter-7-edgar-allan-poe][Chapter 7 Edgar Allan Poe]]
+  - [[#chapter-8-the-weird-tradition-in-america][Chapter 8 The Weird Tradition in America]]
+  - [[#chapter-9-the-weird-tradition-in-the-british-isles][Chapter 9 The Weird Tradition in the British Isles]]
+  - [[#chapter-10-the-modern-masters][Chapter 10 The Modern Masters]]
+:END:
 * Supernatural Horror in Literature
 ** Howard Phillips Lovecraft
    *Published:* 1938
@@ -748,7 +767,7 @@
    the sterile America of the thirties and forties such a moon-nourished garden of gorgeous poison fungi as not even the
    nether slopes of Saturn might boast. Verses and tales alike sustain the burthen of cosmic panic. The raven whose noisome
    beak pierces the heart, the ghouls that toll iron bells in pestilential steeples, the vault of Ulalume in the black
-   October night, the shocking spires and domes under the sea, the "wild, weird clime that lieth, sublime, out of Space  - 
+   October night, the shocking spires and domes under the sea, the "wild, weird clime that lieth, sublime, out of Space  -
    out of Time"  -  all these things and more leer at us amidst maniacal rattlings in the seething nightmare of the poetry.
    And in the prose there yawn open for us the very jaws of the pit  -  inconceivable abnormalities slyly hinted into a
    horrible half-knowledge by words whose innocence we scarcely doubt till the cracked tension of the speaker's hollow
@@ -846,7 +865,7 @@
    notions respecting man's relation to the stern and vengeful God of the Calvinists, and to the sulphureous Adversary of
    that God, about whom so much was thundered in the pulpits each Sunday; and the morbid introspection developed by an
    isolated backwoods life devoid of normal amusements and of the recreational mood, harassed by commands for theological
-   self-examination, keyed to unnatural emotional repression, and forming above all a mere grim struggle for survival  - 
+   self-examination, keyed to unnatural emotional repression, and forming above all a mere grim struggle for survival  -
    all these things conspired to produce an environment in which the black whisperings of sinister grandams were heard far
    beyond the chimney corner, and in which tales of witchcraft and unbelievable secret monstrosities lingered long after
    the dread days of the Salem nightmare.
@@ -937,7 +956,7 @@
    ancient parlour, with his frightfully ticking watch, is stark horror of the most poignant and genuine sort. The way in
    which the judge's death is first adumbrated by the motions and sniffing of a strange cat outside the window, long before
    the fact is suspected by the reader or by any of the characters, is a stroke of genius which Poe could not have
-   surpassed. Later the strange cat watches intently outside that same window in the night and on the next day, for  - 
+   surpassed. Later the strange cat watches intently outside that same window in the night and on the next day, for  -
    something. It is clearly the psychopomp of primeval myth, fitted and adapted with infinite deftness to its latter-day
    setting.
 
@@ -1100,7 +1119,7 @@
 
    Very notable in their way are some of the weird conceptions of the novelist and short-story writer Edward Lucas White,
    most of whose themes arise from actual dreams. The Song of The Siren has a very persuasive strangeness, while such
-   things as Lukundoo and The Snout arouse darker apprehensions. Mr. White imparts a very peculiar quality to his tales  - 
+   things as Lukundoo and The Snout arouse darker apprehensions. Mr. White imparts a very peculiar quality to his tales  -
    an oblique sort of glamour which has its own distinctive type of convincingness.
 
    Of younger Americans, none strikes the note of cosmic horror so well as the California poet, artist and fictionist Clark

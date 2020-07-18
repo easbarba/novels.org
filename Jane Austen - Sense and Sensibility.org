@@ -1,3 +1,62 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#sense-and-sensibility][Sense and Sensibility]]
+  - [[#jane-austen][Jane Austen]]
+  - [[#chapter-1][Chapter 1]]
+  - [[#chapter-2][Chapter 2]]
+  - [[#chapter-3][Chapter 3]]
+  - [[#chapter-4][Chapter 4]]
+  - [[#chapter-5][Chapter 5]]
+  - [[#chapter-6][Chapter 6]]
+  - [[#chapter-7][Chapter 7]]
+  - [[#chapter-8][Chapter 8]]
+  - [[#chapter-9][Chapter 9]]
+  - [[#chapter-10][Chapter 10]]
+  - [[#chapter-11][Chapter 11]]
+  - [[#chapter-12][Chapter 12]]
+  - [[#chapter-13][Chapter 13]]
+  - [[#chapter-14][Chapter 14]]
+  - [[#chapter-15][Chapter 15]]
+  - [[#chapter-16][Chapter 16]]
+  - [[#chapter-17][Chapter 17]]
+  - [[#chapter-18][Chapter 18]]
+  - [[#chapter-19][Chapter 19]]
+  - [[#chapter-20][Chapter 20]]
+  - [[#chapter-21][Chapter 21]]
+  - [[#chapter-22][Chapter 22]]
+  - [[#chapter-23][Chapter 23]]
+  - [[#chapter-24][Chapter 24]]
+  - [[#chapter-25][Chapter 25]]
+  - [[#chapter-26][Chapter 26]]
+  - [[#chapter-27][Chapter 27]]
+  - [[#chapter-28][Chapter 28]]
+  - [[#chapter-29][Chapter 29]]
+  - [[#chapter-30][Chapter 30]]
+  - [[#chapter-31][Chapter 31]]
+  - [[#chapter-32][Chapter 32]]
+  - [[#chapter-33][Chapter 33]]
+  - [[#chapter-34][Chapter 34]]
+  - [[#chapter-35][Chapter 35]]
+  - [[#chapter-36][Chapter 36]]
+  - [[#chapter-37][Chapter 37]]
+  - [[#chapter-38][Chapter 38]]
+  - [[#chapter-39][Chapter 39]]
+  - [[#chapter-40][Chapter 40]]
+  - [[#chapter-41][Chapter 41]]
+  - [[#chapter-42][Chapter 42]]
+  - [[#chapter-43][Chapter 43]]
+  - [[#chapter-44][Chapter 44]]
+  - [[#chapter-45][Chapter 45]]
+  - [[#chapter-46][Chapter 46]]
+  - [[#chapter-47][Chapter 47]]
+  - [[#chapter-48][Chapter 48]]
+  - [[#chapter-49][Chapter 49]]
+  - [[#chapter-50][Chapter 50]]
+:END:
 * Sense and Sensibility
 ** Jane Austen
    *Published:* 1811
@@ -341,7 +400,7 @@
    my feelings; the same books, the same music must charm us both. Oh! mama, how spiritless, how tame was Edward's manner
    in reading to us last night! I felt for my sister most severely. Yet she bore it with so much composure, she seemed
    scarcely to notice it. I could hardly keep my seat. To hear those beautiful lines which have frequently almost driven me
-   wild, pronounced with such impenetrable calmness, such dreadful indifference!" - 
+   wild, pronounced with such impenetrable calmness, such dreadful indifference!" -
 
    "He would certainly have done more justice to simple and elegant prose. I thought so at the time; but you WOULD give him
    Cowper."
@@ -412,7 +471,7 @@
 
    "I do not attempt to deny," said she, "that I think very highly of him - that I greatly esteem, that I like him."
 
-   Marianne here burst forth with indignation - 
+   Marianne here burst forth with indignation -
 
    "Esteem him! Like him! Cold-hearted Elinor! Oh! worse than cold-hearted! Ashamed of being otherwise. Use those words
    again, and I will leave the room this moment."
@@ -827,7 +886,7 @@
    "Is there a felicity in the world," said Marianne, "superior to this? - Margaret, we will walk here at least two hours."
 
    Margaret agreed, and they pursued their way against the wind, resisting it with laughing delight for about twenty
-   minutes longer, when suddenly the clouds united over their heads, and a driving rain set full in their face. - 
+   minutes longer, when suddenly the clouds united over their heads, and a driving rain set full in their face. -
    Chagrined and surprised, they were obliged, though unwillingly, to turn back, for no shelter was nearer than their own
    house. One consolation however remained for them, to which the exigence of the moment gave more than usual propriety; it
    was that of running with all possible speed down the steep side of the hill which led immediately to their garden gate.
@@ -966,7 +1025,7 @@
    Scott; you are certain of his estimating their beauties as he ought, and you have received every assurance of his
    admiring Pope no more than is proper. But how is your acquaintance to be long supported, under such extraordinary
    despatch of every subject for discourse? You will soon have exhausted each favourite topic. Another meeting will suffice
-   to explain his sentiments on picturesque beauty, and second marriages, and then you can have nothing farther to ask." - 
+   to explain his sentiments on picturesque beauty, and second marriages, and then you can have nothing farther to ask." -
 
    "Elinor," cried Marianne, "is this fair? is this just? are my ideas so scanty? But I see what you mean. I have been too
    much at my ease, too happy, too frank. I have erred against every common-place notion of decorum; I have been open and
@@ -1153,7 +1212,7 @@
    setting propriety at nought; and a better acquaintance with the world is what I look forward to as her greatest possible
    advantage."
 
-   After a short pause he resumed the conversation by saying, - 
+   After a short pause he resumed the conversation by saying, -
 
    "Does your sister make no distinction in her objections against a second attachment? or is it equally criminal in every
    body? Are those who have been disappointed in their first choice, whether from the inconstancy of its object, or the
@@ -1365,7 +1424,7 @@
 
    "You would not be six hours later," said Willoughby, "if you were to defer your journey till our return."
 
-   "I cannot afford to lose ONE hour." - 
+   "I cannot afford to lose ONE hour." -
 
    Elinor then heard Willoughby say, in a low voice to Marianne, "There are some people who cannot bear a party of
    pleasure. Brandon is one of them. He was afraid of catching cold I dare say, and invented this trick for getting out of
@@ -1454,7 +1513,7 @@
    Marianne, loud enough for them both to hear, "I have found you out in spite of all your tricks. I know where you spent
    the morning."
 
-   Marianne coloured, and replied very hastily, "Where, pray?" - 
+   Marianne coloured, and replied very hastily, "Where, pray?" -
 
    "Did not you know," said Willoughby, "that we had been out in my curricle?"
 
@@ -1667,7 +1726,7 @@
    shall be no more disposed to question your judgment than to doubt your inclination."
 
    "My engagements at present," replied Willoughby, confusedly, "are of such a nature - that - I dare not flatter
-   myself" - 
+   myself" -
 
    He stopt. Mrs. Dashwood was too much astonished to speak, and another pause succeeded. This was broken by Willoughby,
    who said with a faint smile, "It is folly to linger in this manner. I will not torment myself any longer by remaining
@@ -1700,7 +1759,7 @@
    happy, so cheerful, so affectionate? And now, after only ten minutes notice - Gone too without intending to
    return! - Something more than what he owned to us must have happened. He did not speak, he did not behave like himself.
    YOU must have seen the difference as well as I. What can it be? Can they have quarrelled? Why else should he have shewn
-   such unwillingness to accept your invitation here?" - 
+   such unwillingness to accept your invitation here?" -
 
    "It was not inclination that he wanted, Elinor; I could plainly see THAT. He had not the power of accepting it. I have
    thought it all over I assure you, and I can perfectly account for every thing that at first seemed strange to me as well
@@ -2362,7 +2421,7 @@
    What! all alone! you will be glad of a little company to sit with you. I have brought my other son and daughter to see
    you. Only think of their coming so suddenly! I thought I heard a carriage last night, while we were drinking our tea,
    but it never entered my head that it could be them. I thought of nothing but whether it might not be Colonel Brandon
-   come back again; so I said to Sir John, I do think I hear a carriage; perhaps it is Colonel Brandon come back again" - 
+   come back again; so I said to Sir John, I do think I hear a carriage; perhaps it is Colonel Brandon come back again" -
 
    Elinor was obliged to turn from her, in the middle of her story, to receive the rest of the party; Lady Middleton
    introduced the two strangers; Mrs. Dashwood and Margaret came down stairs at the same time, and they all sat down to
@@ -3311,7 +3370,7 @@
 
    Elinor blushed in spite of herself. Lucy bit her lip, and looked angrily at her sister. A mutual silence took place for
    some time. Lucy first put an end to it by saying in a lower tone, though Marianne was then giving them the powerful
-   protection of a very magnificent concerto - 
+   protection of a very magnificent concerto -
 
    "I will honestly tell you of one scheme which has lately come into my head, for bringing matters to bear; indeed I am
    bound to let you into the secret, for you are a party concerned. I dare say you have seen enough of Edward to know that
@@ -4189,7 +4248,7 @@
    "Yes - no - never absolutely. It was every day implied, but never professedly declared. Sometimes I thought it had
    been - but it never was."
 
-   "Yet you wrote to him?" - 
+   "Yet you wrote to him?" -
 
    "Yes - could that be wrong after all that had passed? -  But I cannot talk."
 
@@ -4217,7 +4276,7 @@
 
    "M.D."
 
-   Her second note, which had been written on the morning after the dance at the Middletons', was in these words: - 
+   Her second note, which had been written on the morning after the dance at the Middletons', was in these words: -
 
    "I cannot express my disappointment in having
 
@@ -4253,7 +4312,7 @@
 
    "M.D."
 
-   The contents of her last note to him were these: - 
+   The contents of her last note to him were these: -
 
    "What am I to imagine, Willoughby, by your
 
@@ -4358,7 +4417,7 @@
    Again they were both silent. Elinor was employed in walking thoughtfully from the fire to the window, from the window to
    the fire, without knowing that she received warmth from one, or discerning objects through the other; and Marianne,
    seated at the foot of the bed, with her head leaning against one of its posts, again took up Willoughby's letter, and,
-   after shuddering over every sentence, exclaimed - 
+   after shuddering over every sentence, exclaimed -
 
    "It is too much! Oh, Willoughby, Willoughby, could this be yours! Cruel, cruel - nothing can acquit you. Elinor, nothing
    can. Whatever he might have heard against me -  ought he not to have suspended his belief? ought he not to have told me
@@ -4460,7 +4519,7 @@
 
    "I never heard any harm of her; indeed I hardly ever heard her mentioned; except that Mrs. Taylor did say this morning,
    that one day Miss Walker hinted to her, that she believed Mr. and Mrs. Ellison would not be sorry to have Miss Grey
-   married, for she and Mrs. Ellison could never agree." - 
+   married, for she and Mrs. Ellison could never agree." -
 
    "And who are the Ellisons?"
 
@@ -4670,7 +4729,7 @@
 
    "Who can this be?" cried Elinor. "So early too! I thought we HAD been safe."
 
-   Marianne moved to the window - 
+   Marianne moved to the window -
 
    "It is Colonel Brandon!" said she, with vexation. "We are never safe from HIM."
 
@@ -4787,7 +4846,7 @@
    that she was gone; all the rest, for eight long months, was left to conjecture. What I thought, what I feared, may be
    imagined; and what I suffered too."
 
-   "Good heavens!" cried Elinor, "could it be - could Willoughby!" - 
+   "Good heavens!" cried Elinor, "could it be - could Willoughby!" -
 
    "The first news that reached me of her," he continued, "came in a letter from herself, last October. It was forwarded to
    me from Delaford, and I received it on the very morning of our intended party to Whitwell; and this was the reason of my
@@ -5331,7 +5390,7 @@
    "Pity me, dear Miss Dashwood!" said Lucy, as they walked up the stairs together - for the Middletons arrived so directly
    after Mrs. Jennings, that they all followed the servant at the same time - "There is nobody here but you, that can feel
    for me. - I declare I can hardly stand. Good gracious! - In a moment I shall see the person that all my happiness
-   depends on - that is to be my mother!" - 
+   depends on - that is to be my mother!" -
 
    Elinor could have given her immediate relief by suggesting the possibility of its being Miss Morton's mother, rather
    than her own, whom they were about to behold; but instead of doing that, she assured her, and with great sincerity, that
@@ -5491,10 +5550,10 @@
    but me! - No pride, no hauteur, and your sister just the same - all sweetness and affability!"
 
    Elinor wished to talk of something else, but Lucy still pressed her to own that she had reason for her happiness; and
-   Elinor was obliged to go on. - 
+   Elinor was obliged to go on. -
 
    "Undoubtedly, if they had known your engagement," said she, "nothing could be more flattering than their treatment of
-   you; - but as that was not the case" - 
+   you; - but as that was not the case" -
 
    "I guessed you would say so" - replied Lucy quickly - "but there was no reason in the world why Mrs. Ferrars should seem
    to like me, if she did not, and her liking me is every thing. You shan't talk me out of my satisfaction. I am sure it
@@ -5509,7 +5568,7 @@
    "I never was in better health."
 
    "I am glad of it with all my heart; but really you did not look it. I should be sorry to have YOU ill; you, that have
-   been the greatest comfort to me in the world! - Heaven knows what I should have done without your friendship." - 
+   been the greatest comfort to me in the world! - Heaven knows what I should have done without your friendship." -
 
    Elinor tried to make a civil answer, though doubting her own success. But it seemed to satisfy Lucy, for she directly
    replied,
@@ -5948,18 +6007,18 @@
    engagement."
 
    At these words, Marianne's eyes expressed the astonishment which her lips could not utter. After a pause of wonder, she
-   exclaimed - 
+   exclaimed -
 
    "Four months! - Have you known of this four months?"
 
    Elinor confirmed it.
 
    "What! - while attending me in all my misery, has this been on your heart? - And I have reproached you for being
-   happy!" - 
+   happy!" -
 
    "It was not fit that you should then know how much I was the reverse!"
 
-   "Four months!" - cried Marianne again. - "So calm! -  so cheerful! - how have you been supported?" - 
+   "Four months!" - cried Marianne again. - "So calm! -  so cheerful! - how have you been supported?" -
 
    "By feeling that I was doing my duty. - My promise to Lucy, obliged me to be secret. I owed it to her, therefore, to
    avoid giving any hint of the truth; and I owed it to my family and friends, not to create in them a solicitude about me,
@@ -5967,10 +6026,10 @@
 
    Marianne seemed much struck.
 
-   "I have very often wished to undeceive yourself and my mother," added Elinor; "and once or twice I have attempted it; - 
+   "I have very often wished to undeceive yourself and my mother," added Elinor; "and once or twice I have attempted it; -
    but without betraying my trust, I never could have convinced you."
 
-   "Four months! - and yet you loved him!" - 
+   "Four months! - and yet you loved him!" -
 
    "Yes. But I did not love only him; - and while the comfort of others was dear to me, I was glad to spare them from
    knowing how much I felt. Now, I can think and speak of it with little emotion. I would not have you suffer on my
@@ -5982,7 +6041,7 @@
    of a single and constant attachment, and all that can be said of one's happiness depending entirely on any particular
    person, it is not meant - it is not fit - it is not possible that it should be so. -  Edward will marry Lucy; he will
    marry a woman superior in person and understanding to half her sex; and time and habit will teach him to forget that he
-   ever thought another superior to HER." - 
+   ever thought another superior to HER." -
 
    "If such is your way of thinking," said Marianne, "if the loss of what is most valued is so easily to be made up by
    something else, your resolution, your self-command, are, perhaps, a little less to be wondered at. - They are brought
@@ -6003,9 +6062,9 @@
    present to consider the matter, the consolation that I have been willing to admit, have been the effect of constant and
    painful exertion; - they did not spring up of themselves; -  they did not occur to relieve my spirits at first. -  No,
    Marianne. - THEN, if I had not been bound to silence, perhaps nothing could have kept me entirely - not even what I owed
-   to my dearest friends - from openly shewing that I was VERY unhappy." - 
+   to my dearest friends - from openly shewing that I was VERY unhappy." -
 
-   Marianne was quite subdued. - 
+   Marianne was quite subdued. -
 
    "Oh! Elinor," she cried, "you have made me hate myself for ever. - How barbarous have I been to you! -  you, who have
    been my only comfort, who have borne with me in all my misery, who have seemed to be only suffering for me! - Is this my
@@ -6409,7 +6468,7 @@
 
    When she told Marianne what she had done, however, her first reply was not very auspicious.
 
-   "Cleveland!" - she cried, with great agitation. "No, I cannot go to Cleveland." - 
+   "Cleveland!" - she cried, with great agitation. "No, I cannot go to Cleveland." -
 
    "You forget," said Elinor gently, "that its situation is not... that it is not in the neighbourhood of... "
 
@@ -6449,7 +6508,7 @@
    reply she could not distinguish, but judged from the motion of her lips, that she did not think THAT any material
    objection; - and Mrs. Jennings commended her in her heart for being so honest. They then talked on for a few minutes
    longer without her catching a syllable, when another lucky stop in Marianne's performance brought her these words in the
-   Colonel's calm voice, - 
+   Colonel's calm voice, -
 
    "I am afraid it cannot take place very soon."
 
@@ -6557,7 +6616,7 @@
    "Well, and whose fault is that? why don't he repair it? -  who should do it but himself?"
 
    They were interrupted by the servant's coming in to announce the carriage being at the door; and Mrs. Jennings
-   immediately preparing to go, said, - 
+   immediately preparing to go, said, -
 
    "Well, my dear, I must be gone before I have had half my talk out. But, however, we may have it all over in the evening;
    for we shall be quite alone. I do not ask you to go with me, for I dare say your mind is too full of the matter to care
@@ -6576,7 +6635,7 @@
 
    This speech at first puzzled Mrs. Jennings exceedingly. Why Mr. Ferrars was to have been written to about it in such a
    hurry, she could not immediately comprehend. A few moments' reflection, however, produced a very happy idea, and she
-   exclaimed; - 
+   exclaimed; -
 
    "Oh, ho! - I understand you. Mr. Ferrars is to be the man. Well, so much the better for him. Ay, to be sure, he must be
    ordained in readiness; and I am very glad to find things are so forward between you. But, my dear, is not this rather
@@ -6722,7 +6781,7 @@
 
    "Aye, aye, the parsonage is but a small one," said she, after the first ebullition of surprise and satisfaction was
    over, "and very likely MAY be out of repair; but to hear a man apologising, as I thought, for a house that to my
-   knowledge has five sitting rooms on the ground-floor, and I think the housekeeper told me could make up fifteen beds! - 
+   knowledge has five sitting rooms on the ground-floor, and I think the housekeeper told me could make up fifteen beds! -
    and to you too, that had been used to live in Barton cottage! -  It seems quite ridiculous. But, my dear, we must touch
    up the Colonel to do some thing to the parsonage, and make it comfortable for them, before Lucy goes to it."
 
@@ -6769,7 +6828,7 @@
 
    "Fanny is in her own room, I suppose," said he: - "I will go to her presently, for I am sure she will not have the least
    objection in the world to seeing YOU. -  Very far from it, indeed. NOW especially there cannot be - but however, you and
-   Marianne were always great favourites. - Why would not Marianne come?" - 
+   Marianne were always great favourites. - Why would not Marianne come?" -
 
    Elinor made what excuse she could for her.
 
@@ -7115,7 +7174,7 @@
    The repose of the latter became more and more disturbed; and her sister, who watched, with unremitting attention her
    continual change of posture, and heard the frequent but inarticulate sounds of complaint which passed her lips, was
    almost wishing to rouse her from so painful a slumber, when Marianne, suddenly awakened by some accidental noise in the
-   house, started hastily up, and, with feverish wildness, cried out, - 
+   house, started hastily up, and, with feverish wildness, cried out, -
 
    "Is mama coming? - "
 
@@ -7316,7 +7375,7 @@
    recollection,
 
    "Mr. Willoughby, you OUGHT to feel, and I certainly DO - that after what has passed - your coming here in this manner,
-   and forcing yourself upon my notice, requires a very particular excuse. - What is it, that you mean by it?" - 
+   and forcing yourself upon my notice, requires a very particular excuse. - What is it, that you mean by it?" -
 
    "I mean," - said he, with serious energy - "if I can, to make you hate me one degree less than you do NOW. I mean to
    offer some kind of explanation, some kind of apology, for the past; to open my whole heart to you, and by convincing
@@ -7395,7 +7454,7 @@
    do not mean, however, to defend myself. Her affection for me deserved better treatment, and I often, with great
    self-reproach, recall the tenderness which, for a very short time, had the power of creating any return. I wish - I
    heartily wish it had never been. But I have injured more than herself; and I have injured one, whose affection for
-   me - (may I say it?) was scarcely less warm than hers; and whose mind - Oh! how infinitely superior!" - 
+   me - (may I say it?) was scarcely less warm than hers; and whose mind - Oh! how infinitely superior!" -
 
    "Your indifference, however, towards that unfortunate girl - I must say it, unpleasant to me as the discussion of such a
    subject may well be - your indifference is no apology for your cruel neglect of her. Do not think yourself excused by
@@ -7600,7 +7659,7 @@
    the connection, for the sake of which he had, with little scruple, left her sister to misery, was likely to prove a
    source of unhappiness to himself of a far more incurable nature. From a reverie of this kind she was recalled at the end
    of some minutes by Willoughby, who, rousing himself from a reverie at least equally painful, started up in preparation
-   for going, and said - 
+   for going, and said -
 
    "There is no use in staying here; I must be off."
 
@@ -7880,14 +7939,14 @@
    Her voice sunk with the word, but presently reviving she added,
 
    "I am thankful to find that I can look with so little pain on the spot! - shall we ever talk on that subject,
-   Elinor?" -  hesitatingly it was said. - "Or will it be wrong? - I can talk of it now, I hope, as I ought to do." - 
+   Elinor?" -  hesitatingly it was said. - "Or will it be wrong? - I can talk of it now, I hope, as I ought to do." -
 
    Elinor tenderly invited her to be open.
 
    "As for regret," said Marianne, "I have done with that, as far as HE is concerned. I do not mean to talk to you of what
    my feelings have been for him, but what they are NOW. - At present, if I could be satisfied on one point, if I could be
    allowed to think that he was not ALWAYS acting a part, not ALWAYS deceiving me; - but above all, if I could be assured
-   that he never was so VERY wicked as my fears have sometimes fancied him, since the story of that unfortunate girl" - 
+   that he never was so VERY wicked as my fears have sometimes fancied him, since the story of that unfortunate girl" -
 
    She stopt. Elinor joyfully treasured her words as she answered,
 
@@ -7895,7 +7954,7 @@
 
    "Yes. My peace of mind is doubly involved in it; -  for not only is it horrible to suspect a person, who has been what
    HE has been to ME, of such designs, - but what must it make me appear to myself? - What in a situation like mine, but a
-   most shamefully unguarded affection could expose me to" - 
+   most shamefully unguarded affection could expose me to" -
 
    "How then," asked her sister, "would you account for his behaviour?"
 
@@ -7996,7 +8055,7 @@
    "I wish to assure you both," said she, "that I see every thing - as you can desire me to do."
 
    Mrs. Dashwood would have interrupted her instantly with soothing tenderness, had not Elinor, who really wished to hear
-   her sister's unbiased opinion, by an eager sign, engaged her silence. Marianne slowly continued - 
+   her sister's unbiased opinion, by an eager sign, engaged her silence. Marianne slowly continued -
 
    "It is a great relief to me - what Elinor told me this morning - I have now heard exactly what I wished to hear." - For
    some moments her voice was lost; but recovering herself, she added, and with greater calmness than before - "I am now
@@ -8076,7 +8135,7 @@
    succeeding letters. She was not doomed, however, to be long in ignorance of his measures.
 
    Their man-servant had been sent one morning to Exeter on business; and when, as he waited at table, he had satisfied the
-   inquiries of his mistress as to the event of his errand, this was his voluntary communication - 
+   inquiries of his mistress as to the event of his errand, this was his voluntary communication -
 
    "I suppose you know, ma'am, that Mr. Ferrars is married."
 
@@ -8237,7 +8296,7 @@
    "I meant," said Elinor, taking up some work from the table, "to inquire for Mrs. EDWARD Ferrars."
 
    She dared not look up; - but her mother and Marianne both turned their eyes on him. He coloured, seemed perplexed,
-   looked doubtingly, and, after some hesitation, said, - 
+   looked doubtingly, and, after some hesitation, said, -
 
    "Perhaps you mean - my brother - you mean Mrs. - Mrs. ROBERT Ferrars."
 
@@ -8626,7 +8685,7 @@
    Marianne may not seem exactly the person to attract him -  yet I think it would altogether be advisable for you to have
    them now frequently staying with you, for as Colonel Brandon seems a great deal at home, nobody can tell what may
    happen - for, when people are much thrown together, and see little of anybody else - and it will always be in your power
-   to set her off to advantage, and so forth; -  in short, you may as well give her a chance - You understand me." - 
+   to set her off to advantage, and so forth; -  in short, you may as well give her a chance - You understand me." -
 
    But though Mrs. Ferrars DID come to see them, and always treated them with the make-believe of decent affection, they
    were never insulted by her real favour and preference. THAT was due to the folly of Robert, and the cunning of his wife;

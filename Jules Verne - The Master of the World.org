@@ -1,3 +1,30 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-master-of-the-world][The Master of the World]]
+  - [[#jules-verne][Jules Verne]]
+  - [[#chapter-1-what-happened-in-the-mountains][Chapter 1 WHAT HAPPENED IN THE MOUNTAINS]]
+  - [[#chapter-2-i-reach-morganton][Chapter 2 I REACH MORGANTON]]
+  - [[#chapter-3-the-great-eyrie][Chapter 3 THE GREAT EYRIE]]
+  - [[#chapter-4-a-meeting-of-the-automobile-club][Chapter 4 A MEETING OF THE AUTOMOBILE CLUB]]
+  - [[#chapter-5-along-the-shores-of-new-england][Chapter 5 ALONG THE SHORES OF NEW ENGLAND]]
+  - [[#chapter-6-the-first-letter][Chapter 6 THE FIRST LETTER]]
+  - [[#chapter-7-a-third-machine][Chapter 7 A THIRD MACHINE]]
+  - [[#chapter-8-at-any-cost][Chapter 8 AT ANY COST]]
+  - [[#chapter-9-the-second-letter][Chapter 9 THE SECOND LETTER]]
+  - [[#chapter-10-outside-the-law][Chapter 10 OUTSIDE THE LAW]]
+  - [[#chapter-11-the-campaign][Chapter 11 THE CAMPAIGN]]
+  - [[#chapter-12-black-rock-creek][Chapter 12 BLACK ROCK CREEK]]
+  - [[#chapter-13-on-board-the-terror][Chapter 13 ON BOARD THE TERROR]]
+  - [[#chapter-14-niagara][Chapter 14 NIAGARA]]
+  - [[#chapter-15-the-eagles-nest][Chapter 15 THE EAGLE'S NEST]]
+  - [[#chapter-16-robur-the-conqueror][Chapter 16 ROBUR, THE CONQUEROR]]
+  - [[#chapter-17-in-the-name-of-the-law][Chapter 17 IN THE NAME OF THE LAW]]
+  - [[#chapter-18-the-old-housekeepers-last-comment][Chapter 18 THE OLD HOUSEKEEPER'S LAST COMMENT]]
+:END:
 * The Master of the World
 ** Jules Verne
    *Published:* 1904
@@ -1284,7 +1311,7 @@
    which to appear. The main highway of Wisconsin on a great race day, the harbor of Boston, incessantly crossed by
    thousands of boats, these were hardly what would be called hiding-places! If the daring driver had not perished of which
    there was always strong probability; then he must have left America. Perhaps he was in the waters of the Old World, or
-   else resting in some retreat known only to himself, and in that case - 
+   else resting in some retreat known only to himself, and in that case -
 
    "Ah!" I repeated to myself, many times, "for such a retreat, as secret as inaccessible, this fantastic personage could
    not find one better than the Great Eyrie!" But, of course, a boat could not get there, any more than an automobile. Only
@@ -2406,7 +2433,7 @@
    escape us ?
 
    Suddenly the grappling-iron was torn violently from the rocks. One of its hooks caught in my belt, while Walker was
-   knocked down by the flying cable. I was entangled by the iron and the rope and dragged forward  - 
+   knocked down by the flying cable. I was entangled by the iron and the rope and dragged forward  -
 
    The "Terror," driven by all the power of her engines, made a single bound and darted out across Black Rock Creek.
 

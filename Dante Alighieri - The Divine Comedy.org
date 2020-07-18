@@ -1,3 +1,15 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-divine-comedy][The Divine Comedy]]
+  - [[#dante-alighieri][Dante Alighieri]]
+  - [[#part-1---inferno][Part 1 - Inferno]]
+  - [[#part-2---purgatorio][Part 2 - Purgatorio]]
+  - [[#part-3---paradiso][Part 3 - Paradiso]]
+:END:
 * The Divine Comedy
 ** Dante Alighieri
    *Published:* 1306
@@ -2901,7 +2913,7 @@
 
     With which thine Ethics thoroughly discusses
 
-    The dispositions three, that Heaven abides not, - 
+    The dispositions three, that Heaven abides not, -
 
     Incontinence, and Malice, and insane
 
@@ -8089,7 +8101,7 @@
 
     And whirled him round, and dashed him on a rock;
 
-    And she, with the other burthen, drowned herself; - 
+    And she, with the other burthen, drowned herself; -
 
     And at the time when fortune downward hurled
 
@@ -8625,7 +8637,7 @@
 
     So said the Master; and in haste the other
 
-    His hands extended and took up my Guide, - 
+    His hands extended and took up my Guide, -
 
     Hands whose great pressure Hercules once felt.
 
@@ -8723,7 +8735,7 @@
 
     With muzzle out of water, - when is dreaming
 
-    Of gleaning oftentimes the peasant-girl, - 
+    Of gleaning oftentimes the peasant-girl, -
 
     Livid, as far down as where shame appears,
 
@@ -9842,7 +9854,7 @@
 
     Down in the West upon the ocean floor,
 
-    Appeared to me - may I again behold it! - 
+    Appeared to me - may I again behold it! -
 
     A light along the sea so swiftly coming,
 
@@ -14108,7 +14120,7 @@
 
     Behold the dawn, that through the smoke rays out,
 
-    Already whitening; and I must depart - 
+    Already whitening; and I must depart -
 
     Yonder the Angel is - ere he appear."
 
@@ -16009,9 +16021,9 @@
 
     And not a single time alone, this ground
 
-    Encompassing, is refreshed our pain, - 
+    Encompassing, is refreshed our pain, -
 
-    I say our pain, and ought to say our solace, - 
+    I say our pain, and ought to say our solace, -
 
     For the same wish doth lead us to the tree
 
@@ -17858,7 +17870,7 @@
 
     E'er gladdened Africanus, or Augustus,
 
-    But poor to it that of the Sun would be, - 
+    But poor to it that of the Sun would be, -
 
     That of the Sun, which swerving was burnt up
 
@@ -22612,7 +22624,7 @@
 
     That in the point beginneth of the axis
 
-    Round about which the primal wheel revolves, - 
+    Round about which the primal wheel revolves, -
 
     To have fashioned of themselves two signs in heaven,
 
@@ -24838,7 +24850,7 @@
 
     Unto good will, returned unto his bones,
 
-    And that of living hope was the reward, - 
+    And that of living hope was the reward, -
 
     Of living hope, that placed its efficacy
 
@@ -25423,7 +25435,7 @@
 
     Triumph return, on whose account I often
 
-    For my transgressions weep and beat my breast, - 
+    For my transgressions weep and beat my breast, -
 
     Thou hadst not thrust thy finger in the fire
 
@@ -26173,7 +26185,7 @@
 
     Thou knowest as oft thou dost personify it
 
-    As Jesus to the three gave greater clearness." - 
+    As Jesus to the three gave greater clearness." -
 
     "Lift up thy head, and make thyself assured;
 
@@ -27915,7 +27927,7 @@
 
     Were wonder-struck, what time the Lateran
 
-    Above all mortal things was eminent, - 
+    Above all mortal things was eminent, -
 
     I who to the divine had from the human,
 

@@ -1,3 +1,50 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#jane-eyre][Jane Eyre]]
+  - [[#charlotte-brontë][Charlotte Brontë]]
+  - [[#chapter-1][Chapter 1]]
+  - [[#chapter-2][Chapter 2]]
+  - [[#chapter-3][Chapter 3]]
+  - [[#chapter-4][Chapter 4]]
+  - [[#chapter-5][Chapter 5]]
+  - [[#chapter-6][Chapter 6]]
+  - [[#chapter-7][Chapter 7]]
+  - [[#chapter-8][Chapter 8]]
+  - [[#chapter-9][Chapter 9]]
+  - [[#chapter-10][Chapter 10]]
+  - [[#chapter-11][Chapter 11]]
+  - [[#chapter-12][Chapter 12]]
+  - [[#chapter-13][Chapter 13]]
+  - [[#chapter-14][Chapter 14]]
+  - [[#chapter-15][Chapter 15]]
+  - [[#chapter-16][Chapter 16]]
+  - [[#chapter-17][Chapter 17]]
+  - [[#chapter-18][Chapter 18]]
+  - [[#chapter-19][Chapter 19]]
+  - [[#chapter-20][Chapter 20]]
+  - [[#chapter-21][Chapter 21]]
+  - [[#chapter-22][Chapter 22]]
+  - [[#chapter-23][Chapter 23]]
+  - [[#chapter-24][Chapter 24]]
+  - [[#chapter-25][Chapter 25]]
+  - [[#chapter-26][Chapter 26]]
+  - [[#chapter-27][Chapter 27]]
+  - [[#chapter-28][Chapter 28]]
+  - [[#chapter-29][Chapter 29]]
+  - [[#chapter-30][Chapter 30]]
+  - [[#chapter-31][Chapter 31]]
+  - [[#chapter-32][Chapter 32]]
+  - [[#chapter-33][Chapter 33]]
+  - [[#chapter-34][Chapter 34]]
+  - [[#chapter-35][Chapter 35]]
+  - [[#chapter-36][Chapter 36]]
+  - [[#chapter-37][Chapter 37]]
+  - [[#chapter-38-conclusion][Chapter 38 CONCLUSION]]
+:END:
 * Jane Eyre
 ** Charlotte Brontë
    *Published:* 1847
@@ -123,7 +170,7 @@
    I returned to my book - Bewick's History of British Birds: the letterpress thereof I cared little for, generally
    speaking; and yet there were certain introductory pages that, child as I was, I could not pass quite as a blank.  They
    were those which treat of the haunts of sea-fowl; of “the solitary rocks and promontories” by them only inhabited; of
-   the coast of Norway, studded with isles from its southern extremity, the Lindeness, or Naze, to the North Cape - 
+   the coast of Norway, studded with isles from its southern extremity, the Lindeness, or Naze, to the North Cape -
 
    #+BEGIN_QUOTE
    “Where the Northern Ocean, in vast whirls,
@@ -167,7 +214,7 @@
 
    “It is well I drew the curtain,” thought I; and I wished fervently he might not discover my hiding-place: nor would John
    Reed have found it out himself; he was not quick either of vision or conception; but Eliza just put her head in at the
-   door, and said at once - 
+   door, and said at once -
 
    “She is in the window-seat, to be sure, Jack.”
 
@@ -238,13 +285,13 @@
    pungent suffering: these sensations for the time predominated over fear, and I received him in frantic sort.  I don't
    very well know what I did with my hands, but he called me “Rat!  Rat!” and bellowed out aloud.  Aid was near him: Eliza
    and Georgiana had run for Mrs. Reed, who was gone upstairs: she now came upon the scene, followed by Bessie and her maid
-   Abbot.  We were parted: I heard the words - 
+   Abbot.  We were parted: I heard the words -
 
    “Dear! dear!  What a fury to fly at Master John!”
 
    “Did ever anybody see such a picture of passion!”
 
-   Then Mrs. Reed subjoined - 
+   Then Mrs. Reed subjoined -
 
    “Take her away to the red-room, and lock her in there.”  Four hands were immediately laid upon me, and I was borne
    upstairs.
@@ -292,7 +339,7 @@
 
    I had nothing to say to these words: they were not new to me: my very first recollections of existence included hints of
    the same kind.  This reproach of my dependence had become a vague sing-song in my ear: very painful and crushing, but
-   only half intelligible.  Miss Abbot joined in - 
+   only half intelligible.  Miss Abbot joined in -
 
    “And you ought not to think yourself on an equality with the Misses Reed and Master Reed, because Missis kindly allows
    you to be brought up with them.  They will have a great deal of money, and you will have none: it is your place to be
@@ -488,7 +535,7 @@
 
    “You fell sick, I suppose, in the red-room with crying; you'll be better soon, no doubt.”
 
-   Bessie went into the housemaid's apartment, which was near.  I heard her say - 
+   Bessie went into the housemaid's apartment, which was near.  I heard her say -
 
    “Sarah, come and sleep with me in the nursery; I daren't for my life be alone with that poor child to-night: she might
    die; it's such a strange thing she should have that fit: I wonder if she saw anything.  Missis was rather too hard.”
@@ -540,7 +587,7 @@
 
    Bessie had now finished dusting and tidying the room, and having washed her hands, she opened a certain little drawer,
    full of splendid shreds of silk and satin, and began making a new bonnet for Georgiana's doll.  Meantime she sang: her
-   song was - 
+   song was -
 
    #+BEGIN_QUOTE
    “In the days when we went gipsying,
@@ -605,7 +652,7 @@
 
    The good apothecary appeared a little puzzled.  I was standing before him; he fixed his eyes on me very steadily: his
    eyes were small and grey; not very bright, but I dare say I should think them shrewd now: he had a hard-featured yet
-   good-natured looking face.  Having considered me at leisure, he said - 
+   good-natured looking face.  Having considered me at leisure, he said -
 
    “What made you ill yesterday?”
 
@@ -648,7 +695,7 @@
 
    “You have a kind aunt and cousins.”
 
-   Again I paused; then bunglingly enounced - 
+   Again I paused; then bunglingly enounced -
 
    “But John Reed knocked me down, and my aunt shut me up in the red-room.”
 
@@ -757,12 +804,12 @@
    ran from me tittering execrations, and vowing I had burst his nose.  I had indeed levelled at that prominent feature as
    hard a blow as my knuckles could inflict; and when I saw that either that or my look daunted him, I had the greatest
    inclination to follow up my advantage to purpose; but he was already with his mama.  I heard him in a blubbering tone
-   commence the tale of how “that nasty Jane Eyre” had flown at him like a mad cat: he was stopped rather harshly - 
+   commence the tale of how “that nasty Jane Eyre” had flown at him like a mad cat: he was stopped rather harshly -
 
    “Don't talk to me about her, John: I told you not to go near her; she is not worthy of notice; I do not choose that
    either you or your sisters should associate with her.”
 
-   Here, leaning over the banister, I cried out suddenly, and without at all deliberating on my words - 
+   Here, leaning over the banister, I cried out suddenly, and without at all deliberating on my words -
 
    “They are not fit to associate with me.”
 
@@ -851,7 +898,7 @@
 
    “Miss Jane, take off your pinafore; what are you doing there?  Have you washed your hands and face this morning?”  I
    gave another tug before I answered, for I wanted the bird to be secure of its bread: the sash yielded; I scattered the
-   crumbs, some on the stone sill, some on the cherry-tree bough, then, closing the window, I replied - 
+   crumbs, some on the stone sill, some on the cherry-tree bough, then, closing the window, I replied -
 
    “No, Bessie; I have only just finished dusting.”
 
@@ -1053,7 +1100,7 @@
    walked to the window, across the room, then close up to her.
 
    /Speak/ I must: I had been trodden on severely, and /must/ turn: but how?  What strength had I to dart retaliation at my
-   antagonist?  I gathered my energies and launched them in this blunt sentence - 
+   antagonist?  I gathered my energies and launched them in this blunt sentence -
 
    “I am not deceitful: if I were, I should say I loved you; but I declare I do not love you: I dislike you the worst of
    anybody in the world except John Reed; and this book about the liar, you may give to your girl, Georgiana, for it is she
@@ -1065,7 +1112,7 @@
    such as is ordinarily used to a child.
 
    That eye of hers, that voice stirred every antipathy I had.  Shaking from head to foot, thrilled with ungovernable
-   excitement, I continued - 
+   excitement, I continued -
 
    “I am glad you are no relation of mine: I will never call you aunt again as long as I live.  I will never come to see
    you when I am grown up; and if any one asks me how I liked you, and how you treated me, I will say the very thought of
@@ -1296,7 +1343,7 @@
    shawl, her countenance was grave, her bearing erect.
 
    “The child is very young to be sent alone,” said she, putting her candle down on the table.  She considered me
-   attentively for a minute or two, then further added - 
+   attentively for a minute or two, then further added -
 
    “She had better be put to bed soon; she looks tired: are you tired?” she asked, placing her hand on my shoulder.
 
@@ -1321,12 +1368,12 @@
    frocks of quaint fashion, and long holland pinafores.  It was the hour of study; they were engaged in conning over their
    to-morrow's task, and the hum I had heard was the combined result of their whispered repetitions.
 
-   Miss Miller signed to me to sit on a bench near the door, then walking up to the top of the long room she cried out - 
+   Miss Miller signed to me to sit on a bench near the door, then walking up to the top of the long room she cried out -
 
    “Monitors, collect the lesson-books and put them away!”
 
    Four tall girls arose from different tables, and going round, gathered the books and removed them.  Miss Miller again
-   gave the word of command - 
+   gave the word of command -
 
    “Monitors, fetch the supper-trays!”
 
@@ -1349,7 +1396,7 @@
    washed when there was a basin at liberty, which did not occur soon, as there was but one basin to six girls, on the
    stands down the middle of the room.  Again the bell rang: all formed in file, two and two, and in that order descended
    the stairs and entered the cold and dimly lit schoolroom: here prayers were read by Miss Miller; afterwards she called
-   out - 
+   out -
 
    “Form classes!”
 
@@ -1372,7 +1419,7 @@
    The refectory was a great, low-ceiled, gloomy room; on two long tables smoked basins of something hot, which, however,
    to my dismay, sent forth an odour far from inviting.  I saw a universal manifestation of discontent when the fumes of
    the repast met the nostrils of those destined to swallow it; from the van of the procession, the tall girls of the first
-   class, rose the whispered words - 
+   class, rose the whispered words -
 
    “Disgusting!  The porridge is burnt again!”
 
@@ -1389,7 +1436,7 @@
    swallow it; but in most cases the effort was soon relinquished.  Breakfast was over, and none had breakfasted.  Thanks
    being returned for what we had not got, and a second hymn chanted, the refectory was evacuated for the schoolroom.  I
    was one of the last to go out, and in passing the tables, I saw one teacher take a basin of the porridge and taste it;
-   she looked at the others; all their countenances expressed displeasure, and one of them, the stout one, whispered - 
+   she looked at the others; all their countenances expressed displeasure, and one of them, the stout one, whispered -
 
    “Abominable stuff!  How shameful!”
 
@@ -1400,7 +1447,7 @@
    sullen gestures.  I heard the name of Mr. Brocklehurst pronounced by some lips; at which Miss Miller shook her head
    disapprovingly; but she made no great effort to check the general wrath; doubtless she shared in it.
 
-   A clock in the schoolroom struck nine; Miss Miller left her circle, and standing in the middle of the room, cried - 
+   A clock in the schoolroom struck nine; Miss Miller left her circle, and standing in the middle of the room, cried -
 
    “Silence!  To your seats!”
 
@@ -1422,7 +1469,7 @@
    seated: but as all eyes were now turned to one point, mine followed the general direction, and encountered the personage
    who had received me last night.  She stood at the bottom of the long room, on the hearth; for there was a fire at each
    end; she surveyed the two rows of girls silently and gravely.  Miss Miller approaching, seemed to ask her a question,
-   and having received her answer, went back to her place, and said aloud - 
+   and having received her answer, went back to her place, and said aloud -
 
    “Monitor of the first class, fetch the globes!”
 
@@ -1441,11 +1488,11 @@
    tables, summoned the first class round her, and commenced giving a lesson on geography; the lower classes were called by
    the teachers: repetitions in history, grammar, &c., went on for an hour; writing and arithmetic succeeded, and music
    lessons were given by Miss Temple to some of the elder girls.  The duration of each lesson was measured by the clock,
-   which at last struck twelve.  The superintendent rose - 
+   which at last struck twelve.  The superintendent rose -
 
    “I have a word to address to the pupils,” said she.
 
-   The tumult of cessation from lessons was already breaking forth, but it sank at her voice.  She went on - 
+   The tumult of cessation from lessons was already breaking forth, but it sank at her voice.  She went on -
 
    “You had this morning a breakfast which you could not eat; you must be hungry: - I have ordered that a lunch of bread
    and cheese shall be served to all.”
@@ -1475,7 +1522,7 @@
    immeasurable distance; the present was vague and strange, and of the future I could form no conjecture.  I looked round
    the convent-like garden, and then up at the house - a large building, half of which seemed grey and old, the other half
    quite new.  The new part, containing the schoolroom and dormitory, was lit by mullioned and latticed windows, which gave
-   it a church-like aspect; a stone tablet over the door bore this inscription: - 
+   it a church-like aspect; a stone tablet over the door bore this inscription: -
 
    “Let your light so shine before men, that they may see your good works, and glorify your Father which is in
    heaven.” - St. Matt. v. 16.
@@ -1484,7 +1531,7 @@
    their import.  I was still pondering the signification of “Institution,” and endeavouring to make out a connection
    between the first words and the verse of Scripture, when the sound of a cough close behind me made me turn my head.  I
    saw a girl sitting on a stone bench near; she was bent over a book, on the perusal of which she seemed intent: from
-   In turning a leaf she happened to look up, and I said to her directly - 
+   In turning a leaf she happened to look up, and I said to her directly -
 
    “Is your book interesting?”  I had already formed the intention of asking her to lend it to me some day.
 
@@ -1499,7 +1546,7 @@
    I did so; a brief examination convinced me that the contents were less taking than the title: “Rasselas” looked dull to
    my trifling taste; I saw nothing about fairies, nothing about genii; no bright variety seemed spread over the
    closely-printed pages.  I returned it to her; she received it quietly, and without saying anything she was about to
-   relapse into her former studious mood: again I ventured to disturb her - 
+   relapse into her former studious mood: again I ventured to disturb her -
 
    “Can you tell me what the writing on that stone over the door means?  What is Lowood Institution?”
 
@@ -1630,7 +1677,7 @@
    performance.  It was English history: among the readers I observed my acquaintance of the verandah: at the commencement
    of the lesson, her place had been at the top of the class, but for some error of pronunciation, or some inattention to
    stops, she was suddenly sent to the very bottom.  Even in that obscure position, Miss Scatcherd continued to make her an
-   object of constant notice: she was continually addressing to her such phrases as the following: - 
+   object of constant notice: she was continually addressing to her such phrases as the following: -
 
    “Burns” (such it seems was her name: the girls here were all called by their surnames, as boys are elsewhere), “Burns,
    you are standing on the side of your shoe; turn your toes out immediately.”  “Burns, you poke your chin most
@@ -1641,7 +1688,7 @@
    of the reign of Charles I., and there were sundry questions about tonnage and poundage and ship-money, which most of
    them appeared unable to answer; still, every little difficulty was solved instantly when it reached Burns: her memory
    seemed to have retained the substance of the whole lesson, and she was ready with answers on every point.  I kept
-   expecting that Miss Scatcherd would praise her attention; but, instead of that, she suddenly cried out - 
+   expecting that Miss Scatcherd would praise her attention; but, instead of that, she suddenly cried out -
 
    “You dirty, disagreeable girl! you have never cleaned your nails this morning!”
 
@@ -1835,7 +1882,7 @@
 
    Helen's head, always drooping, sank a little lower as she finished this sentence.  I saw by her look she wished no
    longer to talk to me, but rather to converse with her own thoughts.  She was not allowed much time for meditation: a
-   monitor, a great rough girl, presently came up, exclaiming in a strong Cumberland accent - 
+   monitor, a great rough girl, presently came up, exclaiming in a strong Cumberland accent -
 
    “Helen Burns, if you don't go and put your drawer in order, and fold up your work this minute, I'll tell Miss Scatcherd
    to come and look at it!”
@@ -1961,7 +2008,7 @@
 
    Meantime, Mr. Brocklehurst, standing on the hearth with his hands behind his back, majestically surveyed the whole
    school.  Suddenly his eye gave a blink, as if it had met something that either dazzled or shocked its pupil; turning, he
-   said in more rapid accents than he had hitherto used - 
+   said in more rapid accents than he had hitherto used -
 
    And extending his cane he pointed to the awful object, his hand shaking as he did so.
 
@@ -1986,7 +2033,7 @@
    and platter, the inside was further beyond his interference than he imagined.
 
    He scrutinised the reverse of these living medals some five minutes, then pronounced sentence.  These words fell like
-   the knell of doom - 
+   the knell of doom -
 
    “All those top-knots must be cut off.”
 
@@ -2023,7 +2070,7 @@
 
    Of my own accord I could not have stirred; I was paralysed: but the two great girls who sit on each side of me, set me
    on my legs and pushed me towards the dread judge, and then Miss Temple gently assisted me to his very feet, and I caught
-   her whispered counsel - 
+   her whispered counsel -
 
    “Don't be afraid, Jane, I saw it was an accident; you shall not be punished.”
 
@@ -2076,7 +2123,7 @@
 
    With this sublime conclusion, Mr. Brocklehurst adjusted the top button of his surtout, muttered something to his family,
    who rose, bowed to Miss Temple, and then all the great people sailed in state from the room.  Turning at the door, my
-   judge said - 
+   judge said -
 
    “Let her stand half-an-hour longer on that stool, and let no one speak to her during the remainder of the day.”
 
@@ -2116,7 +2163,7 @@
    “Come, eat something,” she said; but I put both away from me, feeling as if a drop or a crumb would have choked me in my
    present condition.  Helen regarded me, probably with surprise: I could not now abate my agitation, though I tried hard;
    I continued to weep aloud.  She sat down on the ground near me, embraced her knees with her arms, and rested her head
-   upon them; in that attitude she remained silent as an Indian.  I was the first who spoke - 
+   upon them; in that attitude she remained silent as an Indian.  I was the first who spoke -
 
    “Helen, why do you stay with a girl whom everybody believes to be a liar?”
 
@@ -2136,7 +2183,7 @@
    you for a day or two, but friendly feelings are concealed in their hearts; and if you persevere in doing well, these
    feelings will ere long appear so much the more evidently for their temporary suppression.  Besides, Jane” - she paused.
 
-   “Well, Helen?” said I, putting my hand into hers: she chafed my fingers gently to warm them, and went on - 
+   “Well, Helen?” said I, putting my hand into hers: she chafed my fingers gently to warm them, and went on -
 
    “If all the world hated you, and believed you wicked, while your own conscience approved you, and absolved you from
    guilt, you would not be without friends.”
@@ -2211,7 +2258,7 @@
    nothing could soften in my recollection the spasm of agony which clutched my heart when Mrs. Reed spurned my wild
    supplication for pardon, and locked me a second time in the dark and haunted chamber.
 
-   I had finished: Miss Temple regarded me a few minutes in silence; she then said - 
+   I had finished: Miss Temple regarded me a few minutes in silence; she then said -
 
    “I know something of Mr. Lloyd; I shall write to him; if his reply agrees with your statement, you shall be publicly
    cleared from every imputation; to me, Jane, you are clear now.”
@@ -2229,7 +2276,7 @@
    “It is a little better.”
 
    Miss Temple got up, took her hand and examined her pulse; then she returned to her own seat: as she resumed it, I heard
-   her sigh low.  She was pensive a few minutes, then rousing herself, she said cheerfully - 
+   her sigh low.  She was pensive a few minutes, then rousing herself, she said cheerfully -
 
    “But you two are my visitors to-night; I must treat you as such.”  She rang her bell.
 
@@ -2242,7 +2289,7 @@
 
    “Barbara,” said she, “can you not bring a little more bread and butter?  There is not enough for three.”
 
-   Barbara went out: she returned soon - 
+   Barbara went out: she returned soon -
 
    “Madam, Mrs. Harden says she has sent up the usual quantity.”
 
@@ -2286,7 +2333,7 @@
    they seemed so familiar with French names and French authors: but my amazement reached its climax when Miss Temple asked
    Helen if she sometimes snatched a moment to recall the Latin her father had taught her, and taking a book from a shelf,
    She had scarcely finished ere the bell announced bedtime! no delay could be admitted; Miss Temple embraced us both,
-   saying, as she drew us to her heart - 
+   saying, as she drew us to her heart -
 
    “God bless you, my children!”
 
@@ -2432,7 +2479,7 @@
    and which I feared would wither if I left them till the morning.  This done, I lingered yet a little longer: the flowers
    smelt so sweet as the dew fell; it was such a pleasant evening, so serene, so warm; the still glowing west promised so
    fairly another fine day on the morrow; the moon rose with such majesty in the grave east.  I was noting these things and
-   enjoying them as a child might, when it entered my mind as it had never done before: - 
+   enjoying them as a child might, when it entered my mind as it had never done before: -
 
    “How sad to be lying now on a sick bed, and to be in danger of dying!  This world is pleasant - it would be dreary to be
    called from it, and to have to go who knows where?”
@@ -2517,11 +2564,11 @@
    “Yes; to my long home - my last home.”
 
    “No, no, Helen!”  I stopped, distressed.  While I tried to devour my tears, a fit of coughing seized Helen; it did not,
-   however, wake the nurse; when it was over, she lay some minutes exhausted; then she whispered - 
+   however, wake the nurse; when it was over, she lay some minutes exhausted; then she whispered -
 
    “Jane, your little feet are bare; lie down and cover yourself with my quilt.”
 
-   I did so: she put her arm over me, and I nestled close to her.  After a long silence, she resumed, still whispering - 
+   I did so: she put her arm over me, and I nestled close to her.  After a long silence, she resumed, still whispering -
 
    “I am very happy, Jane; and when you hear that I am dead, you must be sure and not grieve: there is nothing to grieve
    about.  We all must die one day, and the illness which is removing me is not painful; it is gentle and gradual: my mind
@@ -2548,7 +2595,7 @@
 
    Again I questioned, but this time only in thought.  “Where is that region?  Does it exist?”  And I clasped my arms
    closer round Helen; she seemed dearer to me than ever; I felt as if I could not let her go; I lay with my face hidden on
-   her neck.  Presently she said, in the sweetest tone - 
+   her neck.  Presently she said, in the sweetest tone -
 
    “How comfortable I am!  That last fit of coughing has tired me a little; I feel as if I could sleep: but don't leave me,
    Jane; I like to have you near me.”
@@ -2683,7 +2730,7 @@
 
    “How?  I know nothing about advertising.”
 
-   Replies rose smooth and prompt now: - 
+   Replies rose smooth and prompt now: -
 
    “You must enclose the advertisement and the money to pay for it under a cover directed to the editor of the /Herald/;
    you must put it, the first opportunity you have, into the post at Lowton; answers must be addressed to J.E., at the
@@ -2694,7 +2741,7 @@
    satisfied, and fell asleep.
 
    With earliest day, I was up: I had my advertisement written, enclosed, and directed before the bell rang to rouse the
-   school; it ran thus: - 
+   school; it ran thus: -
 
    “A young lady accustomed to tuition” (had I not been a teacher two years?) “is desirous of meeting with a situation in a
    private family where the children are under fourteen (I thought that as I was barely eighteen, it would not do to
@@ -2739,7 +2786,7 @@
    “If J.E., who advertised in the / - shire Herald/ of last Thursday, possesses the acquirements mentioned, and if she is
    in a position to give satisfactory references as to character and competency, a situation can be offered her where there
    is but one pupil, a little girl, under ten years of age; and where the salary is thirty pounds per annum.  J.E. is
-   requested to send references, name, address, and all particulars to the direction: - 
+   requested to send references, name, address, and all particulars to the direction: -
 
    “Mrs. Fairfax, Thornfield, near Millcote,  - shire.”
 
@@ -2790,7 +2837,7 @@
    see you.”
 
    “The carrier, no doubt,” I thought, and ran downstairs without inquiry.  I was passing the back-parlour or teachers'
-   sitting-room, the door of which was half open, to go to the kitchen, when some one ran out - 
+   sitting-room, the door of which was half open, to go to the kitchen, when some one ran out -
 
    “It's her, I am sure! - I could have told her anywhere!” cried the individual who stopped my progress and took my hand.
 
@@ -2941,7 +2988,7 @@
 
    “Is there a place in this neighbourhood called Thornfield?” I asked of the waiter who answered the summons.
 
-   “Thornfield?  I don't know, ma'am; I'll inquire at the bar.”  He vanished, but reappeared instantly - 
+   “Thornfield?  I don't know, ma'am; I'll inquire at the bar.”  He vanished, but reappeared instantly -
 
    “Is your name Eyre, Miss?”
 
@@ -2982,7 +3029,7 @@
    picturesque; more stirring, less romantic.
 
    The roads were heavy, the night misty; my conductor let his horse walk all the way, and the hour and a half extended, I
-   verily believe, to two hours; at last he turned in his seat and said - 
+   verily believe, to two hours; at last he turned in his seat and said -
 
    “You're noan so far fro' Thornfield now.”
 
@@ -3166,7 +3213,7 @@
    “Good morning, Miss Adela,” said Mrs. Fairfax.  “Come and speak to the lady who is to teach you, and to make you a
    clever woman some day.”  She approached.
 
-   “C'est là ma gouverante!” said she, pointing to me, and addressing her nurse; who answered - 
+   “C'est là ma gouverante!” said she, pointing to me, and addressing her nurse; who answered -
 
    “Mais oui, certainement.”
 
@@ -3398,7 +3445,7 @@
    morning?”
 
    The conversation, thus turned on Adèle, continued till we reached the light and cheerful region below.  Adèle came
-   running to meet us in the hall, exclaiming - 
+   running to meet us in the hall, exclaiming -
 
    “Mesdames, vous êtes servies!” adding, “J'ai bien faim, moi!”
 
@@ -3525,7 +3572,7 @@
    predicament, and hearing the horse groan, barked till the evening hills echoed the sound, which was deep in proportion
    to his magnitude.  He snuffed round the prostrate group, and then he ran up to me; it was all he could do, - there was
    no other help at hand to summon.  I obeyed him, and walked down to the traveller, by this time struggling himself free
-   of his steed.  His efforts were so vigorous, I thought he could not be much hurt; but I asked him the question - 
+   of his steed.  His efforts were so vigorous, I thought he could not be much hurt; but I asked him the question -
 
    “Are you injured, sir?”
 
@@ -3562,7 +3609,7 @@
    If even this stranger had smiled and been good-humoured to me when I addressed him; if he had put off my offer of
    assistance gaily and with thanks, I should have gone on my way and not felt any vocation to renew inquiries: but the
    frown, the roughness of the traveller, set me at my ease: I retained my station when he waved to me to go, and
-   announced - 
+   announced -
 
    “I cannot think of leaving you, sir, at so late an hour, in this solitary lane, till I see you are fit to mount your
    horse.”
@@ -3804,7 +3851,7 @@
    “Will you hand Mr. Rochester's cup?” said Mrs. Fairfax to me; “Adèle might perhaps spill it.”
 
    I did as requested.  As he took the cup from my hand, Adèle, thinking the moment propitious for making a request in my
-   favour, cried out - 
+   favour, cried out -
 
    “N'est-ce pas, monsieur, qu'il y a un cadeau pour Mademoiselle Eyre dans votre petit coffre?”
 
@@ -4052,7 +4099,7 @@
    who taught you to paint wind?  There is a high gale in that sky, and on this hill-top.  Where did you see Latmos?  For
    that is Latmos.  There! put the drawings away!”
 
-   I had scarce tied the strings of the portfolio, when, looking at his watch, he said abruptly - 
+   I had scarce tied the strings of the portfolio, when, looking at his watch, he said abruptly -
 
    “It is nine o'clock: what are you about, Miss Eyre, to let Adèle sit up so long?  Take her to bed.”
 
@@ -4145,7 +4192,7 @@
 
    Adèle seemed scarcely to need the warning - she had already retired to a sofa with her treasure, and was busy untying
    the cord which secured the lid.  Having removed this impediment, and lifted certain silvery envelopes of tissue paper,
-   she merely exclaimed - 
+   she merely exclaimed -
 
    “Oh ciel!  Que c'est beau!” and then remained absorbed in ecstatic contemplation.
 
@@ -4334,7 +4381,7 @@
    your few good points.”
 
    “And so may you,” I thought.  My eye met his as the idea crossed my mind: he seemed to read the glance, answering as if
-   its import had been spoken as well as imagined - 
+   its import had been spoken as well as imagined -
 
    “Yes, yes, you are right,” said he; “I have plenty of faults of my own: I know it, and I don't wish to palliate them, I
    assure you.  God wot I need not be too severe about others; I have a past existence, a series of deeds, a colour of life
@@ -4497,7 +4544,7 @@
    danser!”
 
    And spreading out her dress, she chasséed across the room till, having reached Mr. Rochester, she wheeled lightly round
-   before him on tip-toe, then dropped on one knee at his feet, exclaiming - 
+   before him on tip-toe, then dropped on one knee at his feet, exclaiming -
 
    “Monsieur, je vous remercie mille fois de votre bonté;” then rising, she added, “C'est comme cela que maman faisait,
    n'est-ce pas, monsieur?”
@@ -4535,7 +4582,7 @@
    down, and took out a cigar, - I will take one now, if you will excuse me.”
 
    Here ensued a pause, filled up by the producing and lighting of a cigar; having placed it to his lips and breathed a
-   trail of Havannah incense on the freezing and sunless air, he went on - 
+   trail of Havannah incense on the freezing and sunless air, he went on -
 
    “I liked bonbons too in those days, Miss Eyre, and I was /croquant/ - (overlook the barbarism) - /croquant/ chocolate
    comfits, and smoking alternately, watching meantime the equipages that rolled along the fashionable streets towards the
@@ -4569,7 +4616,7 @@
    over them a glare such as I never saw before or since.  Pain, shame, ire, impatience, disgust, detestation, seemed
    momentarily to hold a quivering conflict in the large pupil dilating under his ebon eyebrow.  Wild was the wrestle which
    should be paramount; but another feeling rose and triumphed: something hard and cynical: self-willed and resolute: it
-   settled his passion and petrified his countenance: he went on - 
+   settled his passion and petrified his countenance: he went on -
 
    “During the moment I was silent, Miss Eyre, I was arranging a point with my destiny.  She stood there, by that
    beech-trunk - a hag like one of those who appeared to Macbeth on the heath of Forres.  ‘You like Thornfield?' she said,
@@ -4583,7 +4630,7 @@
 
    Adèle here ran before him with her shuttlecock.  “Away!” he cried harshly; “keep at a distance, child; or go in to
    Sophie!”  Continuing then to pursue his walk in silence, I ventured to recall him to the point whence he had abruptly
-   diverged - 
+   diverged -
 
    “Did you leave the balcony, sir,” I asked, “when Mdlle. Varens entered?”
 
@@ -4597,7 +4644,7 @@
    gravity, considerateness, and caution were made to be the recipient of secrets.  Besides, I know what sort of a mind I
    have placed in communication with my own: I know it is one not liable to take infection: it is a peculiar mind: it is a
    unique one.  Happily I do not mean to harm it: but, if I did, it would not take harm from me.  The more you and I
-   converse, the better; for while I cannot blight you, you may refresh me.”  After this digression he proceeded - 
+   converse, the better; for while I cannot blight you, you may refresh me.”  After this digression he proceeded -
 
    “I remained in the balcony.  ‘They will come to her boudoir, no doubt,' thought I: ‘let me prepare an ambush.'  So
    putting my hand in through the open window, I drew the curtain over it, leaving only an opening through which I could
@@ -4789,7 +4836,7 @@
    “How, sir?”
 
    He made no reply, but stood with his arms folded, looking on the ground.  At the end of a few minutes he inquired in
-   rather a peculiar tone - 
+   rather a peculiar tone -
 
    “I forget whether you said you saw anything when you opened your chamber door.”
 
@@ -4897,7 +4944,7 @@
    hear him move?”
 
    She again raised her eyes to me, and this time there was something of consciousness in their expression.  She seemed to
-   examine me warily; then she answered - 
+   examine me warily; then she answered -
 
    “The servants sleep so far off, you know, Miss, they would not be likely to hear.  Mrs. Fairfax's room and yours are the
    nearest to master's; but Mrs. Fairfax said she heard nothing: when people get elderly, they often sleep heavy.”  She
@@ -4908,7 +4955,7 @@
    thought it was Pilot: but Pilot cannot laugh; and I am certain I heard a laugh, and a strange one.”
 
    She took a new needleful of thread, waxed it carefully, threaded her needle with a steady hand, and then observed, with
-   perfect composure - 
+   perfect composure -
 
    “It is hardly likely master would laugh, I should think, Miss, when he was in such danger: You must have been dreaming.”
 
@@ -5107,7 +5154,7 @@
    Arraigned at my own bar, Memory having given her evidence of the hopes, wishes, sentiments I had been cherishing since
    last night - of the general state of mind in which I had indulged for nearly a fortnight past; Reason having come
    forward and told, in her own quiet way a plain, unvarnished tale, showing how I had rejected the real, and rabidly
-   devoured the ideal; - I pronounced judgment to this effect: - 
+   devoured the ideal; - I pronounced judgment to this effect: -
 
    That a greater fool than Jane Eyre had never breathed the breath of life; that a more fantastic idiot had never
    surfeited herself on sweet lies, and swallowed poison as if it were nectar.
@@ -5159,7 +5206,7 @@
    to experience a sickening sense of disappointment; but rallying my wits, and recollecting my principles, I at once
    called my sensations to order; and it was wonderful how I got over the temporary blunder - how I cleared up the mistake
    of supposing Mr. Rochester's movements a matter in which I had any cause to take a vital interest.  Not that I humbled
-   myself by a slavish notion of inferiority: on the contrary, I just said - 
+   myself by a slavish notion of inferiority: on the contrary, I just said -
 
    “You have nothing to do with the master of Thornfield, further than to receive the salary he gives you for teaching his
    protégée, and to be grateful for such respectful and kind treatment as, if you do your duty, you have a right to expect
@@ -5185,7 +5232,7 @@
    said Mrs. Fairfax, still holding the note before her spectacles.
 
    Ere I permitted myself to request an explanation, I tied the string of Adèle's pinafore, which happened to be loose:
-   having helped her also to another bun and refilled her mug with milk, I said, nonchalantly - 
+   having helped her also to another bun and refilled her mug with milk, I said, nonchalantly -
 
    “Mr. Rochester is not likely to return soon, I suppose?”
 
@@ -5223,7 +5270,7 @@
    The strangest thing of all was, that not a soul in the house, except me, noticed her habits, or seemed to marvel at
    them: no one discussed her position or employment; no one pitied her solitude or isolation.  I once, indeed, overheard
    part of a dialogue between Leah and one of the charwomen, of which Grace formed the subject.  Leah had been saying
-   something I had not caught, and the charwoman remarked - 
+   something I had not caught, and the charwoman remarked -
 
    “She gets good wages, I guess?”
 
@@ -5352,7 +5399,7 @@
    neighbourhood.  They set out early in the forenoon, some on horseback, the rest in carriages; I witnessed both the
    departure and the return.  Miss Ingram, as before, was the only lady equestrian; and, as before, Mr. Rochester galloped
    at her side; the two rode a little apart from the rest.  I pointed out this circumstance to Mrs. Fairfax, who was
-   standing at the window with me - 
+   standing at the window with me -
 
    “You said it was not likely they should think of being married,” said I, “but you see Mr. Rochester evidently prefers
    her to any of the other ladies.”
@@ -5485,7 +5532,7 @@
    proof: to remove the last shade of doubt, it remained but to see them together.
 
    You are not to suppose, reader, that Adèle has all this time been sitting motionless on the stool at my feet: no; when
-   the ladies entered, she rose, advanced to meet them, made a stately reverence, and said with gravity - 
+   the ladies entered, she rose, advanced to meet them, made a stately reverence, and said with gravity -
 
    “Bon jour, mesdames.”
 
@@ -5732,7 +5779,7 @@
 
    “Why did you not come and speak to me in the room?”
 
-   I thought I might have retorted the question on him who put it: but I would not take that freedom.  I answered - 
+   I thought I might have retorted the question on him who put it: but I would not take that freedom.  I answered -
 
    “I did not wish to disturb you, as you seemed engaged, sir.”
 
@@ -5808,7 +5855,7 @@
    together they drew near the table.  They knelt; while Mrs. Dent and Louisa Eshton, dressed also in white, took up their
    stations behind them.  A ceremony followed, in dumb show, in which it was easy to recognise the pantomime of a
    marriage.  At its termination, Colonel Dent and his party consulted in whispers for two minutes, then the Colonel called
-   out - 
+   out -
 
    “Bride!” Mr. Rochester bowed, and the curtain fell.
 
@@ -5976,7 +6023,7 @@
    the house were silent: only now and then the merriment of the billiard-players was heard from above.
 
    It was verging on dusk, and the clock had already given warning of the hour to dress for dinner, when little Adèle, who
-   knelt by me in the drawing-room window-seat, suddenly exclaimed - 
+   knelt by me in the drawing-room window-seat, suddenly exclaimed -
 
    “Voilà, Monsieur Rochester, qui revient!”
 
@@ -6406,7 +6453,7 @@
 
    “Don't keep me long; the fire scorches me.”
 
-   I knelt.  She did not stoop towards me, but only gazed, leaning back in her chair.  She began muttering, - 
+   I knelt.  She did not stoop towards me, but only gazed, leaning back in her chair.  She began muttering, -
 
    “The flame flickers in the eye; the eye shines like dew; it looks soft and full of feeling; it smiles at my jargon: it
    is susceptible; impression follows impression through its clear sphere; where it ceases to smile, it is sad; an
@@ -6614,12 +6661,12 @@
    rest ere it could repeat the effort.
 
    It came out of the third storey; for it passed overhead.  And overhead - yes, in the room just above my
-   chamber-ceiling - I now heard a struggle: a deadly one it seemed from the noise; and a half-smothered voice shouted - 
+   chamber-ceiling - I now heard a struggle: a deadly one it seemed from the noise; and a half-smothered voice shouted -
 
    “Help! help! help!” three times rapidly.
 
    “Will no one come?” it cried; and then, while the staggering and stamping went on wildly, I distinguished through plank
-   and plaster: - 
+   and plaster: -
 
    “Rochester!  Rochester! for God's sake, come!”
 
@@ -6648,7 +6695,7 @@
    “All's right! - all's right!” he cried.  “It's a mere rehearsal of Much Ado about Nothing.  Ladies, keep off, or I shall
    wax dangerous.”
 
-   And dangerous he looked: his black eyes darted sparks.  Calming himself by an effort, he added - 
+   And dangerous he looked: his black eyes darted sparks.  Calming himself by an effort, he added -
 
    “A servant has had the nightmare; that is all.  She's an excitable, nervous person: she construed her dream into an
    apparition, or something of that sort, no doubt; and has taken a fit with fright.  Now, then, I must see you all back
@@ -6853,7 +6900,7 @@
    “She sucked the blood: she said she'd drain my heart,” said Mason.
 
    I saw Mr. Rochester shudder: a singularly marked expression of disgust, horror, hatred, warped his countenance almost to
-   distortion; but he only said - 
+   distortion; but he only said -
 
    “Come, be silent, Richard, and never mind her gibberish: don't repeat it.”
 
@@ -6913,7 +6960,7 @@
 
    Mr. Mason obeyed, because it was evidently useless to resist.  He was dressed now: he still looked pale, but he was no
    longer gory and sullied.  Mr. Rochester let him sit three minutes after he had swallowed the liquid; he then took his
-   arm - 
+   arm -
 
    “Now I am sure you can get on your feet,” he said - “try.”
 
@@ -7119,7 +7166,7 @@
    “A strapper - a real strapper, Jane: big, brown, and buxom; with hair just such as the ladies of Carthage must have
    had.  Bless me! there's Dent and Lynn in the stables!  Go in by the shrubbery, through that wicket.”
 
-   As I went one way, he went another, and I heard him in the yard, saying cheerfully - 
+   As I went one way, he went another, and I heard him in the yard, saying cheerfully -
 
    “Mason got the start of you all this morning; he was gone before sunrise: I rose at four to see him off.”
 
@@ -7165,7 +7212,7 @@
    “I am sorry I can't give you better news of them, Miss: they are very badly at present - in great trouble.”
 
    “I hope no one is dead,” I said, glancing at his black dress.  He too looked down at the crape round his hat and
-   replied - 
+   replied -
 
    “Mr. John died yesterday was a week, at his chambers in London.”
 
@@ -7186,7 +7233,7 @@
    long been much reduced by his extravagance; so he went back again, and the next news was that he was dead.  How he died,
    God knows! - they say he killed himself.”
 
-   I was silent: the things were frightful.  Robert Leaven resumed - 
+   I was silent: the things were frightful.  Robert Leaven resumed -
 
    “Missis had been out of health herself for some time: she had got very stout, but was not strong with it; and the loss
    of money and fear of poverty were quite breaking her down.  The information about Mr. John's death and the manner of it
@@ -7300,7 +7347,7 @@
 
    “I don't want change; you know that.  Take your wages.”
 
-   I declined accepting more than was my due.  He scowled at first; then, as if recollecting something, he said - 
+   I declined accepting more than was my due.  He scowled at first; then, as if recollecting something, he said -
 
    “Right, right!  Better not give you all now: you would, perhaps, stay away three months if you had fifty pounds.  There
    are ten; is it not plenty?”
@@ -7666,7 +7713,7 @@
    ask what she meant by “all being over,” but I suppose she referred to the expected decease of her mother and the gloomy
    sequel of funeral rites.  Eliza generally took no more notice of her sister's indolence and complaints than if no such
    murmuring, lounging object had been before her.  One day, however, as she put away her account-book and unfolded her
-   embroidery, she suddenly took her up thus - 
+   embroidery, she suddenly took her up thus -
 
    “Georgiana, a more vain and absurd animal than you was certainly never allowed to cumber the earth.  You had no right to
    be born, for you make no use of life.  Instead of living for, in, and with yourself, as a reasonable being ought, you
@@ -7760,7 +7807,7 @@
 
    I obeyed her directions.  “Read the letter,” she said.
 
-   It was short, and thus conceived: - 
+   It was short, and thus conceived: -
 
    #+BEGIN_QUOTE
    “Madam, - Will you have the goodness to send me the address of my niece, Jane Eyre, and to tell me how she is?  It is
@@ -7785,7 +7832,7 @@
    “Dear Mrs. Reed,” said I, as I offered her the draught she required, “think no more of all this, let it pass away from
    your mind.  Forgive me for my passionate language: I was a child then; eight, nine years have passed since that day.”
 
-   She heeded nothing of what I said; but when she had tasted the water and drawn breath, she went on thus - 
+   She heeded nothing of what I said; but when she had tasted the water and drawn breath, she went on thus -
 
    “I tell you I could not forget it; and I took my revenge: for you to be adopted by your uncle, and placed in a state of
    ease and comfort, was what I could not endure.  I wrote to him; I said I was sorry for his disappointment, but Jane Eyre
@@ -7822,7 +7869,7 @@
    nothing pitying, or hopeful, or subduing did it inspire; only a grating anguish for /her/ woes - not /my/ loss - and a
    sombre tearless dismay at the fearfulness of death in such a form.
 
-   Eliza surveyed her parent calmly.  After a silence of some minutes she observed - 
+   Eliza surveyed her parent calmly.  After a silence of some minutes she observed -
 
    “With her constitution she should have lived to a good old age: her life was shortened by trouble.”  And then a spasm
    constricted her mouth for an instant: as it passed away she turned and left the room, and so did I.  Neither of us had
@@ -7982,7 +8029,7 @@
 
    All I had now to do was to obey him in silence: no need for me to colloquise further.  I got over the stile without a
    word, and meant to leave him calmly.  An impulse held me fast - a force turned me round.  I said - or something in me
-   said for me, and in spite of me - 
+   said for me, and in spite of me -
 
    “Thank you, Mr. Rochester, for your great kindness.  I am strangely glad to get back again to you: and wherever you are
    is my home - my only home.”
@@ -8063,7 +8110,7 @@
    I trode on an edging of turf that the crackle of the pebbly gravel might not betray me: he was standing among the beds
    at a yard or two distant from where I had to pass; the moth apparently engaged him.  “I shall get by very well,” I
    meditated.  As I crossed his shadow, thrown long over the garden by the moon, not yet risen high, he said quietly,
-   without turning - 
+   without turning -
 
    “Jane, come and look at this fellow.”
 
@@ -8073,7 +8120,7 @@
    night-rover in England; there! he is flown.”
 
    The moth roamed away.  I was sheepishly retreating also; but Mr. Rochester followed me, and when we reached the wicket,
-   he said - 
+   he said -
 
    “Turn back: on so lovely a night it is a shame to sit in the house; and surely no one can wish to go to bed while sunset
    is thus at meeting with moonrise.”
@@ -8274,7 +8321,7 @@
    A waft of wind came sweeping down the laurel-walk, and trembled through the boughs of the chestnut: it wandered
    away - away - to an indefinite distance - it died.  The nightingale's song was then the only voice of the hour: in
    listening to it, I again wept.  Mr. Rochester sat quiet, looking at me gently and seriously.  Some time passed before he
-   spoke; he at last said - 
+   spoke; he at last said -
 
    “Come to my side, Jane, and let us explain and understand one another.”
 
@@ -8761,7 +8808,7 @@
    happy days to come: I was writing away very fast, though daylight was fading from the leaf, when something came up the
    path and stopped two yards off me.  I looked at it.  It was a little thing with a veil of gossamer on its head.  I
    beckoned it to come near me; it stood soon at my knee.  I never spoke to it, and it never spoke to me, in words; but I
-   read its eyes, and it read mine; and our speechless colloquy was to this effect - 
+   read its eyes, and it read mine; and our speechless colloquy was to this effect -
 
    “It was a fairy, and come from Elf-land, it said; and its errand was to make me happy: I must go with it out of the
    common world to a lonely place - such as the moon, for instance - and it nodded its head towards her horn, rising over
@@ -8895,7 +8942,7 @@
    I did try, but was presently swept off the stool and denominated “a little bungler.”  Being pushed unceremoniously to
    one side - which was precisely what I wished - he usurped my place, and proceeded to accompany himself: for he could
    play as well as sing.  I hied me to the window-recess.  And while I sat there and looked out on the still trees and dim
-   lawn, to a sweet air was sung in mellow tones the following strain: - 
+   lawn, to a sweet air was sung in mellow tones the following strain: -
 
    #+BEGIN_QUOTE
    “The truest love that ever heart
@@ -9361,7 +9408,7 @@
    happened!”
 
    He drew his breath short, and strained me so close to him, I could scarcely pant.  After some minutes' silence, he
-   continued, cheerily - 
+   continued, cheerily -
 
    “Now, Janet, I'll explain to you all about it.  It was half dream, half reality.  A woman did, I doubt not, enter your
    room: and that woman was - must have been - Grace Poole.  You call her a strange being yourself: from all you know, you
@@ -9491,14 +9538,14 @@
    He paused, as the custom is.  When is the pause after that sentence ever broken by reply?  Not, perhaps, once in a
    hundred years.  And the clergyman, who had not lifted his eyes from his book, and had held his breath but for a moment,
    was proceeding: his hand was already stretched towards Mr. Rochester, as his lips unclosed to ask, “Wilt thou have this
-   woman for thy wedded wife?” - when a distinct and near voice said - 
+   woman for thy wedded wife?” - when a distinct and near voice said -
 
    “The marriage cannot go on: I declare the existence of an impediment.”
 
    The clergyman looked up at the speaker and stood mute; the clerk did the same; Mr. Rochester moved slightly, as if an
    earthquake had rolled under his feet: taking a firmer footing, and not turning his head or eyes, he said, “Proceed.”
 
-   Profound silence fell when he had uttered that word, with deep but low intonation.  Presently Mr. Wood said - 
+   Profound silence fell when he had uttered that word, with deep but low intonation.  Presently Mr. Wood said -
 
    “I cannot proceed without some investigation into what has been asserted, and evidence of its truth or falsehood.”
 
@@ -9514,7 +9561,7 @@
    “Hardly,” was the answer.  “I have called it insuperable, and I speak advisedly.”
 
    The speaker came forward and leaned on the rails.  He continued, uttering each word distinctly, calmly, steadily, but
-   not loudly - 
+   not loudly -
 
    “It simply consists in the existence of a previous marriage.  Mr. Rochester has a wife now living.”
 
@@ -9534,7 +9581,7 @@
 
    “Favour me with an account of her - with her name, her parentage, her place of abode.”
 
-   “Certainly.”  Mr. Briggs calmly took a paper from his pocket, and read out in a sort of official, nasal voice: - 
+   “Certainly.”  Mr. Briggs calmly took a paper from his pocket, and read out in a sort of official, nasal voice: -
 
    “‘I affirm and can prove that on the 20th of October A.D.  -  (a date of fifteen years back), Edward Fairfax Rochester,
    of Thornfield Hall, in the county of  - , and of Ferndean Manor, in  - shire, England, was married to my sister, Bertha
@@ -9579,10 +9626,10 @@
    “At Thornfield Hall!” ejaculated the clergyman.  “Impossible!  I am an old resident in this neighbourhood, sir, and I
    never heard of a Mrs. Rochester at Thornfield Hall.”
 
-   I saw a grim smile contort Mr. Rochester's lips, and he muttered - 
+   I saw a grim smile contort Mr. Rochester's lips, and he muttered -
 
    “No, by God!  I took care that none should hear of it - or of her under that name.”  He mused - for ten minutes he held
-   counsel with himself: he formed his resolve, and announced it - 
+   counsel with himself: he formed his resolve, and announced it -
 
    “Enough! all shall bolt out at once, like the bullet from the barrel.  Wood, close your book and take off your surplice;
    John Green (to the clerk), leave the church: there will be no wedding to-day.”  The man obeyed.
@@ -9733,7 +9780,7 @@
    heard a flood loosened in remote mountains, and felt the torrent come: to rise I had no will, to flee I had no
    strength.  I lay faint, longing to be dead.  One idea only still throbbed life-like within me - a remembrance of God: it
    begot an unuttered prayer: these words went wandering up and down in my rayless mind, as something that should be
-   whispered, but no energy was found to express them - 
+   whispered, but no energy was found to express them -
 
    “Be not far from me, for trouble is near: there is none to help.”
 
@@ -9913,7 +9960,7 @@
    movement of repulsion, flight, fear would have sealed my doom, - and his.  But I was not afraid: not in the least.  I
    felt an inward power; a sense of influence, which supported me.  The crisis was perilous; but not without its charm:
    such as the Indian, perhaps, feels when he slips over the rapid in his canoe.  I took hold of his clenched hand,
-   loosened the contorted fingers, and said to him, soothingly - 
+   loosened the contorted fingers, and said to him, soothingly -
 
    “Sit down; I'll talk to you as long as you like, and hear all you have to say, whether reasonable or unreasonable.”
 
@@ -10092,7 +10139,7 @@
    liberty; my heart, dried up and scorched for a long time, swelled to the tone, and filled with living blood - my being
    longed for renewal - my soul thirsted for a pure draught.  I saw hope revive - and felt regeneration possible.  From a
    flowery arch at the bottom of my garden I gazed over the sea - bluer than the sky: the old world was beyond; clear
-   prospects opened thus: - 
+   prospects opened thus: -
 
    “‘Go,' said Hope, ‘and live again in Europe: there it is not known what a sullied name you bear, nor what a filthy
    burden is bound to you.  You may take the maniac with you to England; confine her with due attendance and precautions at
@@ -10417,7 +10464,7 @@
    sever.  I watched her come - watched with the strangest anticipation; as though some word of doom were to be written on
    her disk.  She broke forth as never moon yet burst from cloud: a hand first penetrated the sable folds and waved them
    away; then, not a moon, but a white human form shone in the azure, inclining a glorious brow earthward.  It gazed and
-   gazed on me.  It spoke to my spirit: immeasurably distant was the tone, yet so near, it whispered in my heart - 
+   gazed on me.  It spoke to my spirit: immeasurably distant was the tone, yet so near, it whispered in my heart -
 
    “My daughter, flee temptation.”
 
@@ -10438,7 +10485,7 @@
    I would have got past Mr. Rochester's chamber without a pause; but my heart momentarily stopping its beat at that
    threshold, my foot was forced to stop also.  No sleep was there: the inmate was walking restlessly from wall to wall;
    and again and again he sighed while I listened.  There was a heaven - a temporary heaven - in this room for me, if I
-   chose: I had but to go in and to say - 
+   chose: I had but to go in and to say -
 
    “Mr. Rochester, I will love you and live with you through life till death,” and a fount of rapture would spring to my
    lips.  I thought of this.
@@ -10699,7 +10746,7 @@
    subject.
 
    A little before dark I passed a farm-house, at the open door of which the farmer was sitting, eating his supper of bread
-   and cheese.  I stopped and said - 
+   and cheese.  I stopped and said -
 
    “Will you give me a piece of bread? for I am very hungry.”  He cast on me a glance of surprise; but without answering,
    he cut a thick slice from his loaf, and gave it to me.  I imagine he did not think I was a beggar, but only an eccentric
@@ -10805,7 +10852,7 @@
    “That is strong,” she said, when she had finished: “I relish it.”  The other girl, who had lifted her head to listen to
    her sister, repeated, while she gazed at the fire, a line of what had been read.  At a later day, I knew the language
    and the book; therefore, I will here quote the line: though, when I first heard it, it was only like a stroke on
-   sounding brass to me - conveying no meaning: - 
+   sounding brass to me - conveying no meaning: -
 
    “‘Da trat hervor Einer, anzusehen wie die Sternen Nacht.'  Good! good!” she exclaimed, while her dark and deep eye
    sparkled.  “There you have a dim and mighty archangel fitly set before you!  The line is worth a hundred pages of
@@ -10995,13 +11042,13 @@
    Somehow, now that I had once crossed the threshold of this house, and once was brought face to face with its owners, I
    felt no longer outcast, vagrant, and disowned by the wide world.  I dared to put off the mendicant - to resume my
    natural manner and character.  I began once more to know myself; and when Mr. St. John demanded an account - which at
-   present I was far too weak to render - I said after a brief pause - 
+   present I was far too weak to render - I said after a brief pause -
 
    “Sir, I can give you no details to-night.”
 
    “But what, then,” said he, “do you expect me to do for you?”
 
-   “Nothing,” I replied.  My strength sufficed for but short answers.  Diana took the word - 
+   “Nothing,” I replied.  My strength sufficed for but short answers.  Diana took the word -
 
    “Do you mean,” she asked, “that we have now given you what aid you require? and that we may dismiss you to the moor and
    the rainy night?”
@@ -11030,7 +11077,7 @@
    observed when any one entered or left the apartment: I could even tell who they were; I could understand what was said
    Hannah, the servant, was my most frequent visitor.  Her coming disturbed me.  I had a feeling that she wished me away:
    that she did not understand me or my circumstances; that she was prejudiced against me.  Diana and Mary appeared in the
-   chamber once or twice a day.  They would whisper sentences of this sort at my bedside - 
+   chamber once or twice a day.  They would whisper sentences of this sort at my bedside -
 
    “It is very well we took her in.”
 
@@ -11092,12 +11139,12 @@
    will.”
 
    She pointed to the rocking-chair: I took it.  She bustled about, examining me every now and then with the corner of her
-   eye.  Turning to me, as she took some loaves from the oven, she asked bluntly - 
+   eye.  Turning to me, as she took some loaves from the oven, she asked bluntly -
 
    “Did you ever go a-begging afore you came here?”
 
    I was indignant for a moment; but remembering that anger was out of the question, and that I had indeed appeared as a
-   beggar to her, I answered quietly, but still not without a certain marked firmness - 
+   beggar to her, I answered quietly, but still not without a certain marked firmness -
 
    “You are mistaken in supposing me a beggar.  I am no beggar; any more than yourself or your young ladies.”
 
@@ -11465,7 +11512,7 @@
    No weather seemed to hinder him in these pastoral excursions: rain or fair, he would, when his hours of morning study
    were over, take his hat, and, followed by his father's old pointer, Carlo, go out on his mission of love or duty - I
    scarcely know in which light he regarded it.  Sometimes, when the day was very unfavourable, his sisters would
-   expostulate.  He would then say, with a peculiar smile, more solemn than cheerful - 
+   expostulate.  He would then say, with a peculiar smile, more solemn than cheerful -
 
    “And if I let a gust of wind or a sprinkling of rain turn me aside from these easy tasks, what preparation would such
    sloth be for the future I propose to myself?”
@@ -11550,7 +11597,7 @@
    humblest members he is one, shall give the word, ‘Rise, follow Me!'”
 
    St. John said these words as he pronounced his sermons, with a quiet, deep voice; with an unflushed cheek, and a
-   coruscating radiance of glance.  He resumed - 
+   coruscating radiance of glance.  He resumed -
 
    “And since I am myself poor and obscure, I can offer you but a service of poverty and obscurity.  /You/ may even think
    it degrading - for I see now your habits have been what the world calls refined: your tastes lean to the ideal, and your
@@ -11745,7 +11792,7 @@
 
    Having brought my eventide musings to this point, I rose, went to my door, and looked at the sunset of the harvest-day,
    and at the quiet fields before my cottage, which, with the school, was distant half a mile from the village.  The birds
-   were singing their last strains - 
+   were singing their last strains -
 
    #+BEGIN_QUOTE
    “The air was mild, the dew was balm.”
@@ -11773,7 +11820,7 @@
    “Oh, no!  On the contrary, I think in time I shall get on with my scholars very well.”
 
    “But perhaps your accommodations - your cottage - your furniture - have disappointed your expectations?  They are, in
-   truth, scanty enough; but - ” I interrupted - 
+   truth, scanty enough; but - ” I interrupted -
 
    “My cottage is clean and weather-proof; my furniture sufficient and commodious.  All I see has made me thankful, not
    despondent.  I am not absolutely such a fool and sensualist as to regret the absence of a carpet, a sofa, and silver
@@ -11789,7 +11836,7 @@
    counsel you to resist firmly every temptation which would incline you to look back: pursue your present career steadily,
    for some months at least.”
 
-   “It is what I mean to do,” I answered.  St. John continued - 
+   “It is what I mean to do,” I answered.  St. John continued -
 
    “It is hard work to control the workings of inclination and turn the bent of nature; but that it may be done, I know
    from experience.  God has given us, in a measure, the power to make our own fate; and when our energies seem to demand a
@@ -11817,7 +11864,7 @@
 
    He said this, in his peculiar, subdued, yet emphatic voice; looking, when he had ceased speaking, not at me, but at the
    We had heard no step on that grass-grown track; the water running in the vale was the one lulling sound of the hour and
-   scene; we might well then start when a gay voice, sweet as a silver bell, exclaimed - 
+   scene; we might well then start when a gay voice, sweet as a silver bell, exclaimed -
 
    “Good evening, Mr. Rivers.  And good evening, old Carlo.  Your dog is quicker to recognise his friends than you are,
    sir; he pricked his ears and wagged his tail when I was at the bottom of the field, and you have your back towards me
@@ -12112,7 +12159,7 @@
    I - less exalted in my views than St. John - had been strongly disposed in my own heart to advocate their union.  It
    seemed to me that, should he become the possessor of Mr. Oliver's large fortune, he might do as much good with it as if
    he went and laid his genius out to wither, and his strength to waste, under a tropical sun.  With this persuasion I now
-   answered - 
+   answered -
 
    “As far as I can see, it would be wiser and more judicious if you were to take to yourself the original at once.”
 
@@ -12253,7 +12300,7 @@
    When Mr. St. John went, it was beginning to snow; the whirling storm continued all night.  The next day a keen wind
    brought fresh and blinding falls; by twilight the valley was drifted up and almost impassable.  I had closed my shutter,
    laid a mat to the door to prevent the snow from blowing in under it, trimmed my fire, and after sitting nearly an hour
-   on the hearth listening to the muffled fury of the tempest, I lit a candle, took down “Marmion,” and beginning - 
+   on the hearth listening to the muffled fury of the tempest, I lit a candle, took down “Marmion,” and beginning -
 
    #+BEGIN_QUOTE
    “Day set on Norham's castled steep,
@@ -12261,7 +12308,7 @@
    And Cheviot's mountains lone;
    The massive towers, the donjon keep,
    The flanking walls that round them sweep,
-   In yellow lustre shone” - 
+   In yellow lustre shone” -
    #+END_QUOTE
 
    I soon forgot storm in music.
@@ -12291,7 +12338,7 @@
    firelight shine free on his pale brow and cheek as pale, where it grieved me to discover the hollow trace of care or
    sorrow now so plainly graved.  I waited, expecting he would say something I could at least comprehend; but his hand was
    now at his chin, his finger on his lip: he was thinking.  It struck me that his hand looked wasted like his face.  A
-   perhaps uncalled-for gush of pity came over my heart: I was moved to say - 
+   perhaps uncalled-for gush of pity came over my heart: I was moved to say -
 
    “I wish Diana or Mary would come and live with you: it is too bad that you should be quite alone; and you are recklessly
    rash about your own health.”
@@ -12555,7 +12602,7 @@
    of paper has enabled me to find her out.  You know the rest.”  Again he was going, but I set my back against the door.
 
    “Do let me speak,” I said; “let me have one moment to draw breath and reflect.”  I paused - he stood before me, hat in
-   hand, looking composed enough.  I resumed - 
+   hand, looking composed enough.  I resumed -
 
    “Your mother was my father's sister?”
 
@@ -12918,11 +12965,11 @@
    been admitted to his confidence, I could hardly comprehend his present frigidity.
 
    Such being the case, I felt not a little surprised when he raised his head suddenly from the desk over which he was
-   stooping, and said - 
+   stooping, and said -
 
    “You see, Jane, the battle is fought and the victory won.”
 
-   Startled at being thus addressed, I did not immediately reply: after a moment's hesitation I answered - 
+   Startled at being thus addressed, I did not immediately reply: after a moment's hesitation I answered -
 
    “But are you sure you are not in the position of those conquerors whose triumphs have cost them too dear?  Would not
    such another ruin you?”
@@ -12978,7 +13025,7 @@
    St. John was not a man to be lightly refused: you felt that every impression made on him, either for pain or pleasure,
    was deep-graved and permanent.  I consented.  When Diana and Mary returned, the former found her scholar transferred
    from her to her brother: she laughed, and both she and Mary agreed that St. John should never have persuaded them to
-   such a step.  He answered quietly - 
+   such a step.  He answered quietly -
 
    “I know it.”
 
@@ -12992,7 +13039,7 @@
 
    One evening when, at bedtime, his sisters and I stood round him, bidding him good-night, he kissed each of them, as was
    his custom; and, as was equally his custom, he gave me his hand.  Diana, who chanced to be in a frolicsome humour (/she/
-   was not painfully controlled by his will; for hers, in another way, was as strong), exclaimed - 
+   was not painfully controlled by his will; for hers, in another way, was as strong), exclaimed -
 
    “St. John! you used to call Jane your third sister, but you don't treat her as such: you should kiss her too.”
 
@@ -13045,13 +13092,13 @@
    St. John called me to his side to read; in attempting to do this my voice failed me: words were lost in sobs.  He and I
    were the only occupants of the parlour: Diana was practising her music in the drawing-room, Mary was gardening - it was
    a very fine May day, clear, sunny, and breezy.  My companion expressed no surprise at this emotion, nor did he question
-   me as to its cause; he only said - 
+   me as to its cause; he only said -
 
    “We will wait a few minutes, Jane, till you are more composed.”  And while I smothered the paroxysm with all haste, he
    sat calm and patient, leaning on his desk, and looking like a physician watching with the eye of science an expected and
    fully understood crisis in a patient's malady.  Having stifled my sobs, wiped my eyes, and muttered something about not
    being very well that morning, I resumed my task, and succeeded in completing it.  St. John put away my books and his,
-   locked his desk, and said - 
+   locked his desk, and said -
 
    “Now, Jane, you shall take a walk; and with me.”
 
@@ -13086,7 +13133,7 @@
    another slumber overcomes me - on the shore of a darker stream!”
 
    Strange words of a strange love!  An austere patriot's passion for his fatherland!  He sat down; for half-an-hour we
-   never spoke; neither he to me nor I to him: that interval past, he recommenced - 
+   never spoke; neither he to me nor I to him: that interval past, he recommenced -
 
    “Jane, I go in six weeks; I have taken my berth in an East Indiaman which sails on the 20th of June.”
 
@@ -13126,7 +13173,7 @@
 
    “Oh, St. John!” I cried, “have some mercy!”
 
-   I appealed to one who, in the discharge of what he believed his duty, knew neither mercy nor remorse.  He continued - 
+   I appealed to one who, in the discharge of what he believed his duty, knew neither mercy nor remorse.  He continued -
 
    “God and nature intended you for a missionary's wife.  It is not personal, but mental endowments they have given you:
    you are formed for labour, not for love.  A missionary's wife you must - shall be.  You shall be mine: I claim you - not
@@ -13485,7 +13532,7 @@
    superior mind, you cannot be either so dull or so conceited as to misunderstand my meaning.  I say again, I will be your
    curate, if you like, but never your wife.”
 
-   Again he turned lividly pale; but, as before, controlled his passion perfectly.  He answered emphatically but calmly - 
+   Again he turned lividly pale; but, as before, controlled his passion perfectly.  He answered emphatically but calmly -
 
    “A female curate, who is not my wife, would never suit me.  With me, then, it seems, you cannot go: but if you are
    sincere in your offer, I will, while in town, speak to a married missionary, whose wife needs a coadjutor.  Your own
@@ -13493,7 +13540,7 @@
    promise and deserting the band you engaged to join.”
 
    Now I never had, as the reader knows, either given any formal promise or entered into any engagement; and this language
-   was all much too hard and much too despotic for the occasion.  I replied - 
+   was all much too hard and much too despotic for the occasion.  I replied -
 
    “There is no dishonour, no breach of promise, no desertion in the case.  I am not under the slightest obligation to go
    to India, especially with strangers.  With you I would have ventured much, because I admire, confide in, and, as a
@@ -13532,7 +13579,7 @@
    business St. John and you have on hands.  I have watched you this half hour from the window; you must forgive my being
    such a spy, but for a long time I have fancied I hardly know what.  St. John is a strange being - ”
 
-   She paused - I did not speak: soon she resumed - 
+   She paused - I did not speak: soon she resumed -
 
    “That brother of mine cherishes peculiar views of some sort respecting you, I am sure: he has long distinguished you by
    a notice and interest he never showed to any one else - to what end?  I wish he loved you - does he, Jane?”
@@ -13688,7 +13735,7 @@
    activity hitherto had been but torpor, from which they were now summoned and forced to wake.  They rose expectant: eye
    and ear waited while the flesh quivered on my bones.
 
-   “What have you heard?  What do you see?” asked St. John.  I saw nothing, but I heard a voice somewhere cry - 
+   “What have you heard?  What do you see?” asked St. John.  I saw nothing, but I heard a voice somewhere cry -
 
    “Jane!  Jane!  Jane!” - nothing more.
 
@@ -13722,7 +13769,7 @@
    The daylight came.  I rose at dawn.  I busied myself for an hour or two with arranging my things in my chamber, drawers,
    and wardrobe, in the order wherein I should wish to leave them during a brief absence.  Meantime, I heard St. John quit
    his room.  He stopped at my door: I feared he would knock - no, but a slip of paper was passed under the door.  I took
-   it up.  It bore these words - 
+   it up.  It bore these words -
 
    “You left me too suddenly last night.  Had you stayed but a little longer, you would have laid your hand on the
    Meantime, watch and pray that you enter not into temptation: the spirit, I trust, is willing, but the flesh, I see, is
@@ -13787,7 +13834,7 @@
    “My journey is closed,” I thought to myself.  I got out of the coach, gave a box I had into the ostler's charge, to be
    kept till I called for it; paid my fare; satisfied the coachman, and was going: the brightening day gleamed on the sign
    of the inn, and I read in gilt letters, “The Rochester Arms.”  My heart leapt up: I was already on my master's very
-   lands.  It fell again: the thought struck it: - 
+   lands.  It fell again: the thought struck it: -
 
    “Your master himself may be beyond the British Channel, for aught you know: and then, if he is at Thornfield Hall,
    towards which you hasten, who besides him is there?  His lunatic wife: and you have nothing to do with him: you dare not
@@ -14372,7 +14419,7 @@
    described to him how brilliantly green they were; how the flowers and hedges looked refreshed; how sparklingly blue was
    the sky.  I sought a seat for him in a hidden and lovely spot, a dry stump of a tree; nor did I refuse to let him, when
    seated, place me on his knee.  Why should I, when both he and I were happier near than apart?  Pilot lay beside us: all
-   was quiet.  He broke out suddenly while clasping me in his arms - 
+   was quiet.  He broke out suddenly while clasping me in his arms -
 
    “Cruel, cruel deserter!  Oh, Jane, what did I feel when I discovered you had fled from Thornfield, and when I could
    nowhere find you; and, after examining your apartment, ascertained that you had taken no money, nor anything which could
@@ -14756,14 +14803,14 @@
 
    Reader, I married him.  A quiet wedding we had: he and I, the parson and clerk, were alone present.  When we got back
    from church, I went into the kitchen of the manor-house, where Mary was cooking the dinner and John cleaning the knives,
-   and I said - 
+   and I said -
 
    “Mary, I have been married to Mr. Rochester this morning.”  The housekeeper and her husband were both of that decent
    phlegmatic order of people, to whom one may at any time safely communicate a remarkable piece of news without incurring
    the danger of having one's ears pierced by some shrill ejaculation, and subsequently stunned by a torrent of wordy
    wonderment.  Mary did look up, and she did stare at me: the ladle with which she was basting a pair of chickens roasting
    at the fire, did for some three minutes hang suspended in air; and for the same space of time John's knives also had
-   rest from the polishing process: but Mary, bending again over the roast, said only - 
+   rest from the polishing process: but Mary, bending again over the roast, said only -
 
    “Have you, Miss?  Well, for sure!”
 
@@ -14776,7 +14823,7 @@
    politely pulled his forelock.
 
    “Thank you, John.  Mr. Rochester told me to give you and Mary this.”  I put into his hand a five-pound note.  Without
-   waiting to hear more, I left the kitchen.  In passing the door of that sanctum some time after, I caught the words - 
+   waiting to hear more, I left the kitchen.  In passing the door of that sanctum some time after, I caught the words -
 
    “She'll happen do better for him nor ony o't' grand ladies.”  And again, “If she ben't one o' th' handsomest, she's noan
    faâl and varry good-natured; and i' his een she's fair beautiful, onybody may see that.”
@@ -14861,7 +14908,7 @@
    yet filled my heart with divine joy: he anticipated his sure reward, his incorruptible crown.  I know that a stranger's
    hand will write to me next, to say that the good and faithful servant has been called at length into the joy of his
    Lord.  And why weep for this?  No fear of death will darken St. John's last hour: his mind will be unclouded, his heart
-   will be undaunted, his hope will be sure, his faith steadfast.  His own words are a pledge of this - 
+   will be undaunted, his hope will be sure, his faith steadfast.  His own words are a pledge of this -
 
    “My Master,” he says, “has forewarned me.  Daily He announces more distinctly, - ‘Surely I come quickly!' and hourly I
    more eagerly respond, - ‘Amen; even so come, Lord Jesus!'”

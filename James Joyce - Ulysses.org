@@ -1,3 +1,15 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#ulysses][Ulysses]]
+  - [[#james-joyce][James Joyce]]
+  - [[#part-1][Part 1]]
+  - [[#part-2][Part 2]]
+  - [[#part-3][Part 3]]
+:END:
 * Ulysses
 ** James Joyce
    *Published:* 1922

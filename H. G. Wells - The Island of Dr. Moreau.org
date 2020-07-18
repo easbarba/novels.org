@@ -1,3 +1,34 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-island-of-dr-moreau][The Island of Dr. Moreau]]
+  - [[#h-g-wells][H. G. Wells]]
+  - [[#chapter-1-in-the-dingey-of-the-lady-vain][Chapter 1 In the Dingey of the "Lady Vain"]]
+  - [[#chapter-2-the-man-who-was-going-nowhere][Chapter 2 The Man Who was Going Nowhere]]
+  - [[#chapter-3-the-strange-face][Chapter 3 The Strange Face]]
+  - [[#chapter-4-at-the-schooners-rail][Chapter 4 At the Schooner's Rail]]
+  - [[#chapter-5-the-man-who-had-nowhere-to-go][Chapter 5 The Man Who Had Nowhere to Go]]
+  - [[#chapter-6-the-evil-looking-boatmen][Chapter 6 The Evil-Looking Boatmen]]
+  - [[#chapter-7-the-locked-door][Chapter 7 The Locked Door]]
+  - [[#chapter-8-the-crying-of-the-puma][Chapter 8 The Crying of the Puma]]
+  - [[#chapter-9-the-thing-in-the-forest][Chapter 9 The Thing in the Forest]]
+  - [[#chapter-10-the-crying-of-the-man][Chapter 10 The Crying of the Man]]
+  - [[#chapter-11-the-hunting-of-the-man][Chapter 11 The Hunting of the Man]]
+  - [[#chapter-12-the-sayers-of-the-law][Chapter 12 The Sayers of the Law]]
+  - [[#chapter-13-a-parley][Chapter 13 A Parley]]
+  - [[#chapter-14-doctor-moreau-explains][Chapter 14 Doctor Moreau Explains]]
+  - [[#chapter-15-concerning-the-beast-folk][Chapter 15 Concerning the Beast Folk]]
+  - [[#chapter-16-how-the-beast-folk-taste-blood][Chapter 16 How the Beast Folk Taste Blood]]
+  - [[#chapter-17-a-catastrophe][Chapter 17 A Catastrophe]]
+  - [[#chapter-18-the-finding-of-moreau][Chapter 18 The Finding of Moreau]]
+  - [[#chapter-19-montgomerys-bank-holiday][Chapter 19 Montgomery's "Bank Holiday"]]
+  - [[#chapter-20-alone-with-the-beast-folk][Chapter 20 Alone with the Beast Folk]]
+  - [[#chapter-21-the-reversion-of-the-beast-folk][Chapter 21 The Reversion of the Beast Folk]]
+  - [[#chapter-22-the-man-alone][Chapter 22 The Man Alone]]
+:END:
 * The Island of Dr. Moreau
 ** H. G. Wells
    *Published:* 1896
@@ -1783,12 +1814,12 @@
    been teasing him. I threatened him, told him the inhumanity of such a proceeding, aroused his sense of shame, and came
    home resolved to do better before I took my work back to England. I have been doing better. But somehow the things drift
    back again: the stubborn beast-flesh grows day by day back again. But I mean to do better things still. I mean to
-   conquer that. This puma - 
+   conquer that. This puma -
 
    "But that's the story. All the Kanaka boys are dead now; one fell overboard of the launch, and one died of a wounded
    heel that he poisoned in some way with plant-juice. Three went away in the yacht, and I suppose and hope were drowned.
    The other one - was killed. Well, I have replaced them. Montgomery went on much as you are disposed to do at first, and
-   then - 
+   then -
 
    "What became of the other one?" said I, sharply, - "the other Kanaka who was killed?"
 
@@ -1838,7 +1869,7 @@
    pull herbs - marry even. But I can see through it all, see into their very souls, and see there nothing but the souls of
    beasts, beasts that perish, anger and the lusts to live and gratify themselves. - Yet they're odd; complex, like
    everything else alive. There is a kind of upward striving in them, part vanity, part waste sexual emotion, part waste
-   curiosity. It only mocks me. I have some hope of this puma. I have worked hard at her head and brain - 
+   curiosity. It only mocks me. I have some hope of this puma. I have worked hard at her head and brain -
 
    "And now," said he, standing up after a long gap of silence, during which we had each pursued our own thoughts, "what do
    you think? Are you in fear of me still?"

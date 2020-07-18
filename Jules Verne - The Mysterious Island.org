@@ -1,3 +1,15 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-mysterious-island][The Mysterious Island]]
+  - [[#jules-verne][Jules Verne]]
+  - [[#part-1---dropped-from-the-clouds][Part 1 - Dropped from the clouds]]
+  - [[#part-2---abandoned][Part 2 - Abandoned]]
+  - [[#part-3---the-secret-of-the-island][Part 3 - The Secret of the Island]]
+:END:
 * The Mysterious Island
 ** Jules Verne
    *Published:* 1874
@@ -145,7 +157,7 @@
     A loud barking was heard. A dog accompanied the voyagers, and was held pressed close to his master in the meshes of the
     net.
 
-    "Top has seen something," cried one of the men. Then immediately a loud voice shouted, - 
+    "Top has seen something," cried one of the men. Then immediately a loud voice shouted, -
 
     "Land! land!" The balloon, which the wind still drove towards the southwest, had since daybreak gone a considerable
     distance, which might be reckoned by hundreds of miles, and a tolerably high land had, in fact, appeared in that
@@ -317,7 +329,7 @@
     restraint. On this day he did not, therefore, hesitate to accost him, saying, without circumlocution, "Have you had
     enough of Richmond, captain?"
 
-    The engineer looked fixedly at the man who spoke, and who added, in a low voice, - 
+    The engineer looked fixedly at the man who spoke, and who added, in a low voice, -
 
     "Captain Harding, will you try to escape?"
 
@@ -385,7 +397,7 @@
     truce between the besiegers and the besieged, and that the cannon were silenced by the louder detonations of the storm.
     The streets of the town were deserted. It had not even appeared necessary in that horrible weather to place a guard in
     the square, in the midst of which plunged the balloon. Everything favored the departure of the prisoners, but what might
-    possibly be the termination of the hazardous voyage they contemplated in the midst of the furious elements? - 
+    possibly be the termination of the hazardous voyage they contemplated in the midst of the furious elements? -
 
     "Dirty weather!" exclaimed Pencroft, fixing his hat firmly on his head with a blow of his fist; "but pshaw, we shall
     succeed all the same!"
@@ -1175,7 +1187,7 @@
 
     At this moment a flock of birds, of a small size and pretty plumage, with long glancing tails, dispersed themselves
     among the branches strewing their feathers, which covered the ground as with fine down. Herbert picked up a few of these
-    feathers, and after having examined them, - 
+    feathers, and after having examined them, -
 
     "These are couroucous," said he.
 
@@ -1212,7 +1224,7 @@
     two wing-like appendages raised on the neck. Pencroft determined to get hold of at least one of these gallinaceae, which
     were as large as a fowl, and whose flesh is better than that of a pullet. But it was difficult, for they would not allow
     themselves to be approached. After several fruitless attempts, which resulted in nothing but scaring the grouse, the
-    sailor said to the lad, - 
+    sailor said to the lad, -
 
     "Decidedly, since we can't kill them on the wing, we must try to take them with a line."
 
@@ -1273,11 +1285,11 @@
 
     "We are going to have a dirty night, Mr. Spilett!" said the sailor: "Petrels delight in wind and rain."
 
-    The reporter, turning at the moment, saw Pencroft, and his first words were, - 
+    The reporter, turning at the moment, saw Pencroft, and his first words were, -
 
     "At what distance from the coast would you say the car was, when the waves carried off our companion?"
 
-    The sailor had not expected this question. He reflected an instant and replied, - 
+    The sailor had not expected this question. He reflected an instant and replied, -
 
     "Two cables lengths at the most."
 
@@ -1384,7 +1396,7 @@
 
     "What's the matter?" he cried, rousing himself, and collecting his ideas with the promptitude usual to seamen.
 
-    The reporter was leaning over him, and saying, - 
+    The reporter was leaning over him, and saying, -
 
     "Listen, Pencroft, listen!"
 
@@ -1673,7 +1685,7 @@
 
     They respected this sleep, and the reporter began immediately to make arrangements for transporting Harding to a more
     comfortable place. Neb, Herbert, and Pencroft left the cave and directed their steps towards a high mound crowned with a
-    few distorted trees. On the way the sailor could not help repeating, - 
+    few distorted trees. On the way the sailor could not help repeating, -
 
     "Island or continent! To think of that, when at one's last gasp! What a man!"
 
@@ -1757,7 +1769,7 @@
     "Pencroft," said Cyrus Harding, "will you take my shoe and see if it fits exactly to the footprints?"
 
     The sailor did as the engineer requested. While he and Herbert, guided by Neb, went to the place where the footprints
-    were to be found, Cyrus remarked to the reporter, - 
+    were to be found, Cyrus remarked to the reporter, -
 
     "It is a most extraordinary thing!"
 
@@ -1816,7 +1828,7 @@
 
     Herbert shared in some degree the sailor's feelings.
 
-    As to the reporter, he simply replied, - 
+    As to the reporter, he simply replied, -
 
     "Upon my word, Pencroft, it's perfectly indifferent to me!"
 
@@ -1843,7 +1855,7 @@
     human knowledge. It was better to be with Cyrus in a desert island, than without him in the most flourishing town in the
     United States. With him they could want nothing; with him they would never despair. If these brave men had been told
     that a volcanic eruption would destroy the land, that this land would be engulfed in the depths of the Pacific, they
-    would have imperturbably replied, - 
+    would have imperturbably replied, -
 
     "Cyrus is here!"
 
@@ -1904,7 +1916,7 @@
     same, while Top slept at his master's feet.
 
     Next day, the 28th of March, when the engineer awoke, about eight in the morning, he saw his companions around him
-    watching his sleep, and, as on the day before, his first words were: - 
+    watching his sleep, and, as on the day before, his first words were: -
 
     "Island or continent?" This was his uppermost thought.
 
@@ -1921,7 +1933,7 @@
     "I feel dreadfully weak," replied Harding. "Give me something to eat, my friends, and it will soon go off. You have
     fire, haven't you?"
 
-    This question was not immediately replied to. But, in a few seconds - 
+    This question was not immediately replied to. But, in a few seconds -
 
     "Alas! we have no fire," said Pencroft, "or rather, captain, we have it no longer!"
 
@@ -1944,7 +1956,7 @@
     was rising from the sea's horizon, and touched with golden spangles the prismatic rugosities of the huge precipice.
 
     Having thrown a rapid glance around him, the engineer seated himself on a block of stone. Herbert offered him a few
-    handfuls of shell-fish and sargassum, saying, - 
+    handfuls of shell-fish and sargassum, saying, -
 
     "It is all that we have, Captain Harding."
 
@@ -1954,7 +1966,7 @@
     shell.
 
     His companions looked at him without speaking. Then, feeling somewhat refreshed, Cyrus Harding crossed his arms, and
-    said, - 
+    said, -
 
     "So, my friends, you do not know yet whether fate has thrown us on an island, or on a continent?"
 
@@ -1985,7 +1997,7 @@
     meat very soon"; but he was silent.
 
     Meanwhile Captain Harding had made no reply. He appeared to be very little troubled by the question of fire. For a few
-    minutes he remained absorbed in thought; then again speaking, - 
+    minutes he remained absorbed in thought; then again speaking, -
 
     "My friends," said he, "our situation is, perhaps, deplorable; but, at any rate, it is very plain. Either we are on a
     continent, and then, at the expense of greater or less fatigue, we shall reach some inhabited place, or we are on an
@@ -2031,10 +2043,10 @@
     and the upper plateau. Neb, Herbert, and the sailor were to return to the forest, renew their store of wood, and lay
     violent hands on every creature, feathered or hairy, which might come within their reach.
 
-    They set out accordingly about ten o'clock in the morning, Herbert confident, Neb joyous, Pencroft murmuring aside, - 
+    They set out accordingly about ten o'clock in the morning, Herbert confident, Neb joyous, Pencroft murmuring aside, -
 
     "If, on my return, I find a fire at the house, I shall believe that the thunder itself came to light it." All three
-    climbed the bank; and arrived at the angle made by the river, the sailor, stopping, said to his two companions, - 
+    climbed the bank; and arrived at the angle made by the river, the sailor, stopping, said to his two companions, -
 
     "Shall we begin by being hunters or wood-men?"
 
@@ -2142,7 +2154,7 @@
     the raft following the current, they returned towards the Chimneys.
 
     But the sailor had not gone fifty paces when he stopped, and again uttering a tremendous hurrah, pointed towards the
-    angle of the cliff, - 
+    angle of the cliff, -
 
     "Herbert! Neb! Look!" he shouted.
 
@@ -2176,7 +2188,7 @@
 
     The sailor considered the apparatus; then he gazed at the engineer without saying a word, only a look plainly expressed
     his opinion that if Cyrus Harding was not a magician, he was certainly no ordinary man. At last speech returned to him,
-    and he cried, - 
+    and he cried, -
 
     "Note that, Mr. Spilett, note that down on your paper!"
 
@@ -2390,7 +2402,7 @@
 
     It was the slender crescent moon, already almost disappearing; but its light was sufficient to show clearly the
     horizontal line, then detached from the cloud, and the engineer could see its reflection trembling for an instant on a
-    liquid surface. Cyrus Harding seized the lad's hand, and in a grave voice, - 
+    liquid surface. Cyrus Harding seized the lad's hand, and in a grave voice, -
 
     "An island!" said he, at the moment when the lunar crescent disappeared beneath the waves.
 
@@ -2461,7 +2473,7 @@
     Truly, it did not appear large in the midst of the immense ocean.
 
     Cyrus Harding reflected a few minutes; he attentively observed the perimeter of the island, taking into consideration
-    the height at which he was placed; then, - 
+    the height at which he was placed; then, -
 
     "My friends," said he, "I do not think I am mistaken in giving to the shore of the island a circumference of more than a
     hundred miles."
@@ -2560,7 +2572,7 @@
     the reporter's plan. They had now only to descend the mountain slopes again, and explore the soil, in the triple point
     of view, of its mineral, vegetable, and animal resources.
 
-    But before giving his companions the signal for departure, Cyrus Harding said to them in a calm, grave voice, - 
+    But before giving his companions the signal for departure, Cyrus Harding said to them in a calm, grave voice, -
 
     Here, my friends, is the small corner of land upon which the hand of the Almighty has thrown us. We are going to live
     here; a long time, perhaps. Perhaps, too, unexpected help will arrive, if some ship passes by chance. I say by chance,
@@ -2677,7 +2689,7 @@
     Northern Hemisphere.
 
     Everything was finished, and the settlers had only to descend Mount Franklin to return to the Chimneys, when Pencroft
-    cried out, - 
+    cried out, -
 
     "Well! we are preciously stupid!"
 
@@ -2686,7 +2698,7 @@
     "Why! our island! we have forgotten to christen it!"
 
     Herbert was going to propose to give it the engineer's name and all his companions would have applauded him, when Cyrus
-    Harding said simply, - 
+    Harding said simply, -
 
     "Let us give it the name of a great citizen, my friend; of him who now struggles to defend the unity of the American
     Republic! Let us call it Lincoln Island!"
@@ -2805,7 +2817,7 @@
 
     Cyrus Harding, dipping in his hand, felt the water oily to the touch. He tasted it and found it rather sweet. As to its
     temperature, that he estimated at ninety-five degrees Fahrenheit. Herbert having asked on what he based this
-    calculation, - 
+    calculation, -
 
     "Its quite simple, my boy," said he, "for, in plunging my hand into the water, I felt no sensation either of heat or
     cold. Therefore it has the same temperature as the human body, which is about ninety-five degrees."
@@ -2879,7 +2891,7 @@
 
     "Faith, that's true, Mr. Spilett," replied the sailor, "and I always speak too quickly. You must excuse me!"
 
-    Meanwhile, Herbert constant to his favorite science, Natural History, reverted to the kangaroos, saying, - 
+    Meanwhile, Herbert constant to his favorite science, Natural History, reverted to the kangaroos, saying, -
 
     "Besides, we had to deal just now with the species which is most difficult to catch. They were giants with long gray
     fur; but if I am not mistaken, there exist black and red kangaroos, rock kangaroos, and rat kangaroos, which are more
@@ -2958,7 +2970,7 @@
     of Negro, to the other in that of sailor, quickly prepared some broiled agouti, to which they did great justice.
 
     The repast at length terminated; at the moment when each one was about to give himself up to sleep, Cyrus Harding drew
-    from his pocket little specimens of different sorts of minerals, and just said, - 
+    from his pocket little specimens of different sorts of minerals, and just said, -
 
     "My friends, this is iron mineral, this a pyrite, this is clay, this is lime, and this is coal. Nature gives us these
     things. It is our business to make a right use of them. To-morrow we will commence operations."
@@ -3029,7 +3041,7 @@
     "Top, here," said he.
 
     The dog came at his master's call. The latter took Top's head between his hands, and unfastening the collar which the
-    animal wore round his neck, he broke it in two, saying, - 
+    animal wore round his neck, he broke it in two, saying, -
 
     "There are two knives, Pencroft!"
 
@@ -3148,7 +3160,7 @@
     saturated with gunpowder, or boiled in a solution of nitrate or chlorate of potash. But, till then, they had not found
     any of these polypores or even any of the morels which could replace them. On this day, the engineer, seeing a plant
     belonging to the wormwood genus, the principal species of which are absinthe, balm-mint, tarragon, etc., gathered
-    several tufts, and, presenting them to the sailor, said, - 
+    several tufts, and, presenting them to the sailor, said, -
 
     "Here, Pencroft, this will please you."
 
@@ -3176,7 +3188,7 @@
     Cyrus Harding gazed for some time at this splendid constellation, which has at its summit and at its base two stars of
     the first magnitude, at its left arm a star of the second, and at its right arm a star of the third magnitude.
 
-    Then, after some minutes thought - 
+    Then, after some minutes thought -
 
     "Herbert," he asked of the lad, "is not this the 15th of April?"
 
@@ -3306,7 +3318,7 @@
     These measurements finished, Cyrus Harding and the lad returned to the Chimneys.
 
     The engineer then took a flat stone which he had brought back from one of his previous excursions, a sort of slate, on
-    which it was easy to trace figures with a sharp shell. He then proved the following proportions: - 
+    which it was easy to trace figures with a sharp shell. He then proved the following proportions: -
 
     15:500::10:x
 
@@ -3372,7 +3384,7 @@
     tried to knock some over with an arrow, but without result, for they seldom perched, and he could not hit them on the
     wing.
 
-    This led the sailor to repeat to the engineer, - 
+    This led the sailor to repeat to the engineer, -
 
     "You see, captain, so long as we have not one or two fowling-pieces, we shall never get anything!"
 
@@ -4129,7 +4141,7 @@
     the water-bath, and he obtained, without even employing a refrigerant mixture, several pints of an oily yellow mixture.
 
     This last operation Cyrus Harding had made alone, in a retired place, at a distance from the Chimneys, for he feared the
-    danger of an explosion, and when he showed a bottle of this liquid to his friends, he contented himself with saying, - 
+    danger of an explosion, and when he showed a bottle of this liquid to his friends, he contented himself with saying, -
 
     "Here is nitro-glycerine!"
 
@@ -4203,7 +4215,7 @@
 
     Cyrus Harding's project had succeeded, but, according to his usual habit he showed no satisfaction; with closed lips and
     a fixed look, he remained motionless. Herbert was in ecstasies, Neb bounded with joy, Pencroft nodded his great head,
-    murmuring these words, - 
+    murmuring these words, -
 
     "Come, our engineer gets on capitally!"
 
@@ -4214,7 +4226,7 @@
     The settlers went to the Chimneys to take some pickaxes, iron-tipped spears, string made of fibers, flint and steel;
     they then returned to the plateau, Top accompanying them.
 
-    On the way the sailor could not help saying to the engineer, - 
+    On the way the sailor could not help saying to the engineer, -
 
     "Don't you think, captain, that by means of that charming liquid you have made, one could blow up the whole of our
     island?"
@@ -4365,7 +4377,7 @@
     for nothing!"
 
     Cyrus Harding looked at his dog, and those of his companions who were near him might have heard him murmur these
-    words, - 
+    words, -
 
     "Yes, I believe that Top knows more than we do about a great many things."
 
@@ -4606,7 +4618,7 @@
     plants, and a naturalist would have had a good opportunity of studying many specimens of the vegetable kingdom. Herbert
     gathered several shoots of the basil, rosemary, balm, betony, etc., which possess different medicinal properties, some
     pectoral, astringent, febrifuge, others anti-spasmodic, or anti-rheumatic. When, afterwards, Pencroft asked the use of
-    this collection of herbs, - 
+    this collection of herbs, -
 
     "For medicine," replied the lad, "to treat us when we are ill."
 
@@ -4804,7 +4816,7 @@
     day found in the lining of his waistcoat, which he was occupied in setting to rights.
 
     On this day, as it was raining in torrents, the settlers were assembled in the great hall in Granite House, when the lad
-    cried out all at once, - 
+    cried out all at once, -
 
     "Look here, captain - A grain of corn!"
 
@@ -5441,7 +5453,7 @@
 
     "What, are there pebbles in your peccaries?" said Gideon Spilett.
 
-    "I suppose so," replied Pencroft, drawing from his lips the object which had cost him a grinder! - 
+    "I suppose so," replied Pencroft, drawing from his lips the object which had cost him a grinder! -
 
     It was not a pebble - it was a leaden bullet.
 
@@ -5463,7 +5475,7 @@
 
      Cyrus Harding did not hesitate to give utterance to the suggestions which this fact, at once surprising and unexpected,
      could not fail to raise in his mind. He took the bullet, turned it over and over, rolled it between his finger and
-     thumb; then, turning to Pencroft, he asked, - 
+     thumb; then, turning to Pencroft, he asked, -
 
      Are you sure that the peccary wounded by this bullet was not more than three months old?"
 
@@ -5540,7 +5552,7 @@
      Cyrus Harding and Gideon Spilett, before sleeping, conversed long about the matter. They asked themselves if by chance
      this incident might not have some connection with the inexplicable way in which the engineer had been saved, and the
      other peculiar circumstances which had struck them at different times. However, Cyrus Harding, after having discussed
-     the pros and cons of the question, ended by saying, - 
+     the pros and cons of the question, ended by saying, -
 
      "In short, would you like to know my opinion, my dear Spilett?"
 
@@ -5762,7 +5774,7 @@
      among the rocks, and it was agreed that they should make a trial of the boat that day by following the shore as far as
      the first point at which the rocks of the south ended.
 
-     As they embarked, Neb cried, - 
+     As they embarked, Neb cried, -
 
      "But your boat leaks rather, Pencroft."
 
@@ -5803,7 +5815,7 @@
      he was examining some strange country.
 
      In the meantime, after a voyage of three-quarters of an hour, the canoe reached the extremity of the point, and Pencroft
-     was preparing to return, when Herbert, rising, pointed to a black object, saying, - 
+     was preparing to return, when Herbert, rising, pointed to a black object, saying, -
 
      "What do I see down there on the beach?"
 
@@ -5990,7 +6002,7 @@
      diminished in heartiness, and, the inventory finished, he was heard to mutter these words: - "That's all very fine, but
      you can see that there is nothing for me in that box!"
 
-     This led Neb to say, - 
+     This led Neb to say, -
 
      "Why, friend Pencroft, what more do you expect?"
 
@@ -6016,7 +6028,7 @@
      separated by a marker.
 
      Immediately his eyes were attracted by a cross which, made with a pencil, was placed against the eighth verse of the
-     seventh chapter of the Gospel of St. Matthew. He read the verse, which was this: - 
+     seventh chapter of the Gospel of St. Matthew. He read the verse, which was this: -
 
      "For every one that asketh receiveth; and he that seeketh findeth."
 
@@ -6382,7 +6394,7 @@
      any stranger in the neighborhood.
 
      At half-past ten, to the great surprise of Cyrus Harding, Herbert, who was a little in front, suddenly stopped and
-     exclaimed, - 
+     exclaimed, -
 
      "The sea!"
 
@@ -6768,7 +6780,7 @@
      "It is all that remains of our airy boat, of our balloon, which has been caught up aloft there, at the top of that
      tree!"
 
-     Pencroft was not mistaken, and he gave vent to his feelings in a tremendous hurrah, adding, - 
+     Pencroft was not mistaken, and he gave vent to his feelings in a tremendous hurrah, adding, -
 
      "There is good cloth! There is what will furnish us with linen for years. There is what will make us handkerchiefs and
      shirts! Ha, ha, Mr. Spilett, what do you say to an island where shirts grow on the trees?"
@@ -6830,11 +6842,11 @@
 
      Cyrus Harding and Spilett, seated on the bank, waited till their companions were ready for their help, while Herbert
      roamed about, though without going to any distance. All at once, the lad, who had strolled by the river, came running
-     back, and, pointing up the Mercy, exclaimed, - 
+     back, and, pointing up the Mercy, exclaimed, -
 
      "What is floating there?"
 
-     Pencroft stopped working, and seeing an indistinct object moving through the gloom, - 
+     Pencroft stopped working, and seeing an indistinct object moving through the gloom, -
 
      "A canoe!" cried he.
 
@@ -6842,7 +6854,7 @@
 
      "Boat ahoy!" shouted the sailor, without thinking that perhaps it would be best to keep silence.
 
-     No reply. The boat still drifted onward, and it was not more than twelve feet off, when the sailor exclaimed, - 
+     No reply. The boat still drifted onward, and it was not more than twelve feet off, when the sailor exclaimed, -
 
      "But it is our own boat! she has broken her moorings, and floated down the current. I must say she has arrived very
      opportunely."
@@ -7105,7 +7117,7 @@
 
      "Ah, the robber!" cried Pencroft.
 
-     And hatchet in hand, he was about to cleave the head of the animal, when Cyrus Harding seized his arm, saying, - 
+     And hatchet in hand, he was about to cleave the head of the animal, when Cyrus Harding seized his arm, saying, -
 
      "Spare him, Pencroft."
 
@@ -7149,7 +7161,7 @@
 
      "And they will be," replied Pencroft, who had forgotten all his rancor against "the jokers."
 
-     Then, approaching the orang, - 
+     Then, approaching the orang, -
 
      "Well, old boy!" he asked, "how are you?"
 
@@ -7217,7 +7229,7 @@
      required for this important task. Saws, hatchets, and hammers were shouldered by the settlers, who, now transformed into
      carpenters, descended to the shore.
 
-     There Pencroft observed, - 
+     There Pencroft observed, -
 
      "Suppose, that during our absence, Master Jup takes it into his head to draw up the ladder which he so politely returned
      to us yesterday?"
@@ -7531,7 +7543,7 @@
      "Jup! Good Jup! Honest Jup!"
 
      Nothing was heard but that, and Jup without ever being disconcerted, replied to every one, watched for everything, and
-     he shook his head in a knowing way when Pencroft, referring to his joke of the first day, said to him, - 
+     he shook his head in a knowing way when Pencroft, referring to his joke of the first day, said to him, -
 
      "Decidedly, Jup, your wages must be doubled."
 
@@ -7770,7 +7782,7 @@
      not a sportsman, and as, on the other side, Herbert was talking chemistry and natural philosophy, numbers of kangaroos,
      capybaras, and agouties came within range, which, however, escaped the lad's gun; the consequence was that the day was
      already advanced, and the two hunters were in danger of having made a useless excursion, when Herbert, stopping, and
-     uttering a cry of joy, exclaimed, - 
+     uttering a cry of joy, exclaimed, -
 
      "Oh, Captain Harding, do you see that tree?" and he pointed to a shrub, rather than a tree, for it was composed of a
      single stem, covered with a scaly bark, which bore leaves streaked with little parallel veins.
@@ -7822,7 +7834,7 @@
      All, towards the evening after dinner, were seated under the veranda on the edge of Prospect Heights, and they were
      watching the darkness creeping up from the horizon. Some cups of the infusion of elder-berries, which took the place of
      coffee, had been served by Neb. They were speaking of the island and of its isolated situation in the Pacific, which led
-     Gideon Spilett to say, - 
+     Gideon Spilett to say, -
 
      "My dear Cyrus, have you ever, since you possessed the sextant found in the case, again taken the position of our
      island?"
@@ -7846,7 +7858,7 @@
 
      On the next day, therefore, by means of the sextant, the engineer made the necessary observations to verify the position
      which he had already obtained, and this was the result of his operation. His first observation had given him the
-     situation of Lincoln Island, - 
+     situation of Lincoln Island, -
 
      In west longitude: from 1500 to 1550;
 
@@ -7959,7 +7971,7 @@
      paces, arrived in a sort of clearing, into which the trees more sparsely scattered had permitted a few rays to
      penetrate. Gideon Spilett was at first surprised at the odor which exhaled from certain plants with straight stalks,
      round and branchy, bearing grape-like clusters of flowers and very small berries. The reporter broke off one or two of
-     these stalks and returned to the lad, to whom he said, - 
+     these stalks and returned to the lad, to whom he said, -
 
      "What can this be, Herbert?"
 
@@ -8111,7 +8123,7 @@
 
      On that day, after dinner, just as he was about to leave the table, Pencroft felt a hand on his shoulder.
 
-     It was the hand of Gideon Spilett, who said, - 
+     It was the hand of Gideon Spilett, who said, -
 
      "One moment, Master Pencroft, you mustn't sneak off like that! You've forgotten your dessert."
 
@@ -8128,7 +8140,7 @@
 
      The sailor endeavored to speak, but could not get out a word; so, seizing the pipe, he carried it to his lips, then
      applying the coal, he drew five or six great whiffs. A fragrant blue cloud soon arose, and from its depths a voice was
-     heard repeating excitedly, - 
+     heard repeating excitedly, -
 
      "Tobacco! real tobacco!"
 
@@ -8305,7 +8317,7 @@
      Harding, who had been much mixed up with the affairs of the Union, greatly interested his auditors by his recitals, his
      views, and his prognostics.
 
-     It chanced one day that Spilett was led to say - 
+     It chanced one day that Spilett was led to say -
 
      "But now, my dear Cyrus, all this industrial and commercial movement to which you predict a continual advance, does it
      not run the danger of being sooner or later completely stopped?"
@@ -8455,7 +8467,7 @@
      what depth beneath the water, it could not be answered.
 
      Then Cyrus Harding, having ended his survey, re-ascended, drew up the ladder, covered the mouth of the well, and
-     returned thoughtfully to the diningroom, saying to himself, - 
+     returned thoughtfully to the diningroom, saying to himself, -
 
      "I have seen nothing, and yet there is something there!"
 
@@ -8819,7 +8831,7 @@
      swelled her sails, and the sea, smooth as glass, was only rippled now and then by passing gusts.
 
      Herbert had stationed himself in the bows that he might indicate the course to be followed among the channels, when all
-     at once he shouted, - 
+     at once he shouted, -
 
      "Luff, Pencroft, luff!"
 
@@ -8827,14 +8839,14 @@
 
      "No - wait," said Herbert; "I don't quite see. Luff again - right - now."
 
-     So saying, Herbert, leaning over the side, plunged his arm into the water, and pulled it out, exclaiming, - 
+     So saying, Herbert, leaning over the side, plunged his arm into the water, and pulled it out, exclaiming, -
 
      "A bottle!"
 
      He held in his hand a corked bottle which he had just seized a few cables' length from the shore.
 
      Cyrus Harding took the bottle. Without uttering a single word he drew the cork, and took from it a damp paper, on which
-     were written these words: - 
+     were written these words: -
 
      "Castaway ... . Tabor island: 153deg W. long., 37deg 11' S. lat."
 
@@ -9117,7 +9129,7 @@
      "Let us go on board, and to-morrow we will begin again," said the reporter.
 
      This was the wisest course, and it was about to be followed when Herbert, pointing to a confused mass among the trees,
-     exclaimed, - 
+     exclaimed, -
 
      "A hut!"
 
@@ -9317,7 +9329,7 @@
      extinguished in him. However, the prisoner did not struggle, nor even attempt to break his bonds. Was he overwhelmed by
      the presence of men whose fellow he had once been? Had he found in some corner of his brain a fleeting remembrance which
      recalled him to humanity? If free, would he attempt to fly, or would he remain? They could not tell, but they did not
-     make the experiment; and after gazing attentively at the miserable creature, - 
+     make the experiment; and after gazing attentively at the miserable creature, -
 
      "Whoever he may be," remarked Gideon Spilett, "whoever he may have been, and whatever he may become, it is our duty to
      take him with us to Lincoln Island."
@@ -9435,7 +9447,7 @@
      despair, for he had a gallant heart, and grasping the tiller he anxiously endeavored to pierce the darkness which
      surrounded them.
 
-     About two o'clock in the morning he started forward, - 
+     About two o'clock in the morning he started forward, -
 
      "A light! a light!" he shouted.
 
@@ -9576,7 +9588,7 @@
      explosion. However, the use of pyroxyle was to be continued, for this substance giving excellent results, there was no
      reason for substituting ordinary powder.
 
-     When the unloading of the vessel was finished, - 
+     When the unloading of the vessel was finished, -
 
      "Captain," said Pencroft, "I think it would be prudent to put our 'Bonadventure' in a safe place."
 
@@ -9725,7 +9737,7 @@
      himself free; but he did not think of profiting by this liberty, and Harding soon brought him back to Granite House. Two
      days after this occurrence, the stranger appeared to wish gradually to mingle with their common life. He evidently heard
      and understood, but no less evidently was he strangely determined not to speak to the colonists; for one evening,
-     Pencroft, listening at the door of his room, heard these words escape from his lips: - 
+     Pencroft, listening at the door of his room, heard these words escape from his lips: -
 
      "No! here! I! never!"
 
@@ -9739,7 +9751,7 @@
      overburdened!
 
      Was it remorse that overwhelmed him thus? They were compelled to believe so, and Gideon Spilett could not help one day
-     making this observation, - 
+     making this observation, -
 
      "If he does not speak it is because he has, I fear, things too serious to be told!"
 
@@ -9799,7 +9811,7 @@
      And as if these few words had been difficult to say, he retreated to the beach, where he walked up and down between the
      cascade and the mouth of the Mercy, in a state of extreme agitation.
 
-     Then, passing one moment close to Herbert, he stopped and in a stifled voice, - 
+     Then, passing one moment close to Herbert, he stopped and in a stifled voice, -
 
      "What month?" he asked.
 
@@ -9898,7 +9910,7 @@
      Cyrus Harding and his companions were astounded on seeing that, overcome by some terrible emotion, his teeth chattered
      like those of a person in a fever. What was the matter with him? Was the sight of his fellow-creatures insupportable to
      him? Was he weary of this return to a civilized mode of existence? Was he pining for his former savage life? It appeared
-     so, as soon he was heard to express himself in these incoherent sentences: - 
+     so, as soon he was heard to express himself in these incoherent sentences: -
 
      "Why am I here?... . By what right have you dragged me from my islet?... . Do you think there could be any tie between
      you and me?... . Do you know who I am - what I have done - why I was there - alone? And who told you that I was not
@@ -10012,7 +10024,7 @@
      Meanwhile, Pencroft and Neb were working in the poultry-yard, while Harding and the reporter were occupied at the
      Chimneys in making soda, the store of soap being exhausted.
 
-     Suddenly cries resounded, - 
+     Suddenly cries resounded, -
 
      "Help! help!"
 
@@ -10033,7 +10045,7 @@
      plunged his knife into its heart.
 
      The jaguar fell. The stranger kicked away the body, and was about to fly at the moment when the settlers arrived on the
-     field of battle, but Herbert, clinging to him, cried, - 
+     field of battle, but Herbert, clinging to him, cried, -
 
      "No, no! you shall not go!"
 
@@ -10053,7 +10065,7 @@
 
      And as Herbert endeavored to. seize the hand which had just saved him, the stranger folded his arms, his chest heaved,
      his look darkened, and he appeared to wish to escape, but making a violent effort over himself, and in an abrupt
-     tone, - 
+     tone, -
 
      "Who are you?" he asked, "and what do you claim to be to me?"
 
@@ -10131,7 +10143,7 @@
      "You have, four or five miles from here, a corral for your domesticated animals. These animals need to be taken care of.
      Will you allow me to live there with them?"
 
-     Cyrus Harding gazed at the unfortunate man for a few moments with a feeling of deep commiseration; then, - 
+     Cyrus Harding gazed at the unfortunate man for a few moments with a feeling of deep commiseration; then, -
 
      "My friend," said he, "the corral has only stables hardly fit for animals."
 
@@ -10170,7 +10182,7 @@
      House.
 
      Now, they had been talking in the room for a few minutes, when a light knock was heard at the door. Almost immediately
-     the stranger entered, and without any preamble, - 
+     the stranger entered, and without any preamble, -
 
      "Gentlemen," said he, "before I leave you, it is right that you should know my history. I will tell it you."
 
@@ -10188,7 +10200,7 @@
 
      The stranger remained standing in a corner of the room, a little in the shade. He was bareheaded, his arms folded across
      his chest, and it was in this posture that in a hoarse voice, speaking like some one who obliges himself to speak, he
-     gave the following recital, which his auditors did not once interrupt: - 
+     gave the following recital, which his auditors did not once interrupt: -
 
      "On the 20th of December, 1854, a steam-yacht, belonging to a Scotch nobleman, Lord Glenarvan, anchored off Cape
      Bernouilli, on the western coast of Australia, in the thirty-seventh parallel. On board this yacht were Lord Glenarvan
@@ -10224,7 +10236,7 @@
      three-masted English vessel, the 'Britannia,' had been lost less than two years before on the west coast of Australia.
 
      "The Irishman had never heard of this wreck, but, to the great surprise of the bystanders, one of his servants came
-     forward and said, - 
+     forward and said, -
 
      "'My lord, praise and thank God! If Captain Grant is still living, he is living on the Australian shores.'
 
@@ -10260,7 +10272,7 @@
      direction, it was that he hoped to separate him from his ship, seize the 'Duncan,' and make the yacht a pirate in the
      Pacific."
 
-     Here the stranger stopped for a moment. His voice trembled, but he continued, - 
+     Here the stranger stopped for a moment. His voice trembled, but he continued, -
 
      "The expedition set out and proceeded across Australia. It was inevitably unfortunate, since Ayrton, or Ben Joyce, as he
      may be called, guided it, sometimes preceded, sometimes followed by his band of convicts, who had been told what they
@@ -10324,7 +10336,7 @@
      Captain Grant and two men, exactly on the thirty- seventh parallel.
 
      "The convict, then, went to take their place on this desert islet, and at the moment he left the yacht these words were
-     pronounced by Lord Glenarvan: - 
+     pronounced by Lord Glenarvan: -
 
      "'Here, Ayrton, you will be far from any land, and without any possible communication with your fellow-creatures. You
      can-not escape from this islet on which the 'Duncan' leaves you. You will be alone, under the eye of a God who reads the
@@ -10384,7 +10396,7 @@
      "Captain Harding, leave me some time longer," replied Ayrton, "leave me alone in the hut in the corral!"
 
      "As you like, Ayrton," answered Cyrus Harding. Ayrton was going to withdraw, when the engineer addressed one more
-     question to him: - 
+     question to him: -
 
      "One word more, my friend. Since it was your intention to live alone, why did you throw into the sea the document which
      put us on your track?"
@@ -10648,7 +10660,7 @@
      an early and rigorous winter.
 
      It might have been supposed one morning - the 21 st - that the first snow had already made its appearance. In fact
-     Herbert looking early from one of the windows of Granite House, exclaimed, - 
+     Herbert looking early from one of the windows of Granite House, exclaimed, -
 
      "Hallo! the islet is covered with snow!"
 
@@ -10959,7 +10971,7 @@
      "No! No one!" answered Cyrus Harding.
 
      A few minutes after, finding himself alone in the bows of the vessel, with the reporter, the engineer bent down and
-     whispered, - 
+     whispered, -
 
      "If there is one thing certain in this world, Spilett, it is that I never lighted any fire during the night of the 19th
      of October, neither on Prospect Heights nor on any other part of the island!"
@@ -11078,7 +11090,7 @@
      was the most unaccountable.
 
      However, Harding, returning to the fact of a fire having been kindled on the shore by an unknown hand, could not refrain
-     from repeating for the twentieth time to the reporter, - 
+     from repeating for the twentieth time to the reporter, -
 
      "But are you quite sure of having seen it? Was it not a partial eruption of the volcano, or perhaps some meteor?"
 
@@ -11086,7 +11098,7 @@
      Herbert. They saw it as I saw it myself, and they will confirm my words."
 
      In consequence, therefore, a few days after, on the 25th of April, in the evening, when the settlers were all collected
-     on Prospect Heights, Cyrus Harding began by saying, - 
+     on Prospect Heights, Cyrus Harding began by saying, -
 
      "My friends, I think it my duty to call your attention to certain incidents which have occurred in the island, on the
      subject of which I shall be happy to have your advice. These incidents are, so to speak, supernatural - "
@@ -11267,7 +11279,7 @@
      Harding examined it; then seizing his telescope he rushed to the window.
 
      The telescope, after having slowly swept the horizon, at last stopped on the looked-for spot, and Cyrus Harding,
-     lowering it, pronounced one word only, - 
+     lowering it, pronounced one word only, -
 
      "A vessel!"
 
@@ -11289,7 +11301,7 @@
 
      Cyrus Harding and Herbert having immediately called Gideon Spilett, Pencroft, and Neb into the dining-room of Granite
      House, told them what had happened. Pencroft, seizing the telescope, rapidly swept the horizon, and stopping on the
-     indicated point, that is to say, on that which had made the almost imperceptible spot on the photographic negative, - 
+     indicated point, that is to say, on that which had made the almost imperceptible spot on the photographic negative, -
 
      "I'm blessed but it is really a vessel!" he exclaimed, in a voice which did not express any great amount of
      satisfaction.
@@ -11366,7 +11378,7 @@
      do?"
 
      This sudden question remained at first without any reply. But Cyrus Harding, after some moments' thought, replied in the
-     calm tone which was usual to him, - 
+     calm tone which was usual to him, -
 
      "What we shall do, my friends? What we ought to do is this: - we will communicate with the ship, we will take our
      passage on board her, and we will leave our island, after having taken possession of it in the name of the United
@@ -11390,11 +11402,11 @@
      shallows were not marked on the chart.
 
      Towards four o'clock - an hour after he had been sent for - Ayrton arrived at Granite House. He entered the dining-room
-     saying, - 
+     saying, -
 
      "At your service, gentlemen."
 
-     Cyrus Harding gave him his hand, as was his custom to do, and, leading him to the window, - 
+     Cyrus Harding gave him his hand, as was his custom to do, and, leading him to the window, -
 
      "Ayrton," said he, "we have begged you to come here for an important reason. A ship is in sight of the island."
 
@@ -11415,7 +11427,7 @@
      "Look, Ayrton," then said the engineer, "for it is necessary that we should know beforehand what to expect."
 
      Ayrton took the glass and pointed it in the direction indicated. During some minutes he examined the horizon without
-     moving, without uttering a word. Then, - 
+     moving, without uttering a word. Then, -
 
      "It is indeed a vessel," said he, "but I do not think she is the 'Duncan.'"
 
@@ -11465,7 +11477,7 @@
      was or was not the "Duncan." The Scotch yacht was also rigged as a brig. The question was, whether a chimney could be
      discerned between the two masts of the vessel, which was now at a distance of only five miles.
 
-     The horizon was still very clear. The examination was easy, and Ayrton soon let the glass fall again, saying - 
+     The horizon was still very clear. The examination was easy, and Ayrton soon let the glass fall again, saying -
 
      "It is not the 'Duncan'! It could not be!"
 
@@ -11491,7 +11503,7 @@
      Brazilian? - it is green. Japanese? - it is yellow and black, while this - "
 
      At that moment the breeze blew out the unknown flag. Ayrton seizing the telescope which the sailor had put down, put it
-     to his eye, and in a hoarse voice, - 
+     to his eye, and in a hoarse voice, -
 
      "The black flag!" he exclaimed.
 
@@ -11524,7 +11536,7 @@
      foliage, and thus disguise the windows in the granite cliff. At the same time, the ammunition and guns were placed ready
      so as to be at hand in case of an unexpected attack.
 
-     When all these precautions had been taken, - 
+     When all these precautions had been taken, -
 
      "My friends," said Harding, and his voice betrayed some emotion, "if the wretches endeavor to seize Lincoln Island, we
      shall defend it - shall we not?"
@@ -11534,7 +11546,7 @@
      The engineer extended his hand to his companions, who pressed it warmly. Ayrton remained in his corner, not joining the
      colonists. Perhaps he, the former convict, still felt himself unworthy to do so!
 
-     Cyrus Harding understood what was passing in Ayrton's mind, and going to him - 
+     Cyrus Harding understood what was passing in Ayrton's mind, and going to him -
 
      "And you, Ayrton," he asked, "what will you do?"
 
@@ -11647,7 +11659,7 @@
 
      "You mistrust me!" said Ayrton quickly.
 
-     Then more humbly, - 
+     Then more humbly, -
 
      "Alas!"
 
@@ -11691,7 +11703,7 @@
      main-chains. He took breath, then, hoisting himself up, he managed to reach the extremity of the cutwater. There were
      drying several pairs of sailors' trousers. He put on a pair. Then settling himself firmly, he listened. They were not
      sleeping on board the brig. On the contrary, they were talking, singing, laughing. And these were the sentences,
-     accompanied with oaths, which principally struck Ayrton: - 
+     accompanied with oaths, which principally struck Ayrton: -
 
      "Our brig is a famous acquisition."
 
@@ -11901,7 +11913,7 @@
      Spilett and Ayrton, both very good marksmen, were armed with the two rifles, which carried nearly a mile. The four other
      muskets were divided among Harding, Neb, Pencroft, and Herbert.
 
-     The posts were arranged in the following manner: - 
+     The posts were arranged in the following manner: -
 
      Cyrus Harding and Herbert remained in ambush at the Chimneys, thus commanding the shore to the foot of Granite House.
 
@@ -12196,7 +12208,7 @@
      the upper passage of Granite House, and leave their dwelling to be devastated, when a deep roar was heard, followed by
      frightful cries!
 
-     Cyrus Harding and his companions rushed to one of the windows - 
+     Cyrus Harding and his companions rushed to one of the windows -
 
      The brig, irresistibly raised on a sort of water-spout, had just split in two, and in less than ten seconds she was
      swallowed up with all her criminal crew!
@@ -12255,7 +12267,7 @@
      was floating, coops, barrels, and boxes, which were immediately carried to the Chimneys.
 
      Several bodies floated also. Among them, Ayrton recognized that of Bob Harvey, which he pointed out to his companion,
-     saying with some emotion, - 
+     saying with some emotion, -
 
      "That is what I have been, Pencroft."
 
@@ -12488,7 +12500,7 @@
      Neb brought this piece of metal to his master, who was then occupied with his companions in the workshop of the
      Chimneys.
 
-     Cyrus Harding examined the cylinder attentively, then, turning to Pencroft, - 
+     Cyrus Harding examined the cylinder attentively, then, turning to Pencroft, -
 
      "You persist, my friend," said he, "in maintaining that the 'Speedy' was not lost in consequence of a collision?"
 
@@ -12688,7 +12700,7 @@
      me we ought not to hesitate to treat them as such! What do you think, Ayrton?" added Pencroft, turning to his companion.
 
      Ayrton hesitated at first to reply, and Cyrus Harding regretted that Pencroft had so thoughtlessly put this question.
-     And he was much moved when Ayrton replied in a humble tone, - 
+     And he was much moved when Ayrton replied in a humble tone, -
 
      "I have been one of those jaguars, Mr. Pencroft. I have no right to speak."
 
@@ -12855,7 +12867,7 @@
      remain any longer?"
 
      Chatting thus, Pencroft, Gideon Spilett, and Herbert got on board and looked about the deck of the "Bonadventure." All
-     at once, the sailor having examined the bitts to which the cable of the anchor was secured, - 
+     at once, the sailor having examined the bitts to which the cable of the anchor was secured, -
 
      "Hallo," he cried, "this is queer!"
 
@@ -12999,7 +13011,7 @@
      Cyrus Harding and his companions followed beside the road the wire which connected the corral with Granite House. After
      walking for nearly two miles, they had not as yet discovered any explanation of the difficulty. The posts were in good
      order, the wire regularly extended. However, at that moment the engineer observed that the wire appeared to be slack,
-     and on arriving at post No. 74, Herbert, who was in advance stopped, exclaiming, - 
+     and on arriving at post No. 74, Herbert, who was in advance stopped, exclaiming, -
 
      "The wire is broken!"
 
@@ -13260,7 +13272,7 @@
 
      "Is there really no way of warning him?"
 
-     While the engineer thought, his eyes fell on Top, who, going backwards and forwards seemed to say, - 
+     While the engineer thought, his eyes fell on Top, who, going backwards and forwards seemed to say, -
 
      "Am not I here?"
 
@@ -13275,7 +13287,7 @@
 
      "Quick!" said Harding. "Quick!"
 
-     Spilett rapidly tore a leaf from his note-book, and wrote these words: - 
+     Spilett rapidly tore a leaf from his note-book, and wrote these words: -
 
      "Herbert wounded. We are at the corral. Be on your guard. Do not leave Granite House. Have the convicts appeared in the
      neighborhood? Reply by Top."
@@ -13632,7 +13644,7 @@
      Cyrus Harding was not mistaken. At Jup's neck hung a small bag, and in this bag was found a little note traced by Neb's
      hand.
 
-     The despair of Harding and his companions may be imagined when they read these words: - 
+     The despair of Harding and his companions may be imagined when they read these words: -
 
      "Friday, six o'clock in the morning.
 
@@ -13648,7 +13660,7 @@
 
      "Captain Harding," said he, "I must go; I can bear the journey. I must go."
 
-     Gideon Spilett approached Herbert; then, having looked at him, - 
+     Gideon Spilett approached Herbert; then, having looked at him, -
 
      "Let us go, then!" said he.
 
@@ -13708,7 +13720,7 @@
      At length an opening in the trees allowed the sea-horizon to be seen. But the cart continued its progress, for not one
      of its defenders thought of abandoning it.
 
-     At that moment Pencroft stopped the onager, and in a hoarse voice, - 
+     At that moment Pencroft stopped the onager, and in a hoarse voice, -
 
      "Oh! the villains!" he exclaimed.
 
@@ -13766,7 +13778,7 @@
      orang would know how to pass unperceived through the woods, of which the convicts, besides, would think he was a native.
 
      Neb did not hesitate. He wrote the note, he tied it to Jup's neck, he brought the ape to the door of Granite House, from
-     which he let down a long cord to the ground; then, several times he repeated these words, - 
+     which he let down a long cord to the ground; then, several times he repeated these words, -
 
      "Jup Jup! corral, corral!"
 
@@ -14410,7 +14422,7 @@
      "Ayrton!" cried the engineer, seizing the arm of the man whom he had just found again under such unexpected
      circumstances.
 
-     At this exclamation Ayrton opened his eyes, and, gazing at Harding, then at the others, - 
+     At this exclamation Ayrton opened his eyes, and, gazing at Harding, then at the others, -
 
      "You!" he cried, "you?"
 
@@ -15005,7 +15017,7 @@
 
      Cyrus Harding even observed that if by chance the communication between the unknown and the tenants of Granite House had
      ever been established through the granite, and if Top's instinct had as it were felt it, there was no further sign of it
-     during this period. The dog's growling had entirely ceased, as well as the uneasiness of the orang. The two friends - 
+     during this period. The dog's growling had entirely ceased, as well as the uneasiness of the orang. The two friends -
      for they were such - no longer prowled round the opening of the inner well, nor did they bark or whine in that singular
      way which from the first the engineer had noticed. But could he be sure that this was all that was to be said about this
      enigma, and that he should never arrive at a solution? Could he be certain that some conjuncture would not occur which
@@ -15117,11 +15129,11 @@
 
      The sailor's sentence was cut short by a new tinkle of the bell.
 
-     Harding went to the apparatus, and sent this question to the corral: - 
+     Harding went to the apparatus, and sent this question to the corral: -
 
      "What do you want?"
 
-     A few moments later the needle, moving on the alphabetic dial, gave this reply to the tenants of Granite House: - 
+     A few moments later the needle, moving on the alphabetic dial, gave this reply to the tenants of Granite House: -
 
      "Come to the corral immediately."
 
@@ -15154,11 +15166,11 @@
      of the atmosphere, remained motionless and silent. Not a breath disturbed the leaves. The footsteps of the colonists
      alone resounded on the hardened ground.
 
-     During the first quarter of an hour the silence was only interrupted by this remark from Pencroft: - 
+     During the first quarter of an hour the silence was only interrupted by this remark from Pencroft: -
 
      "We ought to have brought a torch."
 
-     And by this reply from the engineer: - 
+     And by this reply from the engineer: -
 
      "We shall find one at the corral."
 
@@ -15191,7 +15203,7 @@
 
      "Have we been deceived by an illusion?" murmured Cyrus Harding.
 
-     No! that was not possible! The telegram had clearly said, - 
+     No! that was not possible! The telegram had clearly said, -
 
      "Come to the corral immediately."
 
@@ -15208,7 +15220,7 @@
 
      "Ah! a note!" cried Herbert, pointing to a paper lying on the table.
 
-     On this paper were written these words in English: - 
+     On this paper were written these words in English: -
 
      "Follow the new wire."
 
@@ -15277,7 +15289,7 @@
 
      The engineer stopped them.
 
-     He led his companions to a hollow in the rocks, and there - 
+     He led his companions to a hollow in the rocks, and there -
 
      "We must wait," said he. "The tide is high. At low water the way will be open."
 
@@ -15301,7 +15313,7 @@
      The engineer was not mistaken. The beginning of an immense excavation could be seen under the water. There the wire,
      bending at a right angle, entered the yawning gulf.
 
-     Cyrus Harding returned to his companions, and said simply, - 
+     Cyrus Harding returned to his companions, and said simply, -
 
      "In an hour the opening will be practicable."
 
@@ -15338,7 +15350,7 @@
      admiration of man.
 
      Did the cavern which the settlers were now exploring extend to the center of the island? For a quarter of an hour the
-     boat had been advancing, making detours, indicated to Pencroft by the engineer in short sentences, when all at once, - 
+     boat had been advancing, making detours, indicated to Pencroft by the engineer in short sentences, when all at once, -
 
      "More to the right!" he commanded.
 
@@ -15383,13 +15395,13 @@
      in shape to an enormous whale, was about 250 feet long, and rose about ten or twelve above the water.
 
      The boat slowly approached it, Cyrus Harding stood up in the bows. He gazed, a prey to violent excitement. Then, all at
-     once, seizing the reporter's arm, - 
+     once, seizing the reporter's arm, -
 
      "It is he! It can only be he!" he cried, "he! - "
 
      Then, falling back on the seat, he murmured a name which Gideon Spilett alone could hear.
 
-     The reporter evidently knew this name, for it had a wonderful effect upon him, and he answered in a hoarse voice, - 
+     The reporter evidently knew this name, for it had a wonderful effect upon him, and he answered in a hoarse voice, -
 
      "He! an outlawed man!"
 
@@ -15414,7 +15426,7 @@
 
      Stretched on a rich sofa they saw a man, who did not appear to notice their presence.
 
-     Then Harding raised his voice, and to the extreme surprise of his companions, he uttered these words, - 
+     Then Harding raised his voice, and to the extreme surprise of his companions, he uttered these words, -
 
      "Captain Nemo, you asked for us! We are here. - "
 
@@ -15426,7 +15438,7 @@
 
      His hand rested upon the cushion of the divan from which he had just risen. He appeared perfectly calm. It was evident
      that his strength had been gradually undermined by illness, but his voice seemed yet powerful, as he said in English,
-     and in a tone which evinced extreme surprise, - 
+     and in a tone which evinced extreme surprise, -
 
      "Sir, I have no name."
 
@@ -15434,7 +15446,7 @@
 
      Captain Nemo fixed his penetrating gaze upon the engineer, as though he were about to annihilate him.
 
-     Then, falling back amid the pillows of the divan, - 
+     Then, falling back amid the pillows of the divan, -
 
      "After all, what matters now?" he murmured; "I am dying!"
 
@@ -15450,7 +15462,7 @@
      and Neb had expected to find an almost supernatural being!
 
      But how happened it that Cyrus Harding had recognized Captain Nemo? why had the latter so suddenly risen on hearing this
-     name uttered, a name which he had believed known to none? - 
+     name uttered, a name which he had believed known to none? -
 
      The captain had resumed his position on the divan, and leaning on his arm, he regarded the engineer, seated near him.
 
@@ -15510,7 +15522,7 @@
 
      His narrative was short, yet he was obliged to summon up his whole remaining energy to arrive at the end. He was
      evidently contending against extreme weakness. Several times Cyrus Harding entreated him to repose for a while, but he
-     shook his head as a man to whom the morrow may never come, and when the reporter offered his assistance, - 
+     shook his head as a man to whom the morrow may never come, and when the reporter offered his assistance, -
 
      "It is useless," he said; "my hours are numbered."
 
@@ -15663,7 +15675,7 @@
      generous being to whom they owed so much.
 
      But Captain Nemo paid little attention; his mind appeared to be absorbed by one idea, and without taking the proffered
-     hand of the engineer, - 
+     hand of the engineer, -
 
      "Now, sir," said he, "now that you know my history, your judgment!"
 
@@ -15677,7 +15689,7 @@
      "It was an enemy's frigate," exclaimed Captain Nemo, transformed for an instant into the Prince Dakkar, "an enemy's
      frigate! It was she who attacked me - I was in a narrow and shallow bay - the frigate barred my way -  and I sank her!"
 
-     A few moments of silence ensued; then the captain demanded, - 
+     A few moments of silence ensued; then the captain demanded, -
 
      "What think you of my life, gentlemen?"
 
@@ -15687,7 +15699,7 @@
      an enemy, but retains our esteem. Your error is one that we may admire, and your name has nothing to fear from the
      judgment of history, which does not condemn heroic folly, but its results."
 
-     The old man's breast swelled with emotion, and raising his hand to heaven, - 
+     The old man's breast swelled with emotion, and raising his hand to heaven, -
 
      "Was I wrong, or in the right?" he murmured.
 
@@ -15730,7 +15742,7 @@
      his vessel. He has lived for a dozen years on board the 'Nautilus,' and on board the 'Nautilus' he desires to die."
 
      Without doubt Captain Nemo heard Cyrus Harding's reply, for he raised himself slightly, and in a voice more feeble, but
-     always intelligible, - 
+     always intelligible, -
 
      "You are right, sir," he said. "I shall die here - it is my wish; and therefore I have a request to make of you."
 
@@ -15742,7 +15754,7 @@
      of the partitions, the chef-d'oeuvres of the Italian, Flemish, French, and Spanish masters; the statues of marble and
      bronze on their pedestals; the magnificent organ, leaning against the after-partition; the aquarium, in which bloomed
      the most wonderful productions of the sea -  marine plants, zoophytes, chaplets of pearls of inestimable value; and,
-     finally, his eyes rested on this device, inscribed over the pediment of the museum - the motto of the "Nautilus" - 
+     finally, his eyes rested on this device, inscribed over the pediment of the museum - the motto of the "Nautilus" -
 
      "Mobilis in mobile."
 
@@ -15787,7 +15799,7 @@
      hands of such men as yourself and your comrades, Captain Harding, money will never be a source of danger. From on high I
      shall still participate in your enterprises, and I fear not but that they will prosper."
 
-     After a few moments' repose, necessitated by his extreme weakness, Captain Nemo continued, - 
+     After a few moments' repose, necessitated by his extreme weakness, Captain Nemo continued, -
 
      "To-morrow you will take the coffer, you will leave the saloon, of which you will close the door; then you will ascend
      on to the deck of the 'Nautilus,' and you will lower the mainhatch so as entirely to close the vessel."
@@ -15798,7 +15810,7 @@
      and there open two large stop-cocks which you will find upon the water-line. The water will penetrate into the
      reservoirs, and the 'Nautilus' will gradually sink beneath the water to repose at the bottom of the abyss."
 
-     And comprehending a gesture of Cyrus Harding, the captain added, - 
+     And comprehending a gesture of Cyrus Harding, the captain added, -
 
      "Fear nothing! You will but bury a corpse!"
 
@@ -15867,7 +15879,7 @@
 
      "It is well!" he murmured.
 
-     He resumed, - 
+     He resumed, -
 
      "But enough of myself. I have to speak concerning yourselves, and this Lincoln Island, upon which you have taken refuge.
      You now desire to leave it?"
@@ -15901,7 +15913,7 @@
 
      "And here shall I sleep the sleep of eternity, if - " replied the captain.
 
-     He paused for a moment, and, instead of completing the sentence, said simply, - 
+     He paused for a moment, and, instead of completing the sentence, said simply, -
 
      "Mr. Harding, I wish to speak with you - alone!"
 
@@ -16049,7 +16061,7 @@
      "Well said, Neb!" cried Pencroft, with a shout of laughter; "and you'll undertake the job, no doubt?"
 
      Cyrus Harding attentively observed the dense smoke emitted by Mount Franklin, and even listened, as if expecting to hear
-     some distant muttering. Then, turning towards his companions, from whom he had gone somewhat apart, he said, - 
+     some distant muttering. Then, turning towards his companions, from whom he had gone somewhat apart, he said, -
 
      "The truth is, my friends, we must not conceal from ourselves that an important change is going forward. The volcanic
      substances are no longer in a state of ebullition, they have caught fire, and we are undoubtedly menaced by an
@@ -16169,7 +16181,7 @@
      without offering further explanations the engineer pushed forward the work with all his energy. Mount Franklin was now
      hooded by a somber cloud of sinister aspect, and, amid the flames, vomiting forth incandescent rocks, some of which fell
      back into the crater itself. This caused Pencroft, who would only look at the matter in the light of a joke, to
-     exclaim, - 
+     exclaim, -
 
      "Ah! the giant is playing at cup and ball; he is a conjurer."
 
@@ -16181,7 +16193,7 @@
      on various portions of the island. Before everything it was necessary to go to the corral, where the flocks of musmons
      and goats were enclosed, and replenish the provision of forage for those animals. It was accordingly arranged that
      Ayrton should proceed thither the next day, the 7th of January; and as he was sufficient for the task, to which he was
-     accustomed, Pencroft and the rest were somewhat surprised on hearing the engineer say to Ayrton - 
+     accustomed, Pencroft and the rest were somewhat surprised on hearing the engineer say to Ayrton -
 
      "As you are going to-morrow to the corral I will accompany you."
 
@@ -16336,7 +16348,7 @@
      There, through scarcely visible clefts and joinings, escaped a pungent vapor, which infected the atmosphere of the
      cavern. The wall was broken by large cracks, some of which extended to within two or three feet of the water's edge.
 
-     Cyrus Harding thought for a brief space. Then he said in a low voice, - 
+     Cyrus Harding thought for a brief space. Then he said in a low voice, -
 
      "Yes! the captain was right! The danger lies there, and a terrible danger!"
 
@@ -16502,7 +16514,7 @@
      to be decided.
 
      Cyrus Harding, accustomed to the consideration of important crises, and aware that he was addressing men capable of
-     hearing the truth, whatever it might be, then said, - 
+     hearing the truth, whatever it might be, then said, -
 
      "Either the lake will arrest the progress of the lava, and a part of the island will be preserved from utter
      destruction, or the stream will overrun the forests of the Far West, and not a tree or plant will remain on the surface

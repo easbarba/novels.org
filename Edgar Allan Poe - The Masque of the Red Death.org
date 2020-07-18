@@ -1,3 +1,13 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-masque-of-the-red-death][The Masque of the Red Death]]
+  - [[#edgar-allan-poe][Edgar Allan Poe]]
+  - [[#story][Story]]
+:END:
 * The Masque of the Red Death
 ** Edgar Allan Poe
    *Published:* 1842

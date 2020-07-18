@@ -1,3 +1,13 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#dreams-in-the-witch-house][Dreams in the Witch-House]]
+  - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
+  - [[#story][Story]]
+:END:
 * Dreams in the Witch-House
 ** Howard Phillips Lovecraft
    *Published:* 1932

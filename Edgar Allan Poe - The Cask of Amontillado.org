@@ -1,3 +1,13 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-cask-of-amontillado][The Cask of Amontillado]]
+  - [[#edgar-allan-poe][Edgar Allan Poe]]
+  - [[#story][Story]]
+:END:
 * The Cask of Amontillado
 ** Edgar Allan Poe
    *Published:* 1846
@@ -237,7 +247,7 @@
    had finished a portion of the last and the eleventh; there remained but a single stone to be fitted and plastered in. I
    struggled with its weight; I placed it partially in its destined position. But now there came from out the niche a low
    laugh that erected the hairs upon my head. It was succeeded by a sad voice, which I had difficulty in recognizing as
-   that of the noble Fortunato. The voice said - 
+   that of the noble Fortunato. The voice said -
 
    "Ha! ha! ha! - he! he! he! - a very good joke indeed - an excellent jest. We shall have many a rich laugh about it at
    the palazzo - he! he! he! - over our wine - he! he! he!"
@@ -253,11 +263,11 @@
 
    "Yes," I said, "for the love of God!"
 
-   But to these words I hearkened in vain for a reply. I grew impatient. I called aloud - 
+   But to these words I hearkened in vain for a reply. I grew impatient. I called aloud -
 
    "Fortunato!"
 
-   No answer. I called again - 
+   No answer. I called again -
 
    "Fortunato - "
 

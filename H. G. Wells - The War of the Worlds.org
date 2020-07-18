@@ -1,3 +1,14 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-war-of-the-worlds][The War of the Worlds]]
+  - [[#h-g-wells][H. G. Wells]]
+  - [[#part-1---the-coming-of-the-martians][Part 1 - The Coming of the Martians]]
+  - [[#part-2---the-earth-under-the-martians][Part 2 - The Earth Under the Martians]]
+:END:
 * The War of the Worlds
 ** H. G. Wells
    *Published:* 1898
@@ -2708,7 +2719,7 @@
     still occupied by scared inhabitants, too frightened even for flight. Here too the evidence of a hasty rout was abundant
     along the road. I remember most vividly three smashed bicycles in a heap, pounded into the road by the wheels of
     subsequent carts. We crossed Richmond Bridge about half past eight. We hurried across the exposed bridge, of course, but
-    I noticed floating down the stream a number of red masses, some many feet across. I did not know what these were - 
+    I noticed floating down the stream a number of red masses, some many feet across. I did not know what these were -
     there was no time for scrutiny - and I put a more horrible interpretation on them than they deserved. Here again on the
     Surrey side were black dust that had once been smoke, and dead bodies - a heap near the approach to the station; but we
     had no glimpse of the Martians until we were some way towards Barnes.

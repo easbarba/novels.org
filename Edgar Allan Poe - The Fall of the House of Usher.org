@@ -1,3 +1,13 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-fall-of-the-house-of-usher][The Fall of the House of Usher]]
+  - [[#edgar-allan-poe][Edgar Allan Poe]]
+  - [[#story][Story]]
+:END:
 * The Fall of the House of Usher
 ** Edgar Allan Poe
    *Published:* 1839
@@ -211,17 +221,17 @@
    easily remembered. I was, perhaps, the more forcibly impressed with it, as he gave it, because, in the under or mystic
    current of its meaning, I fancied that I perceived, and for the first time, a full consciousness on the part of Usher,
    of the tottering of his lofty reason upon her throne. The verses, which were entitled “The Haunted Palace,” ran very
-   nearly, if not accurately, thus: - 
+   nearly, if not accurately, thus: -
 
    IIn the greenest of our valleys,
 
    By good angels tenanted,
 
-   Once a fair and stately palace - 
+   Once a fair and stately palace -
 
    Radiant palace - reared its head.
 
-   In the monarch Thought's dominion - 
+   In the monarch Thought's dominion -
 
    It stood there!
 
@@ -433,7 +443,7 @@
 
    I had arrived at that well-known portion of the story where Ethelred, the hero of the “Trist,” having sought in vain for
    peaceable admission into the dwelling of the hermit, proceeds to make good an entrance by force. Here, it will be
-   remembered, the words of the narrative run thus: - 
+   remembered, the words of the narrative run thus: -
 
    “And Ethelred, who was by nature of a doughty heart, and who was now mighty withal, on account of the powerfulness of
    the wine which he had drunken, waited no longer to hold parley with the hermit, who, in sooth, was of an obstinate and
@@ -448,12 +458,12 @@
    and dull one certainly) of the very cracking and ripping sound which Sir Launcelot had so particularly described. It
    was, beyond doubt, the coincidence alone which had arrested my attention; for, amid the rattling of the sashes of the
    casements, and the ordinary commingled noises of the still increasing storm, the sound, in itself, had nothing, surely,
-   which should have interested or disturbed me. I continued the story: - 
+   which should have interested or disturbed me. I continued the story: -
 
    “But the good champion Ethelred, now entering within the door, was soar enraged and amazed to perceive no signal of the
    maliceful hermit; but, in the stead thereof, a dragon of a scaly and prodigious demeanor, and of a fiery tongue, which
    sate in guard before a palace of gold, with a floor of silver; and upon the wall there hung a shield of shining brass
-   with this legend enwritten: - 
+   with this legend enwritten: -
 
    Who entereth herein, a conqueror hath been;
 
@@ -477,7 +487,7 @@
    trembled as if he were murmuring inaudibly. His head had dropped upon his breast - yet I knew that he was not asleep,
    from the wide and rigid opening of the eye as I caught a glance of it in profile. The motion of his body, too, was at
    variance with this idea - for he rocked from side to side with a gentle yet constant and uniform sway. Having rapidly
-   taken notice of all this, I resumed the narrative of Sir Launcelot, which thus proceeded: - 
+   taken notice of all this, I resumed the narrative of Sir Launcelot, which thus proceeded: -
 
    “And now the champion, having escaped from the terrible fury of the dragon, bethinking himself of the brazen shield, and
    of the breaking up of the enchantment which was upon it, removed the carcass from out of the way before him, and

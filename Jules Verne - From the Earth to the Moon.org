@@ -1,3 +1,40 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#from-the-earth-to-the-moon][From the Earth to the Moon]]
+  - [[#jules-verne][Jules Verne]]
+  - [[#chapter-1-the-gun-club][Chapter 1 The Gun Club]]
+  - [[#chapter-2-president-barbicanes-communication][Chapter 2 President Barbicane's Communication]]
+  - [[#chapter-3-effect-of-the-presidents-communication][Chapter 3 Effect of the President's Communication]]
+  - [[#chapter-4-reply-from-the-observatory-of-cambridge][Chapter 4 Reply From the Observatory of Cambridge]]
+  - [[#chapter-5-the-romance-of-the-moon][Chapter 5 The Romance of the Moon]]
+  - [[#chapter-6-the-permissive-limits-of-ignorance-and-belief-in-the-united-states][Chapter 6 The Permissive Limits of Ignorance and Belief in the United States]]
+  - [[#chapter-7-the-hymn-of-the-cannon-ball][Chapter 7 The Hymn of the Cannon-Ball]]
+  - [[#chapter-8-history-of-the-cannon][Chapter 8 History of the Cannon]]
+  - [[#chapter-9-the-question-of-the-powders][Chapter 9 The Question of the Powders]]
+  - [[#chapter-10-one-enemy-vs-twenty-five-millions-of-friends][Chapter 10 One Enemy Vs Twenty-Five Millions of Friends]]
+  - [[#chapter-11-florida-and-texas][Chapter 11 Florida and Texas]]
+  - [[#chapter-12-urbi-et-orbi][Chapter 12 Urbi et Orbi]]
+  - [[#chapter-13-stones-hill][Chapter 13 Stones Hill]]
+  - [[#chapter-14-pickaxe-and-trowel][Chapter 14 Pickaxe and Trowel]]
+  - [[#chapter-15-the-fete-of-the-casting][Chapter 15 The Fete of the Casting]]
+  - [[#chapter-16-the-columbiad][Chapter 16 The Columbiad]]
+  - [[#chapter-17-a-telegraphic-dispatch][Chapter 17 A Telegraphic Dispatch]]
+  - [[#chapter-18-the-passenger-of-the-atlanta][Chapter 18 The Passenger of the Atlanta]]
+  - [[#chapter-19-a-monster-meeting][Chapter 19 A Monster Meeting]]
+  - [[#chapter-20-attack-and-riposte][Chapter 20 Attack and Riposte]]
+  - [[#chapter-21-how-a-frenchman-manages-an-affair][Chapter 21 How A Frenchman Manages An Affair]]
+  - [[#chapter-22-the-new-citizen-of-the-united-states][Chapter 22 The New Citizen of the United States]]
+  - [[#chapter-23-the-projectile-vehicle][Chapter 23 The Projectile-Vehicle]]
+  - [[#chapter-24-the-telescope-of-the-rocky-mountains][Chapter 24 The Telescope of the Rocky Mountains]]
+  - [[#chapter-25-final-details][Chapter 25 Final Details]]
+  - [[#chapter-26-fire][Chapter 26 Fire!]]
+  - [[#chapter-27-foul-weather][Chapter 27 Foul Weather]]
+  - [[#chapter-28-a-new-star][Chapter 28 A New Star]]
+:END:
 * From the Earth to the Moon
 ** Jules Verne
    *Published:* 1865
@@ -135,7 +172,7 @@
    profit by it. American susceptibility is fast declining, and we are all going to the dogs."
 
    "It is too true," replied J. T. Maston, with fresh violence; "there are a thousand grounds for fighting, and yet we
-   don't fight. We save up our arms and legs for the benefit of nations who don't know what to do with them! But stop - 
+   don't fight. We save up our arms and legs for the benefit of nations who don't know what to do with them! But stop -
    without going out of one's way to find a cause for war -  did not North America once belong to the English?"
 
    "Undoubtedly," replied Tom Hunter, stamping his crutch with fury.
@@ -348,7 +385,7 @@
    resplendent orb, kissed their hands, called her by all kinds of endearing names. Between eight o'clock and midnight one
    optician in Jones'-Fall Street made his fortune by the sale of opera-glasses.
 
-   Midnight arrived, and the enthusiasm showed no signs of diminution. It spread equally among all classes of citizens - 
+   Midnight arrived, and the enthusiasm showed no signs of diminution. It spread equally among all classes of citizens -
    men of science, shopkeepers, merchants, porters, chair-men, as well as "greenhorns," were stirred in their innermost
    fibres. A national enterprise was at stake. The whole city, high and low, the quays bordering the Patapsco, the ships
    lying in the basins, disgorged a crowd drunk with joy, gin, and whisky. Every one chattered, argued, discussed,
@@ -409,7 +446,7 @@
    name of the members of the Baltimore Gun Club, our staff was immediately called together, and it was judged expedient to
    reply as follows:
 
-   The questions which have been proposed to it are these - 
+   The questions which have been proposed to it are these -
 
    "1. Is it possible to transmit a projectile up to the moon?
 
@@ -489,7 +526,7 @@
 
    These are our answers to the questions proposed to the Observatory of Cambridge by the members of the Gun Club:
 
-   To sum up - 
+   To sum up -
 
    1st. The cannon ought to be planted in a country situated between 0@ and 28@ of N. or S. lat.
 

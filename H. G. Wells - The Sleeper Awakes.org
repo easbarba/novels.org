@@ -1,3 +1,37 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-sleeper-awakes][The Sleeper Awakes]]
+  - [[#h-g-wells][H. G. Wells]]
+  - [[#chapter-1-insomnia][Chapter 1 INSOMNIA]]
+  - [[#chapter-2-the-trance][Chapter 2 THE TRANCE]]
+  - [[#chapter-3-the-awakening][Chapter 3 THE AWAKENING]]
+  - [[#chapter-4-the-sound-of-a-tumult][Chapter 4 THE SOUND OF A TUMULT]]
+  - [[#chapter-5-the-moving-ways][Chapter 5 THE MOVING WAYS]]
+  - [[#chapter-6-the-hall-of-the-atlas][Chapter 6 THE HALL OF THE ATLAS]]
+  - [[#chapter-7-in-the-silent-rooms][Chapter 7 IN THE SILENT ROOMS]]
+  - [[#chapter-8-the-roof-spaces][Chapter 8 THE ROOF SPACES]]
+  - [[#chapter-9-the-people-march][Chapter 9 THE PEOPLE MARCH]]
+  - [[#chapter-10-the-battle-of-the-darkness][Chapter 10 THE BATTLE OF THE DARKNESS]]
+  - [[#chapter-11-the-old-man-who-knew-everything][Chapter 11 THE OLD MAN WHO KNEW EVERYTHING]]
+  - [[#chapter-12-ostrog][Chapter 12 OSTROG]]
+  - [[#chapter-13-the-end-of-the-old-order][Chapter 13 THE END OF THE OLD ORDER]]
+  - [[#chapter-14-from-the-crows-nest][Chapter 14 FROM THE CROW'S NEST]]
+  - [[#chapter-15-prominent-people][Chapter 15 PROMINENT PEOPLE]]
+  - [[#chapter-16-the-monoplane][Chapter 16 THE MONOPLANE]]
+  - [[#chapter-17-three-days][Chapter 17 THREE DAYS]]
+  - [[#chapter-18-graham-remembers][Chapter 18 GRAHAM REMEMBERS]]
+  - [[#chapter-19-ostrogs-point-of-view][Chapter 19 OSTROG'S POINT OF VIEW]]
+  - [[#chapter-20-in-the-city-ways][Chapter 20 IN THE CITY WAYS]]
+  - [[#chapter-21-the-under-side][Chapter 21 THE UNDER-SIDE]]
+  - [[#chapter-22-the-struggle-in-the-council-house][Chapter 22 THE STRUGGLE IN THE COUNCIL HOUSE]]
+  - [[#chapter-23-graham-speaks-his-word][Chapter 23 GRAHAM SPEAKS HIS WORD]]
+  - [[#chapter-24-while-the-aeroplanes-were-coming][Chapter 24 WHILE THE AEROPLANES WERE COMING]]
+  - [[#chapter-25-the-coming-of-the-aeroplanes][Chapter 25 THE COMING OF THE AEROPLANES]]
+:END:
 * The Sleeper Awakes
 ** H. G. Wells
    *Published:* 1910
@@ -1946,7 +1980,7 @@
    and he was in a brightly lit hall with a roaring multitude of people beneath his feet. The people! His people! A
    proscenium, a stage rushed up towards him, and his cable swept down to a circular aperture to the right of this. He felt
    he was travelling slower, and suddenly very much slower. He distinguished shouts of "Saved! The Master. He is safe!" The
-   stage rushed up towards him with rapidly diminishing swiftness. Then - 
+   stage rushed up towards him with rapidly diminishing swiftness. Then -
 
    He heard the man clinging behind him shout as if suddenly terrified, and this shout was echoed by a shout from below. He
    felt that he was no longer gliding along the cable but falling with it. There was a tumult of yells, screams, and cries.

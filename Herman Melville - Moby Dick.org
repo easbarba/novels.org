@@ -1,3 +1,147 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#moby-dick][Moby-Dick]]
+  - [[#herman-melville][Herman Melville]]
+  - [[#chapter-1-loomings][Chapter 1 Loomings]]
+  - [[#chapter-2-the-carpet-bag][Chapter 2 The Carpet-Bag]]
+  - [[#chapter-3-the-spouter-inn][Chapter 3 The Spouter-Inn]]
+  - [[#chapter-4-the-counterpane][Chapter 4 The Counterpane]]
+  - [[#chapter-5-breakfast][Chapter 5 Breakfast]]
+  - [[#chapter-6-the-street][Chapter 6 The Street]]
+  - [[#chapter-7-the-chapel][Chapter 7 The Chapel]]
+  - [[#chapter-8-the-pulpit][Chapter 8 The Pulpit]]
+  - [[#chapter-9-the-sermon][Chapter 9 The Sermon]]
+  - [[#chapter-10-a-bosom-friend][Chapter 10 A Bosom Friend]]
+  - [[#chapter-11-nightgown][Chapter 11 Nightgown]]
+  - [[#chapter-12-biographical][Chapter 12 Biographical]]
+  - [[#chapter-13-wheelbarrow][Chapter 13 Wheelbarrow]]
+  - [[#chapter-14-nantucket][Chapter 14 Nantucket]]
+  - [[#chapter-15-chowder][Chapter 15 Chowder]]
+  - [[#chapter-16-the-ship][Chapter 16 The Ship]]
+  - [[#chapter-17-the-ramadan][Chapter 17 The Ramadan]]
+  - [[#chapter-18-his-mark][Chapter 18 His Mark]]
+  - [[#chapter-19-the-prophet][Chapter 19 The Prophet]]
+  - [[#chapter-20-all-astir][Chapter 20 All Astir]]
+  - [[#chapter-21-going-aboard][Chapter 21 Going Aboard]]
+  - [[#chapter-22-merry-christmas][Chapter 22 Merry Christmas]]
+  - [[#chapter-23-the-lee-shore][Chapter 23 The Lee Shore]]
+  - [[#chapter-24-the-advocate][Chapter 24 The Advocate]]
+  - [[#chapter-25-postscript][Chapter 25 Postscript]]
+  - [[#chapter-26-knights-and-squires][Chapter 26 Knights and Squires]]
+  - [[#chapter-27-knights-and-squires][Chapter 27 Knights and Squires]]
+  - [[#chapter-28-ahab][Chapter 28 Ahab]]
+  - [[#chapter-29-enter-ahab-to-him-stubb][Chapter 29 Enter Ahab; to Him, Stubb]]
+  - [[#chapter-30-the-pipe][Chapter 30 The Pipe]]
+  - [[#chapter-31-queen-mab][Chapter 31 Queen Mab]]
+  - [[#chapter-32-cetology][Chapter 32 Cetology]]
+  - [[#chapter-33-the-specksynder][Chapter 33 The Specksynder]]
+  - [[#chapter-34-the-cabin-table][Chapter 34 The Cabin-Table]]
+  - [[#chapter-35-the-mast-head][Chapter 35 The Mast-Head]]
+  - [[#chapter-36-the-quarter-deck][Chapter 36 The Quarter-Deck]]
+  - [[#chapter-37-sunset][Chapter 37 Sunset]]
+  - [[#chapter-38-dusk][Chapter 38 Dusk]]
+  - [[#chapter-39-first-night-watch][Chapter 39 First Night Watch]]
+  - [[#chapter-40-midnight-forecastle][Chapter 40 Midnight, Forecastle]]
+  - [[#chapter-41-moby-dick][Chapter 41 Moby Dick]]
+  - [[#chapter-42-the-whiteness-of-the-whale][Chapter 42 The Whiteness of The Whale]]
+  - [[#chapter-43-hark][Chapter 43 Hark!]]
+  - [[#chapter-44-the-chart][Chapter 44 The Chart]]
+  - [[#chapter-45-the-affidavit][Chapter 45 The Affidavit]]
+  - [[#chapter-46-surmises][Chapter 46 Surmises]]
+  - [[#chapter-47-the-mat-maker][Chapter 47 The Mat-Maker]]
+  - [[#chapter-48-the-first-lowering][Chapter 48 The First Lowering]]
+  - [[#chapter-49-the-hyena][Chapter 49 The Hyena]]
+  - [[#chapter-50-ahabs-boat-and-crew-fedallah][Chapter 50 Ahab's Boat and Crew. Fedallah]]
+  - [[#chapter-51-the-spirit-spout][Chapter 51 The Spirit-Spout]]
+  - [[#chapter-52-the-albatross][Chapter 52 The Albatross]]
+  - [[#chapter-53-the-gam][Chapter 53 The Gam]]
+  - [[#chapter-54-the-town-hos-story][Chapter 54 The Town-Ho's Story]]
+  - [[#chapter-55-of-the-monstrous-pictures-of-whales][Chapter 55 Of the Monstrous Pictures of Whales]]
+  - [[#chapter-56-of-the-less-erroneous-pictures-of-whales-and-the-true-pictures-of-whaling-scenes][Chapter 56 Of the Less Erroneous Pictures of Whales and the True Pictures of Whaling Scenes]]
+  - [[#chapter-57-of-whales-in-paint-in-teeth-in-wood-in-sheet-iron-in-stone-in-mountains-in-stars][Chapter 57 Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in Stone; in Mountains; in Stars]]
+  - [[#chapter-58-brit][Chapter 58 Brit]]
+  - [[#chapter-59-squid][Chapter 59 Squid]]
+  - [[#chapter-60-the-line][Chapter 60 The Line]]
+  - [[#chapter-61-stubb-kills-a-whale][Chapter 61 Stubb Kills a Whale]]
+  - [[#chapter-62-the-dart][Chapter 62 The Dart]]
+  - [[#chapter-63-the-crotch][Chapter 63 The Crotch]]
+  - [[#chapter-64-stubbs-supper][Chapter 64 Stubb's Supper]]
+  - [[#chapter-65-the-whale-as-a-dish][Chapter 65 The Whale as a Dish]]
+  - [[#chapter-66-the-shark-massacre][Chapter 66 The Shark Massacre]]
+  - [[#chapter-67-cutting-in][Chapter 67 Cutting In]]
+  - [[#chapter-68-the-blanket][Chapter 68 The Blanket]]
+  - [[#chapter-69-the-funeral][Chapter 69 The Funeral]]
+  - [[#chapter-70-the-sphynx][Chapter 70 The Sphynx]]
+  - [[#chapter-71-the-jeroboams-story][Chapter 71 The Jeroboam's Story]]
+  - [[#chapter-72-the-monkey-rope][Chapter 72 The Monkey-Rope]]
+  - [[#chapter-73-stubb-and-flask-kill-a-right-whale-and-then-have-a-talk-over-him][Chapter 73 Stubb and Flask Kill a Right Whale; and Then Have a Talk Over Him]]
+  - [[#chapter-74-the-sperm-whales-head-----contrasted-view][Chapter 74 The Sperm Whale's Head  -  Contrasted View]]
+  - [[#chapter-75-the-right-whales-head-----contrasted-view][Chapter 75 The Right Whale's Head  -  Contrasted View]]
+  - [[#chapter-76-the-battering-ram][Chapter 76 The Battering-Ram]]
+  - [[#chapter-77-the-great-heidelburgh-tun][Chapter 77 The Great Heidelburgh Tun]]
+  - [[#chapter-78-cistern-and-buckets][Chapter 78 Cistern and Buckets]]
+  - [[#chapter-79-the-prairie][Chapter 79 The Prairie]]
+  - [[#chapter-80-the-nut][Chapter 80 The Nut]]
+  - [[#chapter-81-the-pequod-meets-the-virgin][Chapter 81 The Pequod Meets The Virgin]]
+  - [[#chapter-82-the-honor-and-glory-of-whaling][Chapter 82 The Honor and Glory of Whaling]]
+  - [[#chapter-83-jonah-historically-regarded][Chapter 83 Jonah Historically Regarded]]
+  - [[#chapter-84-pitchpoling][Chapter 84 Pitchpoling]]
+  - [[#chapter-85-the-fountain][Chapter 85 The Fountain]]
+  - [[#chapter-86-the-tail][Chapter 86 The Tail]]
+  - [[#chapter-87-the-great-armada][Chapter 87 The Great Armada]]
+  - [[#chapter-88-schools-and-schoolmasters][Chapter 88 Schools and Schoolmasters]]
+  - [[#chapter-89-fast-fish-and-loose-fish][Chapter 89 Fast-Fish and Loose-Fish]]
+  - [[#chapter-90-heads-or-tails][Chapter 90 Heads or Tails]]
+  - [[#chapter-91-the-pequod-meets-the-rose-bud][Chapter 91 The Pequod Meets the Rose-Bud]]
+  - [[#chapter-92-ambergris][Chapter 92 Ambergris]]
+  - [[#chapter-93-the-castaway][Chapter 93 The Castaway]]
+  - [[#chapter-94-a-squeeze-of-the-hand][Chapter 94 A Squeeze of the Hand]]
+  - [[#chapter-95-the-cassock][Chapter 95 The Cassock]]
+  - [[#chapter-96-the-try-works][Chapter 96 The Try-Works]]
+  - [[#chapter-97-the-lamp][Chapter 97 The Lamp]]
+  - [[#chapter-98-stowing-down-and-clearing-up][Chapter 98 Stowing Down and Clearing Up]]
+  - [[#chapter-99-the-doubloon][Chapter 99 The Doubloon]]
+  - [[#chapter-100-leg-and-arm][Chapter 100 Leg and Arm]]
+  - [[#chapter-101-the-decanter][Chapter 101 The Decanter]]
+  - [[#chapter-102-a-bower-in-the-arsacides][Chapter 102 A Bower in the Arsacides]]
+  - [[#chapter-103-measurement-of-the-whales-skeleton][Chapter 103 Measurement of The Whale's Skeleton]]
+  - [[#chapter-104-the-fossil-whale][Chapter 104 The Fossil Whale]]
+  - [[#chapter-105-does-the-whales-magnitude-diminish-----will-he-perish][Chapter 105 Does the Whale's Magnitude Diminish?  -  Will He Perish?]]
+  - [[#chapter-106-ahabs-leg][Chapter 106 Ahab's Leg]]
+  - [[#chapter-107-the-carpenter][Chapter 107 The Carpenter]]
+  - [[#chapter-108-ahab-and-the-carpenter][Chapter 108 Ahab and the Carpenter]]
+  - [[#chapter-109-ahab-and-starbuck-in-the-cabin][Chapter 109 Ahab and Starbuck in the Cabin]]
+  - [[#chapter-110-queequeg-in-his-coffin][Chapter 110 Queequeg in His Coffin]]
+  - [[#chapter-111-the-pacific][Chapter 111 The Pacific]]
+  - [[#chapter-112-the-blacksmith][Chapter 112 The Blacksmith]]
+  - [[#chapter-113-the-forge][Chapter 113 The Forge]]
+  - [[#chapter-114-the-gilder][Chapter 114 The Gilder]]
+  - [[#chapter-115-the-pequod-meets-the-bachelor][Chapter 115 The Pequod Meets The Bachelor]]
+  - [[#chapter-116-the-dying-whale][Chapter 116 The Dying Whale]]
+  - [[#chapter-117-the-whale-watch][Chapter 117 The Whale Watch]]
+  - [[#chapter-118-the-quadrant][Chapter 118 The Quadrant]]
+  - [[#chapter-119-the-candles][Chapter 119 The Candles]]
+  - [[#chapter-120-the-deck-toward-the-end-of-the-first-night-watch][Chapter 120 The Deck Toward the End of the First Night Watch]]
+  - [[#chapter-121-midnight-----the-forecastle-bulwarks][Chapter 121 Midnight  -  The Forecastle Bulwarks]]
+  - [[#chapter-122-midnight-aloft---thunder-and-lightning][Chapter 122 Midnight Aloft. - Thunder and Lightning]]
+  - [[#chapter-123-the-musket][Chapter 123 The Musket]]
+  - [[#chapter-124-the-needle][Chapter 124 The Needle]]
+  - [[#chapter-125-the-log-and-line][Chapter 125 The Log and Line]]
+  - [[#chapter-126-the-life-buoy][Chapter 126 The Life-Buoy]]
+  - [[#chapter-127-the-deck][Chapter 127 The Deck]]
+  - [[#chapter-128-the-pequod-meets-the-rachel][Chapter 128 The Pequod Meets the Rachel]]
+  - [[#chapter-129-the-cabin][Chapter 129 The Cabin]]
+  - [[#chapter-130-the-hat][Chapter 130 The Hat]]
+  - [[#chapter-131-the-pequod-meets-the-delight][Chapter 131 The Pequod Meets The Delight]]
+  - [[#chapter-132-the-symphony][Chapter 132 The Symphony]]
+  - [[#chapter-133-the-chase-----first-day][Chapter 133 The Chase  -  First Day]]
+  - [[#chapter-134-the-chase-----second-day][Chapter 134 The Chase  -  Second Day]]
+  - [[#chapter-135-the-chase-----third-day][Chapter 135 The Chase  -  Third Day]]
+:END:
 * Moby-Dick
 ** Herman Melville
    *Published:* 1851
@@ -875,7 +1019,7 @@
    voyage, it may as well be related that I, for one, had no idea of so doing. For my mind was made up to sail in no other
    than a Nantucket craft, because there was a fine, boisterous something about everything connected with that famous old
    island, which amazingly pleased me. Besides though New Bedford has of late been gradually monopolizing the business of
-   whaling, and though in this matter poor old Nantucket is now much behind her, yet Nantucket was her great original - 
+   whaling, and though in this matter poor old Nantucket is now much behind her, yet Nantucket was her great original -
    the Tyre of this Carthage; - the place where the first dead American whale was stranded. Where else but from Nantucket
    did those aboriginal whalemen, the Red-Men, first sally out in canoes to give chase to the Leviathan? And where but from
    Nantucket, too, did that first adventurous little sloop put forth, partly laden with imported cobblestones - so goes the
@@ -1240,7 +1384,7 @@
    Seas; and perhaps the sun there produced these extraordinary effects upon the skin. Now, while all these ideas were
    passing through me like lightning, this harpooneer never noticed me at all. But, after some difficulty having opened his
    bag, he commenced fumbling in it, and presently pulled out a sort of tomahawk, and a seal-skin wallet with the hair on.
-   Placing these on the old chest in the middle of the room, he then took the New Zealand head - a ghastly thing enough - 
+   Placing these on the old chest in the middle of the room, he then took the New Zealand head - a ghastly thing enough -
    and crammed it down into the bag. He now took off his hat -  a new beaver hat - when I came nigh singing out with fresh
    surprise. There was no hair on his head - none to speak of at least -  nothing but a small scalp-knot twisted up on his
    forehead. His bald purplish head now looked for all the world like a mildewed skull. Had not the stranger stood between
@@ -1700,7 +1844,7 @@
    But high above the flying scud and dark-rolling clouds, there floated a little isle of sunlight, from which beamed forth
    an angel's face; and this bright face shed a distant spot of radiance upon the ship's tossed deck, something like that
    silver plate now inserted into the Victory's plank where Nelson fell. “Ah, noble ship,” the angel seemed to say, “beat
-   on, beat on, thou noble ship, and bear a hardy helm; for lo! the sun is breaking through; the clouds are rolling off - 
+   on, beat on, thou noble ship, and bear a hardy helm; for lo! the sun is breaking through; the clouds are rolling off -
    serenest azure is at hand.”
 
    Nor was the pulpit itself without a trace of the same sea-taste that had achieved the ladder and the picture. Its
@@ -1725,7 +1869,7 @@
 
    This ended, in prolonged solemn tones, like the continual tolling of a bell in a ship that is foundering at sea in a
    fog -  in such tones he commenced reading the following hymn; but changing his manner towards the concluding stanzas,
-   burst forth with a pealing exultation and joy - 
+   burst forth with a pealing exultation and joy -
 
    The ribs and terrors in the whale,
 
@@ -1739,7 +1883,7 @@
 
    With endless pains and sorrows there;
 
-   Which none but they that feel can tell - 
+   Which none but they that feel can tell -
 
    Oh, I was plunging to despair.
 
@@ -1747,7 +1891,7 @@
 
    When I could scarce believe him mine,
 
-   He bowed his ear to my complaints - 
+   He bowed his ear to my complaints -
 
    No more the whale did me confine.
 
@@ -2027,7 +2171,7 @@
    I was a good Christian; born and bred in the bosom of the infallible Presbyterian Church. How then could I unite with
    this wild idolator in worshipping his piece of wood? But what is worship? thought I. Do you suppose now, Ishmael, that
    the magnanimous God of heaven and earth - pagans and all included - can possibly be jealous of an insignificant bit of
-   black wood? Impossible! But what is worship? -  to do the will of God? that is worship. And what is the will of God? - 
+   black wood? Impossible! But what is worship? -  to do the will of God? that is worship. And what is the will of God? -
    to do to my fellow man what I would have my fellow man to do to me -  that is the will of God. Now, Queequeg is my
    fellow man. And what do I wish that this Queequeg would do to me? Why, unite with me in my particular Presbyterian form
    of worship. Consequently, I must then unite with him in his; ergo, I must turn idolator. So I kindled the shavings;
@@ -2143,7 +2287,7 @@
 
    We borrowed a wheelbarrow, and embarking our things, including my own poor carpet-bag, and Queequeg's canvas sack and
    hammock, away we went down to “the Moss,” the little Nantucket packet schooner moored at the wharf. As we were going
-   along the people stared; not at Queequeg so much -  for they were used to seeing cannibals like him in their streets, - 
+   along the people stared; not at Queequeg so much -  for they were used to seeing cannibals like him in their streets, -
    but at seeing him and me upon such confidential terms. But we heeded them not, going along wheeling the barrow by turns,
    and Queequeg now and then stopping to adjust the sheath on his harpoon barbs. I asked him why he carried such a
    troublesome thing with him ashore, and whether all whaling ships did not find their own harpoons. To this, in substance,
@@ -2161,7 +2305,7 @@
    Upon this, he told me another story. The people of his island of Rokovoko, it seems, at their wedding feasts express the
    fragrant water of young cocoanuts into a large stained calabash like a punchbowl; and this punchbowl always forms the
    great central ornament on the braided mat where the feast is held. Now a certain grand merchant ship once touched at
-   Rokovoko, and its commander - from all accounts, a very stately punctilious gentleman, at least for a sea captain - 
+   Rokovoko, and its commander - from all accounts, a very stately punctilious gentleman, at least for a sea captain -
    this commander was invited to the wedding feast of Queequeg's sister, a pretty young princess just turned of ten. Well;
    when all the wedding guests were assembled at the bride's bamboo cottage, this Captain marches in, and being assigned
    the post of honor, placed himself over against the punchbowl, and between the High Priest and his majesty the King,
@@ -2733,7 +2877,7 @@
    good man - not a pious, good man, like Bildad, but a swearing good man - something like me - only there's a good deal
    more of him. Aye, aye, I know that he was never very jolly; and I know that on the passage home he was a little out of
    his mind for a spell; but it was the sharp shooting pains in his bleeding stump that brought that about, as any one
-   might see. I know, too, that ever since he lost his leg last voyage by that accursed whale, he's been a kind of moody - 
+   might see. I know, too, that ever since he lost his leg last voyage by that accursed whale, he's been a kind of moody -
    desperate moody, and savage sometimes; but that will all pass off. And once for all, let me tell thee and assure thee,
    young man, it's better to sail with a moody good captain than a laughing bad one. So good-bye to thee - and wrong not
    Captain Ahab, because he happens to have a wicked name. Besides, my boy, he has a wife - not three voyages wedded - a
@@ -2946,14 +3090,14 @@
 
    “Splice, thou mean'st splice hands,” cried Peleg, drawing nearer. “Young man, you'd better ship for a missionary,
    instead of a fore-mast hand; I never heard a better sermon. Deacon Deuteronomy - why Father Mapple himself couldn't beat
-   it, and he's reckoned something. Come aboard, come aboard: never mind about the papers. I say, tell Quohog there - 
+   it, and he's reckoned something. Come aboard, come aboard: never mind about the papers. I say, tell Quohog there -
    what's that you call him? tell Quohog to step along. By the great anchor, what a harpoon he's got there! looks like good
    stuff that; and he handles it about right. I say, Quohog, or whatever your name is, did you ever stand in the head of a
    whale-boat? did you ever strike a fish?”
 
    Without saying a word, Queequeg, in his wild sort of way, jumped upon the bulwarks, from thence into the bows of one of
    the whale-boats hanging to the side; and then bracing his left knee, and poising his harpoon, cried out in some such way
-   as this: - 
+   as this: -
 
    “Cap'ain, you see him small drop tar on water dere? You see him? well, spose him one whale eye, well, den!” and taking
    sharp aim at it, he darted the iron right over old Bildad's broad brim, clean across the ship's decks, and struck the
@@ -2975,7 +3119,7 @@
    But at this question, Queequeg, who had twice or thrice before taken part in similar ceremonies, looked no ways abashed;
    but taking the offered pen, copied upon the paper, in the proper place, an exact counterpart of a queer round figure
    which was tattooed upon his arm; so that through Captain Peleg's obstinate mistake touching his appellative, it stood
-   something like this: - 
+   something like this: -
 
    Quohog.
 
@@ -3358,7 +3502,7 @@
    tusks of some huge elephant, vast curving icicles depended from the bows.
 
    Lank Bildad, as pilot, headed the first watch, and ever and anon, as the old craft deep dived into the green seas, and
-   sent the shivering frost all over her, and the winds howled, and the cordage rang, his steady notes were heard, - 
+   sent the shivering frost all over her, and the winds howled, and the cordage rang, his steady notes were heard, -
 
    “Sweet fields beyond the swelling flood,
 
@@ -3925,7 +4069,7 @@
    fifty times more savage to bear than a blow from a cane. The living member -  that makes the living insult, my little
    man. And thinks I to myself all the while, mind, while I was stubbing my silly toes against that cursed pyramid - so
    confoundedly contradictory was it all, all the while, I say, I was thinking to myself, ‘what's his leg now, but a cane-.
-   a whale-bone cane. Yes,' thinks I, ‘it was only a playful cudgelling - in fact, only a whaleboning that he gave me - 
+   a whale-bone cane. Yes,' thinks I, ‘it was only a playful cudgelling - in fact, only a whaleboning that he gave me -
    not a base kick. Besides,' thinks I, ‘look at it once; why, the end of it - the foot part - what a small sort of end it
    is; whereas, if a broad footed farmer kicked me, there's a devilish broad insult. But this insult is whittled down to a
    point only.' But now comes the greatest joke of the dream, Flask. While I was battering away at the pyramid, a sort of
@@ -4470,7 +4614,7 @@
 
    In most American whalemen the mast-heads are manned almost simultaneously with the vessel's leaving her port; even
    though she may have fifteen thousand miles, and more, to sail ere reaching her proper cruising ground. And if, after a
-   three, four, or five years' voyage she is drawing nigh home with anything empty in her - say, an empty vial even - 
+   three, four, or five years' voyage she is drawing nigh home with anything empty in her - say, an empty vial even -
    then, her mast-heads are kept manned to the last! and not till her skysail-poles sail in among the spires of the port,
    does she altogether relinquish the hope of capturing one whale more.
 
@@ -4583,7 +4727,7 @@
    sperm the richer. Nor are these monitions at all unneeded. For nowadays, the whale-fishery furnishes an asylum for many
    romantic, melancholy, and absent-minded young men, disgusted with the corking care of earth, and seeking sentiment in
    tar and blubber. Childe Harold not unfrequently perches himself upon the mast-head of some luckless disappointed
-   whale-ship, and in moody phrase ejaculates: - 
+   whale-ship, and in moody phrase ejaculates: -
 
    “Roll on, thou deep and dark blue ocean, roll!
 
@@ -4647,7 +4791,7 @@
    and then darting his eyes among the crew, started from his standpoint; and as though not a soul were nigh him resumed
    his heavy turns upon the deck. With bent head and half-slouched hat he continued to pace, unmindful of the wondering
    whispering among the men; till Stubb cautiously whispered to Flask, that Ahab must have summoned them there for the
-   purpose of witnessing a pedestrian feat. But this did not last long. Vehemently pausing, he cried: - 
+   purpose of witnessing a pedestrian feat. But this did not last long. Vehemently pausing, he cried: -
 
    “What do ye do when ye see a whale, men?”
 
@@ -4669,7 +4813,7 @@
    such seemingly purposeless questions.
 
    But, they were all eagerness again, as Ahab, now half-revolving in his pivot-hole, with one hand reaching high up a
-   shroud, and tightly, almost convulsively grasping it, addressed them thus: - 
+   shroud, and tightly, almost convulsively grasping it, addressed them thus: -
 
    “All ye mast-headers have before now heard me give orders about a white whale. Look ye! d'ye see this Spanish ounce of
    gold?” - holding up a broad bright coin to the sun - “it is a sixteen dollar piece, men. D'ye see it? Mr. Starbuck, hand
@@ -4708,7 +4852,7 @@
 
    “Corkscrew!” cried Ahab, “aye, Queequeg, the harpoons lie all twisted and wrenched in him; aye, Daggoo, his spout is a
    big one, like a whole shock of wheat, and white as a pile of our Nantucket wool after the great annual sheep-shearing;
-   aye, Tashtego, and he fan-tails like a split jib in a squall. Death and devils! men, it is Moby Dick ye have seen - 
+   aye, Tashtego, and he fan-tails like a split jib in a squall. Death and devils! men, it is Moby Dick ye have seen -
    Moby Dick - Moby Dick!”
 
    “Captain Ahab,” said Starbuck, who, with Stubb and Flask, had thus far been eyeing his superior with increasing
@@ -4894,7 +5038,7 @@
    wise Stubb -  that's my title - well, Stubb, what of it, Stubb? Here's a carcase. I know not all that may be coming, but
    be it what it will, I'll go to it laughing. Such a waggish leering as lurks in all your horribles! I feel funny. Fa, la!
    lirra, skirra! What's my juicy little pear at home doing now? Crying its eyes out? -  Giving a party to the last arrived
-   harpooneers, I dare say, gay as a frigate's pennant, and so am I - fa, la! lirra, skirra! Oh - 
+   harpooneers, I dare say, gay as a frigate's pennant, and so am I - fa, la! lirra, skirra! Oh -
 
    We'll drink to-night with hearts as light,
 
@@ -4918,7 +5062,7 @@
 
    Farewell and adieu to you, ladies of Spain!
 
-   Our captain's commanded. - 
+   Our captain's commanded. -
 
    1st Nantucket sailor
 
@@ -5044,7 +5188,7 @@
    Maltese sailor (Reclining and shaking his cap)
 
    It's the waves - the snow's caps turn to jig it now. They'll shake their tassels soon. Now would all the waves were
-   women, then I'd go drown, and chassee with them evermore! There's naught so sweet on earth - heaven may not match it! - 
+   women, then I'd go drown, and chassee with them evermore! There's naught so sweet on earth - heaven may not match it! -
    as those swift glances of warm, wild bosoms in the dance, when the over-arboring arms hide such ripe, bursting grapes.
 
    Sicilian sailor (Reclining)
@@ -5555,7 +5699,7 @@
    But thou sayest, methinks this white-lead chapter about whiteness is but a white flag hung out from a craven soul; thou
    surrenderest to a hypo, Ishmael.
 
-   Tell me, why this strong young colt, foaled in some peaceful valley of Vermont, far removed from all beasts of prey - 
+   Tell me, why this strong young colt, foaled in some peaceful valley of Vermont, far removed from all beasts of prey -
    why is it that upon the sunniest day, if you but shake a fresh buffalo robe behind him, so that he cannot even see it,
    but only smells its wild animal muskiness - why will he start, snort, and with bursting eyes paw the ground in phrensies
    of affright? There is no remembrance in him of any gorings of wild creatures in his green northern home, so that the
@@ -5765,7 +5909,7 @@
    entire subject may induce in some minds, as to the natural verity of the main points of this affair.
 
    I care not to perform this part of my task methodically; but shall be content to produce the desired impression by
-   separate citations of items, practically or reliably known to me as a whaleman; and from these citations, I take it - 
+   separate citations of items, practically or reliably known to me as a whaleman; and from these citations, I take it -
    the conclusion aimed at will naturally follow of itself.
 
    First: I have personally known three instances where a whale, after receiving a harpoon, has effected a complete escape;
@@ -6253,7 +6397,7 @@
 
    “Look at that chap now,” philosophically drawled Stubb, who, with his unlighted short pipe, mechanically retained
    between his teeth, at a short distance, followed after - “He's got fits, that Flask has. Fits? yes, give him
-   fits - that's the very word - pitch fits into 'em. Merrily, merrily, hearts-alive. Pudding for supper, you know; - 
+   fits - that's the very word - pitch fits into 'em. Merrily, merrily, hearts-alive. Pudding for supper, you know; -
    merry's the word. Pull, babes - pull, sucklings - pull, all. But what the devil are you hurrying about? Softly, softly,
    and steadily, my men. Only pull, and keep pulling; nothing more. Crack all your backbones, and bite your knives in
    two - that's all. Take it easy - why don't ye take it easy, I say, and burst all your livers and lungs!”
@@ -6914,7 +7058,7 @@
    the most barbaric seas.
 
    “‘I see! I see!' impetuously exclaimed Don Pedro, spilling his chicha upon his silvery ruffles. ‘No need to travel! The
-   world's one Lima. I had thought, now, that at your temperate North the generations were cold and holy as the hills. - 
+   world's one Lima. I had thought, now, that at your temperate North the generations were cold and holy as the hills. -
    But the story.'
 
    “I had left off, gentlemen, where the Lakeman shook the backstay. Hardly had he done so, when he was surrounded by the
@@ -7762,7 +7906,7 @@
 
    “Start her, start her, my men! Don't hurry yourselves; take plenty of time - but start her; start her like
    thunder-claps, that's all,” cried Stubb, spluttering out the smoke as he spoke. “Start her, now; give 'em the long and
-   strong stroke, Tashtego. Start her, Tash, my boy -  start her, all; but keep cool, keep cool - cucumbers is the word - 
+   strong stroke, Tashtego. Start her, Tash, my boy -  start her, all; but keep cool, keep cool - cucumbers is the word -
    easy, easy - only start her like grim death and grinning devils, and raise the buried dead perpendicular out of their
    graves, boys -  that's all. Start her!”
 
@@ -8001,7 +8145,7 @@
 
    No, Cook; go on, go on.”
 
-   “Well, den, Belubed fellow-critters:” - 
+   “Well, den, Belubed fellow-critters:” -
 
    “Right!” exclaimed Stubb, approvingly, “coax 'em to it, try that,” and Fleece continued.
 
@@ -8030,7 +8174,7 @@
 
    “Upon my soul, I am about of the same opinion; so give the benediction, Fleece, and I'll away to my supper.”
 
-   Upon this, Fleece, holding both hands over the fishy mob, raised his shrill voice, and cried - 
+   Upon this, Fleece, holding both hands over the fishy mob, raised his shrill voice, and cried -
 
    “Cussed fellow-critters! Kick up de damndest row as ever you can; fill your dam bellies ‘till dey bust - and den die.”
 
@@ -9400,7 +9544,7 @@
 
    “I tell ye what it is, men” - cried Stubb to his crew - It's against my religion to get mad; but I'd like to eat that
    villainous Yarman - Pull -  won't ye? Are ye going to let that rascal beat ye? Do ye love brandy? A hogshead of brandy,
-   then, to the best man. Come, why don't some of ye burst a blood-vessel? Who's that been dropping an anchor overboard - 
+   then, to the best man. Come, why don't some of ye burst a blood-vessel? Who's that been dropping an anchor overboard -
    we don't budge an inch - we're becalmed. Halloo, here's grass growing in the boat's bottom - and by the Lord, the mast
    there's budding. This won't do, boys. Look at that Yarman! The short and long of it is, men, will ye spit fire or not?”
 
@@ -10418,7 +10562,7 @@
    Now in the present case Erskine contended that the examples of the whale and the lady were reciprocally illustrative of
    each other.
 
-   These pleadings, and the counter pleadings, being duly heard, the very learned Judge in set terms decided, to wit, - 
+   These pleadings, and the counter pleadings, being duly heard, the very learned Judge in set terms decided, to wit, -
    That as for the boat, he awarded it to the plaintiffs, because they had merely abandoned it to save their lives; but
    that with regard to the controverted whale, harpoons, and line, they belonged to the defendants; the whale, because it
    was a Loose-Fish at the time of the final capture; and the harpoons and line because when the fish made off with them,
@@ -11242,7 +11386,7 @@
 
    Before this equatorial coin, Ahab, not unobserved by others, was now pausing.
 
-   “There's something ever egotistical in mountain-tops and towers, and all other grand and lofty things; look here, - 
+   “There's something ever egotistical in mountain-tops and towers, and all other grand and lofty things; look here, -
    three peaks as proud as Lucifer. The firm tower, that is Ahab; the volcano, that is Ahab; the courageous, the undaunted,
    and victorious fowl, that, too, is Ahab; all are Ahab; and this round gold is but the image of the rounder globe, which,
    like a magician's glass, to each and every man in turn but mirrors back his own mysterious self. Great pains, small
@@ -11386,7 +11530,7 @@
    heightened by the sight of the two officers of the strange ship, leaning over the side, by the perpendicular ladder of
    nailed cleets there, and swinging towards him a pair of tastefully-ornamented man-ropes; for at first they did not seem
    to bethink them that a one-legged man must be too much of a cripple to use their sea bannisters. But this awkwardness
-   only lasted a minute, because the strange captain, observing at a glance how affairs stood, cried out, “I see, I see! - 
+   only lasted a minute, because the strange captain, observing at a glance how affairs stood, cried out, “I see, I see! -
    avast heaving there! Jump, boys, and swing over the cutting-tackle.”
 
    As good luck would have it, they had had a whale alongside a day or two previous, and the great tackles were still
@@ -11396,7 +11540,7 @@
    time also helped to hoist his own weight, by pulling hand-over-hand upon one of the running parts of the tackle. Soon he
    was carefully swung inside the high bulwarks, and gently landed upon the capstan head. With his ivory arm frankly thrust
    forth in welcome, the other captain advanced, and Ahab, putting out his ivory leg, and crossing the ivory arm (like two
-   sword-fish blades) cried out in his walrus way, “Aye, aye, hearty! let us shake bones together! - an arm and a leg! - 
+   sword-fish blades) cried out in his walrus way, “Aye, aye, hearty! let us shake bones together! - an arm and a leg! -
    an arm that never can shrink, d'ye see; and a leg that never can run. Where did'st thou see the White Whale? - how long
    ago?”
 
@@ -11575,7 +11719,7 @@
 
    The ship named after him was worthy of the honor, being a very fast sailer and a noble craft every way. I boarded her
    once at midnight somewhere off the Patagonian coast, and drank good flip down in the forecastle. It was a fine gam we
-   had, and they were all trumps - every soul on board. A short life to them, and a jolly death. And that fine gam I had - 
+   had, and they were all trumps - every soul on board. A short life to them, and a jolly death. And that fine gam I had -
    long, very long after old Ahab touched her planks with his ivory heel -  it minds me of the noble, solid, Saxon
    hospitality of that ship; and may my parson forget me, and the devil remember me, if I ever lose sight of it. Flip? Did
    I say we had flip? Yes, and we flipped it at the rate of ten gallons the hour; and when the squall came (for it's
@@ -12445,7 +12589,7 @@
    there? - Hark! he speaks again; but more wildly now.”
 
    “Form two and two! Let's make a General of him! Ho, where's his harpoon? Lay it across here. - Rig-a-dig, dig, dig!
-   huzza! Oh for a game cock now to sit upon his head and crow! Queequeg dies game! - mind ye that; Queequeg dies game! - 
+   huzza! Oh for a game cock now to sit upon his head and crow! Queequeg dies game! - mind ye that; Queequeg dies game! -
    take ye good heed of that; Queequeg dies game! I say; game, game, game! but base little Pip, he died a coward; died all
    a'shiver; - out upon Pip! Hark ye; if ye find Pip, tell all the Antilles he's a runaway; a coward, a coward, a coward!
    Tell them he jumped from a whale-boat! I'd never beat my tambourine over base Pip, and hail him General, if he were once
@@ -12709,12 +12853,12 @@
    those orphans whose unwedded mothers die in bearing them: the secret of our paternity lies in their grave, and we must
    there to learn it.
 
-   And that same day, too, gazing far down from his boat's side into that same golden sea, Starbuck lowly murmured: - 
+   And that same day, too, gazing far down from his boat's side into that same golden sea, Starbuck lowly murmured: -
 
    “Loveliness unfathomable, as ever lover saw in his young bride's eyes! -  Tell me not of thy teeth-tiered sharks, and
    thy kidnapping cannibal ways. Let faith oust fact; let fancy oust memory; I look deep down and do believe.”
 
-   And Stubb, fish-like, with sparkling scales, leaped up in that same golden light: - 
+   And Stubb, fish-like, with sparkling scales, leaped up in that same golden light: -
 
    “I am Stubb, and Stubb has his history; but here Stubb takes oaths that he has always been jolly!”
 
@@ -12855,7 +12999,7 @@
 
    “And when thou art so gone before - if that ever befall - then ere
 
-   I can follow, thou must still appear to me, to pilot me still? - 
+   I can follow, thou must still appear to me, to pilot me still? -
 
    Was it not so? Well, then, did I believe all ye say, oh my pilot!
 
@@ -12954,7 +13098,7 @@
 
    And a joker is the whale,
 
-   A' flourishin' his tail, - 
+   A' flourishin' his tail, -
 
    Such a funny, sporty, gamy, jesty, joky, hoky-poky
 
@@ -12964,7 +13108,7 @@
 
    That's his flip only foamin';
 
-   When he stirs in the spicin', - 
+   When he stirs in the spicin', -
 
    Such a funny, sporty, gamy, jesty, joky, hoky-poky
 
@@ -12974,7 +13118,7 @@
 
    But he only smacks his lips,
 
-   A tastin' of this flip, - 
+   A tastin' of this flip, -
 
    Such a funny, sporty, gamy, jesty, joky, hoky-poky
 
@@ -13124,7 +13268,7 @@
    moment all the aghast mate's thoughts seemed theirs; they raised a half mutinous cry. But dashing the rattling lightning
    links to the deck, and snatching the burning harpoon, Ahab waved it like a torch among them; swearing to transfix with
    it the first sailor that but cast loose a rope's end. Petrified by his aspect, and still more shrinking from the fiery
-   dart that he held, the men fell back in dismay, and Ahab again spoke: - 
+   dart that he held, the men fell back in dismay, and Ahab again spoke: -
 
    “All your oaths to hunt the White Whale are as binding as mine; and heart, soul, and body, lungs and life, old Ahab is
    bound. And that ye may know to what tune this heart beats: look ye here; thus I blow out the last fear!” And with one
@@ -13606,7 +13750,7 @@
    “Sing, sir? Do I sing? Oh, I'm indifferent enough, sir, for that; but the reason why the grave-digger made music must
    have been because there was none in his spade, sir. But the caulking mallet is full of it. Hark to it.”
 
-   “Aye, and that's because the lid there's a sounding-board; and what in all things makes the sounding-board is this - 
+   “Aye, and that's because the lid there's a sounding-board; and what in all things makes the sounding-board is this -
    there's naught beneath. And yet, a coffin with a body in it rings pretty much the same, Carpenter. Hast thou ever helped
    carry a bier, and heard the coffin knock against the churchyard gate, going in?
 
@@ -13990,7 +14134,7 @@
    Ahab now? Behold. Oh, Starbuck! is it not hard, that with this weary load I bear, one poor leg should have been snatched
    from under me? Here, brush this old hair aside; it blinds me, that I seem to weep. Locks so grey did never grow but from
    out some ashes! But do I look very old, so very, very old, Starbuck? I feel deadly faint, bowed, and humped, as though I
-   were Adam, staggering beneath the piled centuries since Paradise. God! God! God! - crack my heart! - stave my brain! - 
+   were Adam, staggering beneath the piled centuries since Paradise. God! God! God! - crack my heart! - stave my brain! -
    mockery! mockery! bitter, biting mockery of grey hairs, have I lived enough joy to wear ye; and seem and feel thus
    intolerably old? Close! stand close to me, Starbuck; let me look into a human eye; it is better than to gaze into sea or
    sky; better than to gaze upon God. By the green land; by the bright hearthstone! this is the magic glass, man; I see my
@@ -14499,7 +14643,7 @@
 
    “And as mechanical,” muttered Ahab. Then as the men went forward, he muttered on: “The things called omens! And
    yesterday I talked the same to Starbuck there, concerning my broken boat. Oh! how valiantly I seek to drive out of
-   others' hearts what's clinched so fast in mine! -  The Parsee - the Parsee! - gone, gone? and he was to go before: - 
+   others' hearts what's clinched so fast in mine! -  The Parsee - the Parsee! - gone, gone? and he was to go before: -
    but still was to be seen again ere I could perish - How's that? -  There's a riddle now might baffle all the lawyers
    backed by the ghosts of the whole line of judges: - like a hawk's beak it pecks my brain. I'll, I'll solve it, though!”
 
@@ -14523,7 +14667,7 @@
    the first of its throwing open to them, a fairer day could not dawn upon that world. Here's food for thought, had Ahab
    time to think; but Ahab never thinks; he only feels, feels, feels; that's tingling enough for mortal man! to think's
    audacity. God only has that right and privilege. Thinking is, or ought to be, a coolness and a calmness; and our poor
-   hearts throb, and our poor brains beat too much for that. And yet, I've sometimes thought my brain was very calm - 
+   hearts throb, and our poor brains beat too much for that. And yet, I've sometimes thought my brain was very calm -
    frozen calm, this old skull cracks so, like a glass in which the contents turned to ice, and shiver it. And still this
    hair is growing now; this moment growing, and heat must breed it; but no, it's like that sort of common grass that will
    grow anywhere, between the earthy clefts of Greenland ice or in Vesuvius lava. How the wild winds blow it; they whip it
@@ -14545,7 +14689,7 @@
    “Nothing, sir.”
 
    “Nothing! and noon at hand! The doubloon goes a-begging! See the sun! Aye, aye, it must be so. I've over-sailed him.
-   How, got the start? Aye, he's chasing me now; not I, him -  that's bad; I might have known it, too. Fool! the lines - 
+   How, got the start? Aye, he's chasing me now; not I, him -  that's bad; I might have known it, too. Fool! the lines -
    the harpoons he's towing. Aye, aye, I have run him by last night. About! about! Come down, all of ye, but the regular
    look outs! Man the braces!”
 

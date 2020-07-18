@@ -1,3 +1,28 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-lost-world][The Lost World]]
+  - [[#arthur-conan-doyle][Arthur Conan Doyle]]
+  - [[#chapter-1-there-are-heroisms-all-round-us][Chapter 1 There Are Heroisms All Round Us]]
+  - [[#chapter-2-try-your-luck-with-professor-challenger][Chapter 2 Try Your Luck with Professor Challenger]]
+  - [[#chapter-3-he-is-a-perfectly-impossible-person][Chapter 3 He is a Perfectly Impossible Person]]
+  - [[#chapter-4-its-just-the-very-biggest-thing-in-the-world][Chapter 4 It's Just the very Biggest Thing in the World]]
+  - [[#chapter-5-question][Chapter 5 Question!]]
+  - [[#chapter-6-i-was-the-flail-of-the-lord][Chapter 6 I was the Flail of the Lord]]
+  - [[#chapter-7-to-morrow-we-disappear-into-the-unknown][Chapter 7 To-morrow we Disappear into the Unknown]]
+  - [[#chapter-8-the-outlying-pickets-of-the-new-world][Chapter 8 The Outlying Pickets of the New World]]
+  - [[#chapter-9-who-could-have-foreseen-it][Chapter 9 Who could have Foreseen it?]]
+  - [[#chapter-10-the-most-wonderful-things-have-happened][Chapter 10 The most Wonderful Things have Happened]]
+  - [[#chapter-11-for-once-i-was-the-hero][Chapter 11 For once I was the Hero]]
+  - [[#chapter-12-it-was-dreadful-in-the-forest][Chapter 12 It was Dreadful in the Forest]]
+  - [[#chapter-13-a-sight-which-i-shall-never-forget][Chapter 13 A Sight which I shall Never Forget]]
+  - [[#chapter-14-those-were-the-real-conquests][Chapter 14 Those Were the Real Conquests]]
+  - [[#chapter-15-our-eyes-have-seen-great-wonders][Chapter 15 Our Eyes have seen Great Wonders]]
+  - [[#chapter-16-a-procession-a-procession][Chapter 16 A Procession! A Procession!]]
+:END:
 * The Lost World
 ** Arthur Conan Doyle
    *Published:* 1912
@@ -255,7 +280,7 @@
    striking Blundell."
 
    "I have a few notes for your guidance, Mr. Malone. I've had my eye on the Professor for some little time." He took a
-   paper from a drawer. "Here is a summary of his record. I give it you briefly: - 
+   paper from a drawer. "Here is a summary of his record. I give it you briefly: -
 
    "'Challenger, George Edward. Born: Largs, N. B., 1863. Educ.: Largs Academy; Edinburgh University. British Museum
    Assistant, 1892. Assistant-Keeper of Comparative Anthropology Department, 1893. Resigned after acrimonious
@@ -419,7 +444,7 @@
 
    My friend's fear or hope was not destined to be realized. When I called on Wednesday there was a letter with the West
    Kensington postmark upon it, and my name scrawled across the envelope in a handwriting which looked like a barbed-wire
-   railing. The contents were as follows: - 
+   railing. The contents were as follows: -
 
    "Enmore Park, W.
 
@@ -1792,7 +1817,7 @@
    Beyond the veranda was a small cleared garden, bounded with cactus hedges and adorned with clumps of flowering shrubs,
    round which the great blue butterflies and the tiny humming-birds fluttered and darted in crescents of sparkling light.
    Within we were seated round the cane table, on which lay a sealed envelope. Inscribed upon it, in the jagged handwriting
-   of Professor Challenger, were the words: - 
+   of Professor Challenger, were the words: -
 
    "Instructions to Lord John Roxton and party. To be opened at Manaos upon July 15th, at 12 o'clock precisely."
 
@@ -1831,7 +1856,7 @@
 
    The shadow of a squat figure had stolen across the patch of sunlight. That voice! That monstrous breadth of shoulder! We
    sprang to our feet with a gasp of astonishment as Challenger, in a round, boyish straw-hat with a colored
-   ribbon - Challenger, with his hands in his jacket-pockets and his canvas shoes daintily pointing as he walked - 
+   ribbon - Challenger, with his hands in his jacket-pockets and his canvas shoes daintily pointing as he walked -
    appeared in the open space before us. He threw back his head, and there he stood in the golden glow with all his old
    Assyrian luxuriance of beard, all his native insolence of drooping eyelids and intolerant eyes.
 

@@ -1,3 +1,17 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#tales-of-space-and-time][Tales of Space and Time]]
+  - [[#h-g-wells][H. G. Wells]]
+  - [[#part-1---the-crystal-egg][Part 1 - THE CRYSTAL EGG]]
+  - [[#part-2---the-star][Part 2 - THE STAR]]
+  - [[#part-3---a-story-of-the-stone-age][Part 3 - A STORY OF THE STONE AGE]]
+  - [[#part-4---a-story-of-the-days-to-come][Part 4 - A STORY OF THE DAYS TO COME]]
+  - [[#part-5---the-man-who-could-work-miracles][Part 5 - THE MAN WHO COULD WORK MIRACLES]]
+:END:
 * Tales of Space and Time
 ** H. G. Wells
    *Published:* 1900
@@ -3250,7 +3264,7 @@
     the stationary central way watching a vast kinematograph which displayed the changing fashion. The whole front of the
     building was in perpetual chromatic change, and all down the /façade/ - four hundred feet it measured - and all across
     the street of moving ways, laced and winked and glittered in a thousand varieties of colour and lettering the
-    inscription - 
+    inscription -
 
     Suzanna! 'ets! Suzanna! 'ets!
 
@@ -3345,7 +3359,7 @@
     "Looky - /now!/"
 
     On the /façade/ to the right a huge intensely bright disc of weird colour span incessantly, and letters of fire that
-    came and went spelt out - 
+    came and went spelt out -
 
     "Does this make you Giddy?"
 
@@ -4755,7 +4769,7 @@
    by persistent allusions to Winch. As he went on, the transient pride Mr. Maydig's consternation had caused passed away;
    he became the very ordinary Mr. Fotheringay of everyday intercourse again. Mr. Maydig listened intently, the tobacco-jar
    in his hand, and his bearing changed also with the course of the narrative. Presently, while Mr. Fotheringay was dealing
-   with the miracle of the third egg, the minister interrupted with a fluttering extended hand - 
+   with the miracle of the third egg, the minister interrupted with a fluttering extended hand -
 
    "It is possible," he said. "It is credible. It is amazing, of course, but it reconciles a number of amazing
    difficulties. The power to work miracles is a gift - a peculiar quality like genius or second sight - hitherto it has

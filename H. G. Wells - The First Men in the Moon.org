@@ -1,3 +1,38 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-first-men-in-the-moon][The First Men in the Moon]]
+  - [[#h-g-wells][H. G. Wells]]
+  - [[#chapter-1-mr-bedford-meets-mr-cavor-at-lympne][Chapter 1 Mr. Bedford Meets Mr. Cavor at Lympne]]
+  - [[#chapter-2-the-first-making-of-cavorite][Chapter 2 The First Making of Cavorite]]
+  - [[#chapter-3-the-building-of-the-sphere][Chapter 3 The Building of the Sphere]]
+  - [[#chapter-4-inside-the-sphere][Chapter 4 Inside the Sphere]]
+  - [[#chapter-5-the-journey-to-the-moon][Chapter 5 The Journey to the Moon]]
+  - [[#chapter-6-the-landing-on-the-moon][Chapter 6 The Landing on the Moon]]
+  - [[#chapter-7-sunrise-on-the-moon][Chapter 7 Sunrise on the Moon]]
+  - [[#chapter-8-a-lunar-morning][Chapter 8 A Lunar Morning]]
+  - [[#chapter-9-prospecting-begins][Chapter 9 Prospecting Begins]]
+  - [[#chapter-10-lost-men-in-the-moon][Chapter 10 Lost Men in the Moon]]
+  - [[#chapter-11-the-mooncalf-pastures][Chapter 11 The Mooncalf Pastures]]
+  - [[#chapter-12-the-selenites-face][Chapter 12 The Selenite's Face]]
+  - [[#chapter-13-mr-cavor-makes-some-suggestions][Chapter 13 Mr. Cavor Makes Some Suggestions]]
+  - [[#chapter-14-experiments-in-intercourse][Chapter 14 Experiments in Intercourse]]
+  - [[#chapter-15-the-giddy-bridge][Chapter 15 The Giddy Bridge]]
+  - [[#chapter-16-points-of-view][Chapter 16 Points of View]]
+  - [[#chapter-17-the-fight-in-the-cave-of-the-moon-butchers][Chapter 17 The Fight in the Cave of the Moon Butchers]]
+  - [[#chapter-18-in-the-sunlight][Chapter 18 In the Sunlight]]
+  - [[#chapter-19-mr-bedford-alone][Chapter 19 Mr. Bedford Alone]]
+  - [[#chapter-20-mr-bedford-in-infinite-space][Chapter 20 Mr. Bedford in Infinite Space]]
+  - [[#chapter-21-mr-bedford-at-littlestone][Chapter 21 Mr. Bedford at Littlestone]]
+  - [[#chapter-22-the-astonishing-communication-of-mr-julius-wendigee][Chapter 22 The Astonishing Communication of Mr. Julius Wendigee]]
+  - [[#chapter-23-an-abstract-of-the-six-messages-first-received-from-mr-cavor][Chapter 23 An Abstract of the Six Messages First Received from Mr. Cavor]]
+  - [[#chapter-24-the-natural-history-of-the-selenites][Chapter 24 The Natural History of the Selenites]]
+  - [[#chapter-25-the-grand-lunar][Chapter 25 The Grand Lunar]]
+  - [[#chapter-26-the-last-message-cavor-sent-to-earth][Chapter 26 The Last Message Cavor sent to Earth]]
+:END:
 * The First Men in the Moon
 ** H. G. Wells
    *Published:* 1901
@@ -454,7 +489,7 @@
    I remember the occasion with extreme vividness. The water was boiling, and everything was prepared, and the sound of his
    "zuzzoo" had brought me out upon the verandah. His active little figure was black against the autumnal sunset, and to
    the right the chimneys of his house just rose above a gloriously tinted group of trees. Remoter rose the Wealden Hills,
-   faint and blue, while to the left the hazy marsh spread out spacious and serene. And then - 
+   faint and blue, while to the left the hazy marsh spread out spacious and serene. And then -
 
    The chimneys jerked heavenward, smashing into a string of bricks as they rose, and the roof and a miscellany of
    furniture followed. Then overtaking them came a huge white flame. The trees about the building swayed and whirled and
@@ -1341,7 +1376,7 @@
    We collided, we gripped, we were torn asunder - our heads met, and the whole universe burst into fiery darts and stars!
    On the earth we should have smashed one another a dozen times, but on the moon, luckily for us, our weight was only
    one-sixth of what it is terrestrially, and we fell very mercifully. I recall a sensation of utter sickness, a feeling as
-   if my brain were upside down within my skull, and then - 
+   if my brain were upside down within my skull, and then -
 
    Something was at work upon my face, some thin feelers worried my ears. Then I discovered the brilliance of the landscape
    around was mitigated by blue spectacles. Cavor bent over me, and I saw his face upside down, his eyes also protected by
@@ -2975,7 +3010,7 @@
 
    "Confound it!" I said, "any one could be a mountaineer on the moon;" and so set myself in earnest to the climbing. For a
    few minutes I clambered steadily, and then I looked up again. The cleft opened out steadily, and the light was brighter.
-   Only - 
+   Only -
 
    It was not daylight after all.
 
@@ -3686,7 +3721,7 @@
 
    I took no thought any more of the sphere. I thought only of finding Cavor again. I was half inclined to go back into the
    moon without him, rather than seek him until it was too late. I was already half-way back towards our handkerchief, when
-   suddenly - 
+   suddenly -
 
    I saw the sphere!
 
@@ -3713,7 +3748,7 @@
 
    After all, everything was coming right. There would be still time for us to get more of the magic stone that gives one
    mastery over men. Away there, close handy, was gold for the picking up; and the sphere would travel as well half full of
-   gold as though it were empty. We could go back now, masters of ourselves and our world, and then - 
+   gold as though it were empty. We could go back now, masters of ourselves and our world, and then -
 
    I roused myself at last, and with an effort got myself out of the sphere. I shivered as I emerged, for the evening air
    was growing very cold. I stood in the hollow staring about me. I scrutinised the bushes round me very carefully before I
@@ -4464,7 +4499,7 @@
    And then he becomes increasingly unfair to me. Unfair, indeed, to an extent I should not have expected in a man trained
    in the search for truth. Looking back over my previously written account of these things, I must insist that I have been
    altogether juster to Cavor than he has been to me. I have extenuated little and suppressed nothing. But his account
-   is: - 
+   is: -
 
    "It speedily became apparent that the entire strangeness of our circumstances and surroundings - great loss of weight,
    attenuated but highly oxygenated air, consequent exaggeration of the results of muscular effort, rapid development of
@@ -4742,7 +4777,7 @@
    and he seemed to draw with incredible swiftness.
 
    The eleventh message is undoubtedly only a fragment of a longer communication. After some broken sentences, the record
-   of which is unintelligible, it goes on: - 
+   of which is unintelligible, it goes on: -
 
    "But it will interest only linguists, and delay me too long, to give the details of the series of intent parleys of
    which these were the beginning, and, indeed, I very much doubt if I could give in anything like the proper order all the

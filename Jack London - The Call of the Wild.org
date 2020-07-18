@@ -1,3 +1,19 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-call-of-the-wild][The Call of the Wild]]
+  - [[#jack-london][Jack London]]
+  - [[#chapter-1-into-the-primitive][Chapter 1 Into the Primitive]]
+  - [[#chapter-2-the-law-of-club-and-fang][Chapter 2 The Law of Club and Fang]]
+  - [[#chapter-3-the-dominant-primordial-beast][Chapter 3 The Dominant Primordial Beast]]
+  - [[#chapter-4-who-has-won-to-mastership][Chapter 4 Who Has Won to Mastership]]
+  - [[#chapter-5-the-toil-of-trace-and-trail][Chapter 5 The Toil of Trace and Trail]]
+  - [[#chapter-6-for-the-love-of-a-man][Chapter 6 For the Love of a Man]]
+  - [[#chapter-7-the-sounding-of-the-call][Chapter 7 The Sounding of the Call]]
+:END:
 * The Call of the Wild
 ** Jack London
    *Published:* 1903
@@ -1067,7 +1083,7 @@
    "You poor, poor dears," she cried sympathetically, "why don't you pull hard? - then you wouldn't be whipped." Buck did
    not like her, but he was feeling too miserable to resist her, taking it as part of the day's miserable work.
 
-   One of the onlookers, who had been clenching his teeth to suppress hot speech, now spoke up: - 
+   One of the onlookers, who had been clenching his teeth to suppress hot speech, now spoke up: -
 
    "It's not that I care a whoop what becomes of you, but for the dogs' sakes I just want to tell you, you can help them a
    mighty lot by breaking out that sled. The runners are froze fast. Throw your weight against the gee-pole, right and
@@ -1985,5 +2001,3 @@
    But he is not always alone. When the long winter nights come on and the wolves follow their meat into the lower valleys,
    he may be seen running at the head of the pack through the pale moonlight or glimmering borealis, leaping gigantic above
    his fellows, his great throat a-bellow as he sings a song of the younger world, which is the song of the pack.
-
-

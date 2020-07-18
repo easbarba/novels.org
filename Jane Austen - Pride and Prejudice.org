@@ -1,3 +1,15 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#pride-and-prejudice][Pride and Prejudice]]
+  - [[#jane-austen][Jane Austen]]
+  - [[#part-1][Part 1]]
+  - [[#part-2][Part 2]]
+  - [[#part-3][Part 3]]
+:END:
 * Pride and Prejudice
 ** Jane Austen
    *Published:* 1813
@@ -711,7 +723,7 @@
 
     "It is from Miss Bingley," said Jane, and then read it aloud.
 
-    "MY DEAR FRIEND, - 
+    "MY DEAR FRIEND, -
 
     "If you are not so compassionate as to dine to-day with Louisa and me, we shall be in danger of hating each other for
     the rest of our lives, for a whole day's tete-a-tete between two women can never end without a quarrel. Come as soon as
@@ -748,7 +760,7 @@
     her own. Till the next morning, however, she was not aware of all the felicity of her contrivance. Breakfast was
     scarcely over when a servant from Netherfield brought the following note for Elizabeth:
 
-    "MY DEAREST LIZZY, - 
+    "MY DEAREST LIZZY, -
 
     "I find myself very unwell this morning, which, I suppose, is to be imputed to my getting wet through yesterday. My kind
     friends will not hear of my returning till I am better. They insist also on my seeing Mr. Jones - therefore do not be
@@ -1563,7 +1575,7 @@
 
     "Hunsford, near Westerham, Kent, 15th October.
 
-    "Dear Sir, - 
+    "Dear Sir, -
 
     "The disagreement subsisting between yourself and my late honoured father always gave me much uneasiness, and since I
     have had the misfortune to lose him, I have frequently wished to heal the breach; but for some time I was kept back by
@@ -3714,7 +3726,7 @@
     About the middle of the next day, as she was in her room getting ready for a walk, a sudden noise below seemed to speak
     the whole house in confusion; and, after listening a moment, she heard somebody running upstairs in a violent hurry, and
     calling loudly after her. She opened the door and met Maria in the landing place, who, breathless with agitation, cried
-    out - 
+    out -
 
     "Oh, my dear Eliza! pray make haste and come into the dining-room, for there is such a sight to be seen! I will not tell
     you what it is. Make haste, and come down this moment."
@@ -3765,7 +3777,7 @@
     instructing them in what they were to expect, that the sight of such rooms, so many servants, and so splendid a dinner,
     might not wholly overpower them.
 
-    When the ladies were separating for the toilette, he said to Elizabeth - 
+    When the ladies were separating for the toilette, he said to Elizabeth -
 
     "Do not make yourself uneasy, my dear cousin, about your apparel. Lady Catherine is far from requiring that elegance of
     dress in us which becomes herself and her daughter. I would advise you merely to put on whatever of your clothes is
@@ -4573,7 +4585,7 @@
     With no expectation of pleasure, but with the strongest curiosity, Elizabeth opened the letter, and, to her still
     increasing wonder, perceived an envelope containing two sheets of letter-paper, written quite through, in a very close
     hand. The envelope itself was likewise full. Pursuing her way along the lane, she then began it. It was dated from
-    Rosings, at eight o'clock in the morning, and was as follows: - 
+    Rosings, at eight o'clock in the morning, and was as follows: -
 
     "Be not alarmed, madam, on receiving this letter, by the apprehension of its containing any repetition of those
     sentiments or renewal of those offers which were last night so disgusting to you. I write without any intention of
@@ -8139,7 +8151,7 @@
 
     "How could I ever think her like her nephew?" said she, as she looked in her face.
 
-    As soon as they entered the copse, Lady Catherine began in the following manner: - 
+    As soon as they entered the copse, Lady Catherine began in the following manner: -
 
     "You can be at no loss, Miss Bennet, to understand the reason of my journey hither. Your own heart, your own conscience,
     must tell you why I come."

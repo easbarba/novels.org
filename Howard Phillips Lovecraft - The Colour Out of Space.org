@@ -1,3 +1,13 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-colour-out-of-space][The Colour Out of Space]]
+  - [[#howard-phillips-lovecraft][Howard Phillips Lovecraft]]
+  - [[#story][Story]]
+:END:
 * The Colour Out of Space
 ** Howard Phillips Lovecraft
    *Published:* 1927

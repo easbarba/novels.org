@@ -1,3 +1,15 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-machine-stops][The Machine Stops]]
+  - [[#e-m-forster][E. M. Forster]]
+  - [[#chapter-1-the-air-ship][Chapter 1 The Air-Ship]]
+  - [[#chapter-2-the-mending-apparatus][Chapter 2 The Mending Apparatus]]
+  - [[#chapter-3-the-homeless][Chapter 3 The Homeless]]
+:END:
 * The Machine Stops
 ** E. M. Forster
    *Published:* 1909
@@ -572,7 +584,7 @@
    'There was a handle, and I did catch it. I hung tranced over the darkness and heard the hum of these workings as the
    last whisper in a dying dream. All the things I had cared about and all the people I had spoken to through tubes
    appeared infinitely little. Meanwhile the handle revolved. My weight had set something in motion and I span slowly, and
-   then -  - 
+   then -  -
 
    'I cannot describe it. I was lying with my face to the sunshine. Blood poured from my nose and ears and I heard a
    tremendous roaring. The stopper, with me clinging to it, had simply been blown out of the earth, and the air that we
@@ -1048,4 +1060,3 @@
    As he spoke, the whole city was broken like a honeycomb. An air-ship had sailed in through the vomitory into a ruined
    wharf. It crashed downwards, exploding as it went, rending gallery after gallery with its wings of steel. For a moment
    they saw the nations of the dead, and, before they joined them, scraps of the untainted sky.
-

@@ -1,3 +1,23 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-memoirs-of-sherlock-holmes][The Memoirs of Sherlock Holmes]]
+  - [[#arthur-conan-doyle][Arthur Conan Doyle]]
+  - [[#silver-blaze][Silver Blaze]]
+  - [[#the-yellow-face][The Yellow Face]]
+  - [[#the-stock-brokers-clerk][The Stock-broker's Clerk]]
+  - [[#the-gloria-scott][The 'Gloria Scott']]
+  - [[#the-musgrave-ritual][The Musgrave Ritual]]
+  - [[#the-reigate-puzzle][The Reigate Puzzle]]
+  - [[#the-crooked-man][The Crooked Man]]
+  - [[#the-resident-patient][The Resident Patient]]
+  - [[#the-greek-interpreter][The Greek Interpreter]]
+  - [[#the-naval-treaty][The Naval Treaty]]
+  - [[#the-final-problem][The Final Problem]]
+:END:
 * The Memoirs of Sherlock Holmes
 ** Arthur Conan Doyle
    *Published:* 1893
@@ -6914,7 +6934,7 @@
    Italian friend as a traveling companion. It was useless for me to explain to him that his presence was an intrusion, for
    my Italian was even more limited than his English, so I shrugged my shoulders resignedly, and continued to look out
    anxiously for my friend. A chill of fear had come over me, as I thought that his absence might mean that some blow had
-   fallen during the night. Already the doors had all been shut and the whistle blown, when - 
+   fallen during the night. Already the doors had all been shut and the whistle blown, when -
 
    "My dear Watson," said a voice, "you have not even condescended to say good-morning."
 

@@ -1,3 +1,14 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#a-study-in-scarlet][A Study in Scarlet]]
+  - [[#arthur-conan-doyle][Arthur Conan Doyle]]
+  - [[#part-1---study-in-scarlet][Part 1 - Study in Scarlet]]
+  - [[#part-2---the-country-of-the-saints][Part 2 - The Country of the Saints]]
+:END:
 * A Study in Scarlet
 ** Arthur Conan Doyle
    *Published:* 1887
@@ -322,7 +333,7 @@
     said that he would acquire no knowledge which did not bear upon his object. Therefore all the knowledge which he
     possessed was such as would be useful to him. I enumerated in my own mind all the various points upon which he had shown
     me that he was exceptionally well-informed. I even took a pencil and jotted them down. I could not help smiling at the
-    document when I had completed it. It ran in this way  - 
+    document when I had completed it. It ran in this way  -
 
     SHERLOCK HOLMES  -  his limits.
 
@@ -547,7 +558,7 @@
 
     "It does seem to be a little out of the common," he remarked, calmly. "Would you mind reading it to me aloud?"
 
-    This is the letter which I read to him  - 
+    This is the letter which I read to him  -
 
     "MY DEAR MR. SHERLOCK HOLMES:
 
@@ -782,7 +793,7 @@
 
     I have remarked that the paper had fallen away in parts. In this particular corner of the room a large piece had peeled
     off, leaving a yellow square of coarse plastering. Across this bare space there was scrawled in blood-red letters a
-    single word  - 
+    single word  -
 
     RACHE.
 
@@ -1260,7 +1271,7 @@
 
     The papers next day were full of the "Brixton Mystery," as they termed it. Each had a long account of the affair, and
     some had leaders upon it in addition. There was some information in them which was new to me. I still retain in my
-    scrap-book numerous clippings and extracts bearing upon the case. Here is a condensation of a few of them: - 
+    scrap-book numerous clippings and extracts bearing upon the case. Here is a condensation of a few of them: -
 
     The Daily Telegraph remarked that in the history of crime there had seldom been a tragedy which presented stranger
     features. The German name of the victim, the absence of all other motive, and the sinister inscription on the wall, all
@@ -2450,7 +2461,7 @@
 
     He expected that he would receive some message or remonstrance from Young as to his conduct, and he was not mistaken,
     though it came in an unlooked-for manner. Upon rising next morning he found, to his surprise, a small square of paper
-    pinned on to the coverlet of his bed just over his chest. On it was printed, in bold straggling letters: - 
+    pinned on to the coverlet of his bed just over his chest. On it was printed, in bold straggling letters: -
 
     "Twenty-nine days are given you for amendment, and then  - "
 
@@ -3257,6 +3268,6 @@
     Scarlet: to get them a testimonial!"
 
     "Never mind," I answered, "I have all the facts in my journal, and the public shall know them. In the meantime you must
-    make yourself contented by the consciousness of success, like the Roman miser  - 
+    make yourself contented by the consciousness of success, like the Roman miser  -
 
     "'Populus me sibilat, at mihi plaudo Ipse domi simul ac nummos contemplar in arca.'"

@@ -1,3 +1,13 @@
+* Table of Contents
+  :PROPERTIES:
+  :TOC:      :include all :depth 2
+  :END:
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#the-murders-in-the-rue-morgue][The Murders in the Rue Morgue]]
+  - [[#edgar-allan-poe][Edgar Allan Poe]]
+  - [[#story][Story]]
+:END:
 * The Murders in the Rue Morgue
 ** Edgar Allan Poe
    *Published:* 1841
